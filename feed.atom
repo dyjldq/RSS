@@ -1,589 +1,259 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-02T11:13:34.762Z</id>
+    <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T11:13:34.762Z</updated>
+    <updated>2022-03-02T11:19:16.105Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
+    <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
-        <id>621e97a4c4d0d306772f290b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
-        <updated>2022-03-02T00:18:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <title type="html"><![CDATA[试播集 03 | 少数派作者们最近读完了啥（下）]]></title>
+        <id>https://sspai.com/post/71517</id>
+        <link href="https://sspai.com/post/71517"/>
+        <updated>2022-03-02T10:07:20.000Z</updated>
+        <summary type="html"><![CDATA[下篇着重收录了二月内作者投稿，包含《你该找个人聊聊》《西潮·新潮》《足球往事》等书目。查看全文]]></summary>
         <author>
-            <name>Daniel Rosa</name>
+            <name>Matrix机器人</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
-        <id>621903c6c4d0d306772efc76</id>
-        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
-        <updated>2022-03-01T23:35:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <title type="html"><![CDATA[年度征文｜工作流的祛魅：从工具、阅读到写作]]></title>
+        <id>https://sspai.com/post/71658</id>
+        <link href="https://sspai.com/post/71658"/>
+        <updated>2022-03-02T09:51:56.000Z</updated>
+        <summary type="html"><![CDATA[对于效率生活而言，面对走马灯一样的各种工具，建立超越工具、旨在组织工具的稳定工作流则更为重要。查看全文]]></summary>
         <author>
-            <name>Paul Akinyemi</name>
+            <name>Spike112</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
-        <id>621d6316c4d0d306772f1f16</id>
-        <link href="https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/"/>
-        <updated>2022-03-01T21:06:01.000Z</updated>
-        <summary type="html"><![CDATA[The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with]]></summary>
+        <title type="html"><![CDATA[除了你想要的浪漫，樱花树下或许还有你不想要的过敏]]></title>
+        <id>https://sspai.com/post/71783</id>
+        <link href="https://sspai.com/post/71783"/>
+        <updated>2022-03-02T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[过敏反应到底是怎么回事？还有哪些常见的过敏原？该如何有效地预防并治疗过敏？希望这篇文章可以让你对过敏有更深的理解。查看全文]]></summary>
         <author>
-            <name>David Clinton</name>
+            <name>鸿苓</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[npm Uninstall – How to Remove a Package]]></title>
-        <id>621dfc8cc4d0d306772f220f</id>
-        <link href="https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/"/>
-        <updated>2022-03-01T20:46:50.000Z</updated>
-        <summary type="html"><![CDATA[The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way]]></summary>
+        <title type="html"><![CDATA[年度征文 | 2021 年，我去了 21 个国家]]></title>
+        <id>https://sspai.com/post/70744</id>
+        <link href="https://sspai.com/post/70744"/>
+        <updated>2022-03-02T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[本文是少数派2021年度征文活动#生活21标签下的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。和往年不同，今年文章的数据表现将很大程度上决定征文活动的最终走向，包括「双倍稿酬（由飞书 ...查看全文]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>Leonival</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The React useEffect Hook for Absolute Beginners]]></title>
-        <id>621e4f3ec4d0d306772f239d</id>
-        <link href="https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/"/>
-        <updated>2022-03-01T20:41:00.000Z</updated>
-        <summary type="html"><![CDATA[If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to]]></summary>
+        <title type="html"><![CDATA[App +1｜慢慢长大：专注于记录孩子成长曲线]]></title>
+        <id>https://sspai.com/post/71501</id>
+        <link href="https://sspai.com/post/71501"/>
+        <updated>2022-03-02T06:52:47.000Z</updated>
+        <summary type="html"><![CDATA[我不想错过你的成长，只想陪你慢慢长大。查看全文]]></summary>
         <author>
-            <name>Reed Barger</name>
+            <name>好个科技</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python .pop() – How to Pop from a List or an Array in Python]]></title>
-        <id>621c8bcfc4d0d306772f1263</id>
-        <link href="https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/"/>
-        <updated>2022-03-01T20:30:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to]]></summary>
+        <title type="html"><![CDATA[年度征文 | 放弃纠结、拥抱妥协，重器轻用就是高效]]></title>
+        <id>https://sspai.com/post/71576</id>
+        <link href="https://sspai.com/post/71576"/>
+        <updated>2022-03-02T03:32:37.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是 Kenshin，简悦的作者，这次跟大家分享我对极简效率工作的一些理解，我接触效率相关的内容，与简悦的诞生有关：
+
+简悦始于 2016 年……那时因为家里的一些事情，我解散了团队，注销了公司。
+
+曾有段时间特别沮丧，精神无法集中，看什么都看不下去，所以当时的想法就是找一个可以让我产生沉浸式阅读体验的 Chrome 扩展，但找了很多都不满意……
+
+于是决定自己开发，而另一原因则是：我发现只有沉浸在代码的世界中，我才能集中精神，不再胡思乱想。
+
+故事的最后，我的「毛病」被简悦治愈了。借助简悦，我体会到了极简效率带来的改变，自此开启了我的「极简效率之旅」。查看全文]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>Kenshin</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
-        <id>https://css-tricks.com/?p=363724</id>
-        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
-        <updated>2022-03-01T17:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
-CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[派早报：联发科发布天玑 8000 系列移动平台、VESA 针对 DP 2.0 产品推出认证等]]></title>
+        <id>https://sspai.com/post/71781</id>
+        <link href="https://sspai.com/post/71781"/>
+        <updated>2022-03-02T00:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Bose 推出新款 SoundLink Flex，Redmi 发布 Note 11E Pro 智能手机等。查看全文]]></summary>
         <author>
-            <name>Patrick Brosset</name>
+            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
-        <id>https://css-tricks.com/?p=364351</id>
-        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
-        <updated>2022-03-01T15:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
-The fit-content keyword is actually …
-Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[年度征文 | 打工人如何每周用两小时准备一周食材]]></title>
+        <id>https://sspai.com/post/70146</id>
+        <link href="https://sspai.com/post/70146"/>
+        <updated>2022-03-01T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在城市生活的你，无论有没有条件做饭，都一定要好好吃饭呀！查看全文]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>笋加鲜</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <title type="html"><![CDATA[玩 FPS 游戏，手柄还是键鼠？]]></title>
+        <id>https://sspai.com/post/71659</id>
+        <link href="https://sspai.com/post/71659"/>
+        <updated>2022-03-01T08:35:55.000Z</updated>
+        <summary type="html"><![CDATA[FPS游戏是什么？虽然我知道这个问题可能大家都知道，但是为了防止有少部分小可爱不知道，我还是用自己的语言赘述一遍。FPS（First-personshootinggame），简单来说，就是第一人称视角 ...查看全文]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>ROB1N</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insertion Sort – Algorithm Example in Java and C++]]></title>
-        <id>620fae4a21bfb3068cf2a8f4</id>
-        <link href="https://www.freecodecamp.org/news/insertion-sort-algorithm-example-in-java-and-c/"/>
-        <updated>2022-02-28T23:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Insertion sort is a sorting algorithm that creates a sorted array of items from an unsorted array, one item at a time.  In this article, we will see how the algorithm works and how to apply it in our code. How to Use Insertion Sort Consider an array of]]></summary>
+        <title type="html"><![CDATA[会员播客试听 | 让文字和音乐再靠近一点：和街声聊聊独立音乐与版权]]></title>
+        <id>https://sspai.com/post/71777</id>
+        <link href="https://sspai.com/post/71777"/>
+        <updated>2022-03-01T07:49:02.000Z</updated>
+        <summary type="html"><![CDATA[「音乐的版权」一直是一个时常出现又非常复杂的话题，如果你是播客或影片创作者，一定寻找过相关的资料和答案。在本期节目中，我们邀请了来自街声团队的专业音乐发行人，以业内人士的视角和我们谈谈音乐与版权之间的关系。查看全文]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>地面电台GROUNDRADIO</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Comment out HTML – Code Example]]></title>
-        <id>620ac06a21bfb3068cf288c0</id>
-        <link href="https://www.freecodecamp.org/news/comment-out-html-code-example/"/>
-        <updated>2022-02-28T23:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Adding comments in your code is a good practice, as it makes your code more readable and understandable. Comments don’t run because they are ignored by compilers and interpreters. In this article, I will show you how you can comment out your HTML code, so you can help yourself and]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 阿拉丁和神灯]]></title>
+        <id>htm_data/2202/20/4936581.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4936581.html"/>
+        <updated>2022-02-25T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[话说魔法师带着阿拉丁来到沙漠深处的一个废墟中。魔法师走到一面残破的墙前，仔细看了一阵子之后，他从怀中掏出一块乳香，然后让阿拉丁找来了一小堆枯树枝放在一起点燃，并把手里的乳香投进火中，对着冒出来的青烟低声吟起咒语来。他念些什幺，阿拉丁一句也听不懂。就在这时，浓烟笼罩下的大地突然震动起来，随着霹雳一声巨响，地面一下子裂开了。
+　　阿拉丁看到地面的震动，被巨响吓得转身就跑，但马上被魔法师手中的魔杖打倒在地。「阿拉丁，乖乖的进去把我要的东西拿出来，我会让你们全家变得非常富有，再也不用过以前那种苦日子了。」魔法师看着慢慢从地上爬起来的阿拉丁，他从手上取下了一枚戒指递过去：「戴上它，需要的时候摩擦一下它。它会保护你平安的。」阿拉丁接过戒指，半信半疑的戴在手上。等浓烟散尽，他看到地面上出现了一块带着拉环的大石板。「魔法师先生，您让我帮你做什幺？」「口里念着你父母的名字，然后拉开石板。」魔法师一脸庄严的看着他。阿拉丁照着魔法师的话，一边念着父母的名字，一边用力拉开了那块石板。一个黑洞洞的洞口出现在他们的面前。长长的台阶从洞口一直延续到黑暗的深处。「下去吧，我的孩子。你要记住，一直向里面走，在尽头有一盏灯，你把它拿出来。千万要记住，除了灯之外，其它的所有东西你都不能碰，否则你永远也回不来了。记住我的话！」阿拉丁点点头，小心翼翼的走下了台阶，进入了洞中。当他感觉走完了台阶踏上了坚实的地面的时候，四周突然灯火通明。等他的眼睛适应了亮光之后，就发现自己正站在一个宽敞的大厅中。大厅四周到处散落着金光闪闪的财宝和五光十色的钻石、玛瑙、翡翠。阿拉丁的心中怦怦的跳着，他知道，只要顺便把这些财宝拿些出去，自己就不会再过以前那种穷日子了。但是他牢牢记住了魔法师的话，慢慢向大厅的深处走去。
+　　在大厅的尽头出现了一道小门。阿拉丁按照吩咐像打开入口一样打开了那扇门走了进去。在房子中间摆放着一张桌子，上面孤零零的摆…]]></summary>
         <author>
-            <name>Kolade Chris</name>
+            <name>光头小黄鸭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Recoil for State Management in Your React Projects]]></title>
-        <id>621bd6d1c4d0d306772f0c6e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-recoil-for-state-management-in-your-react-projects/"/>
-        <updated>2022-02-28T23:19:24.000Z</updated>
-        <summary type="html"><![CDATA[If you're a React developer, you've probably used a library for managing state in your React applications. And you've likely heard of Redux "the state management" library for React.  For a long time, Redux was the only reliable and most widely-adopted solution for state management in React applications. And]]></summary>
+        <title type="html"><![CDATA[New: Track specific CVEs in Feedly]]></title>
+        <id>https://blog.feedly.com/?p=16698</id>
+        <link href="https://blog.feedly.com/track-specific-cves-in-feedly-2/"/>
+        <updated>2022-02-24T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Leo now autocompletes specific CVE IDs so you can monitor for exploits or attacks, or track threat intelligence reports mentioning the CVE]]></summary>
         <author>
-            <name>Abdullah Adeel</name>
+            <name>Annie Bacher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 金瓶梅全网最全合集 已新增、删除重复文件[2P]]]></title>
+        <id>htm_data/2202/20/4933145.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4933145.html"/>
+        <updated>2022-02-23T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[个人重新整理，已搜索无重复，目前最全，全网首发
+ 
+目录
+ 
+下载地址
+https://www.aliyundrive.com/s/GzNGzqw4P2G 提取码: 9gx9
+整理不易，且用且珍惜
+
+
+赞(11)]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>samshan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Podcast Player with Transcriptions using Vue and Supabase]]></title>
-        <id>620fb63121bfb3068cf2a926</id>
-        <link href="https://www.freecodecamp.org/news/build-a-podcast-player-with-transcriptions-using-vue-supabase/"/>
-        <updated>2022-02-28T23:05:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post we will walk through setting up a Podcast Player app using Supabase and Vue 3, including getting transcriptions for the podcasts.  This is a continuation of my previous post on setting up Authentication using Supabase [/news/add-supabase-authentication-to-vue/]. If you aren't familiar with getting Supabase set up in]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 俏黄蓉]]></title>
+        <id>htm_data/2202/20/4929878.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4929878.html"/>
+        <updated>2022-02-21T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[华山论剑后，黄药师终于确定了黄蓉和郭靖的婚事，黄药师将他俩带回桃花岛，尽管郭靖老实巴交，但婚事确定后他也几次想黄蓉提出云雨，被黄蓉婉拒，黄蓉一定要将处女身留到洞房夜，而黄药师到不计较他们成亲前圆房事，接连半月黄药师传授郭靖接吻技巧、抚摩方法、玩乳经验、舔阴宝典及性交技术。
+　用晚饭时黄药师说：「郭靖，你们可以睡在一起，不要顾及蓉儿反对，只要你玉茎刚猛，蓉儿自然会顺你。」「爹，蓉儿告诉我只能到成亲夜才能洞房。」「你真迂腐，女儿家的话不能全信。」晚饭后，黄蓉来到郭靖房间。郭靖默默看着心爱的蓉儿，只见她乌发如云般四散开来，白玉般的额头，两条弯弯的细柳眉，一双深如秋水、美若星辰的眸子，露出冷漠、高傲神情；微微高挑的鼻子，性感鲜红的嘴唇，圆滑的下颌无不美至极点诱人心动，当真倾国倾城之色，闭月羞花之容。
+　　「蓉儿，你爹都同意了，让我爽一次吧，」他色迷迷地看着蓉儿，她是属于那种让人不敢亵渎的美，显得格外的飘逸动人，只有美人胚子才有的鹅蛋型脸，光洁的额头，皮肤洁白如雪。如春山般的秀眉下是一双深邃而透着神秘光采的大眼，如雕塑精品般细致而挺直的鼻梁，带有充份的自信，弧度优美柔嫩的唇型让人看了就想咬上一口，尖而圆润有个性的下巴，让她那股让人不敢逼视的冷艳中增添了无限的妩媚，总之这是一张完美无瑕的脸孔。
+　　「不行，靖哥哥，女孩子最憧憬的是洞房花烛夜，只有在那晚将我完整的处女身交给我最心爱的靖哥哥，我的洞房夜才是完美。」郭靖很无奈，但还是细细地上下打量着眼前的准新娘子，不由得再次惊叹蓉儿的动人美貌：细长的柳眉、明澈的双瞳、秀直的鼻樑、娇润的樱唇和光洁的香腮，那么恰到好处的集合在了同一张清纯脱俗的美靥上，还配合着一份让人无法抗拒的迷人气质。乌黑柔顺的披肩长发此刻紮起了一条灵动的马尾辫，越发的衬托出少女的婀娜妩媚；裙下完全显露的修长双腿，晶莹洁白、光泽动人得如同皎月一般，直瞧得郭靖魂不守舍，真是一位…]]></summary>
         <author>
-            <name>Brian Barrow</name>
+            <name>光头小黄鸭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Blueprint of a highly functional Feedly for Threat Intelligence Account]]></title>
+        <id>https://blog.feedly.com/?p=16323</id>
+        <link href="https://blog.feedly.com/blueprint-of-a-highly-functional-feedly-for-threat-intelligence-account/"/>
+        <updated>2022-02-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How to structure your Feedly for Threat Intelligence account to optimize your open source threat intelligence]]></summary>
         <author>
-            <name>John Rhea</name>
+            <name>Aaron O’Maley</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We All Are Ukraine 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/02/we-all-are-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/02/we-all-are-ukraine/"/>
-        <updated>2022-02-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from "Interface Design Checklists" PDF to support Ukraine.]]></summary>
+        <title type="html"><![CDATA[How Church & Dwight’s CISO used Feedly to track log4j in real time]]></title>
+        <id>https://blog.feedly.com/?p=16441</id>
+        <link href="https://blog.feedly.com/church-dwight-ciso-case-study/"/>
+        <updated>2022-02-15T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Get an inside look at how a CISO gathers threat intelligence to track a developing incident.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Annie Bacher</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[March For Equality (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/</id>
-        <link href="https://smashingmagazine.com/2022/02/desktop-wallpaper-calendars-march-2022/"/>
-        <updated>2022-02-28T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following our monthly tradition, artists and designers from across the globe challenged their creative skills and designed desktop wallpapers to welcome March. They come in versions with and without a calendar and can be downloaded for free.]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 淫荡的白素贞]]></title>
+        <id>htm_data/2202/20/4912708.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4912708.html"/>
+        <updated>2022-02-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[阴森的洞府中，白素贞被铁链徐徐掉起，因为几天前苏州城外被偷袭小青也受伤掉到山下，自己力战被擒，身上的衣服已经凌乱不堪但最主要的原因还是因为打到身上的三道灵符，使身体虚弱无比。“白素贞，今天终于可以报那三百年前的一掌之恨了”。蛤蟆精（王道龄不用多解释了吧）大笑道和蜈蚣精一起对饮了一大杯。
+      “卑鄙，要不是你们骗到上天的三道灵符，就你们还想是我的对手”白素贞不肖的转过头去不看那两个妖怪。“嘿嘿只要能得道你什么方法不能用啊，小美人”蜈蚣精笑着走到白素贞面前，蛤蟆精也走了过来“当年对你求欢不成还被你伤了，现在就是你补偿我们得时候了”“听说你为了报恩去嫁给你凡人，真是可惜了你得处子之身啊”说完伸出那一片赖皮得蛤蟆手在白素贞身上游移，口水吧嗒、吧嗒的掉在地上，“无耻”无法反抗的白素贞只能忍受这种羞辱，“哈，等看到我们和你相公的鸡吧比一下就会爱上我们啦”。白素贞惊讶的转过头来“你们还抓了我相公快放了他”。“做梦吧，不过只要伺候的我们舒服，做我们的性奴，你相公我们是不会叫他死的”
+      面对这样下流的要求白素贞眼睛喷出怒火，蛤蟆镜看到回身喊到“把那个小子带上来”看到昏迷的相公被一群小妖放在笼子里带了出来，白素贞心痛无比，刚想喊就又被带走了，“这样把给你一个时辰的时间考虑，要是你同意就打扮一下，叫小妖们带你来找我们”说完和蜈蚣精出去了。白素贞混乱的内心经过激烈的争斗为了相公，只能屈服，喊来小妖放下自己，拿起早已准备好的衣物和首饰打扮起来。
+      “大王，白素贞来了”听到环佩叮当的声音只见白素贞一身透明镂空的白衣，里面隐约得晃动着双乳，高挽的绣发下边一双朦胧的双眼，红红的朱唇，来到了大厅。把两个妖精看得神魂颠倒，没等白素贞走上来，俩人已经怪叫着冲到近前，四肢大手已经不安分得在白素贞身上乱抓起来，白素贞僵硬着忍受着，“啪”一个嘴巴打来，“要做个性奴就要好好表现，玩个僵尸也比…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>晨起凸起</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Recipe For A Good Design System]]></title>
-        <id>https://smashingmagazine.com/2022/02/recipe-good-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/02/recipe-good-design-system/"/>
-        <updated>2022-02-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maintaining a design system is a lot of work. In this article, Atila Fassina shares his lessons learned and how a platform such as Backlight can help put together a series of tools to speed up your architecture setup.]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 侍妾]]></title>
+        <id>htm_data/2202/20/4907350.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4907350.html"/>
+        <updated>2022-02-07T17:21:00.000Z</updated>
+        <summary type="html"><![CDATA[我是蓝曦臣的侍妾。
+我被蓝涣领进门的时候，蓝启仁差点没当场把我一剑劈了。
+他被蓝湛死死拦住，蓝曦臣在一旁跪着，不抬头也不吭声。
+如果按照正常的情况，我们这也算是见家长了，可蓝曦臣看都不看我。
+我是温氏一个弱小旁支的小女，射日之征后，整个家族覆灭，我运气很好，作为俘虏时被路过的兰大宗主释放了。
+那阵子他形容清减，许是多日来的征战所累。一抬手一顿足的样子却依旧是十足的风流:“放了吧，如今温氏已灭，她一介孤女，不必介怀。”
+他也没想到，我这一介孤女，最后爬上了他的床。
+蓝曦臣这人心软，我只是在他面前梨花带雨地哭诉了父母双亡家族倾覆的凄惨，又赌注一般发誓自己绝对不给他惹麻烦，他便缴械投降把我留在了他身边。
+那个时候我还是他的侍女。
+后来我成了他的侍妾，还常常怀念那段做贴身侍女的日子。
+毕竟我只要稍稍努力做一点讨他欢心的事，蓝大宗主很容易就愿意买账，我没事哭一哭，还能换得他一个怜惜的眼神，除了要和金光瑶偶尔斗一斗智勇，日子简直太舒心了。
+可我自己把这一切毁了，就在金光瑶被蓝大宗主一剑穿心的那天晚上，我下了决心，在蓝曦臣用的茶里下了合欢散。
+按道理来说我不该冒这个险，仙家不惧凡药，只需逼出便可不受影响。
+但我到底还是算准了他那日的失魂落魄，算准了他不会拒绝送上门的一个泄欲工具。
+那天晚上他的确是伤了心的，浑然不知地饮下了带料的茶，压在我身上泄欲的时候，也是带着一种与他本人极为不符的狠戾。两只手被他死死钳制住，巨物抵在花穴口，只稍稍顶弄一下，便极为凶悍地长驱直入了。我痛的叫不出声音来，抬头就看见他发红的眼角   渗出点点的泪水来。
+我一下就不再挣扎了，任由他在我稚嫩的身体上发泄他无处诉说的悲恸和迷惘。
+粗长的巨物毫不留情次次送入最深处，我的身体开始渐渐起了反应。
+紧窒的甬道里分泌出源源不断的蜜液，打湿了他的粗长，穴内也吸得越发地紧。
+似乎是感应到我的改变，蓝曦臣松开钳制我的手，扣在我腰间…]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>巴黎的尘土</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
-        <id>https://css-tricks.com/?p=364070</id>
-        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
-        <updated>2022-02-25T21:13:08.000Z</updated>
-        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
-1) https://website.com/foo/
-2) https://websites.com/foo
-The first option has a “trailing slash.” The second does not.
-I’ve always preferred this thinking: you use a trailing …
-Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[[古典武俠] 迷欲侠女[1-8完结]]]></title>
+        <id>htm_data/2202/20/4907673.html</id>
+        <link href="http://www.t66y.com/htm_data/2202/20/4907673.html"/>
+        <updated>2022-02-07T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[迷欲侠女１
+    “贼子休走”女子银铃似的呼声响起，显是愈追愈近，前面奔逃的两人吓的背心生汗，说不出的畏惧。 两人虽都是风月高手，但手上的技艺却远远不如床上威风，身后追杀而来的侠女又是个个剑艺高明，方才在外面一碰面两人便知不是对手，连打都不敢打便落荒而逃，没想到身后的侠女们却怎么也不肯放过，两人心知身犯淫戒，对江湖侠女而言绝无松手的可能，不由逃的更快了。
+    只没想到那几个侠女们虽是一时追不上自己，却也跟着不肯放，连遇林莫入的规矩都忘的干干净净；若非两人心知双方武功差距太大，便是二对一也力有不逮，更何况是二对四根本就连陷阱都不敢设，只专心奔逃，若换了心智诡点的或武功高点的，那里能任得侠女逞威
+    奔入了林子又奔出了林子，两人脚下一软，滚到了林外河边，却是再跑不动了，索性停了下来，抱着溪边大石喘息着，狠目瞪着身后追来的侠女们，也不知这样狠瞪，能不能吓退她们
+    “怎么不逃了吗”追出了林子，见河水流过，此处已是山外，奔在最前的两个女子不由面面相觑，非但没有进逼，甚至连话都说不出来，满面狐疑难解；她们才一停，后面的两个女子也追了出来，见到此处景象，也不由怔了怔，其中一女美目微凝，缓缓走近问了出来。
+    “不不逃了反正也打不过，给我们兄弟个痛快吧”心知已是无幸，躺卧在地的两人索性再不动弹，那胖子低低地叫了出声，“求求你们小声一点，此处虽是山外，但若是若是弄醒了里头那魔王，麻烦可大的紧”
+    听两人这么一说，四个女子互望一眼，眼色中竟带了一丝惊疑，方才出口相问的那女子迟疑了一会，这才开了口，“朱朋、苟酉，你们跟那射日邪君没有关系吗”
+    “再怎么样也不会跟他有关系”似是听到了射日邪君的名头就觉得晦气，那胖子啐了一口，这才细心打量面前四个女子，只见四女都是一身白衫，打理的无比清洁，连丝杂色也无，身上连点簪饰也没有，一女如此还可说是洁癖或怪癖，可四女一模一样，简…]]></summary>
         <author>
-            <name>Chris Coyier</name>
+            <name>晨起凸起</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
-        <id>https://css-tricks.com/?p=363619</id>
-        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
-        <updated>2022-02-25T15:28:33.000Z</updated>
-        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
-Let me demonstrate the usefulness of …
-When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Feeds and Folders]]></title>
+        <id>https://blog.feedly.com/?p=16470</id>
+        <link href="https://blog.feedly.com/feeds-and-folders/"/>
+        <updated>2022-02-04T04:53:05.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve popped into Feedly today, you might notice something’s…different. We've introduced a new naming convention: RSS feeds and all the other streams of content…]]></summary>
         <author>
-            <name>Šime Vidas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
-        <id>https://css-tricks.com/?p=364152</id>
-        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
-        <updated>2022-02-25T15:27:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
-One of the ways to help get …
-Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Anand Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Benchmark And Improve Web Vitals With Real User Metrics]]></title>
-        <id>https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/</id>
-        <link href="https://smashingmagazine.com/2022/02/benchmark-improve-web-vitals-real-user-metrics/"/>
-        <updated>2022-02-24T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Web Vitals are the new gold standard in performance due to their direct correlation with the user’s experience. In this article, you’ll learn what monitoring can do and how RayGun can help you sustain performance maintenance while scaling your app.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
-        <id>https://css-tricks.com/?p=363937</id>
-        <link href="https://css-tricks.com/css-database-queries/"/>
-        <updated>2022-02-23T20:04:39.000Z</updated>
-        <summary type="html"><![CDATA[Kinda silly sounding, isn’t it? CSS database queries. But, hey, CSS is capable of talking to other languages in the sense that it can set the values of things that they can read. Plus, CSS can request other files, and …
-CSS Database Queries? Sure We Can! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Accessibility Quick Wins You Can Implement Today]]></title>
-        <id>https://css-tricks.com/?p=363532</id>
-        <link href="https://css-tricks.com/5-accessibility-quick-wins-you-can-implement-today/"/>
-        <updated>2022-02-23T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Let’s face it: building an AA or AAA-accessible product can be quite daunting. Luckily, having an accessible product isn’t all-or-nothing. Even seemingly small improvements can have nice quality of life benefits for many people.
-In that spirit, here are five …
-5 Accessibility Quick Wins You Can Implement Today originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Yuschick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
-        <id>https://css-tricks.com/?p=363998</id>
-        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
-        <updated>2022-02-22T20:06:57.000Z</updated>
-        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
-Complaining on 
-…
-Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
-        <id>https://css-tricks.com/?p=363511</id>
-        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
-        <updated>2022-02-22T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
-Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Alex MacArthur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Responsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=363766</id>
-        <link href="https://css-tricks.com/css-cascade-layers/"/>
-        <updated>2022-02-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
-A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Miriam Suzanne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts On Markdown]]></title>
-        <id>https://smashingmagazine.com/2022/02/thoughts-on-markdown/</id>
-        <link href="https://smashingmagazine.com/2022/02/thoughts-on-markdown/"/>
-        <updated>2022-02-18T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Knut Melvær)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling In Love With The Web: Inspiring Websites And Tools]]></title>
-        <id>https://smashingmagazine.com/2022/02/inspiring-websites-tools/</id>
-        <link href="https://smashingmagazine.com/2022/02/inspiring-websites-tools/"/>
-        <updated>2022-02-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Implications Of WordPress Joining The Block Protocol]]></title>
-        <id>https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/</id>
-        <link href="https://smashingmagazine.com/2022/02/implications-wordpress-joining-block-protocol/"/>
-        <updated>2022-02-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz discusses some potential consequences as well as positive outcomes of WordPress joining the Block Protocol.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything You Want To Know About Creating Voice User Interfaces]]></title>
-        <id>https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/</id>
-        <link href="https://smashingmagazine.com/2022/02/voice-user-interfaces-guide/"/>
-        <updated>2022-02-14T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice is a powerful tool that we can use to communicate with each other. This article covers the most critical aspects of designing for voice user interfaces: designing the conversation and designing visual interfaces.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.4]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
-        <updated>2022-02-14T06:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
-        <updated>2022-02-14T06:29:16.000Z</updated>
-        <summary type="html"><![CDATA[style tweak]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
-        <updated>2022-02-14T05:53:33.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
-        <updated>2022-02-14T05:26:23.000Z</updated>
-        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
-        <updated>2022-02-14T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
-New: Card title now toggles card content
-New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
-New: Build timestamp now links to the GitHub Action run
-Changed: Sources are sorted based on publish time rather than alphabetical order
-Changed: Style adjusted for easier reading
-Fixed: Horizontal overflow on Safari
-Fixed: HTML syntax error in default template]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.13.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
-        <updated>2022-02-13T05:05:17.000Z</updated>
-        <summary type="html"><![CDATA[New: Thumbnail image display for each article
-New: Improved color, spacing, and typography for easier reading
-New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
-Changed: All sections are expanded by default
-Changed: Switched to vitest for easier testing
-Fixed: Long string (e.g. URL) caused horizontal overflow
-Thank you: @naari3, @tianheg]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.12.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
-        <updated>2022-02-12T17:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
-Fxied: Security vulnerability from axios
-Thank you: @naari3]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Perfectly Pointless]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-design-done-well-perfectly-pointless/"/>
-        <updated>2022-02-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This installment of *Web Design Done Well* celebrates weird and wacky websites. Sites with sweet, innocent, sometimes pointless purposes. Are they money makers? Game changers? Not necessarily, but they sure are fun, and in ways only the web could really manage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
-        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
-        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
-        <updated>2022-02-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statoscope: A Course Of Intensive Therapy For Your Bundle]]></title>
-        <id>https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/</id>
-        <link href="https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/"/>
-        <updated>2022-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Melukov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
-        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
-        <updated>2022-02-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Web Frameworks Solve: The Vanilla Alternative (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/</id>
-        <link href="https://smashingmagazine.com/2022/02/web-frameworks-guide-part2/"/>
-        <updated>2022-02-04T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this second part, Noam suggests a few patterns of how to use the web platform directly as an alternative to some of the solutions that are offered by frameworks.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds]]></title>
-        <id>https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/</id>
-        <link href="https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/"/>
-        <updated>2022-02-03T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving JavaScript Bundle Performance With Code-Splitting]]></title>
-        <id>https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/</id>
-        <link href="https://smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/"/>
-        <updated>2022-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
-        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
-        <updated>2022-02-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Edwin K</name>
         </author>
     </entry>
 </feed>
