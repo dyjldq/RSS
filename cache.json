@@ -1722,6 +1722,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Twitter @Linux中国",
+      "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
+      "siteUrl": "https://twitter.com/linux_cn",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"
