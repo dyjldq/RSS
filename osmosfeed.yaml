@@ -6,8 +6,8 @@
 cacheUrl: https://dyjldq.github.io/RSS/cache.json
 sources:
   - href: https://www.sspai.com/feed
-  - href: https://rsshub.app/t66y/20/1
-  #- href: https://rsshub.app/t66y/20/2
+# - href: https://rsshub.app/t66y/20/1
+# - href: https://rsshub.app/t66y/20/2
   - href: http://blog.feedly.com/feed
   - href: https://rsshub.app/twitter/user/abskoop
   - href: https://rsshub.app/twitter/user/@thepapercn
