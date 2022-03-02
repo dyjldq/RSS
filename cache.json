@@ -108,53 +108,6 @@
       ]
     },
     {
-      "title": "Feedly Blog",
-      "feedUrl": "http://blog.feedly.com/feed",
-      "siteUrl": "https://blog.feedly.com",
-      "articles": [
-        {
-          "id": "https://blog.feedly.com/?p=16698",
-          "author": "Annie Bacher",
-          "description": "Leo now autocompletes specific CVE IDs so you can monitor for exploits or attacks, or track threat intelligence reports mentioning the CVE",
-          "link": "https://blog.feedly.com/track-specific-cves-in-feedly-2/",
-          "publishedOn": "2022-02-24T18:30:00.000Z",
-          "wordCount": 763,
-          "title": "New: Track specific CVEs in Feedly",
-          "imageUrl": "https://blog.feedly.com/wp-content/uploads/2022/02/Cybersecurity-Trends.png"
-        },
-        {
-          "id": "https://blog.feedly.com/?p=16323",
-          "author": "Aaron O’Maley",
-          "description": "How to structure your Feedly for Threat Intelligence account to optimize your open source threat intelligence",
-          "link": "https://blog.feedly.com/blueprint-of-a-highly-functional-feedly-for-threat-intelligence-account/",
-          "publishedOn": "2022-02-17T10:00:00.000Z",
-          "wordCount": 1343,
-          "title": "Blueprint of a highly functional Feedly for Threat Intelligence Account",
-          "imageUrl": "https://blog.feedly.com/wp-content/uploads/2022/02/blog-image@2x-1200x721.png"
-        },
-        {
-          "id": "https://blog.feedly.com/?p=16441",
-          "author": "Annie Bacher",
-          "description": "Get an inside look at how a CISO gathers threat intelligence to track a developing incident.",
-          "link": "https://blog.feedly.com/church-dwight-ciso-case-study/",
-          "publishedOn": "2022-02-15T17:43:00.000Z",
-          "wordCount": 1482,
-          "title": "How Church & Dwight’s CISO used Feedly to track log4j in real time",
-          "imageUrl": "https://blog.feedly.com/wp-content/uploads/2022/02/with-UI-blog@2x-1.png"
-        },
-        {
-          "id": "https://blog.feedly.com/?p=16470",
-          "author": "Edwin K",
-          "description": "If you’ve popped into Feedly today, you might notice something’s…different. We've introduced a new naming convention: RSS feeds and all the other streams of content…",
-          "link": "https://blog.feedly.com/feeds-and-folders/",
-          "publishedOn": "2022-02-04T04:53:05.000Z",
-          "wordCount": 206,
-          "title": "Feeds and Folders",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "Twitter @ahhhhfs",
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",

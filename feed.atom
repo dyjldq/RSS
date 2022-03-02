@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T14:10:20.229Z</updated>
+    <updated>2022-03-02T14:10:49.904Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
@@ -1015,16 +1015,6 @@ A smart navigation system and more efficient cleaning. It's time to have a clean
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New: Track specific CVEs in Feedly]]></title>
-        <id>https://blog.feedly.com/?p=16698</id>
-        <link href="https://blog.feedly.com/track-specific-cves-in-feedly-2/"/>
-        <updated>2022-02-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Leo now autocompletes specific CVE IDs so you can monitor for exploits or attacks, or track threat intelligence reports mentioning the CVE]]></summary>
-        <author>
-            <name>Annie Bacher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Like a bright diamond in the sky, the #StarBlue is unique for both #RedmiNote11Pro and YOU! #RiseToTheChallenge  Learn more:]]></title>
         <id>https://twitter.com/Xiaomi/status/1496832350637805572</id>
         <link href="https://twitter.com/Xiaomi/status/1496832350637805572"/>
@@ -1113,26 +1103,6 @@ Philip Crowther: Six-language coverage from #Kyiv with @AP_GMS. In this order:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueprint of a highly functional Feedly for Threat Intelligence Account]]></title>
-        <id>https://blog.feedly.com/?p=16323</id>
-        <link href="https://blog.feedly.com/blueprint-of-a-highly-functional-feedly-for-threat-intelligence-account/"/>
-        <updated>2022-02-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How to structure your Feedly for Threat Intelligence account to optimize your open source threat intelligence]]></summary>
-        <author>
-            <name>Aaron O’Maley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Church & Dwight’s CISO used Feedly to track log4j in real time]]></title>
-        <id>https://blog.feedly.com/?p=16441</id>
-        <link href="https://blog.feedly.com/church-dwight-ciso-case-study/"/>
-        <updated>2022-02-15T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Get an inside look at how a CISO gathers threat intelligence to track a developing incident.]]></summary>
-        <author>
-            <name>Annie Bacher</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[看到老外用树莓派安装安卓 12，就跟着装了一下。很简单，下载ROM，刷进TF卡就行了。 结论是支持度很高，有3D加速，适合安装手柄玩游戏，其他用途不适合。①Wifi...]]></title>
         <id>https://twitter.com/ruanyf/status/1492740204717027329</id>
         <link href="https://twitter.com/ruanyf/status/1492740204717027329"/>
@@ -1183,16 +1153,6 @@ Philip Crowther: Six-language coverage from #Kyiv with @AP_GMS. In this order:
 如果你们团队需要招程序员，也欢迎贴到那里。 https://github.com/ruanyf/weekly/issues/2188]]></summary>
         <author>
             <name>ruanyf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeds and Folders]]></title>
-        <id>https://blog.feedly.com/?p=16470</id>
-        <link href="https://blog.feedly.com/feeds-and-folders/"/>
-        <updated>2022-02-04T04:53:05.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve popped into Feedly today, you might notice something’s…different. We've introduced a new naming convention: RSS feeds and all the other streams of content…]]></summary>
-        <author>
-            <name>Edwin K</name>
         </author>
     </entry>
     <entry>
