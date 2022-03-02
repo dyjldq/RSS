@@ -22,3 +22,4 @@ https://rsshub.app/twitter/user/@VOAChinese  美国之音中文网
 https://rsshub.app/twitter/user/@naochashu  野山
 https://rsshub.app/twitter/user/@nytchinese  纽约时报中文网  
 https://rsshub.app/twitter/user/@RFA_Chinese  自由亚洲电台
+https://rsshub.app/twitter/user/linux_cn  Linux中国
