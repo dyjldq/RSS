@@ -2,10 +2,691 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-13T00:49:11.247Z</updated>
+    <updated>2022-11-14T00:46:58.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何提高 Ubuntu 和其他 Linux 系统中的扬声器音量 以下是如何在 Ubuntu 和其他 Linux 发行版中提高笔记本和桌面的音量的方法。]]></title>
+        <id>https://twitter.com/linux_cn/status/1591954635681513472</id>
+        <link href="https://twitter.com/linux_cn/status/1591954635681513472"/>
+        <updated>2022-11-14T00:42:16.000Z</updated>
+        <summary type="html"><![CDATA[如何提高 Ubuntu 和其他 Linux 系统中的扬声器音量 
+以下是如何在 Ubuntu 和其他 Linux 发行版中提高笔记本和桌面的音量的方法。 https://linux.cn/article-15250-1.html]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知名编剧作家严歌苓在接受美国之音时事大家谈专访时表示，这两年来她每天看着中国在疫情与极端的清零政策下重复一齣又一齣的荒诞悲剧，不知道流了多少眼泪，这些...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591951546169819138</id>
+        <link href="https://twitter.com/VOAChinese/status/1591951546169819138"/>
+        <updated>2022-11-14T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[知名编剧作家严歌苓在接受美国之音时事大家谈专访时表示，这两年来她每天看着中国在疫情与极端的清零政策下重复一齣又一齣的荒诞悲剧，不知道流了多少眼泪，这些题材直接拿来写已经不是文学，会变成一种直面的控诉。完整节目： https://youtu.be/hipq8ErC_0o]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克说，推特的运行速度慢，是因为需要执行1000多个 RPC。 问题是前端不会有RPC请求，只有后端才有。推特的 GraphQL 主管公开喷他完全不懂，所以马斯克是说推...]]></title>
+        <id>https://twitter.com/ruanyf/status/1591950693380026370</id>
+        <link href="https://twitter.com/ruanyf/status/1591950693380026370"/>
+        <updated>2022-11-14T00:26:36.000Z</updated>
+        <summary type="html"><![CDATA[马斯克说，推特的运行速度慢，是因为需要执行1000多个 RPC。
+问题是前端不会有RPC请求，只有后端才有。推特的 GraphQL 主管公开喷他完全不懂，所以马斯克是说推特的后端 GraphQL 有问题？
+
+sach @ the hellsite: you did not just layoff almost all of infra and then make some sassy remark about how we do batching 
+like did you bother to even learn how graphql works
+ https://twitter.com/elonmusk/status/1591853644944932865]]></summary>
+        <author>
+            <name>ruanyf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李克强拒绝口罩！]]></title>
+        <id>https://twitter.com/naochashu/status/1591949461294821376</id>
+        <link href="https://twitter.com/naochashu/status/1591949461294821376"/>
+        <updated>2022-11-14T00:21:43.000Z</updated>
+        <summary type="html"><![CDATA[李克强拒绝口罩！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简直连土匪都不如！]]></title>
+        <id>https://twitter.com/naochashu/status/1591949015503220736</id>
+        <link href="https://twitter.com/naochashu/status/1591949015503220736"/>
+        <updated>2022-11-14T00:19:56.000Z</updated>
+        <summary type="html"><![CDATA[简直连土匪都不如！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再报广西东兴边陲小城！]]></title>
+        <id>https://twitter.com/naochashu/status/1591947508091322368</id>
+        <link href="https://twitter.com/naochashu/status/1591947508091322368"/>
+        <updated>2022-11-14T00:13:57.000Z</updated>
+        <summary type="html"><![CDATA[再报广西东兴边陲小城！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登称内华达州参议院获胜使他在与习近平的会谈中更加强大]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591945015731060736</id>
+        <link href="https://twitter.com/VOAChinese/status/1591945015731060736"/>
+        <updated>2022-11-14T00:04:03.000Z</updated>
+        <summary type="html"><![CDATA[拜登称内华达州参议院获胜使他在与习近平的会谈中更加强大 http://dlvr.it/ScjwmT]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/naochashu/status/1591944529892212736</id>
+        <link href="https://twitter.com/naochashu/status/1591944529892212736"/>
+        <updated>2022-11-14T00:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Re]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美中领导人举行首次面对面峰会。大国博弈双方各自坚守什么底线？美中还有没有柳暗花明的机会？美国将向台湾通报拜习峰会内容激怒中国，美国这样做早有现例，北京...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591944000516276230</id>
+        <link href="https://twitter.com/VOAChinese/status/1591944000516276230"/>
+        <updated>2022-11-14T00:00:01.000Z</updated>
+        <summary type="html"><![CDATA[美中领导人举行首次面对面峰会。大国博弈双方各自坚守什么底线？美中还有没有柳暗花明的机会？美国将向台湾通报拜习峰会内容激怒中国，美国这样做早有现例，北京为何暴跳如雷？时事大家谈11月14日为您分析。欢迎发表您的评论和问题。]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ↕️]]></title>
+        <id>https://twitter.com/naochashu/status/1591943136666083328</id>
+        <link href="https://twitter.com/naochashu/status/1591943136666083328"/>
+        <updated>2022-11-13T23:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Re ↕️]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“动态清零”运动越来越邪恶！]]></title>
+        <id>https://twitter.com/naochashu/status/1591942830221840384</id>
+        <link href="https://twitter.com/naochashu/status/1591942830221840384"/>
+        <updated>2022-11-13T23:55:22.000Z</updated>
+        <summary type="html"><![CDATA[“动态清零”运动越来越邪恶！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ↕️]]></title>
+        <id>https://twitter.com/naochashu/status/1591929644261183489</id>
+        <link href="https://twitter.com/naochashu/status/1591929644261183489"/>
+        <updated>2022-11-13T23:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Re ↕️]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重庆大姐的一番话，这群流氓没有一个能正面回应。]]></title>
+        <id>https://twitter.com/naochashu/status/1591929083772178433</id>
+        <link href="https://twitter.com/naochashu/status/1591929083772178433"/>
+        <updated>2022-11-13T23:00:44.000Z</updated>
+        <summary type="html"><![CDATA[重庆大姐的一番话，这群流氓没有一个能正面回应。]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾驻美代表 #萧美琴 周六表示，#台海 和平稳定符合全球共同利益。此外刚获得连任的民主党籍参议员 #范霍伦（Chris Van Hollen）也表示，支持台湾抵抗来自 #中...]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591927616847708160</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591927616847708160"/>
+        <updated>2022-11-13T22:54:55.000Z</updated>
+        <summary type="html"><![CDATA[台湾驻美代表 #萧美琴 周六表示，#台海 和平稳定符合全球共同利益。此外刚获得连任的民主党籍参议员 #范霍伦（Chris Van Hollen）也表示，支持台湾抵抗来自 #中国 的霸凌。 https://www.rfa.org/mandarin/yataibaodao/wul-11122022190126.html]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人驾驶的美国太阳能太空飞机飞行908天后返回地面]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591922993873420289</id>
+        <link href="https://twitter.com/VOAChinese/status/1591922993873420289"/>
+        <updated>2022-11-13T22:36:32.000Z</updated>
+        <summary type="html"><![CDATA[无人驾驶的美国太阳能太空飞机飞行908天后返回地面 http://dlvr.it/Scjppf]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙利文：拜登将明确美国不寻求与中国发生冲突]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591892689565675520</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591892689565675520"/>
+        <updated>2022-11-13T20:36:07.000Z</updated>
+        <summary type="html"><![CDATA[沙利文：拜登将明确美国不寻求与中国发生冲突 https://www.rfa.org/mandarin/Xinwen/wul-11132022123751.html#.Y3FVMpL1jlw.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因伤退役的乌克兰伞兵帕西尼克一直在努力提醒社会关注许多军人在战场遭受的创伤后应激障碍PTSD。他12日和另外两人从基辅的一个基地出发跑完半马， 为帮助遭受 PT...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591875257069031425</id>
+        <link href="https://twitter.com/VOAChinese/status/1591875257069031425"/>
+        <updated>2022-11-13T19:26:51.000Z</updated>
+        <summary type="html"><![CDATA[因伤退役的乌克兰伞兵帕西尼克一直在努力提醒社会关注许多军人在战场遭受的创伤后应激障碍PTSD。他12日和另外两人从基辅的一个基地出发跑完半马， 为帮助遭受 PTSD的军人康复而筹款。 https://bit.ly/3g4XHwH]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉协助广东潮州警方调查一起致命车祸事故]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591860079246336000</id>
+        <link href="https://twitter.com/VOAChinese/status/1591860079246336000"/>
+        <updated>2022-11-13T18:26:32.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉协助广东潮州警方调查一起致命车祸事故 http://dlvr.it/ScjS60]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周日，美国总统拜登与日本首相岸田文雄、韩国总统尹锡悦在柬埔寨金边举行会晤，重申合作应对朝鲜挑衅，以及维护台海和平稳定的重要性。]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591854606270726147</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591854606270726147"/>
+        <updated>2022-11-13T18:04:48.000Z</updated>
+        <summary type="html"><![CDATA[本周日，美国总统拜登与日本首相岸田文雄、韩国总统尹锡悦在柬埔寨金边举行会晤，重申合作应对朝鲜挑衅，以及维护台海和平稳定的重要性。 https://www.rfa.org/mandarin/Xinwen/wug-11132022122735.html#.Y3Ext8OtP1I.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快讯：两名中国公民因涉嫌在G20期间抗议 遭印尼拘捕]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591854061770661890</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591854061770661890"/>
+        <updated>2022-11-13T18:02:38.000Z</updated>
+        <summary type="html"><![CDATA[快讯：两名中国公民因涉嫌在G20期间抗议 遭印尼拘捕 https://www.rfa.org/mandarin/Xinwen/wul-11132022123645.html#.Y3ExOnYiF8g.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈哈哈 一定是受了什么刺激]]></title>
+        <id>https://twitter.com/abskoop/status/1591851677954756613</id>
+        <link href="https://twitter.com/abskoop/status/1591851677954756613"/>
+        <updated>2022-11-13T17:53:09.000Z</updated>
+        <summary type="html"><![CDATA[哈哈哈 一定是受了什么刺激]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11月12日湖南省株洲市市民聚集，反封控、拒隔离的行动遭到武装压制。]]></title>
+        <id>https://twitter.com/naochashu/status/1591845798941446144</id>
+        <link href="https://twitter.com/naochashu/status/1591845798941446144"/>
+        <updated>2022-11-13T17:29:48.000Z</updated>
+        <summary type="html"><![CDATA[11月12日湖南省株洲市市民聚集，反封控、拒隔离的行动遭到武装压制。]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“口罩”的危险❗️]]></title>
+        <id>https://twitter.com/naochashu/status/1591840920504512512</id>
+        <link href="https://twitter.com/naochashu/status/1591840920504512512"/>
+        <updated>2022-11-13T17:10:25.000Z</updated>
+        <summary type="html"><![CDATA[“口罩”的危险❗️ https://twitter.com/i/web/status/1591840920504512512]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re]]></title>
+        <id>https://twitter.com/naochashu/status/1591839503500865536</id>
+        <link href="https://twitter.com/naochashu/status/1591839503500865536"/>
+        <updated>2022-11-13T17:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Re  https://twitter.com/i/web/status/1591839503500865536]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土耳其斯坦布尔市中心一个繁忙的步行街13日发生炸弹爆炸，土耳其总统埃尔多安说，爆炸造成6人死亡，53人受伤。]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591837496463482882</id>
+        <link href="https://twitter.com/VOAChinese/status/1591837496463482882"/>
+        <updated>2022-11-13T16:56:48.000Z</updated>
+        <summary type="html"><![CDATA[土耳其斯坦布尔市中心一个繁忙的步行街13日发生炸弹爆炸，土耳其总统埃尔多安说，爆炸造成6人死亡，53人受伤。 https://bit.ly/3GgEGlB]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美财长将会晤中国央行行长 期待加深对中国的了解]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591834661973811200</id>
+        <link href="https://twitter.com/VOAChinese/status/1591834661973811200"/>
+        <updated>2022-11-13T16:45:32.000Z</updated>
+        <summary type="html"><![CDATA[美财长将会晤中国央行行长 期待加深对中国的了解 http://dlvr.it/ScjH5J]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄乌冲突及中美紧张关系将笼罩二十国峰会]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591823464671105024</id>
+        <link href="https://twitter.com/VOAChinese/status/1591823464671105024"/>
+        <updated>2022-11-13T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[俄乌冲突及中美紧张关系将笼罩二十国峰会 http://dlvr.it/ScjBjs]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统拜登13日抵达印尼巴厘岛参加二十国集团峰会。他14日将与中国国家主席习近平在峰会期间举行拜登入主白宫后两人的首次面对面对谈， 引发高度关注。 更多：]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591821657525858305</id>
+        <link href="https://twitter.com/VOAChinese/status/1591821657525858305"/>
+        <updated>2022-11-13T15:53:52.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登13日抵达印尼巴厘岛参加二十国集团峰会。他14日将与中国国家主席习近平在峰会期间举行拜登入主白宫后两人的首次面对面对谈， 引发高度关注。 
+更多： https://bit.ly/3O2B20A https://bit.ly/3Gek8u2]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全校学生被隔离在学校，本该活潑欢乐纯真的年龄，一个个面无表情，麻木无奈。]]></title>
+        <id>https://twitter.com/naochashu/status/1591821167480164353</id>
+        <link href="https://twitter.com/naochashu/status/1591821167480164353"/>
+        <updated>2022-11-13T15:51:55.000Z</updated>
+        <summary type="html"><![CDATA[全校学生被隔离在学校，本该活潑欢乐纯真的年龄，一个个面无表情，麻木无奈。]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜习会在即 美议员：捍卫台湾抵抗中国霸凌]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591820165494218756</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591820165494218756"/>
+        <updated>2022-11-13T15:47:56.000Z</updated>
+        <summary type="html"><![CDATA[拜习会在即 美议员：捍卫台湾抵抗中国霸凌 https://www.rfa.org/mandarin/yataibaodao/wul-11122022190126.html#.Y3ERonX3WvI.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孩子已经上了手术台，医生要求父亲签字，并在十分钟内凑齐手术费…否则就请他们出去！绝望的父亲嘤嘤哭泣不知所措… 真正需要人民至上，生命至上的时候，它们就...]]></title>
+        <id>https://twitter.com/naochashu/status/1591819921310334977</id>
+        <link href="https://twitter.com/naochashu/status/1591819921310334977"/>
+        <updated>2022-11-13T15:46:58.000Z</updated>
+        <summary type="html"><![CDATA[孩子已经上了手术台，医生要求父亲签字，并在十分钟内凑齐手术费…否则就请他们出去！绝望的父亲嘤嘤哭泣不知所措…
+真正需要人民至上，生命至上的时候，它们就不管你的死活了…这群虚伪恶毒的禽兽到底都是些什么玩意？]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者备忘清单 速查表-Quick Reference 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591819425551765504</id>
+        <link href="https://twitter.com/abskoop/status/1591819425551765504"/>
+        <updated>2022-11-13T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[开发者备忘清单 速查表-Quick Reference
+👉 https://www.ahhhhfs.com/33131/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“俄罗斯的侵略战争违反了国际法，构成危险的先例”，德国总理朔尔茨13日与越南总理范明政会谈后呼吁越南在乌克兰战争问题上表达明确立场。越南并未和绝大多数联...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591817266126942208</id>
+        <link href="https://twitter.com/VOAChinese/status/1591817266126942208"/>
+        <updated>2022-11-13T15:36:25.000Z</updated>
+        <summary type="html"><![CDATA[“俄罗斯的侵略战争违反了国际法，构成危险的先例”，德国总理朔尔茨13日与越南总理范明政会谈后呼吁越南在乌克兰战争问题上表达明确立场。越南并未和绝大多数联合国成员一道谴责俄罗斯入侵，并在联大投票中弃权。朔尔茨还强调在印太地区要运用法律的力量，而不是强权法则。 https://bit.ly/3Abneev]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈哈哈 泰语版西游记🤤🤤]]></title>
+        <id>https://twitter.com/abskoop/status/1591816063662292992</id>
+        <link href="https://twitter.com/abskoop/status/1591816063662292992"/>
+        <updated>2022-11-13T15:31:38.000Z</updated>
+        <summary type="html"><![CDATA[哈哈哈 泰语版西游记🤤🤤]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re ↕️]]></title>
+        <id>https://twitter.com/naochashu/status/1591814914825687042</id>
+        <link href="https://twitter.com/naochashu/status/1591814914825687042"/>
+        <updated>2022-11-13T15:27:04.000Z</updated>
+        <summary type="html"><![CDATA[Re ↕️]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“人民”的概念！]]></title>
+        <id>https://twitter.com/naochashu/status/1591814617810219009</id>
+        <link href="https://twitter.com/naochashu/status/1591814617810219009"/>
+        <updated>2022-11-13T15:25:54.000Z</updated>
+        <summary type="html"><![CDATA[“人民”的概念！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广而告之！]]></title>
+        <id>https://twitter.com/naochashu/status/1591814440567336962</id>
+        <link href="https://twitter.com/naochashu/status/1591814440567336962"/>
+        <updated>2022-11-13T15:25:11.000Z</updated>
+        <summary type="html"><![CDATA[广而告之！]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U3C3磁力资源网 大学毕业后可能用到的学习资料 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591812901307928576</id>
+        <link href="https://twitter.com/abskoop/status/1591812901307928576"/>
+        <updated>2022-11-13T15:19:04.000Z</updated>
+        <summary type="html"><![CDATA[U3C3磁力资源网
+大学毕业后可能用到的学习资料 
+👉 https://www.ahhhhfs.com/33136/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小黑屋10几个小时，出来了。😇]]></title>
+        <id>https://twitter.com/naochashu/status/1591807734126870528</id>
+        <link href="https://twitter.com/naochashu/status/1591807734126870528"/>
+        <updated>2022-11-13T14:58:32.000Z</updated>
+        <summary type="html"><![CDATA[小黑屋10几个小时，出来了。😇]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统拜登预计11月14日将在印尼巴厘岛与中国国家主席习近平会面，台湾驻美代表萧美琴11月12日参加华府台湾同乡会活动后，对美国之音关于拜习会是否能有助台海...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591798941481594880</id>
+        <link href="https://twitter.com/VOAChinese/status/1591798941481594880"/>
+        <updated>2022-11-13T14:23:36.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登预计11月14日将在印尼巴厘岛与中国国家主席习近平会面，台湾驻美代表萧美琴11月12日参加华府台湾同乡会活动后，对美国之音关于拜习会是否能有助台海降温、美方将对台湾通报会谈内容，以及美国改选后新国会对台立场等提问做出了答复，她期待所有为台海和平努力的互动都能有助地区安全稳定。]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国热点对标美国论据，用一杯咖啡的时间聊聊中国热点的美国冷思考。本周二举行的中期选举在中国百度热搜上备受关注。在美国中期选举产生的国会众议员和参议员对...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591793003378548737</id>
+        <link href="https://twitter.com/VOAChinese/status/1591793003378548737"/>
+        <updated>2022-11-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国热点对标美国论据，用一杯咖啡的时间聊聊中国热点的美国冷思考。本周二举行的中期选举在中国百度热搜上备受关注。在美国中期选举产生的国会众议员和参议员对美国总统未来两年的执政会产生深远影响，美国国会可不是中国全国人大那样的橡皮图章。今天【美中对标】就来了解美国国会权力有多大？]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赫尔松的居民12日在街头热情欢迎乌克兰军队，经过了8个月的俄罗斯占领，民众在街头起舞庆祝自由。]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591790358114971648</id>
+        <link href="https://twitter.com/VOAChinese/status/1591790358114971648"/>
+        <updated>2022-11-13T13:49:30.000Z</updated>
+        <summary type="html"><![CDATA[赫尔松的居民12日在街头热情欢迎乌克兰军队，经过了8个月的俄罗斯占领，民众在街头起舞庆祝自由。 https://bit.ly/3Gcwbb5]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter推特视频下载解析工具-TwSaver 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591789568163979267</id>
+        <link href="https://twitter.com/abskoop/status/1591789568163979267"/>
+        <updated>2022-11-13T13:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Twitter推特视频下载解析工具-TwSaver
+👉 https://www.ahhhhfs.com/33120/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[• 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅#硬核观察# 819 11.13]]></title>
+        <id>https://twitter.com/linux_cn/status/1591779764351782914</id>
+        <link href="https://twitter.com/linux_cn/status/1591779764351782914"/>
+        <updated>2022-11-13T13:07:24.000Z</updated>
+        <summary type="html"><![CDATA[• 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅#硬核观察# 819 11.13 https://youtu.be/2slCFK0_7LI]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 德国阻止两笔涉中资交易，警惕过度依赖中国]]></title>
+        <id>https://twitter.com/nytchinese/status/1591777904018366464</id>
+        <link href="https://twitter.com/nytchinese/status/1591777904018366464"/>
+        <updated>2022-11-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 德国阻止两笔涉中资交易，警惕过度依赖中国 https://nyti.ms/3UG6nbw]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统拜登13日在柬埔寨东盟峰会期间表示他与中国国家主席习近平一直有直截了当 (straightforward) 的对话，并表示他很了解习近平，双方极少有误解。拜登总统...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591773968985653249</id>
+        <link href="https://twitter.com/VOAChinese/status/1591773968985653249"/>
+        <updated>2022-11-13T12:44:22.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登13日在柬埔寨东盟峰会期间表示他与中国国家主席习近平一直有直截了当 (straightforward) 的对话，并表示他很了解习近平，双方极少有误解。拜登总统将于14日在印尼的巴厘岛同中国国家主席习近平举行他就任总统后首次面对面的会谈。 https://bit.ly/3UU1RWU]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国总统拜登与其他国家领导人13日在柬埔寨首都金边参加了东盟峰会。预计，拜登总统将于14日在印尼的巴厘岛同中国国家主席习近平举行他就任总统后首次面对面的会...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591758870501683200</id>
+        <link href="https://twitter.com/VOAChinese/status/1591758870501683200"/>
+        <updated>2022-11-13T11:44:22.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登与其他国家领导人13日在柬埔寨首都金边参加了东盟峰会。预计，拜登总统将于14日在印尼的巴厘岛同中国国家主席习近平举行他就任总统后首次面对面的会谈。 https://bit.ly/3O2hCcc]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易云QQ音乐付费音乐解锁工具-unlock music 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591755928885657600</id>
+        <link href="https://twitter.com/abskoop/status/1591755928885657600"/>
+        <updated>2022-11-13T11:32:41.000Z</updated>
+        <summary type="html"><![CDATA[网易云QQ音乐付费音乐解锁工具-unlock music
+👉 https://www.ahhhhfs.com/33111/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 习近平什么时候会放弃“清零”？]]></title>
+        <id>https://twitter.com/nytchinese/status/1591747704140480512</id>
+        <link href="https://twitter.com/nytchinese/status/1591747704140480512"/>
+        <updated>2022-11-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 习近平什么时候会放弃“清零”？ https://nyti.ms/3NVdoTv]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬核观察 #819 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅 • 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅 • 苹果自带的应用无视用户隐私设...]]></title>
+        <id>https://twitter.com/linux_cn/status/1591728229869621249</id>
+        <link href="https://twitter.com/linux_cn/status/1591728229869621249"/>
+        <updated>2022-11-13T09:42:37.000Z</updated>
+        <summary type="html"><![CDATA[硬核观察 #819 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅 
+• 大众汽车制造了一辆时速 20 公里的《星际迷航》船长椅 • 苹果自带的应用无视用户隐私设置 • 谷歌继续资助 GlobalFoundries 提供开源芯片免费制造服务 https://linux.cn/article-15249-1.html]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 #专栏作者 美国躲过了瞄准民主心脏的最大一箭]]></title>
+        <id>https://twitter.com/nytchinese/status/1591717513313669120</id>
+        <link href="https://twitter.com/nytchinese/status/1591717513313669120"/>
+        <updated>2022-11-13T09:00:02.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 #专栏作者 美国躲过了瞄准民主心脏的最大一箭 https://nyti.ms/3DVGVYX]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁能凭空玩出一家游戏公司？｜开发者列传 02 · 田尻智（中）]]></title>
+        <id>https://sspai.com/post/76784</id>
+        <link href="https://sspai.com/post/76784"/>
+        <updated>2022-11-13T08:59:20.000Z</updated>
+        <summary type="html"><![CDATA[在一番寒暄之后，远藤雅申将一位有些青涩木讷的年轻人介绍给了横井军平，并且告诉他，这位田尻君的作品可能会改变一切。查看全文]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我使用的 4 款开源编辑器 分享一些我最喜欢的开源写作工具。]]></title>
+        <id>https://twitter.com/linux_cn/status/1591713180765626368</id>
+        <link href="https://twitter.com/linux_cn/status/1591713180765626368"/>
+        <updated>2022-11-13T08:42:49.000Z</updated>
+        <summary type="html"><![CDATA[我使用的 4 款开源编辑器 
+分享一些我最喜欢的开源写作工具。 https://linux.cn/article-15248-1.html]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界各国身份、地址信用卡生成器 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591697370961657860</id>
+        <link href="https://twitter.com/abskoop/status/1591697370961657860"/>
+        <updated>2022-11-13T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[世界各国身份、地址信用卡生成器
+👉 https://www.ahhhhfs.com/33106/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 美国中期选举缘何未现“红潮”，这里是你需要知道的]]></title>
+        <id>https://twitter.com/nytchinese/status/1591687307517743106</id>
+        <link href="https://twitter.com/nytchinese/status/1591687307517743106"/>
+        <updated>2022-11-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 美国中期选举缘何未现“红潮”，这里是你需要知道的 https://nyti.ms/3WRrauI]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ios苹果企业证书分享 👉]]></title>
+        <id>https://twitter.com/abskoop/status/1591675049442152448</id>
+        <link href="https://twitter.com/abskoop/status/1591675049442152448"/>
+        <updated>2022-11-13T06:11:18.000Z</updated>
+        <summary type="html"><![CDATA[ios苹果企业证书分享
+👉 https://www.ahhhhfs.com/33085/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主党继续控制参议院 拜登在“拜习会”中处于更有利地位]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591663411368439808</id>
+        <link href="https://twitter.com/VOAChinese/status/1591663411368439808"/>
+        <updated>2022-11-13T05:25:03.000Z</updated>
+        <summary type="html"><![CDATA[民主党继续控制参议院 拜登在“拜习会”中处于更有利地位 http://dlvr.it/SchCK3]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何从 Ubuntu 21.10 及以后版本中删除 Firefox Snap Ubuntu 21.10 “Impish Indri” 及之后的版本将 Firefox Snap 设为默认浏览器。如果你不喜欢 Snap，可以通...]]></title>
+        <id>https://twitter.com/linux_cn/status/1591652813133717507</id>
+        <link href="https://twitter.com/linux_cn/status/1591652813133717507"/>
+        <updated>2022-11-13T04:42:56.000Z</updated>
+        <summary type="html"><![CDATA[如何从 Ubuntu 21.10 及以后版本中删除 Firefox Snap 
+Ubuntu 21.10 “Impish Indri” 及之后的版本将 Firefox Snap 设为默认浏览器。如果你不喜欢 Snap，可以通过以下方式将其删除并使用库存版本。 https://linux.cn/article-15247-1.html]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用这个多功能的 Linux 命令转换音频文件 SoX Sound Exchange 甚至可以为你的音频文件添加特效。]]></title>
+        <id>https://twitter.com/linux_cn/status/1591652797724119040</id>
+        <link href="https://twitter.com/linux_cn/status/1591652797724119040"/>
+        <updated>2022-11-13T04:42:53.000Z</updated>
+        <summary type="html"><![CDATA[使用这个多功能的 Linux 命令转换音频文件 
+SoX Sound Exchange 甚至可以为你的音频文件添加特效。 https://linux.cn/article-15246-1.html]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民主党拿下内华达州参议员，将继续控制美国参议院]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591646798699167744</id>
+        <link href="https://twitter.com/VOAChinese/status/1591646798699167744"/>
+        <updated>2022-11-13T04:19:02.000Z</updated>
+        <summary type="html"><![CDATA[民主党拿下内华达州参议员，将继续控制美国参议院 http://dlvr.it/Sch7HX]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 流氓战机Unicornliumangzhanji善意流氓: 廣州起義！打響了反擊暴政核酸第一木倉！ 自由是上天賦予的，哪裡有壓迫，那裡就該有反抗，這是做為人最基本的本能。]]></title>
+        <id>https://twitter.com/GvqVd6J2jdCOJYP/status/1591646428929167360</id>
+        <link href="https://twitter.com/GvqVd6J2jdCOJYP/status/1591646428929167360"/>
+        <updated>2022-11-13T04:17:34.000Z</updated>
+        <summary type="html"><![CDATA[RT 流氓战机Unicornliumangzhanji善意流氓
+廣州起義！打響了反擊暴政核酸第一木倉！
+自由是上天賦予的，哪裡有壓迫，那裡就該有反抗，這是做為人最基本的本能。]]></summary>
+        <author>
+            <name>野山🎗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“九合一”选前蔡英文怒怼中国 称不会向“一国两制，台湾方案”屈服]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591635727355613184</id>
+        <link href="https://twitter.com/VOAChinese/status/1591635727355613184"/>
+        <updated>2022-11-13T03:35:03.000Z</updated>
+        <summary type="html"><![CDATA[“九合一”选前蔡英文怒怼中国 称不会向“一国两制，台湾方案”屈服 http://dlvr.it/Sch4nb]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华裔作家严歌苓根据自己早年和最近的经历，担心文化大革命要在中国再次上演，儘管形式可能会有所不同。但这种没有大字报的谩骂、告发等自相残害的形式若重演，会...]]></title>
+        <id>https://twitter.com/VOAChinese/status/1591634458427400192</id>
+        <link href="https://twitter.com/VOAChinese/status/1591634458427400192"/>
+        <updated>2022-11-13T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[华裔作家严歌苓根据自己早年和最近的经历，担心文化大革命要在中国再次上演，儘管形式可能会有所不同。但这种没有大字报的谩骂、告发等自相残害的形式若重演，会让中国再经历一次文明倒退。完整节目： https://youtu.be/hipq8ErC_0o]]></summary>
+        <author>
+            <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 在全球民主国家眼中，美国民主已迷失方向]]></title>
+        <id>https://twitter.com/nytchinese/status/1591626917316263937</id>
+        <link href="https://twitter.com/nytchinese/status/1591626917316263937"/>
+        <updated>2022-11-13T03:00:02.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 在全球民主国家眼中，美国民主已迷失方向 https://nyti.ms/3WLGclC]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任意键｜《战神 诸神黄昏》，虎父无犬子]]></title>
+        <id>https://sspai.com/post/76783</id>
+        <link href="https://sspai.com/post/76783"/>
+        <updated>2022-11-13T02:55:28.000Z</updated>
+        <summary type="html"><![CDATA[「任意键」正式上线啦！为了丰富各位派友的阅读体验，我们尝试为「任意键」增加了对应的音频内容，邀请了我派的两位带薪打游戏选手编辑@Kiririn和@一只索狗从玩家视角对当期的主要内容进行谈论和评述。您可 ...查看全文]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#一周热门 被大海吞噬的岛屿，被大火烧毁的森林：图片中的气候变化]]></title>
+        <id>https://twitter.com/nytchinese/status/1591596714925985794</id>
+        <link href="https://twitter.com/nytchinese/status/1591596714925985794"/>
+        <updated>2022-11-13T01:00:01.000Z</updated>
+        <summary type="html"><![CDATA[#一周热门 被大海吞噬的岛屿，被大火烧毁的森林：图片中的气候变化 https://nyti.ms/3Us8u2X]]></summary>
+        <author>
+            <name>纽约时报中文网</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知名编剧作家严歌苓接受时事大家谈专访时表示，记性坏、忘性好是中国苦难的原因，中共不但不让提文化大革命，还用巧妙的文字去替换，称此为伟大的艰辛探索，强迫...]]></title>
         <id>https://twitter.com/VOAChinese/status/1591589158862012416</id>
@@ -24,6 +705,37 @@
         <summary type="html"><![CDATA[俄乌在巴赫穆特的激战已持续四个多月，乌军第93旅的炮兵们用M46-130毫米口径野战炮持续射击，一面掩护乌克兰步兵，一面把俄军向俄罗斯方向驱离。士兵们常常早上5点就开始射击，有时在夜间也持续作战。野外生活十分艰苦，炮兵们坚守岗位，几乎没有时间休息。]]></summary>
         <author>
             <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深陷债务危机的中国房企恒大集团持续变卖资产 #恒大财务困境]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591570074363920385</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591570074363920385"/>
+        <updated>2022-11-12T23:14:10.000Z</updated>
+        <summary type="html"><![CDATA[深陷债务危机的中国房企恒大集团持续变卖资产
+#恒大财务困境 https://www.rfa.org/mandarin/Xinwen/wug-11122022161838.html#.Y3AorPftwh8.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#中国 多省市急调 #防疫政策 广州 #次密接免隔离]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591569858210275328</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591569858210275328"/>
+        <updated>2022-11-12T23:13:18.000Z</updated>
+        <summary type="html"><![CDATA[#中国 多省市急调 #防疫政策 广州 #次密接免隔离 https://www.rfa.org/mandarin/Xinwen/wug-11122022162128.html#.Y3AoZhqPzZY.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地方选举前 蔡英文呼吁守护台湾民主]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591569361663590400</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591569361663590400"/>
+        <updated>2022-11-12T23:11:20.000Z</updated>
+        <summary type="html"><![CDATA[地方选举前 蔡英文呼吁守护台湾民主 https://www.rfa.org/mandarin/Xinwen/wug-11122022161206.html#.Y3AoE5fqE-I.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +779,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[岸田文雄与李克强东盟会议期间短暂交谈]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591497963381133313</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591497963381133313"/>
+        <updated>2022-11-12T18:27:37.000Z</updated>
+        <summary type="html"><![CDATA[岸田文雄与李克强东盟会议期间短暂交谈 https://www.rfa.org/mandarin/Xinwen/wug-11122022113557.html#.Y2_ljuD0yN0.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[岸田文雄拟谋求在东盟峰会间隙拉拢相关国家对付中国]]></title>
         <id>https://twitter.com/VOAChinese/status/1591486244399509504</id>
         <link href="https://twitter.com/VOAChinese/status/1591486244399509504"/>
@@ -84,6 +806,26 @@
         <summary type="html"><![CDATA[拜习会：冷战2.0后首次大国峰会？美中关系进入新阶段 http://dlvr.it/ScgGch]]></summary>
         <author>
             <name>美国之音中文网</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登出席美国东盟峰会 双方关系升为全面战略伙伴]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591476617234518021</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591476617234518021"/>
+        <updated>2022-11-12T17:02:48.000Z</updated>
+        <summary type="html"><![CDATA[拜登出席美国东盟峰会 双方关系升为全面战略伙伴 https://www.rfa.org/mandarin/Xinwen/wug-11122022112828.html#.Y2_Rslzxv9k.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登将在G20会谈中就朝鲜问题向习近平施压]]></title>
+        <id>https://twitter.com/RFA_Chinese/status/1591476012411502602</id>
+        <link href="https://twitter.com/RFA_Chinese/status/1591476012411502602"/>
+        <updated>2022-11-12T17:00:24.000Z</updated>
+        <summary type="html"><![CDATA[拜登将在G20会谈中就朝鲜问题向习近平施压 https://www.rfa.org/mandarin/Xinwen/wug-11122022112717.html#.Y2_RItWktvc.twitter]]></summary>
+        <author>
+            <name>自由亚洲电台</name>
         </author>
     </entry>
     <entry>
@@ -25547,1192 +26289,6 @@ xlsx等格式文件权限解除
         <summary type="html"><![CDATA[与强权的博弈（中国公民）]]></summary>
         <author>
             <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[夸克网盘资源分享站 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1581264878861287424</id>
-        <link href="https://twitter.com/abskoop/status/1581264878861287424"/>
-        <updated>2022-10-15T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[夸克网盘资源分享站
-👉 https://www.ahhhhfs.com/31335/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Lori Chang常萝蕤: 在四通桥勇士彭载舟的示范效应下，很多朋友受此激励，使用传单、海报、airdrop来传播其事迹。 要勇，但不鼓励无谓牺牲。 建议：逃避摄像头...]]></title>
-        <id>https://twitter.com/Yogameow/status/1581262792572608513</id>
-        <link href="https://twitter.com/Yogameow/status/1581262792572608513"/>
-        <updated>2022-10-15T12:36:42.000Z</updated>
-        <summary type="html"><![CDATA[RT Lori Chang常萝蕤
-在四通桥勇士彭载舟的示范效应下，很多朋友受此激励，使用传单、海报、airdrop来传播其事迹。
-要勇，但不鼓励无谓牺牲。
-建议：逃避摄像头、人肉、大数据识别很重要的要的一点就是尽量不要留下个人特征，也就是声纹、指纹、虹膜、脚印、步态、照片、摄像。（1/n） https://iyouport.substack.com/p/5-12b]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 自由亚洲电台: #对华政策跨国议会联盟 公开信谴责 #习近平连任]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581262168842207232</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581262168842207232"/>
-        <updated>2022-10-15T12:34:14.000Z</updated>
-        <summary type="html"><![CDATA[RT 自由亚洲电台
-#对华政策跨国议会联盟 公开信谴责 #习近平连任 https://www.rfa.org/mandarin/Xinwen/6-10152022062236.html#.Y0qokX3-Uxk.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#对华政策跨国议会联盟 公开信谴责 #习近平连任]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581262168842207232</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581262168842207232"/>
-        <updated>2022-10-15T12:34:14.000Z</updated>
-        <summary type="html"><![CDATA[#对华政策跨国议会联盟 公开信谴责 #习近平连任 https://www.rfa.org/mandarin/Xinwen/6-10152022062236.html#.Y0qokX3-Uxk.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/naochashu/status/1581258872240492556</id>
-        <link href="https://twitter.com/naochashu/status/1581258872240492556"/>
-        <updated>2022-10-15T12:21:08.000Z</updated>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 被中共“劫持”的习近平]]></title>
-        <id>https://twitter.com/nytchinese/status/1581253554920075264</id>
-        <link href="https://twitter.com/nytchinese/status/1581253554920075264"/>
-        <updated>2022-10-15T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 被中共“劫持”的习近平 https://nyti.ms/3rLXaBY]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @catland95581230 同意你的这个观点！不过，中国社会需要一些波澜。]]></title>
-        <id>https://twitter.com/naochashu/status/1581252793150865408</id>
-        <link href="https://twitter.com/naochashu/status/1581252793150865408"/>
-        <updated>2022-10-15T11:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @catland95581230 同意你的这个观点！不过，中国社会需要一些波澜。]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Twitter来看，中国改开派阻击的力量强大。从微信和微博来说，其力量暗淡无光。这只是一种强烈的感觉！]]></title>
-        <id>https://twitter.com/naochashu/status/1581249129988370434</id>
-        <link href="https://twitter.com/naochashu/status/1581249129988370434"/>
-        <updated>2022-10-15T11:42:25.000Z</updated>
-        <summary type="html"><![CDATA[从Twitter来看，中国改开派阻击的力量强大。从微信和微博来说，其力量暗淡无光。这只是一种强烈的感觉！]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌Google翻译修复工具 自动检测可用ip 自动设置 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1581246006338936832</id>
-        <link href="https://twitter.com/abskoop/status/1581246006338936832"/>
-        <updated>2022-10-15T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[谷歌Google翻译修复工具
-自动检测可用ip 自动设置
-👉 https://www.ahhhhfs.com/31323/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈哈哈哈 有创意🤤🤤]]></title>
-        <id>https://twitter.com/abskoop/status/1581238900491636737</id>
-        <link href="https://twitter.com/abskoop/status/1581238900491636737"/>
-        <updated>2022-10-15T11:01:46.000Z</updated>
-        <summary type="html"><![CDATA[哈哈哈哈 有创意🤤🤤]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zlibrary 检测助手 Pro 实时检测最新可用Z-Library 镜像 并且提供Z-Library共享账号解决限额 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1581223763424686082</id>
-        <link href="https://twitter.com/abskoop/status/1581223763424686082"/>
-        <updated>2022-10-15T10:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Zlibrary 检测助手 Pro
-实时检测最新可用Z-Library 镜像
-并且提供Z-Library共享账号解决限额
-👉 https://www.ahhhhfs.com/31330/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 “核酸盛世”？中国常态化核酸背后的代价和隐忧]]></title>
-        <id>https://twitter.com/nytchinese/status/1581223365683077121</id>
-        <link href="https://twitter.com/nytchinese/status/1581223365683077121"/>
-        <updated>2022-10-15T10:00:02.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 “核酸盛世”？中国常态化核酸背后的代价和隐忧 https://nyti.ms/3et9kwO]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581216743237685248</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581216743237685248"/>
-        <updated>2022-10-15T09:33:43.000Z</updated>
-        <summary type="html"><![CDATA[https://www.rfa.org/mandarin/Xinwen/st1-10152022052231.html]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从配色选择到系统功能妙用：这些技巧让 iPhone 更有个性]]></title>
-        <id>https://sspai.com/post/76168</id>
-        <link href="https://sspai.com/post/76168"/>
-        <updated>2022-10-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[除了换壁纸和手机壳，这些方式也能让你的 iPhone 化身可爱精灵。查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[选电脑知识🤤：CPU的型号字母和数字分别代表什么]]></title>
-        <id>https://twitter.com/abskoop/status/1581203685274574848</id>
-        <link href="https://twitter.com/abskoop/status/1581203685274574848"/>
-        <updated>2022-10-15T08:41:50.000Z</updated>
-        <summary type="html"><![CDATA[选电脑知识🤤：CPU的型号字母和数字分别代表什么]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 英国情报官员警告来自中国的威胁]]></title>
-        <id>https://twitter.com/nytchinese/status/1581193158855204868</id>
-        <link href="https://twitter.com/nytchinese/status/1581193158855204868"/>
-        <updated>2022-10-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 英国情报官员警告来自中国的威胁 https://nyti.ms/3ExeCld]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搞机工具箱-全安卓通用玩机神器 所有功能均无需ROOT，Android全机型通用 全图形化界面，通俗易懂，功能多而强大 无需UAC，超小体积，超快启动 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1581181416745840640</id>
-        <link href="https://twitter.com/abskoop/status/1581181416745840640"/>
-        <updated>2022-10-15T07:13:21.000Z</updated>
-        <summary type="html"><![CDATA[搞机工具箱-全安卓通用玩机神器
-所有功能均无需ROOT，Android全机型通用
-全图形化界面，通俗易懂，功能多而强大
-无需UAC，超小体积，超快启动
-👉 https://www.ahhhhfs.com/31280/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前瞻：也许没有发布会的十月，我们还能期待哪些 Apple 新品？]]></title>
-        <id>https://sspai.com/post/76191</id>
-        <link href="https://sspai.com/post/76191"/>
-        <updated>2022-10-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[少数派为大家搜集了一些有关于 10 月 Apple 新品的爆料消息，也许能引起你的换机欲望。查看全文]]></summary>
-        <author>
-            <name>Noah_Choi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#习近平 突破 #任期制 实现个人独裁是中共一党专制的性质使然，还是他个人野心膨胀的必然结果？香港资深媒体人纪硕鸣说，中共的制度限制不了强人，恢复一人独裁...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581170758574915584</id>
-        <link href="https://twitter.com/VOAChinese/status/1581170758574915584"/>
-        <updated>2022-10-15T06:31:00.000Z</updated>
-        <summary type="html"><![CDATA[#习近平 突破 #任期制 实现个人独裁是中共一党专制的性质使然，还是他个人野心膨胀的必然结果？香港资深媒体人纪硕鸣说，中共的制度限制不了强人，恢复一人独裁主要关乎习近平个人的“志”和“行”。#时事大家谈 完整版： https://bit.ly/3yF69cg]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 “中华民族共同体”：习近平如何重塑中国国家认同]]></title>
-        <id>https://twitter.com/nytchinese/status/1581162957135925248</id>
-        <link href="https://twitter.com/nytchinese/status/1581162957135925248"/>
-        <updated>2022-10-15T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 “中华民族共同体”：习近平如何重塑中国国家认同 https://nyti.ms/3RTiReb]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 为何在全球范围内，大规模抗议活动越来越难以成功？]]></title>
-        <id>https://twitter.com/nytchinese/status/1581147857444290560</id>
-        <link href="https://twitter.com/nytchinese/status/1581147857444290560"/>
-        <updated>2022-10-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 为何在全球范围内，大规模抗议活动越来越难以成功？ https://nyti.ms/3VaFSfk]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对中国的贸易与外交成为俄亥俄联邦参议员候选人辩论的热点。民主党人瑞恩试图将这个制造业大州失去的数以千计的工作与对手、风投家万斯对中国的投资连在一起，万...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581147858354331650</id>
-        <link href="https://twitter.com/VOAChinese/status/1581147858354331650"/>
-        <updated>2022-10-15T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[对中国的贸易与外交成为俄亥俄联邦参议员候选人辩论的热点。民主党人瑞恩试图将这个制造业大州失去的数以千计的工作与对手、风投家万斯对中国的投资连在一起，万斯反驳说对手无法举出具体例证，但两人均认可前总统特朗普的对华关税等强硬政策。选情胶着之际，万斯邀请特朗普之子站台。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宣布向乌克兰再提供7.25亿美元的军事援助]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581135545740460032</id>
-        <link href="https://twitter.com/VOAChinese/status/1581135545740460032"/>
-        <updated>2022-10-15T04:11:04.000Z</updated>
-        <summary type="html"><![CDATA[美国宣布向乌克兰再提供7.25亿美元的军事援助 http://dlvr.it/Sb6N45]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国官员像对待神圣的经文一般赞美习近平的讲话，表忠心的狂热言语有时让人想到毛泽东时代。本周日开幕的中共全国代表大会看起来将成为习近平走上帝位的时刻，让...]]></title>
-        <id>https://twitter.com/nytchinese/status/1581132763066814464</id>
-        <link href="https://twitter.com/nytchinese/status/1581132763066814464"/>
-        <updated>2022-10-15T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[中国官员像对待神圣的经文一般赞美习近平的讲话，表忠心的狂热言语有时让人想到毛泽东时代。本周日开幕的中共全国代表大会看起来将成为习近平走上帝位的时刻，让他的统治得到加固和延续，同时也加剧他的一人独大带来的长期风险。 https://nyti.ms/3rTQOR0]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在四通桥抗议者点燃的星火之后，中共20大仍是习近平表演的舞台，他寻求的第三乃至终身任期或将提高中国未来付出巨大代价的风险。此次大会将如何揭示中国政治生态...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581125209540554752</id>
-        <link href="https://twitter.com/VOAChinese/status/1581125209540554752"/>
-        <updated>2022-10-15T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[在四通桥抗议者点燃的星火之后，中共20大仍是习近平表演的舞台，他寻求的第三乃至终身任期或将提高中国未来付出巨大代价的风险。此次大会将如何揭示中国政治生态的变迁和内政外交的走向？欢迎收看美国之音在美东时间10月16日早9点，北京时间晚9点为您直播的《时事大家谈》。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京 #反习横幅 用词讲究，对仗工整，字字诛心，作者恐非一般闹事平民。纽约独立专栏作家张杰 @ZJ20672066 说，#彭立发 事件的意义在于，它突破了最近一段时间不...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581125208676638720</id>
-        <link href="https://twitter.com/VOAChinese/status/1581125208676638720"/>
-        <updated>2022-10-15T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[北京 #反习横幅 用词讲究，对仗工整，字字诛心，作者恐非一般闹事平民。纽约独立专栏作家张杰 @ZJ20672066 说，#彭立发 事件的意义在于，它突破了最近一段时间不断出现的民间抗争的物质层面，提出了鲜明的政治诉求。#时事大家谈 完整版： https://bit.ly/3yF69cg]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMF呼吁俄罗斯结束在乌克兰的战争]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581123585552560129</id>
-        <link href="https://twitter.com/VOAChinese/status/1581123585552560129"/>
-        <updated>2022-10-15T03:23:33.000Z</updated>
-        <summary type="html"><![CDATA[IMF呼吁俄罗斯结束在乌克兰的战争 http://dlvr.it/Sb6JrK]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在反对中国城监狱建案的社区领袖中，有一位年轻的华人Jack Liang。去年他在时报广场举行了一次声势浩大的反对仇恨亚裔的游行，吸引了歌星Rihanna参加，从而成为...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581117670149292032</id>
-        <link href="https://twitter.com/VOAChinese/status/1581117670149292032"/>
-        <updated>2022-10-15T03:00:02.000Z</updated>
-        <summary type="html"><![CDATA[在反对中国城监狱建案的社区领袖中，有一位年轻的华人Jack Liang。去年他在时报广场举行了一次声势浩大的反对仇恨亚裔的游行，吸引了歌星Rihanna参加，从而成为代表纽约华人社区的年轻力量。这次反对监狱建案的游行，他又通过社交媒体提高了该事件的社会影响力。#美国学徒 周六晚美国之音youtube播出。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海南再次欢迎你！（套路）]]></title>
-        <id>https://twitter.com/naochashu/status/1581110332889894914</id>
-        <link href="https://twitter.com/naochashu/status/1581110332889894914"/>
-        <updated>2022-10-15T02:30:53.000Z</updated>
-        <summary type="html"><![CDATA[海南再次欢迎你！（套路）]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#一周热门 中共二十大将释放哪些经济信号]]></title>
-        <id>https://twitter.com/nytchinese/status/1581102560504680448</id>
-        <link href="https://twitter.com/nytchinese/status/1581102560504680448"/>
-        <updated>2022-10-15T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#一周热门 中共二十大将释放哪些经济信号 https://nyti.ms/3S1HVzq]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哦]]></title>
-        <id>https://twitter.com/abskoop/status/1581086519917355008</id>
-        <link href="https://twitter.com/abskoop/status/1581086519917355008"/>
-        <updated>2022-10-15T00:56:16.000Z</updated>
-        <summary type="html"><![CDATA[哦]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共二十大：习近平的第三任期对非洲来说意味着什么？]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581084707638644736</id>
-        <link href="https://twitter.com/VOAChinese/status/1581084707638644736"/>
-        <updated>2022-10-15T00:49:04.000Z</updated>
-        <summary type="html"><![CDATA[中共二十大：习近平的第三任期对非洲来说意味着什么？ http://dlvr.it/Sb663D]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜：弹道导弹、军机和火炮都是“反制措施”]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581078168244740096</id>
-        <link href="https://twitter.com/VOAChinese/status/1581078168244740096"/>
-        <updated>2022-10-15T00:23:04.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜：弹道导弹、军机和火炮都是“反制措施” http://dlvr.it/Sb64Hc]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VOA专访：白宫国安会发言人谈伊朗抗议、侵乌战争、国安战略与中国挑战、北京出现反习标语]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581078160816615424</id>
-        <link href="https://twitter.com/VOAChinese/status/1581078160816615424"/>
-        <updated>2022-10-15T00:23:03.000Z</updated>
-        <summary type="html"><![CDATA[VOA专访：白宫国安会发言人谈伊朗抗议、侵乌战争、国安战略与中国挑战、北京出现反习标语 http://dlvr.it/Sb64Gp]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 自由亚洲电台: 外界广传“#四通桥勇士”身份 未获证实]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581076575654531072</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581076575654531072"/>
-        <updated>2022-10-15T00:16:45.000Z</updated>
-        <summary type="html"><![CDATA[RT 自由亚洲电台
-外界广传“#四通桥勇士”身份 未获证实 https://www.rfa.org/mandarin/Xinwen/6-10142022164630.html#.Y0n74AWTCXM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[外界广传“#四通桥勇士”身份 未获证实]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581076575654531072</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581076575654531072"/>
-        <updated>2022-10-15T00:16:45.000Z</updated>
-        <summary type="html"><![CDATA[外界广传“#四通桥勇士”身份 未获证实 https://www.rfa.org/mandarin/Xinwen/6-10142022164630.html#.Y0n74AWTCXM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国会跨党派议员最近提出一项法案，希望阻止中国俄罗斯等对手国家借助美国精英对美国政府和国会进行游说。观察人士认为，随着美国人对中国的负面看法不断升高...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581072365693411328</id>
-        <link href="https://twitter.com/VOAChinese/status/1581072365693411328"/>
-        <updated>2022-10-15T00:00:01.000Z</updated>
-        <summary type="html"><![CDATA[美国国会跨党派议员最近提出一项法案，希望阻止中国俄罗斯等对手国家借助美国精英对美国政府和国会进行游说。观察人士认为，随着美国人对中国的负面看法不断升高，中国在美国的游说工作常踢到铁板，一些国会成员都不愿意回复其电话。详细内容： https://www.voachinese.com/a/china-lobbying-us-20221014/6790358.html]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京的“桥”]]></title>
-        <id>https://twitter.com/naochashu/status/1581058302997581825</id>
-        <link href="https://twitter.com/naochashu/status/1581058302997581825"/>
-        <updated>2022-10-14T23:04:08.000Z</updated>
-        <summary type="html"><![CDATA[北京的“桥” https://twitter.com/i/web/status/1581058302997581825]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【马上评｜“数1万粒米”是奇葩作业吗？关键看考察什么】 老师应当说清楚，数1万粒米的作业是要求学生独立完成，还是鼓励全家一起参与的亲子教育游戏。在社会鼓...]]></title>
-        <id>https://twitter.com/thepapercn/status/1581054245083631616</id>
-        <link href="https://twitter.com/thepapercn/status/1581054245083631616"/>
-        <updated>2022-10-14T22:48:01.000Z</updated>
-        <summary type="html"><![CDATA[【马上评｜“数1万粒米”是奇葩作业吗？关键看考察什么】
-老师应当说清楚，数1万粒米的作业是要求学生独立完成，还是鼓励全家一起参与的亲子教育游戏。在社会鼓励创新、对创意作业越来越欢迎的语境下，教育工作者更要让布置作业和完成作业的过程回归科学务实，教育才能更健康。 https://buff.ly/3yCqYF2]]></summary>
-        <author>
-            <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#记录真实生活 感受大西北的隐入尘烟，这里在大山脚下，村子旁边是黄河，以前的老房子依旧屹立。]]></title>
-        <id>https://twitter.com/naochashu/status/1581051140128772096</id>
-        <link href="https://twitter.com/naochashu/status/1581051140128772096"/>
-        <updated>2022-10-14T22:35:40.000Z</updated>
-        <summary type="html"><![CDATA[#记录真实生活 感受大西北的隐入尘烟，这里在大山脚下，村子旁边是黄河，以前的老房子依旧屹立。]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[菲律宾海警队表示，已顺利完成对南中国海的斯卡伯勒浅滩的空中监察活动，期间菲中两国船只没有发生冲突。然而，菲律宾专家示警，北京近年来频频在南中国海争抢渔...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581051120398516227</id>
-        <link href="https://twitter.com/VOAChinese/status/1581051120398516227"/>
-        <updated>2022-10-14T22:35:36.000Z</updated>
-        <summary type="html"><![CDATA[菲律宾海警队表示，已顺利完成对南中国海的斯卡伯勒浅滩的空中监察活动，期间菲中两国船只没有发生冲突。然而，菲律宾专家示警，北京近年来频频在南中国海争抢渔业资源、进行军事部署，马尼拉应持续坚称其在南中国海的主权声索，否则中国恐持续进行扩张，导致南中国海在未来成为中国内海。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT Zuowang 左望: My friends, journalist #HuangXueqin and labor activist #WangJianbing have been arbitrarily detained for more than 390 days. We need t...]]></title>
-        <id>https://twitter.com/zuowang51/status/1581050013484187648</id>
-        <link href="https://twitter.com/zuowang51/status/1581050013484187648"/>
-        <updated>2022-10-14T22:31:12.000Z</updated>
-        <summary type="html"><![CDATA[RT Zuowang 左望
-My friends, journalist #HuangXueqin and labor activist #WangJianbing have been arbitrarily detained for more than 390 days. We need them back!
- #FreeXueBing #释放雪饼@FreeXueBing]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球联署公开信 要求罢免审判 #习近平]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581047961295163392</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581047961295163392"/>
-        <updated>2022-10-14T22:23:03.000Z</updated>
-        <summary type="html"><![CDATA[全球联署公开信 要求罢免审判 #习近平 https://www.rfa.org/mandarin/Xinwen/7-10142022164807.html#.Y0nhMPsJ1c8.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“要把中文灭干净了” 二十大倒计时 中国当局网络审查火力全开]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581046454785036288</id>
-        <link href="https://twitter.com/VOAChinese/status/1581046454785036288"/>
-        <updated>2022-10-14T22:17:03.000Z</updated>
-        <summary type="html"><![CDATA[“要把中文灭干净了” 二十大倒计时 中国当局网络审查火力全开 http://dlvr.it/Sb5syP]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专栏 | #夜话中南海：既有 #刘建超，又有 #刘结一，习近平有必要为 #王毅“破八”吗？]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581044648608337921</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581044648608337921"/>
-        <updated>2022-10-14T22:09:53.000Z</updated>
-        <summary type="html"><![CDATA[专栏 | #夜话中南海：既有 #刘建超，又有 #刘结一，习近平有必要为 #王毅“破八”吗？ https://www.rfa.org/mandarin/zhuanlan/yehuazhongnanhai/gx-10142022144357.html#.Y0nd57cvuaQ.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#亚太报道（2022-10-14）】]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581042507970150400</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581042507970150400"/>
-        <updated>2022-10-14T22:01:22.000Z</updated>
-        <summary type="html"><![CDATA[【#亚太报道（2022-10-14）】 https://youtu.be/Ah3HOen278A]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在疫情前，中国曾是 #菲律宾 第2大外国游客来源国，但本周，中、菲两国又因为菲律宾被列入 #旅游黑名单 的消息引发外交口角，菲国网友却反而纷纷表示感谢，这个...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581035783372218368</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581035783372218368"/>
-        <updated>2022-10-14T21:34:39.000Z</updated>
-        <summary type="html"><![CDATA[在疫情前，中国曾是 #菲律宾 第2大外国游客来源国，但本周，中、菲两国又因为菲律宾被列入 #旅游黑名单 的消息引发外交口角，菲国网友却反而纷纷表示感谢，这个黑名单反而能还菲律宾一片安宁。 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/fy-10142022152758.html#.Y0nVv7ZK0ac.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[评论 | 王丹：一意孤行的“动态清零”]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581034611366367233</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581034611366367233"/>
-        <updated>2022-10-14T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[评论 | 王丹：一意孤行的“动态清零” https://www.rfa.org/mandarin/pinglun/wangdan/wd-10142022115245.html#.Y0myo81oeP4.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#香港经贸办 成“#战狼” 频致函外媒反驳对港批评]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581034061367193600</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581034061367193600"/>
-        <updated>2022-10-14T21:27:49.000Z</updated>
-        <summary type="html"><![CDATA[#香港经贸办 成“#战狼”  频致函外媒反驳对港批评 https://www.rfa.org/mandarin/yataibaodao/gangtai/al-10142022133742.html#.Y0nUL4xdcBc.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#梁万年 表示，中国目前有一种“了不起的能力”。他说：“通过近三年的防控事件的锻炼和我们的能力的加强，中国已经具备了强大的 #核酸检测 能力。它表现在我们...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581032606405042176</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581032606405042176"/>
-        <updated>2022-10-14T21:22:02.000Z</updated>
-        <summary type="html"><![CDATA[#梁万年 表示，中国目前有一种“了不起的能力”。他说：“通过近三年的防控事件的锻炼和我们的能力的加强，中国已经具备了强大的 #核酸检测 能力。它表现在我们现在每天可以有一亿多管的单管检测能力。也就是说，如果是1:10混检的话，我们一天可以检测十几亿人。” https://www.rfa.org/mandarin/yataibaodao/huanjing/sc-10142022134932.html#.Y0nSxFWW2Lo.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“这种孤身犯险、挑战专制，的确让人想起 #坦克人。” #四通桥 #孤勇者 #北京横幅抗议事件]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581031225820868608</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581031225820868608"/>
-        <updated>2022-10-14T21:16:33.000Z</updated>
-        <summary type="html"><![CDATA[“这种孤身犯险、挑战专制，的确让人想起 #坦克人。”    #四通桥 #孤勇者 #北京横幅抗议事件 https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/kw-10142022094809.html#.Y0nRmJroJhE.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国势力干扰 #加拿大选举？#亲中社群 支持特定候选人]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581030339799310337</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581030339799310337"/>
-        <updated>2022-10-14T21:13:01.000Z</updated>
-        <summary type="html"><![CDATA[中国势力干扰 #加拿大选举？#亲中社群 支持特定候选人 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/lf-10142022135617.html#.Y0nQE5kFm8s.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰总统泽连斯基 @ZelenskyyUa 10月13日用中文发推，获赞已超过五万。 你打算转发他的中文推特吗？ 对此，你支持还是反对？]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581028509417320449</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581028509417320449"/>
-        <updated>2022-10-14T21:05:45.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统泽连斯基 @ZelenskyyUa 10月13日用中文发推，获赞已超过五万。
-你打算转发他的中文推特吗？
-对此，你支持还是反对？]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向美军销售中国制造假冒军服 供应商被判40月监禁]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581026698774327296</id>
-        <link href="https://twitter.com/VOAChinese/status/1581026698774327296"/>
-        <updated>2022-10-14T20:58:33.000Z</updated>
-        <summary type="html"><![CDATA[向美军销售中国制造假冒军服 供应商被判40月监禁 http://dlvr.it/Sb5jtW]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美联邦通信委员会将禁止批准华为和中兴产设备进入美国]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581019525394616321</id>
-        <link href="https://twitter.com/VOAChinese/status/1581019525394616321"/>
-        <updated>2022-10-14T20:30:03.000Z</updated>
-        <summary type="html"><![CDATA[美联邦通信委员会将禁止批准华为和中兴产设备进入美国 http://dlvr.it/Sb5fzS]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【爸爸辅导作业把儿子气哭：我不知道新的算法，其实孩子是对的】 10月11日，辽宁抚顺。齐先生给儿子辅导作业时儿子被气哭。齐先生称儿子上四年级，他给孩子讲数...]]></title>
-        <id>https://twitter.com/thepapercn/status/1581015312799248385</id>
-        <link href="https://twitter.com/thepapercn/status/1581015312799248385"/>
-        <updated>2022-10-14T20:13:19.000Z</updated>
-        <summary type="html"><![CDATA[【爸爸辅导作业把儿子气哭：我不知道新的算法，其实孩子是对的】
-10月11日，辽宁抚顺。齐先生给儿子辅导作业时儿子被气哭。齐先生称儿子上四年级，他给孩子讲数学题，但孩子现在学的新算法，他不清楚，一直和孩子犟，其实孩子是对的。（素材来源： 相关人士）]]></summary>
-        <author>
-            <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末音乐《孤勇者》🎼这首歌给人以力量和勇气！合而萌Har&Mone演绎的合唱版，超越了原唱版本，不仅是在音乐表达力和演唱技巧，而更多在于那种超越作品本身的灵...]]></title>
-        <id>https://twitter.com/naochashu/status/1581013365702660096</id>
-        <link href="https://twitter.com/naochashu/status/1581013365702660096"/>
-        <updated>2022-10-14T20:05:34.000Z</updated>
-        <summary type="html"><![CDATA[周末音乐《孤勇者》🎼这首歌给人以力量和勇气！合而萌Har&Mone演绎的合唱版，超越了原唱版本，不仅是在音乐表达力和演唱技巧，而更多在于那种超越作品本身的灵魂穿透力！
-         现在和未来的人们，都需要这种超越凡性而直达人心的真正的精神力量……]]></summary>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#二十大 谁 #入常？中共最高权力的黑箱运作 （戴忠仁/夏明/蔡慎坤） | 亚洲很想聊】 各种不同版本的人事传闻代表的意义为何？ 为何外界总是要像猜谜一样的预测...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581011968114118656</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581011968114118656"/>
-        <updated>2022-10-14T20:00:01.000Z</updated>
-        <summary type="html"><![CDATA[【#二十大 谁 #入常？中共最高权力的黑箱运作 （戴忠仁/夏明/蔡慎坤） | 亚洲很想聊】
-各种不同版本的人事传闻代表的意义为何？ 为何外界总是要像猜谜一样的预测 #中共人事?
-为何至今中共仍找不出一套解决权力分配的方法？
-总是在激烈的斗争中，黑箱作业，这会造成什么问题？ https://youtu.be/RMqV-hSrxVE]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新国安战略再次聚焦中国，中国游说美国之路越来越难]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581011725499105282</id>
-        <link href="https://twitter.com/VOAChinese/status/1581011725499105282"/>
-        <updated>2022-10-14T19:59:03.000Z</updated>
-        <summary type="html"><![CDATA[新国安战略再次聚焦中国，中国游说美国之路越来越难 http://dlvr.it/Sb5bG1]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“反映在中国国内民间，很多对习近平十年执政不满，特别对政治状况不满。尽管政治打压非常严厉，民间还是有很多人不满。”吴仁华说。 #反习横幅 #四通桥 #孤勇者]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581009466061099008</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581009466061099008"/>
-        <updated>2022-10-14T19:50:05.000Z</updated>
-        <summary type="html"><![CDATA[“反映在中国国内民间，很多对习近平十年执政不满，特别对政治状况不满。尽管政治打压非常严厉，民间还是有很多人不满。”吴仁华说。
-#反习横幅  #四通桥  #孤勇者 https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/hcm1-10142022070211.html#.Y0m9QjHWwiM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国智库大西洋理事会高级研究员Dexter Tiff Roberts 10月13日在美国智库东西方研究中心（East-West Center）举办的线上研讨会中指出，习近平对于新冠疫情的“#...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1581007469781753858</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1581007469781753858"/>
-        <updated>2022-10-14T19:42:09.000Z</updated>
-        <summary type="html"><![CDATA[美国智库大西洋理事会高级研究员Dexter Tiff Roberts 10月13日在美国智库东西方研究中心（East-West Center）举办的线上研讨会中指出，习近平对于新冠疫情的“#动态清零”政策已重创 #中国经济，“在（今年的）第二季，中国的经济成长率是国内生产总值的0.4%，创中国的新低。” https://www.rfa.org/mandarin/yataibaodao/zhengzhi/tj-10142022131615.html#.Y0m7a9xNNPA.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白宫国家安全委员会发言人约翰·科比John Kirby接受美国之音专访时对中共二十大前北京出现的反习横幅标语以及中国的言论审查回应说，世界各国人民都应享有和平抗...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1581004620058578944</id>
-        <link href="https://twitter.com/VOAChinese/status/1581004620058578944"/>
-        <updated>2022-10-14T19:30:49.000Z</updated>
-        <summary type="html"><![CDATA[白宫国家安全委员会发言人约翰·科比John Kirby接受美国之音专访时对中共二十大前北京出现的反习横幅标语以及中国的言论审查回应说，世界各国人民都应享有和平抗议的基本权利。科比还重申了美国国家安全战略将中国列为主要挑战；他说中国与俄罗斯一样试图扰乱国际秩序。 http://voachinese.com]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌战动态：俄导弹继续袭乌，俄境内弹药库爆炸，普京称无意摧毁乌国但开战“不后悔”，俄开始从赫尔松撤离平民]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580999024693608448</id>
-        <link href="https://twitter.com/VOAChinese/status/1580999024693608448"/>
-        <updated>2022-10-14T19:08:35.000Z</updated>
-        <summary type="html"><![CDATA[乌战动态：俄导弹继续袭乌，俄境内弹药库爆炸，普京称无意摧毁乌国但开战“不后悔”，俄开始从赫尔松撤离平民 http://dlvr.it/Sb5V3M]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://twitter.com/naochashu/status/1580997772610011136</id>
-        <link href="https://twitter.com/naochashu/status/1580997772610011136"/>
-        <updated>2022-10-14T19:03:37.000Z</updated>
-        <author>
-            <name>野山🎗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专栏 | #财经时时听：美新一轮 #芯片出口限制 将使中国高科技产业倒退多年]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580996592571543552</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580996592571543552"/>
-        <updated>2022-10-14T18:58:55.000Z</updated>
-        <summary type="html"><![CDATA[专栏 | #财经时时听：美新一轮 #芯片出口限制 将使中国高科技产业倒退多年 https://www.rfa.org/mandarin/zhuanlan/jingmaorediansaomiao/econ-10142022115444.html#.Y0mxXxHFVBM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈萨克族拘留营幸存者计划起诉英国政府未能充分应对从新疆进口的棉花]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580992613767057408</id>
-        <link href="https://twitter.com/VOAChinese/status/1580992613767057408"/>
-        <updated>2022-10-14T18:43:07.000Z</updated>
-        <summary type="html"><![CDATA[哈萨克族拘留营幸存者计划起诉英国政府未能充分应对从新疆进口的棉花 http://dlvr.it/Sb5R7P]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国务卿安东尼·布林肯10月14日说，伊朗抗议者在争取基本权利的抗议活动中展示出不同寻常的勇气。上个月，一名伊朗年轻女性在被关押期间死亡的事件引发大规模...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580992520246464514</id>
-        <link href="https://twitter.com/VOAChinese/status/1580992520246464514"/>
-        <updated>2022-10-14T18:42:44.000Z</updated>
-        <summary type="html"><![CDATA[美国国务卿安东尼·布林肯10月14日说，伊朗抗议者在争取基本权利的抗议活动中展示出不同寻常的勇气。上个月，一名伊朗年轻女性在被关押期间死亡的事件引发大规模持续抗议活动。伊朗政府本星期指责美国插手抗议并试图破坏该地区稳定。布林肯否认了这种指控。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度尼西亚安全部长穆罕默德·马赫夫德10月14日说，调查人员认为，警方在不久前的足球赛场踩踏事件中发射的催泪瓦斯是造成多人伤亡的主要原因。调查人员在一份报...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580988678767247368</id>
-        <link href="https://twitter.com/VOAChinese/status/1580988678767247368"/>
-        <updated>2022-10-14T18:27:29.000Z</updated>
-        <summary type="html"><![CDATA[印度尼西亚安全部长穆罕默德·马赫夫德10月14日说，调查人员认为，警方在不久前的足球赛场踩踏事件中发射的催泪瓦斯是造成多人伤亡的主要原因。调查人员在一份报告中说，警方在场上出现骚乱后，无差别地向人群发射催泪瓦斯，并使用了过度执法措施。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正在美国访问的台湾经济部长 #王美花 周四回应媒体提问时说：“我们的 #半导体 生产出来之后，六成要送到中国去组装。这些组装里面，包括iPhone组装后卖到全世界...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580988343872995328</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580988343872995328"/>
-        <updated>2022-10-14T18:26:09.000Z</updated>
-        <summary type="html"><![CDATA[正在美国访问的台湾经济部长 #王美花 周四回应媒体提问时说：“我们的 #半导体 生产出来之后，六成要送到中国去组装。这些组装里面，包括iPhone组装后卖到全世界，包括笔电组装后卖到全世界。稍微算一下就会知道，在中国出口的这个产值有多大，它的影响会是多少。” https://www.rfa.org/mandarin/yataibaodao/gangtai/kw-10132022131550.html#.Y0mpqK9ZgD0.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京惊现反习横幅，呼吁反对核酸、罢免习近平，激发强烈震撼。美国CNN记者来到事发现场北京海淀区四通桥采访，却遭路人训斥：“在中国的土地上，接受中国的法律...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580985471110246400</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580985471110246400"/>
-        <updated>2022-10-14T18:14:44.000Z</updated>
-        <summary type="html"><![CDATA[北京惊现反习横幅，呼吁反对核酸、罢免习近平，激发强烈震撼。美国CNN记者来到事发现场北京海淀区四通桥采访，却遭路人训斥：“在中国的土地上，接受中国的法律，You know？”]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京街头惊现反习横幅后，北京加强安全监控。 Comparitech公司的一项新分析显示，中国的城市处于全球最严格的闭路电视监控之下：中国平均每1,000名居民拥有近373...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580985038161661953</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580985038161661953"/>
-        <updated>2022-10-14T18:13:01.000Z</updated>
-        <summary type="html"><![CDATA[北京街头惊现反习横幅后，北京加强安全监控。
-Comparitech公司的一项新分析显示，中国的城市处于全球最严格的闭路电视监控之下：中国平均每1,000名居民拥有近373个监控摄像头，是全球之最。
-该公司还发现，公共闭路电视摄像头的数量与犯罪或安全之间几乎没有关联。]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国研究团队称实现技术突破 使潜艇动力和隐身能力大大提升]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580984806141489153</id>
-        <link href="https://twitter.com/VOAChinese/status/1580984806141489153"/>
-        <updated>2022-10-14T18:12:05.000Z</updated>
-        <summary type="html"><![CDATA[中国研究团队称实现技术突破 使潜艇动力和隐身能力大大提升 http://dlvr.it/Sb5MVc]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平连任逆中共“家规” 继续清零不能认错]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580984798805635072</id>
-        <link href="https://twitter.com/VOAChinese/status/1580984798805635072"/>
-        <updated>2022-10-14T18:12:03.000Z</updated>
-        <summary type="html"><![CDATA[习近平连任逆中共“家规” 继续清零不能认错 http://dlvr.it/Sb5MVM]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【老人画简笔画区分饺子馅，儿媳：她不识字，感觉很有爱】 10月10日，辽宁沈阳。杜女士分享婆婆为孩子包5袋饺子，画简笔画放袋子上区分不同馅的饺子。她说婆婆不...]]></title>
-        <id>https://twitter.com/thepapercn/status/1580981583216930816</id>
-        <link href="https://twitter.com/thepapercn/status/1580981583216930816"/>
-        <updated>2022-10-14T17:59:17.000Z</updated>
-        <summary type="html"><![CDATA[【老人画简笔画区分饺子馅，儿媳：她不识字，感觉很有爱】
-10月10日，辽宁沈阳。杜女士分享婆婆为孩子包5袋饺子，画简笔画放袋子上区分不同馅的饺子。她说婆婆不识字，画花盆代表韭菜鸡蛋，胡萝卜代表胡萝卜肉馅，觉得很有爱。（素材来源：相关人士）]]></summary>
-        <author>
-            <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首富马斯克提议让台湾成为中共的特别行政区，台湾外贸协会董事长黄志芳接受VOA专访时说，中国长期以市场打压台湾国际空间，马斯克这种基于商业利益牺牲台湾...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580979234373238793</id>
-        <link href="https://twitter.com/VOAChinese/status/1580979234373238793"/>
-        <updated>2022-10-14T17:49:57.000Z</updated>
-        <summary type="html"><![CDATA[全球首富马斯克提议让台湾成为中共的特别行政区，台湾外贸协会董事长黄志芳接受VOA专访时说，中国长期以市场打压台湾国际空间，马斯克这种基于商业利益牺牲台湾主权的言论，违背美国开国先贤“不自由、毋宁死”的精神，他希望邀请马斯克参观“台湾形象展”，体会台湾自由蓬勃的商机与中共专制市场的差别。]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国拟全面禁止 #华为、#中兴 设备在美销售； 英国政府也发出通知，限期在2027年底前，将华为设备从英国的5G公共网路中彻底移除。]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580978262876225537</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580978262876225537"/>
-        <updated>2022-10-14T17:46:05.000Z</updated>
-        <summary type="html"><![CDATA[美国拟全面禁止 #华为、#中兴 设备在美销售；
-英国政府也发出通知，限期在2027年底前，将华为设备从英国的5G公共网路中彻底移除。 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/hcm2-10142022080022.html#.Y0mgPuWURpE.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国会外委会新主席对华强硬 寻求与台湾合作]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580977122143010816</id>
-        <link href="https://twitter.com/VOAChinese/status/1580977122143010816"/>
-        <updated>2022-10-14T17:41:33.000Z</updated>
-        <summary type="html"><![CDATA[英国会外委会新主席对华强硬 寻求与台湾合作 http://dlvr.it/Sb5HVq]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专栏 | #周嘉有话说：“怎么老是你？” #习近平 #二十大 苹果用户可接收听播客]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580973148379705345</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580973148379705345"/>
-        <updated>2022-10-14T17:25:46.000Z</updated>
-        <summary type="html"><![CDATA[专栏 | #周嘉有话说：“怎么老是你？”
-#习近平  #二十大 
-苹果用户可接收听播客 https://apple.co/3AnUnTD https://www.rfa.org/mandarin/zhuanlan/5468560967098bdd8bf4/talk-10142022121053.html#.Y0mbScYojqY.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[激进减税方案引发金融市场震荡，英首相特拉斯炒财政大臣鱿鱼]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580972593158696962</id>
-        <link href="https://twitter.com/VOAChinese/status/1580972593158696962"/>
-        <updated>2022-10-14T17:23:33.000Z</updated>
-        <summary type="html"><![CDATA[激进减税方案引发金融市场震荡，英首相特拉斯炒财政大臣鱿鱼 http://dlvr.it/Sb5FCN]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国经济再次面对多个难关，新公布的全国 #工业生产者出厂价格指数 回落未止，#人民币兑美元 的在岸和离岸价格，再失守7.2元的水平，人行要动用20亿进行逆回购。...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580965455396712466</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580965455396712466"/>
-        <updated>2022-10-14T16:55:12.000Z</updated>
-        <summary type="html"><![CDATA[中国经济再次面对多个难关，新公布的全国 #工业生产者出厂价格指数 回落未止，#人民币兑美元 的在岸和离岸价格，再失守7.2元的水平，人行要动用20亿进行逆回购。分析指出，中国经济被"#动态清零"阻碍的效应已经显现。 https://www.rfa.org/mandarin/yataibaodao/jingmao/ec-10142022084737.html#.Y0mUSDkE4ns.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登政府最近公布“北极战略”，寻求强化美国在当地的防御存在，应对中国俄罗斯的战略挑战。美国哈德逊研究所中国中心主任余茂春说，中国的全球战略一直以“我不...]]></title>
-        <id>https://twitter.com/VOAChinese/status/1580962296087646209</id>
-        <link href="https://twitter.com/VOAChinese/status/1580962296087646209"/>
-        <updated>2022-10-14T16:42:38.000Z</updated>
-        <summary type="html"><![CDATA[拜登政府最近公布“北极战略”，寻求强化美国在当地的防御存在，应对中国俄罗斯的战略挑战。美国哈德逊研究所中国中心主任余茂春说，中国的全球战略一直以“我不去占领，敌人就会去占领”的零和思维为中心，让全世界都觉得中国是一种威胁。详细内容： https://bit.ly/3Tl7Xid]]></summary>
-        <author>
-            <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 自由亚洲电台: 中共20大召开在即，北京维稳措施空前，但闹市仍出现近年罕见示威巨幅标语，且矛头直指 #习近平。 网友评论说：海外挂一个标语不稀奇，墙内这样...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580961504550977538</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580961504550977538"/>
-        <updated>2022-10-14T16:39:30.000Z</updated>
-        <summary type="html"><![CDATA[RT 自由亚洲电台
-中共20大召开在即，北京维稳措施空前，但闹市仍出现近年罕见示威巨幅标语，且矛头直指 #习近平。
-网友评论说：海外挂一个标语不稀奇，墙内这样做却是豁出了命，还会牵连所有家人，真的勇士。
-你预计此人会被如何处理？你有什么话要对他说？
-#北京四通桥 #北京高架横幅]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[各种纪录片集合11.8TB 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1580948855511621634</id>
-        <link href="https://twitter.com/abskoop/status/1580948855511621634"/>
-        <updated>2022-10-14T15:49:14.000Z</updated>
-        <summary type="html"><![CDATA[各种纪录片集合11.8TB
-👉 https://www.ahhhhfs.com/31286/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【对话26年手写板书的教授：课堂上要讲的内容都在我脑海里】 58岁的黄方林说，授课方式本身不重要，如何通过教师教学让学生有最大的收获、能成为国家需要的人才...]]></title>
-        <id>https://twitter.com/thepapercn/status/1580947040653090818</id>
-        <link href="https://twitter.com/thepapercn/status/1580947040653090818"/>
-        <updated>2022-10-14T15:42:01.000Z</updated>
-        <summary type="html"><![CDATA[【对话26年手写板书的教授：课堂上要讲的内容都在我脑海里】
-58岁的黄方林说，授课方式本身不重要，如何通过教师教学让学生有最大的收获、能成为国家需要的人才，这才是最重要的。在他26年的从教生涯中，讲授过的课程多达十几门，但都不用带教材教案。 https://buff.ly/3exctf0]]></summary>
-        <author>
-            <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 两个头像叠一起🤤]]></title>
-        <id>https://twitter.com/abskoop/status/1580934138239909888</id>
-        <link href="https://twitter.com/abskoop/status/1580934138239909888"/>
-        <updated>2022-10-14T14:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Re 两个头像叠一起🤤]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄像头娱乐榜Google Pixel 7Pro重新登顶了🥹]]></title>
-        <id>https://twitter.com/abskoop/status/1580933781103382528</id>
-        <link href="https://twitter.com/abskoop/status/1580933781103382528"/>
-        <updated>2022-10-14T14:49:20.000Z</updated>
-        <summary type="html"><![CDATA[摄像头娱乐榜Google Pixel 7Pro重新登顶了🥹]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特新功能🥲不是某音上的功能吗]]></title>
-        <id>https://twitter.com/abskoop/status/1580933072505053186</id>
-        <link href="https://twitter.com/abskoop/status/1580933072505053186"/>
-        <updated>2022-10-14T14:46:31.000Z</updated>
-        <summary type="html"><![CDATA[推特新功能🥲不是某音上的功能吗]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费万能对话生成器 支持微信、支付宝、QQ 各种对话、转帐、发红包截图生成 支持电量、信号、时间各种细节定制 结果截图无水印保存 👉]]></title>
-        <id>https://twitter.com/abskoop/status/1580923881795293185</id>
-        <link href="https://twitter.com/abskoop/status/1580923881795293185"/>
-        <updated>2022-10-14T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[免费万能对话生成器 
-支持微信、支付宝、QQ
-各种对话、转帐、发红包截图生成
-支持电量、信号、时间各种细节定制
-结果截图无水印保存
-👉 https://www.ahhhhfs.com/31264/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re 一些微信用户说，在分享了四通桥的图片或发送有关该事件的讯息后，他们的帐户被冻结。在一些音乐应用上，许多人在香港歌手陈奕迅的歌曲《孤勇者》的评论区里...]]></title>
-        <id>https://twitter.com/nytchinese/status/1580921379762872320</id>
-        <link href="https://twitter.com/nytchinese/status/1580921379762872320"/>
-        <updated>2022-10-14T14:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Re 一些微信用户说，在分享了四通桥的图片或发送有关该事件的讯息后，他们的帐户被冻结。在一些音乐应用上，许多人在香港歌手陈奕迅的歌曲《孤勇者》的评论区里发表了向抗议者致敬的言论。这些评论被删除。 https://nyti.ms/3rSR6b5]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酷安小编聊聊开发者上架应用的问题🫣]]></title>
-        <id>https://twitter.com/abskoop/status/1580921003458236416</id>
-        <link href="https://twitter.com/abskoop/status/1580921003458236416"/>
-        <updated>2022-10-14T13:58:33.000Z</updated>
-        <summary type="html"><![CDATA[酷安小编聊聊开发者上架应用的问题🫣]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @404notfoundyet_ 上架🙊]]></title>
-        <id>https://twitter.com/abskoop/status/1580914309705572352</id>
-        <link href="https://twitter.com/abskoop/status/1580914309705572352"/>
-        <updated>2022-10-14T13:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Re @404notfoundyet_ 上架🙊]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @songmya94 🫶🙊哈哈]]></title>
-        <id>https://twitter.com/abskoop/status/1580914215094611968</id>
-        <link href="https://twitter.com/abskoop/status/1580914215094611968"/>
-        <updated>2022-10-14T13:31:35.000Z</updated>
-        <summary type="html"><![CDATA[Re @songmya94 🫶🙊哈哈]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re @kongsu163 第一代的降噪😭]]></title>
-        <id>https://twitter.com/abskoop/status/1580914185461907457</id>
-        <link href="https://twitter.com/abskoop/status/1580914185461907457"/>
-        <updated>2022-10-14T13:31:28.000Z</updated>
-        <summary type="html"><![CDATA[Re @kongsu163 第一代的降噪😭]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【“黑黄金”！中国自主研发的大丝束碳纤维在沪投产】 近日，我国首个万吨级48K大丝束碳纤维工程第一套国产线，在中国石化上海石化碳纤维产业基地生产出合格产品...]]></title>
-        <id>https://twitter.com/thepapercn/status/1580913349927219201</id>
-        <link href="https://twitter.com/thepapercn/status/1580913349927219201"/>
-        <updated>2022-10-14T13:28:09.000Z</updated>
-        <summary type="html"><![CDATA[【“黑黄金”！中国自主研发的大丝束碳纤维在沪投产】
-近日，我国首个万吨级48K大丝束碳纤维工程第一套国产线，在中国石化上海石化碳纤维产业基地生产出合格产品。这标志我国大丝束碳纤维走向规模化生产。（视频来源：人民网）]]></summary>
-        <author>
-            <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平最初被认为是坚定但和蔼可亲的领导人，他的形象设计者将他塑造成“习大大”。但在即将步入掌权的第二个十年之际，他俨然成为了一个严厉的共产主义君王，决...]]></title>
-        <id>https://twitter.com/nytchinese/status/1580906277328363525</id>
-        <link href="https://twitter.com/nytchinese/status/1580906277328363525"/>
-        <updated>2022-10-14T13:00:02.000Z</updated>
-        <summary type="html"><![CDATA[习近平最初被认为是坚定但和蔼可亲的领导人，他的形象设计者将他塑造成“习大大”。但在即将步入掌权的第二个十年之际，他俨然成为了一个严厉的共产主义君王，决心在动荡的世界实现中国的复兴。 https://nyti.ms/3rTQOR0]]></summary>
-        <author>
-            <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 自由亚洲电台: 【京城急聘24小时"看桥员"全天候监控】 北京四通桥周四被人挂上要求罢免习近平横幅后，北京市政府立即採取紧急措施，派出穿上民兵制服的人员连...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580828108202323973</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580828108202323973"/>
-        <updated>2022-10-14T07:49:26.000Z</updated>
-        <summary type="html"><![CDATA[RT 自由亚洲电台
-【京城急聘24小时"看桥员"全天候监控】
-北京四通桥周四被人挂上要求罢免习近平横幅后，北京市政府立即採取紧急措施，派出穿上民兵制服的人员连夜看守所有行车和行人天桥。
-各区政府还刊登招聘广告急聘"看桥员"，分两班制24小时在桥上站岗，每天工资280至320元人民币，即每小时工资最多只有26元人民币。]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10月13日，在北京海淀区四通桥上，有示威者悬挂呼吁反对核酸、罢免中共领导人习近平的横幅，该事件迅速引发海内外舆论关注。在中共二十大前受到严格压制的中国舆...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580719560423940096</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580719560423940096"/>
-        <updated>2022-10-14T00:38:06.000Z</updated>
-        <summary type="html"><![CDATA[10月13日，在北京海淀区四通桥上，有示威者悬挂呼吁反对核酸、罢免中共领导人习近平的横幅，该事件迅速引发海内外舆论关注。在中共二十大前受到严格压制的中国舆论环境下，却有人认为这种行为不足为奇。 https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/wy-10132022084329.html#.Y0ivZ0Wi-8U.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【#亚太报道（2022-10-13）】 北京突发反习事件；习近平搞终身制目的何在？；美国半导体禁令引发海归离职潮；中国多家房企被撤回或下调评级；台湾防长划出“第一...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580719185545826304</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580719185545826304"/>
-        <updated>2022-10-14T00:36:36.000Z</updated>
-        <summary type="html"><![CDATA[【#亚太报道（2022-10-13）】
-北京突发反习事件；习近平搞终身制目的何在？；美国半导体禁令引发海归离职潮；中国多家房企被撤回或下调评级；台湾防长划出“第一击”红线；
-#北京 #海淀 #四通桥 #勇士 #突发事件 #习近平 #终身制 #二十大 #美国半导体禁令 #海归 #离职潮 #邱国正 https://www.youtube.com/watch?v=FXkfD5b3HEQ]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了因应中国和俄罗斯日益增加的威胁，日本和加拿大共同宣布“自由开放的印太行动计划”，其中包括将就签署军事情报信息共享协议进行谈判。加拿大外长表示，过去...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580689277343895552</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580689277343895552"/>
-        <updated>2022-10-13T22:37:46.000Z</updated>
-        <summary type="html"><![CDATA[为了因应中国和俄罗斯日益增加的威胁，日本和加拿大共同宣布“自由开放的印太行动计划”，其中包括将就签署军事情报信息共享协议进行谈判。加拿大外长表示，过去加拿大的重心都放在大西洋，如今将加强对太平洋地区的资源布署。 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/lf-10122022134055.html#.Y0iTNJ7lp80.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据美联社报导，韩国联合参谋本部表示，朝鲜当地时间14日凌晨向东部海域发射一枚弹道导弹，但未提供飞行距离等进一步细节。另外，朝鲜稍早还派出10架战机飞近韩国...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580669458942607360</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580669458942607360"/>
-        <updated>2022-10-13T21:19:01.000Z</updated>
-        <summary type="html"><![CDATA[据美联社报导，韩国联合参谋本部表示，朝鲜当地时间14日凌晨向东部海域发射一枚弹道导弹，但未提供飞行距离等进一步细节。另外，朝鲜稍早还派出10架战机飞近韩国边界。 https://www.rfa.org/mandarin/Xinwen/9-10132022164231.html#.Y0iAvroocZw.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在北京发生了“反习近平”的标语抗议事件后，中国的网络管制也迅速升级，在社交媒体微博上打出 #勇敢 #北京 这样平凡常用词，都受到管制。而随着中共二十大的临...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580656990056960001</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580656990056960001"/>
-        <updated>2022-10-13T20:29:28.000Z</updated>
-        <summary type="html"><![CDATA[在北京发生了“反习近平”的标语抗议事件后，中国的网络管制也迅速升级，在社交媒体微博上打出 #勇敢 #北京 这样平凡常用词，都受到管制。而随着中共二十大的临近，中国的网络敏感词数量正不断扩充，任何会让人联想到可能涉及批评领导人的词汇，都一一遭封禁。 https://www.rfa.org/mandarin/yataibaodao/meiti/sc-10132022141124.html#.Y0h1Fkh12hM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国国会周三（12日）选出新任外交事务委员会主席，现任外委会召集人凯恩斯（Alicia Kearns）当选。她一直被视为对华鹰派议员，又对台湾友好。有分析认为，她上...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580651878362206209</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580651878362206209"/>
-        <updated>2022-10-13T20:09:09.000Z</updated>
-        <summary type="html"><![CDATA[英国国会周三（12日）选出新任外交事务委员会主席，现任外委会召集人凯恩斯（Alicia Kearns）当选。她一直被视为对华鹰派议员，又对台湾友好。有分析认为，她上任后，将积极安排国会代表团访台，并推进以台湾的中文老师取代由中共控制的孔子学院。 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/al-10132022102324.html#.Y0hwXEeG3Jo.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习近平十年前开展执政时的愿景是"实现中华民族伟大复兴"，而这十年来也看到中国的军事与经济力量在全球呈现倍数的扩张。 但是习近平也更改了中共的党章，容许他...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580644613483683840</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580644613483683840"/>
-        <updated>2022-10-13T19:40:17.000Z</updated>
-        <summary type="html"><![CDATA[习近平十年前开展执政时的愿景是"实现中华民族伟大复兴"，而这十年来也看到中国的军事与经济力量在全球呈现倍数的扩张。
-但是习近平也更改了中共的党章，容许他自己进入史无前例的第三个任期--实质上等于终身执政。
-#变态辣椒 #回到未来 https://www.rfa.org/mandarin/biantailajiaomanhua/lj-10132022150838.html#.Y0hpMTuwujo.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共二十大即将在10月16日在北京召开，预料习近平将继续留任。有分析指出，习近平留任的理由之一是，争取在未来5年任期内解决台湾问题。 #军事无禁区]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580638909314502656</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580638909314502656"/>
-        <updated>2022-10-13T19:17:37.000Z</updated>
-        <summary type="html"><![CDATA[中共二十大即将在10月16日在北京召开，预料习近平将继续留任。有分析指出，习近平留任的理由之一是，争取在未来5年任期内解决台湾问题。
-#军事无禁区 https://www.rfa.org/mandarin/zhuanlan/junshiwujinqu/mil-10132022114921.html#.Y0hkQFlMUSQ.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《纽约时报》评论《被中共“劫持”的 ＃习近平》认为，习的强势是为了党好：“中国已经再次强大起来；习唯一责任是不把这件事搞砸。这就是为什么他的领导班子如...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580629638664970241</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580629638664970241"/>
-        <updated>2022-10-13T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[《纽约时报》评论《被中共“劫持”的 ＃习近平》认为，习的强势是为了党好：“中国已经再次强大起来；习唯一责任是不把这件事搞砸。这就是为什么他的领导班子如此不愿冒险，持异见者被如此强有力镇压的原因”
-但有网友反驳：是习一人劫持9000多万党员，一党劫持了中国14亿人。
-你认为是谁劫持了谁？]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有美国媒体近日披露，中国在全球持有股份的港口目前已达近百个，有些甚至紧邻欧洲的北约军港。中方持股国企不但设有党支部，还接待解放军活动。这一状况引发舆论...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580627529743728640</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580627529743728640"/>
-        <updated>2022-10-13T18:32:24.000Z</updated>
-        <summary type="html"><![CDATA[有美国媒体近日披露，中国在全球持有股份的港口目前已达近百个，有些甚至紧邻欧洲的北约军港。中方持股国企不但设有党支部，还接待解放军活动。这一状况引发舆论担忧 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/hx-10132022075139.html#.Y0hZsnefew4.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国智库近日发布的一份报告显示，虽然在“世界500强”榜单上中国企业的数量最多，但以国有企业为主，而这些国企仅仅是体量占据优势，营收利润远远落后于世界水...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580627276324302848</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580627276324302848"/>
-        <updated>2022-10-13T18:31:23.000Z</updated>
-        <summary type="html"><![CDATA[美国智库近日发布的一份报告显示，虽然在“世界500强”榜单上中国企业的数量最多，但以国有企业为主，而这些国企仅仅是体量占据优势，营收利润远远落后于世界水平。有专家指出，这一状况与习近平主导下的“国进民退”政策有关。 https://www.rfa.org/mandarin/yataibaodao/jingmao/bx-10132022111806.html#.Y0hZdbqNrgM.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT 自由亚洲电台: 被称为“新坦克人”的北京拉横幅的人士，还同时动用高音喇叭广而告之 #北京四通桥 #横幅]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580625192292061185</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580625192292061185"/>
-        <updated>2022-10-13T18:23:07.000Z</updated>
-        <summary type="html"><![CDATA[RT 自由亚洲电台
-被称为“新坦克人”的北京拉横幅的人士，还同时动用高音喇叭广而告之
-#北京四通桥  #横幅]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被称为“新坦克人”的北京拉横幅的人士，还同时动用高音喇叭广而告之 #北京四通桥 #横幅]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580625192292061185</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580625192292061185"/>
-        <updated>2022-10-13T18:23:07.000Z</updated>
-        <summary type="html"><![CDATA[被称为“新坦克人”的北京拉横幅的人士，还同时动用高音喇叭广而告之
-#北京四通桥  #横幅]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新流出影片显示，今天上午在 #北京四通桥 悬挂反习近平布条的人士，已当场被警方逮捕，但他的抗议行动在国际热传，被誉为“#北京四通桥勇士”。民运人士王丹13...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580608710576963584</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580608710576963584"/>
-        <updated>2022-10-13T17:17:37.000Z</updated>
-        <summary type="html"><![CDATA[最新流出影片显示，今天上午在 #北京四通桥 悬挂反习近平布条的人士，已当场被警方逮捕，但他的抗议行动在国际热传，被誉为“#北京四通桥勇士”。民运人士王丹13日称赞他是“ #新坦克人”。 https://www.rfa.org/mandarin/Xinwen/6-10132022121700.html#.Y0hICzv-KgA.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9月底，中国新疆刚结束番茄采收期，一车车红澄澄的番茄送往加工厂，如火如荼产制“红金”，全球3成以上的番茄产自中国，美国、中国和意大利更是囊括全球65%的加...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580597604546510858</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580597604546510858"/>
-        <updated>2022-10-13T16:33:29.000Z</updated>
-        <summary type="html"><![CDATA[9月底，中国新疆刚结束番茄采收期，一车车红澄澄的番茄送往加工厂，如火如荼产制“红金”，全球3成以上的番茄产自中国，美国、中国和意大利更是囊括全球65%的加工番茄产量，不过，一场红色风暴正悄悄扑向餐桌。
-#绿色情报员 https://www.rfa.org/mandarin/zhuanlan/luseqingbaoyuan/grn-10132022103430.html#.Y0g9uFQnztg.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国房地产市场本周接连受到负面消息打击。国际信用评级机构和研究机构近来撤回、或下调包括恒大和佳兆业在内，多家房地产公司的评级，这两家最新销售数据也不理...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580596817229512708</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580596817229512708"/>
-        <updated>2022-10-13T16:30:21.000Z</updated>
-        <summary type="html"><![CDATA[中国房地产市场本周接连受到负面消息打击。国际信用评级机构和研究机构近来撤回、或下调包括恒大和佳兆业在内，多家房地产公司的评级，这两家最新销售数据也不理想。 https://www.rfa.org/mandarin/yataibaodao/jingmao/ec-10132022090800.html#.Y0g9EvY0f5k.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中共20大即将召开，习近平能否实现连任引发舆论热议。在本台最新一期《亚洲很想聊》节目中，美国纽约城市大学斯德顿岛学院政治学教授夏明和独立时评人蔡慎坤就此...]]></title>
-        <id>https://twitter.com/RFA_Chinese/status/1580589800175767552</id>
-        <link href="https://twitter.com/RFA_Chinese/status/1580589800175767552"/>
-        <updated>2022-10-13T16:02:28.000Z</updated>
-        <summary type="html"><![CDATA[中共20大即将召开，习近平能否实现连任引发舆论热议。在本台最新一期《亚洲很想聊》节目中，美国纽约城市大学斯德顿岛学院政治学教授夏明和独立时评人蔡慎坤就此进行了讨论。他们认为，习近平身边亲信希望确保其终身制地位，以避免下台后遭到清算。 https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hcm2-10132022072628.html#.Y0g2h01gMpc.twitter]]></summary>
-        <author>
-            <name>自由亚洲电台</name>
         </author>
     </entry>
     <entry>
