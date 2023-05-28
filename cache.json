@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/80027",
+          "author": "克莱德",
+          "description": "随手打包一个基于 winget 的小脚本就能替代 XX 软件管家，这样的东西谁不爱呢。查看全文",
+          "link": "https://sspai.com/post/80027",
+          "publishedOn": "2023-05-27T11:09:02.000Z",
+          "wordCount": 914,
+          "title": "一日一技 | 无需「XX 管家」，用 Windows 自带工具搞定应用安装与升级",
+          "imageUrl": "https://cdn.sspai.com/2023/5/27/article/0231aec3-f257-b472-0f03-abf7a793631d.png"
+        },
+        {
+          "id": "https://sspai.com/post/79985",
+          "author": "PandorAI",
+          "description": "从大厂到专注于应用层的小厂和独立开发者，大家都在以不同的姿态参与到这场能够定义新的人机交互方式的对话革命中来。那除了模型，他们还在「卷」些什么？查看全文",
+          "link": "https://sspai.com/post/79985",
+          "publishedOn": "2023-05-27T02:31:55.000Z",
+          "wordCount": 994,
+          "title": "除了模型， GPT 们还在卷什么？",
+          "imageUrl": "https://cdn.sspai.com/2023/05/26/466508680fe4acea0b0bd8477270e00d.png"
+        },
+        {
           "id": "https://sspai.com/post/80020",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[电影]疾速追杀4、[电影]气垫传奇、[纪录片]史前星球第二季、[电影]刀剑神域进击篇暮色黄昏、[美剧]柏拉图关系第一季、[日剧]明天、我会成为谁的女友特别篇、[真人秀]血 ...查看全文",
@@ -1094,56 +1114,6 @@
           "wordCount": 710,
           "title": "这个五一假期，和这些好文、音乐与电影享受轻松时刻",
           "imageUrl": "https://cdn.sspai.com/29/4/2023/article/85edecc4-d5ff-6eb5-4eab-b40ae3237f8b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79512",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[国产]漫长的季节、[台剧]不良执念清除师、[美剧]电击少女第一季、🔦[日剧]独活女子的推荐3、[美剧]陪审义务、[美剧]头号外交官、[动画]放学后失眠的你、[动画]我心里 ...查看全文",
-          "link": "https://sspai.com/post/79512",
-          "publishedOn": "2023-04-28T10:30:00.000Z",
-          "wordCount": 926,
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "imageUrl": "https://cdn.sspai.com/2023/4/28/article/01a37f64-ad8e-a769-9c6e-cbc2a2a5c228.png"
-        },
-        {
-          "id": "https://sspai.com/post/79503",
-          "author": "NICEPING",
-          "description": "「求你了，来测吧。」查看全文",
-          "link": "https://sspai.com/post/79503",
-          "publishedOn": "2023-04-28T09:39:55.000Z",
-          "wordCount": 731,
-          "title": "登顶 100+ 地区榜单，内置「模拟微信」的手游好玩吗？",
-          "imageUrl": "https://cdn.sspai.com/2023/04/28/c1e2544af038403c506ca14abc948ac1.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79505",
-          "author": "PlatyHsu",
-          "description": "和我们一起细看 Apple 深圳万象城的设计故事，以及店中几位「普通」而又充满个性的成员故事。查看全文",
-          "link": "https://sspai.com/post/79505",
-          "publishedOn": "2023-04-28T08:48:52.000Z",
-          "wordCount": 896,
-          "title": "一家「看门道」的新店，三位「有个性」的员工",
-          "imageUrl": "https://cdn.sspai.com/4/28/2023/article/1840253a-aa12-66c1-83e4-8cb7622b9111.png"
-        },
-        {
-          "id": "https://sspai.com/post/79502",
-          "author": "北鸮",
-          "description": "想旅游吗？来抄作业吧！查看全文",
-          "link": "https://sspai.com/post/79502",
-          "publishedOn": "2023-04-28T03:41:28.000Z",
-          "wordCount": 662,
-          "title": "要旅行吗？这是一篇懒人包",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/ch5jt0tb34tfga8kg130"
-        },
-        {
-          "id": "https://sspai.com/post/79501",
-          "author": "少数派编辑部",
-          "description": "高通推出游戏超分辨率技术，LG 计划推出 gram SuperSlim 系列笔记本等查看全文",
-          "link": "https://sspai.com/post/79501",
-          "publishedOn": "2023-04-28T00:42:43.000Z",
-          "wordCount": 892,
-          "title": "派早报：英国监管部门禁止微软收购动视暴雪、Phone Link 正式支持 iPhone 等",
-          "imageUrl": "https://cdn.sspai.com/4/28/2023/article/a1633de4-5257-3ea0-d17c-ad99363a781e.png"
         }
       ]
     },
@@ -1152,6 +1122,166 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1662538428834013187",
+          "author": "ahhhhfs",
+          "description": "你这瓶子还要吗？🤤 https://t.co/4BVdyanuuj",
+          "link": "https://twitter.com/abskoop/status/1662538428834013187",
+          "publishedOn": "2023-05-27T19:17:04.000Z",
+          "wordCount": null,
+          "title": "你这瓶子还要吗？🤤 https://t.co/4BVdyanuuj",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662503578362077184",
+          "author": "ahhhhfs",
+          "description": "Re @lotus8890520 啥样的 发我看看🫣🫣",
+          "link": "https://twitter.com/abskoop/status/1662503578362077184",
+          "publishedOn": "2023-05-27T16:58:35.000Z",
+          "wordCount": null,
+          "title": "Re @lotus8890520 啥样的 发我看看🫣🫣",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662503296655929344",
+          "author": "ahhhhfs",
+          "description": "哈哈哈哈 大意了\n🙊🙊🙊学习到了 https://t.co/qcAfR5UxIl",
+          "link": "https://twitter.com/abskoop/status/1662503296655929344",
+          "publishedOn": "2023-05-27T16:57:28.000Z",
+          "wordCount": null,
+          "title": "哈哈哈哈 大意了 🙊🙊🙊学习到了 https://t.co/qcAfR5UxIl",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662499025327669249",
+          "author": "ahhhhfs",
+          "description": "🦞🦞🦞\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/ https://t.co/9TxNquv7em",
+          "link": "https://twitter.com/abskoop/status/1662499025327669249",
+          "publishedOn": "2023-05-27T16:40:30.000Z",
+          "wordCount": null,
+          "title": "🦞🦞🦞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662498327202611204",
+          "author": "ahhhhfs",
+          "description": "哈哈 搜索的东西还挺奇特的🤤🤤 https://t.co/GUGh6dDcg9",
+          "link": "https://twitter.com/abskoop/status/1662498327202611204",
+          "publishedOn": "2023-05-27T16:37:43.000Z",
+          "wordCount": null,
+          "title": "哈哈 搜索的东西还挺奇特的🤤🤤 https://t.co/GUGh6dDcg9",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662492098912714756",
+          "author": "ahhhhfs",
+          "description": "AI换脸机器人-ShBot\n支持任意视频、照片换脸\n发送照片即可轻松实现 \n别做其他事情🙈🙈\n👉https://www.ahhhhfs.com/42524/ https://t.co/mYdE9hgW1x",
+          "link": "https://twitter.com/abskoop/status/1662492098912714756",
+          "publishedOn": "2023-05-27T16:12:58.000Z",
+          "wordCount": null,
+          "title": "AI换脸机器人-ShBot 支持任意视频、照片换脸 发送照片即可轻松实现 别做其他事情🙈🙈 👉https://www.ahhhhfs.com/42524/ https://t.co/mYdE9hgW1x",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662480994060976129",
+          "author": "ahhhhfs",
+          "description": "正则表达式生成器 ：Hello AI\nAI帮你生成正则公式\n👉https://www.ahhhhfs.com/42514/ https://t.co/vSffVqTflf",
+          "link": "https://twitter.com/abskoop/status/1662480994060976129",
+          "publishedOn": "2023-05-27T15:28:51.000Z",
+          "wordCount": null,
+          "title": "正则表达式生成器 ：Hello AI AI帮你生成正则公式 👉https://www.ahhhhfs.com/42514/ https://t.co/vSffVqTflf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662472689150226437",
+          "author": "ahhhhfs",
+          "description": "制服地图：收集展示全球制服资源🤤🤤\n👉https://www.ahhhhfs.com/42393/ https://t.co/if9jdsGD8U",
+          "link": "https://twitter.com/abskoop/status/1662472689150226437",
+          "publishedOn": "2023-05-27T14:55:50.000Z",
+          "wordCount": null,
+          "title": "制服地图：收集展示全球制服资源🤤🤤 👉https://www.ahhhhfs.com/42393/ https://t.co/if9jdsGD8U",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662467476888625156",
+          "author": "ahhhhfs",
+          "description": "Re @shajiabiji 🤤应该还可以用 哈哈\n以前发过好一些了\n不可以用我改天再找找哈哈",
+          "link": "https://twitter.com/abskoop/status/1662467476888625156",
+          "publishedOn": "2023-05-27T14:35:08.000Z",
+          "wordCount": null,
+          "title": "Re @shajiabiji 🤤应该还可以用 哈哈 以前发过好一些了 不可以用我改天再找找哈哈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662465819698249729",
+          "author": "ahhhhfs",
+          "description": "一些微信视频号视频下载工具🤤\n👉 https://www.ahhhhfs.com/?cat=&s=%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7 https://t.co/FFPZp6V7lX",
+          "link": "https://twitter.com/abskoop/status/1662465819698249729",
+          "publishedOn": "2023-05-27T14:28:33.000Z",
+          "wordCount": null,
+          "title": "一些微信视频号视频下载工具🤤 👉 https://www.ahhhhfs.com/?cat=&s=%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7 https://t.co/FFPZp6V7lX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662465354843533313",
+          "author": "ahhhhfs",
+          "description": "Re @shajiabiji https://twitter.com/abskoop/status/1614242652593213441\n\nahhhhfs: 微信视频号视频下载工具- WechatVideoSniffer\n一款开源的微信视频号频地址嗅探器\n能够嗅探解密 下载微信号视频\n👉 https://www.ahhhhfs.com/36594/ https://t.co/xOHR0OyNEu",
+          "link": "https://twitter.com/abskoop/status/1662465354843533313",
+          "publishedOn": "2023-05-27T14:26:42.000Z",
+          "wordCount": null,
+          "title": "Re @shajiabiji https://twitter.com/abskoop/status/1614242652593213441",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662465229630894080",
+          "author": "ahhhhfs",
+          "description": "Re @shajiabiji https://twitter.com/abskoop/status/1531535197212094464\n\nahhhhfs: 微信视频号视频下载工具\n视频号嗅探下载器 v1.2\n支持解析高清视频\n同时也支持直播地址解析\n👉https://www.ahhhhfs.com/21080/ https://t.co/qb4ass9TpO",
+          "link": "https://twitter.com/abskoop/status/1662465229630894080",
+          "publishedOn": "2023-05-27T14:26:12.000Z",
+          "wordCount": null,
+          "title": "Re @shajiabiji https://twitter.com/abskoop/status/1531535197212094464",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662465050513219588",
+          "author": "ahhhhfs",
+          "description": "Re @shajiabiji https://twitter.com/abskoop/status/1487074574227234820\n\nahhhhfs: 微信视频号视频下载工具 🥸\n👉 https://www.abskoop.com/11739/ https://t.co/qUfnX1Uxop",
+          "link": "https://twitter.com/abskoop/status/1662465050513219588",
+          "publishedOn": "2023-05-27T14:25:29.000Z",
+          "wordCount": null,
+          "title": "Re @shajiabiji https://twitter.com/abskoop/status/1487074574227234820",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662452764553752579",
+          "author": "ahhhhfs",
+          "description": "免费开源m3u8 视频在线提取下载工具：Media Downloader\n使用无需浏览器抓包即可方便地提取网页视频\n实现快速、批量下载并支持音频转换\n👉https://www.ahhhhfs.com/42457/ https://t.co/TRndslJhKj",
+          "link": "https://twitter.com/abskoop/status/1662452764553752579",
+          "publishedOn": "2023-05-27T13:36:40.000Z",
+          "wordCount": null,
+          "title": "免费开源m3u8 视频在线提取下载工具：Media Downloader 使用无需浏览器抓包即可方便地提取网页视频 实现快速、批量下载并支持音频转换 👉https://www.ahhhhfs....",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662420896403845120",
+          "author": "ahhhhfs",
+          "description": "7万+视频学习网站账号：某P站账号\n自己试试，低调用🤤🤤\n👉https://www.ahhhhfs.com/42502/ https://t.co/W98aQtWE6k",
+          "link": "https://twitter.com/abskoop/status/1662420896403845120",
+          "publishedOn": "2023-05-27T11:30:02.000Z",
+          "wordCount": null,
+          "title": "7万+视频学习网站账号：某P站账号 自己试试，低调用🤤🤤 👉https://www.ahhhhfs.com/42502/ https://t.co/W98aQtWE6k",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1662396601405517824",
+          "author": "ahhhhfs",
+          "description": "粤语确实可以为所欲为🤤🤤 哈哈哈 https://t.co/lXw6xY5sO0",
+          "link": "https://twitter.com/abskoop/status/1662396601405517824",
+          "publishedOn": "2023-05-27T09:53:30.000Z",
+          "wordCount": null,
+          "title": "粤语确实可以为所欲为🤤🤤 哈哈哈 https://t.co/lXw6xY5sO0",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1662151957740388355",
           "author": "ahhhhfs",
@@ -5291,156 +5421,6 @@
           "wordCount": 513,
           "title": "一些2023某市车展资料 1.0 👉https://www.ahhhhfs.com/41201/ https://t.co/L6N1jstvRQ",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651921201122656258",
-          "author": "ahhhhfs",
-          "description": "一些各省市交通摄像头实时监控视频在线地址\n 假期看实时路况或者。。\n👉https://www.ahhhhfs.com/41196/ https://t.co/SK3Vpc4Nv4",
-          "link": "https://twitter.com/abskoop/status/1651921201122656258",
-          "publishedOn": "2023-04-28T12:08:00.000Z",
-          "wordCount": 513,
-          "title": "一些各省市交通摄像头实时监控视频在线地址 假期看实时路况或者。。 👉https://www.ahhhhfs.com/41196/ https://t.co/SK3Vpc4Nv4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651894142610317312",
-          "author": "ahhhhfs",
-          "description": "Re @Yoyosama33 到主页就看到了呀 https://t.co/GnlWyc3xMy",
-          "link": "https://twitter.com/abskoop/status/1651894142610317312",
-          "publishedOn": "2023-04-28T10:20:28.000Z",
-          "wordCount": 513,
-          "title": "Re @Yoyosama33 到主页就看到了呀 https://t.co/GnlWyc3xMy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651890627041165317",
-          "author": "ahhhhfs",
-          "description": "ChatKit：基于 OpenAI API的网页版ChatGPT \n能总结文章、视频和文档，国内网络可访问\n支持文字转语音和语音输入\n允许添加 URL 作为聊天上下文\n支持总结YouTube视频、PDF、CSV文件、\nJSON、常规网页等等\n👉https://www.ahhhhfs.com/41185/ https://t.co/T2oL6lzZWc",
-          "link": "https://twitter.com/abskoop/status/1651890627041165317",
-          "publishedOn": "2023-04-28T10:06:30.000Z",
-          "wordCount": 513,
-          "title": "ChatKit：基于 OpenAI API的网页版ChatGPT 能总结文章、视频和文档，国内网络可访问 支持文字转语音和语音输入 允许添加 URL 作为聊天上下文 支持总结YouTube视...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651856190953906181",
-          "author": "ahhhhfs",
-          "description": "张大妈计算器：一款工资及其周边计算工具\n免费提供工资计算器、年终奖计算器、\n工资反推计算器、全国各地薪资报告、\n裁员企业榜等服务\n👉https://www.ahhhhfs.com/41180/ https://t.co/zzfF2YgdCv",
-          "link": "https://twitter.com/abskoop/status/1651856190953906181",
-          "publishedOn": "2023-04-28T07:49:40.000Z",
-          "wordCount": 513,
-          "title": "张大妈计算器：一款工资及其周边计算工具 免费提供工资计算器、年终奖计算器、 工资反推计算器、全国各地薪资报告、 裁员企业榜等服务 👉https://www.ahhhhfs....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651802995779051521",
-          "author": "ahhhhfs",
-          "description": "哇🎊 最后摸鱼时刻 https://t.co/C6yEm2A5rd",
-          "link": "https://twitter.com/abskoop/status/1651802995779051521",
-          "publishedOn": "2023-04-28T04:18:17.000Z",
-          "wordCount": 513,
-          "title": "哇🎊 最后摸鱼时刻 https://t.co/C6yEm2A5rd",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651632778776125449",
-          "author": "ahhhhfs",
-          "description": "Re @RudolfMaurice9 🙊🙊",
-          "link": "https://twitter.com/abskoop/status/1651632778776125449",
-          "publishedOn": "2023-04-27T17:01:54.000Z",
-          "wordCount": 513,
-          "title": "Re @RudolfMaurice9 🙊🙊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651632734236811264",
-          "author": "ahhhhfs",
-          "description": "学习到一个很强的词语：四轮定位🤤🤤",
-          "link": "https://twitter.com/abskoop/status/1651632734236811264",
-          "publishedOn": "2023-04-27T17:01:44.000Z",
-          "wordCount": 513,
-          "title": "学习到一个很强的词语：四轮定位🤤🤤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651632077383581696",
-          "author": "ahhhhfs",
-          "description": "Re @reloadx 🥹🥹",
-          "link": "https://twitter.com/abskoop/status/1651632077383581696",
-          "publishedOn": "2023-04-27T16:59:07.000Z",
-          "wordCount": 513,
-          "title": "Re @reloadx 🥹🥹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651631978322567181",
-          "author": "ahhhhfs",
-          "description": "Re @kulaoshudemao iMessage不要的呀 需要网络即可",
-          "link": "https://twitter.com/abskoop/status/1651631978322567181",
-          "publishedOn": "2023-04-27T16:58:44.000Z",
-          "wordCount": 513,
-          "title": "Re @kulaoshudemao iMessage不要的呀 需要网络即可",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651631669789483010",
-          "author": "ahhhhfs",
-          "description": "润学，GitHub一个仓库\n整理润学宗旨、纲领、理论和各类润之实例\n解决为什么润、润去哪里、怎么润三大问题\n👉http://ahhhhfs.com/32839/ https://t.co/DNJQcgHlxU",
-          "link": "https://twitter.com/abskoop/status/1651631669789483010",
-          "publishedOn": "2023-04-27T16:57:30.000Z",
-          "wordCount": 513,
-          "title": "润学，GitHub一个仓库 整理润学宗旨、纲领、理论和各类润之实例 解决为什么润、润去哪里、怎么润三大问题 👉http://ahhhhfs.com/32839/ https://t.co/DNJQcgHl...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651611512564330496",
-          "author": "ahhhhfs",
-          "description": "一些古👀惑仔系列电影 国粤双语\n系列6部+特别版10部，放假看🤤🤤\n👉https://www.ahhhhfs.com/41176/ https://t.co/h0lvJGCtN0",
-          "link": "https://twitter.com/abskoop/status/1651611512564330496",
-          "publishedOn": "2023-04-27T15:37:24.000Z",
-          "wordCount": 513,
-          "title": "一些古👀惑仔系列电影 国粤双语 系列6部+特别版10部，放假看🤤🤤 👉https://www.ahhhhfs.com/41176/ https://t.co/h0lvJGCtN0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651605708394180615",
-          "author": "ahhhhfs",
-          "description": "在线大人小说学习网站-1000NOV\n👉https://www.ahhhhfs.com/41172/ https://t.co/QBUYMqJADz",
-          "link": "https://twitter.com/abskoop/status/1651605708394180615",
-          "publishedOn": "2023-04-27T15:14:20.000Z",
-          "wordCount": 513,
-          "title": "在线大人小说学习网站-1000NOV 👉https://www.ahhhhfs.com/41172/ https://t.co/QBUYMqJADz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651595421670678530",
-          "author": "ahhhhfs",
-          "description": "Re @yazuishou5738 暂时没有 哈哈",
-          "link": "https://twitter.com/abskoop/status/1651595421670678530",
-          "publishedOn": "2023-04-27T14:33:28.000Z",
-          "wordCount": 513,
-          "title": "Re @yazuishou5738 暂时没有 哈哈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651595354633019405",
-          "author": "ahhhhfs",
-          "description": "Re @yLGlCtKoLpAUhVU 有发过一款 你可以试试看https://twitter.com/abskoop/status/1546338238213890049?s=20\n\nahhhhfs: 在线漫画翻译工具：MangaEditor\n能够识别日语、韩语、英语等等语言\n主要是针对各种生肉漫画进行翻译\n同时海内直接修改编辑漫画\n效果非常的棒\n👉https://www.ahhhhfs.com/24347/ https://t.co/F6scWsk9BB",
-          "link": "https://twitter.com/abskoop/status/1651595354633019405",
-          "publishedOn": "2023-04-27T14:33:12.000Z",
-          "wordCount": 513,
-          "title": "Re @yLGlCtKoLpAUhVU 有发过一款 你可以试试看https://twitter.com/abskoop/status/1546338238213890049?s=20",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1651589905322057728",
-          "author": "ahhhhfs",
-          "description": "TextGPT：在iMessage上使用ChatGPT智能助手 \n还能AI作画，基于 GPT-3.5-turbo 模型🤤🤤\n帮助用户通过短信\n轻松访问OpenAI的GPT和Dall-E 2\n👉https://www.ahhhhfs.com/41164/ https://t.co/vk0EAqcpWz",
-          "link": "https://twitter.com/abskoop/status/1651589905322057728",
-          "publishedOn": "2023-04-27T14:11:33.000Z",
-          "wordCount": 513,
-          "title": "TextGPT：在iMessage上使用ChatGPT智能助手 还能AI作画，基于 GPT-3.5-turbo 模型🤤🤤 帮助用户通过短信 轻松访问OpenAI的GPT和Dall-E 2 👉https://www.ah...",
-          "imageUrl": null
         }
       ]
     },
@@ -7078,96 +7058,6 @@
           "wordCount": 513,
           "title": "【“教科书式”救援！7岁小朋友用手机拍下视频救回落水儿童】 4月25日，浙江台州，一名幼童不慎落入水中，在河对岸玩耍的7岁的郑岚天用家人手机拍下视频发送给消...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651899345367646209",
-          "author": "The Paper 澎湃新闻",
-          "description": "【对话“指导市民帮妻接生”的120调度员：他配合度很好】\n近日，深圳康先生求助120妻子将生产，调度员邓曼莉指导他亲手接生宝宝。邓曼莉回忆，一些人会慌乱抱怨救护车不及时，希望冷静听从指导，同事们都有经验。 https://t.co/eGJRgfWxj7",
-          "link": "https://twitter.com/thepapercn/status/1651899345367646209",
-          "publishedOn": "2023-04-28T10:41:09.000Z",
-          "wordCount": 513,
-          "title": "【对话“指导市民帮妻接生”的120调度员：他配合度很好】 近日，深圳康先生求助120妻子将生产，调度员邓曼莉指导他亲手接生宝宝。邓曼莉回忆，一些人会慌乱抱怨...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651859169232691201",
-          "author": "The Paper 澎湃新闻",
-          "description": "【在生命最后20秒，司机安全停车守护了一车人】\n近日，湖北荆州。司机王统国驾驶农村客运班车途中突发心梗。在生命的最后20秒中，他强忍疼痛，将车安全停到路边，车内乘客无一人受伤，他却经抢救无效离世。（素材来源：荆州日报） https://t.co/xsPtQ1Ck60",
-          "link": "https://twitter.com/thepapercn/status/1651859169232691201",
-          "publishedOn": "2023-04-28T08:01:30.000Z",
-          "wordCount": 513,
-          "title": "【在生命最后20秒，司机安全停车守护了一车人】 近日，湖北荆州。司机王统国驾驶农村客运班车途中突发心梗。在生命的最后20秒中，他强忍疼痛，将车安全停到路边...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651838993825234944",
-          "author": "The Paper 澎湃新闻",
-          "description": "【飞机上一乘客突发不适，上海援青医疗队专家万米高空上救人】\n4月25日下午，在飞往西宁的MU9922航班上，一名乘客突发不适。巧合的是，飞机上有上海援青医疗队的医生。医疗专家们第一时间采取急救措施，帮助乘客迅速转危为安。（素材来源 上海黄浦） https://t.co/5StiD4iHa9",
-          "link": "https://twitter.com/thepapercn/status/1651838993825234944",
-          "publishedOn": "2023-04-28T06:41:20.000Z",
-          "wordCount": 513,
-          "title": "【飞机上一乘客突发不适，上海援青医疗队专家万米高空上救人】 4月25日下午，在飞往西宁的MU9922航班上，一名乘客突发不适。巧合的是，飞机上有上海援青医疗队的...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651825638334947328",
-          "author": "The Paper 澎湃新闻",
-          "description": "【河南小学生展示“一笔画龙”，动作行云流水一气呵成】\n近日，河南商丘，一名四年级小学生在自习课上为同学们展示一笔画龙，同学们纷纷惊呼鼓掌。（素材来源：人民视频） https://t.co/HHN1WKPndS",
-          "link": "https://twitter.com/thepapercn/status/1651825638334947328",
-          "publishedOn": "2023-04-28T05:48:16.000Z",
-          "wordCount": 513,
-          "title": "【河南小学生展示“一笔画龙”，动作行云流水一气呵成】 近日，河南商丘，一名四年级小学生在自习课上为同学们展示一笔画龙，同学们纷纷惊呼鼓掌。（素材来源：...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651808539755544579",
-          "author": "The Paper 澎湃新闻",
-          "description": "【淄博烧烤出圈网红特产运量暴增，快递员：日订单量已涨几十倍】\n随着淄博烧烤出圈，淄博网红特产运输量随之暴增。4月27日，一快递站负责人陈浩告诉澎湃新闻，五一节前日订单量已达一千单，涨了几十倍，“最火的是淄博独有的炒锅饼”。 \n完整视频：https://buff.ly/41LrBc0 https://t.co/gyPJJ7LZNE",
-          "link": "https://twitter.com/thepapercn/status/1651808539755544579",
-          "publishedOn": "2023-04-28T04:40:19.000Z",
-          "wordCount": 513,
-          "title": "【淄博烧烤出圈网红特产运量暴增，快递员：日订单量已涨几十倍】 随着淄博烧烤出圈，淄博网红特产运输量随之暴增。4月27日，一快递站负责人陈浩告诉澎湃新闻，五...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651792894099947522",
-          "author": "The Paper 澎湃新闻",
-          "description": "【终于看到你！丫丫回家后好奇看镜头】\n4月27日，旅美大熊猫落地后被运送至隔离检疫圈舍，饲养员在精心喂食“丫丫”，帮助“丫丫”适应新的居住环境。（视频来源 新华社） https://t.co/LkkLPPapvo",
-          "link": "https://twitter.com/thepapercn/status/1651792894099947522",
-          "publishedOn": "2023-04-28T03:38:09.000Z",
-          "wordCount": 513,
-          "title": "【终于看到你！丫丫回家后好奇看镜头】 4月27日，旅美大熊猫落地后被运送至隔离检疫圈舍，饲养员在精心喂食“丫丫”，帮助“丫丫”适应新的居住环境。（视频来源...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651775555862163456",
-          "author": "The Paper 澎湃新闻",
-          "description": "【旅美大熊猫“丫丫”将在上海生活一个月，适应回国生活】\n4月27日16时26分，丫丫专机降落上海，在中方兽医和工作人员的陪护下，前往上海动物园封闭隔离检疫区。据悉，丫丫将在上海度过一个月的隔离期，尽快适应回国生活。 https://t.co/P0JDeiF21B",
-          "link": "https://twitter.com/thepapercn/status/1651775555862163456",
-          "publishedOn": "2023-04-28T02:29:15.000Z",
-          "wordCount": 513,
-          "title": "【旅美大熊猫“丫丫”将在上海生活一个月，适应回国生活】 4月27日16时26分，丫丫专机降落上海，在中方兽医和工作人员的陪护下，前往上海动物园封闭隔离检疫区。...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651760176901369859",
-          "author": "The Paper 澎湃新闻",
-          "description": "【劳动者丨90后养蜂女生希望带乡亲们打造蜂蜜品牌】\n贵州纳雍县90后青年袁小梅发展养蜂产业帮助乡亲致富。五一劳动节来临之际，袁小梅讲述担任县人大代表以后，希望打造蜂蜜品牌，“直到今天我带动了二十家养蜂户”。 https://t.co/OESqFpuZ0Z",
-          "link": "https://twitter.com/thepapercn/status/1651760176901369859",
-          "publishedOn": "2023-04-28T01:28:09.000Z",
-          "wordCount": 513,
-          "title": "【劳动者丨90后养蜂女生希望带乡亲们打造蜂蜜品牌】 贵州纳雍县90后青年袁小梅发展养蜂产业帮助乡亲致富。五一劳动节来临之际，袁小梅讲述担任县人大代表以后，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/thepapercn/status/1651742586321682434",
-          "author": "The Paper 澎湃新闻",
-          "description": "【姐姐出嫁7岁妹妹哭成泪人，姐姐：相差22岁，她以为再也见不到我了】\n4月21日，内蒙古鄂尔多斯。姐姐出嫁7岁妹妹哭成泪人。当事姐姐魏女士称，自己跟妹妹相差22岁，被婚车接走时，妹妹以为她不回来了，哭了十几分钟。 https://t.co/388zt4DOVp",
-          "link": "https://twitter.com/thepapercn/status/1651742586321682434",
-          "publishedOn": "2023-04-28T00:18:15.000Z",
-          "wordCount": 513,
-          "title": "【姐姐出嫁7岁妹妹哭成泪人，姐姐：相差22岁，她以为再也见不到我了】 4月21日，内蒙古鄂尔多斯。姐姐出嫁7岁妹妹哭成泪人。当事姐姐魏女士称，自己跟妹妹相差22...",
-          "imageUrl": null
         }
       ]
     },
@@ -7314,16 +7204,6 @@
           "publishedOn": "2023-05-03T01:50:54.000Z",
           "wordCount": 480,
           "title": "日本人为什么普遍说不好英语？今天终于看到合理解释了。 日语的所有音节都是元音结尾，没有辅音结尾，而且不允许两个辅音连在一起。汉语就没有这个问题。https:/...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/ruanyf/status/1651756273476714496",
-          "author": "ruanyf",
-          "description": "周五资源介绍\n- AI法律助手：中国法律法规问答引擎https://law-cn-ai.vercel.app/\n- PromptBoom：免费、不需要注册的ChatGPT网站https://www.promptboom.com/\n- MultiTranslate：聚合多个网站的翻译结果https://www.multitranslate.xyz/\n#科技爱好者周刊（第252期）http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html https://t.co/uJzrrZPfWc",
-          "link": "https://twitter.com/ruanyf/status/1651756273476714496",
-          "publishedOn": "2023-04-28T01:12:38.000Z",
-          "wordCount": 513,
-          "title": "周五资源介绍 - AI法律助手：中国法律法规问答引擎https://law-cn-ai.vercel.app/ - PromptBoom：免费、不需要注册的ChatGPT网站https://www.promptboom.com/ - ...",
           "imageUrl": null
         }
       ]
@@ -14259,136 +14139,6 @@
           "wordCount": 513,
           "title": "Re 李佳琦也无法规避所有风险。去年，他直播被切断是因为向观众推销了一块坦克形状的冰淇淋蛋糕，而那正值“六四”纪念日的前一天——1989年6月4日，中国军队对...",
           "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651919199273402370",
-          "author": "纽约时报中文网",
-          "description": "Re 电商直播的故事不仅仅是关于一种新购物形式的兴起。随着北京寻求对私营企业的更大控制，这是一个了解当今中国经商机遇与风险的窗口。\n“这种经济令中国政府非常为难；他们有促进发展的目标，这对他们是当务之急，但他们也有维稳的目标，”新罕布什尔大学媒体研究教授张琳说。 https://bit.ly/3HlyWqo",
-          "link": "https://twitter.com/nytchinese/status/1651919199273402370",
-          "publishedOn": "2023-04-28T12:00:02.000Z",
-          "wordCount": 513,
-          "title": "Re 电商直播的故事不仅仅是关于一种新购物形式的兴起。随着北京寻求对私营企业的更大控制，这是一个了解当今中国经商机遇与风险的窗口。 “这种经济令中国政府非...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651896538585595904",
-          "author": "纽约时报中文网",
-          "description": "Re 在澳大利亚居住四年以上的新西兰人可直接申请入籍。根据此前政策，在澳大利亚的新西兰人拥有不受限制的工作权利，但无法受到与永久居民和公民相同的保护，新政使在澳大利亚长期居留的新西兰人更容易获得双重国籍。\n更多简报内容： https://bit.ly/41RSRpq",
-          "link": "https://twitter.com/nytchinese/status/1651896538585595904",
-          "publishedOn": "2023-04-28T10:30:00.000Z",
-          "wordCount": 513,
-          "title": "Re 在澳大利亚居住四年以上的新西兰人可直接申请入籍。根据此前政策，在澳大利亚的新西兰人拥有不受限制的工作权利，但无法受到与永久居民和公民相同的保护，新...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651884549532426241",
-          "author": "纽约时报中文网",
-          "description": "农民和工人注册成为主播，近5亿网民在直播间进行过购物，直播彻底改变了中国电商模式。仅去年一年，在抖音、快手等短视频平台上出售的商品总额估计就达到了2019年的八倍。\n但随着市场飞速增长，新的挑战也随之而来。行业竞争愈发激烈，政府出于政治担忧也加强了监管。https://bit.ly/3HlyWqo",
-          "link": "https://twitter.com/nytchinese/status/1651884549532426241",
-          "publishedOn": "2023-04-28T09:42:21.000Z",
-          "wordCount": 513,
-          "title": "农民和工人注册成为主播，近5亿网民在直播间进行过购物，直播彻底改变了中国电商模式。仅去年一年，在抖音、快手等短视频平台上出售的商品总额估计就达到了2019...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651881441884622848",
-          "author": "纽约时报中文网",
-          "description": "Re 美中关系降至多年来的最低点之际，菲律宾渴望这么做。在整个亚洲，各国政府对这些紧张局势越来越焦虑，尤其担心中国可能入侵台湾。在马尼拉，人们更加担心这样的袭击对菲律宾来说可能意味着什么。菲律宾最北端有人居住的岛屿距离台湾只有150公里。\nhttps://bit.ly/3LzMEIU",
-          "link": "https://twitter.com/nytchinese/status/1651881441884622848",
-          "publishedOn": "2023-04-28T09:30:00.000Z",
-          "wordCount": 513,
-          "title": "Re 美中关系降至多年来的最低点之际，菲律宾渴望这么做。在整个亚洲，各国政府对这些紧张局势越来越焦虑，尤其担心中国可能入侵台湾。在马尼拉，人们更加担心这...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651858795872804865",
-          "author": "纽约时报中文网",
-          "description": "Re 在对贝恩公司员工进行问话不到一个月前，当局拘留了在北京为美思明智集团工作的五名中国公民，并关闭了该办事处，这家美国咨询公司在全球设有18个办事处。这五名中国公民在被拘留一夜后，他们的家人才接到通知。中国外交部随后表示，该公司涉嫌非法经营。https://bit.ly/3LhUXI5",
-          "link": "https://twitter.com/nytchinese/status/1651858795872804865",
-          "publishedOn": "2023-04-28T08:00:01.000Z",
-          "wordCount": 513,
-          "title": "Re 在对贝恩公司员工进行问话不到一个月前，当局拘留了在北京为美思明智集团工作的五名中国公民，并关闭了该办事处，这家美国咨询公司在全球设有18个办事处。这...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651851240907702272",
-          "author": "纽约时报中文网",
-          "description": "Re 美国经济持续复苏，但增速放缓。第一季度美国GDP增长1.1%，连续第三个季度实现增长。美联储为经济降温的努力正在产生效果。住宅部门连续第八个季度萎缩，企业设备投资连续第二个季度下降，但消费者支出以3.7%的年增长率增长，这是自2021年年中以来的最快增速。\n更多简报内容： https://bit.ly/41RSRpq",
-          "link": "https://twitter.com/nytchinese/status/1651851240907702272",
-          "publishedOn": "2023-04-28T07:30:00.000Z",
-          "wordCount": 513,
-          "title": "Re 美国经济持续复苏，但增速放缓。第一季度美国GDP增长1.1%，连续第三个季度实现增长。美联储为经济降温的努力正在产生效果。住宅部门连续第八个季度萎缩，企业...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651843693719195648",
-          "author": "纽约时报中文网",
-          "description": "Re 中国监管机构称，他们在2022全年处罚银行保险机构4620家，比上一年高出19%，同时处罚责任人员7561人次，比加上一年高出26%。\n“加强金融行业的纪律是控制精英的有效方式，”约翰霍普金斯大学政治经济学教授洪源远说。 https://bit.ly/3HkHpKH",
-          "link": "https://twitter.com/nytchinese/status/1651843693719195648",
-          "publishedOn": "2023-04-28T07:00:01.000Z",
-          "wordCount": 513,
-          "title": "Re 中国监管机构称，他们在2022全年处罚银行保险机构4620家，比上一年高出19%，同时处罚责任人员7561人次，比加上一年高出26%。 “加强金融行业的纪律是控制精英...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651835208772009985",
-          "author": "纽约时报中文网",
-          "description": "中国外长上周访菲时曾要求马尼拉妥善处理台湾、南海相关议题，不选边站队。菲总统马斯科本周出席美菲年度军演。\n这是十年来菲律宾总统第一次参加这样的联合军演，传递出的信息是明确的：菲律宾对北京愈发警惕，正再度转向传统盟友美国。https://bit.ly/3LzMEIU",
-          "link": "https://twitter.com/nytchinese/status/1651835208772009985",
-          "publishedOn": "2023-04-28T06:26:18.000Z",
-          "wordCount": 513,
-          "title": "中国外长上周访菲时曾要求马尼拉妥善处理台湾、南海相关议题，不选边站队。菲总统马斯科本周出席美菲年度军演。 这是十年来菲律宾总统第一次参加这样的联合军演...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651813495069917184",
-          "author": "纽约时报中文网",
-          "description": "Re 韩国总统尹锡悦在美国国会发表讲话，呼吁合作对抗朝鲜核威胁。据路透社报道，在为纪念美韩同盟70周年进行的国事访问的第四天，尹锡悦在美国国会联席会议上发表讲话。他对美国立法者强调，有必要加快美日韩三边合作，以应对朝鲜日益增加的核威胁。\n更多简报内容： https://bit.ly/41RSRpq",
-          "link": "https://twitter.com/nytchinese/status/1651813495069917184",
-          "publishedOn": "2023-04-28T05:00:01.000Z",
-          "wordCount": 513,
-          "title": "Re 韩国总统尹锡悦在美国国会发表讲话，呼吁合作对抗朝鲜核威胁。据路透社报道，在为纪念美韩同盟70周年进行的国事访问的第四天，尹锡悦在美国国会联席会议上发...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651798317121122305",
-          "author": "纽约时报中文网",
-          "description": "中国的有关部门本月来到美国管理咨询公司贝恩公司上海分公司，对员工进行问话。\n贝恩表示正在与政府进行合作，这是知名美国企业在中国受到官方盘问的最新事件，也是中美经济关系紧张的最新迹象。日前中国扩大了构成间谍活动的范围，令外企感到担忧。https://bit.ly/3LhUXI5",
-          "link": "https://twitter.com/nytchinese/status/1651798317121122305",
-          "publishedOn": "2023-04-28T03:59:42.000Z",
-          "wordCount": 513,
-          "title": "中国的有关部门本月来到美国管理咨询公司贝恩公司上海分公司，对员工进行问话。 贝恩表示正在与政府进行合作，这是知名美国企业在中国受到官方盘问的最新事件，...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651779957360664578",
-          "author": "纽约时报中文网",
-          "description": "习近平和中共寻求巩固对关键经济领域的控制，金融反腐运动进入高潮，今年以来已有数十名高级官员和高管被调查或受处分。当局还对金融监管系统进行了全面改革。\nhttps://bit.ly/3HkHpKH",
-          "link": "https://twitter.com/nytchinese/status/1651779957360664578",
-          "publishedOn": "2023-04-28T02:46:45.000Z",
-          "wordCount": 513,
-          "title": "习近平和中共寻求巩固对关键经济领域的控制，金融反腐运动进入高潮，今年以来已有数十名高级官员和高管被调查或受处分。当局还对金融监管系统进行了全面改革。 h...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651771081911410688",
-          "author": "纽约时报中文网",
-          "description": "简报：中国加强对金融领域控制，多名高管和官员被查；中国警方盘问美国咨询公司上海办事处职员；尹锡悦在美国国会发表讲话；美国经济持续复苏；俄罗斯天然气出口大幅萎缩；彭斯就国会大厦暴乱事件作证；苏丹准军事组织接管喀土穆部分地区……这里是今日要闻。https://bit.ly/41RSRpq",
-          "link": "https://twitter.com/nytchinese/status/1651771081911410688",
-          "publishedOn": "2023-04-28T02:11:29.000Z",
-          "wordCount": 513,
-          "title": "简报：中国加强对金融领域控制，多名高管和官员被查；中国警方盘问美国咨询公司上海办事处职员；尹锡悦在美国国会发表讲话；美国经济持续复苏；俄罗斯天然气出口...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/nytchinese/status/1651571899628163075",
-          "author": "纽约时报中文网",
-          "description": "在与尹锡悦的公开谈话中，拜登几乎没有谈及通过谈判外交来解决朝鲜核野心引发的长达30年的对峙。\n虽然他表示仍将“寻求重大的、实质性的外交突破”，但他和尹锡悦都没有给出具体的途径，而是强调了他们的“扩大威慑”计划，明确承认朝鲜的核武器是一个不太可能在短期内逆转的现实。https://bit.ly/44jbjsC",
-          "link": "https://twitter.com/nytchinese/status/1651571899628163075",
-          "publishedOn": "2023-04-27T13:00:00.000Z",
-          "wordCount": 513,
-          "title": "在与尹锡悦的公开谈话中，拜登几乎没有谈及通过谈判外交来解决朝鲜核野心引发的长达30年的对峙。 虽然他表示仍将“寻求重大的、实质性的外交突破”，但他和尹锡...",
-          "imageUrl": null
         }
       ]
     },
@@ -21165,46 +20915,6 @@
           "publishedOn": "2023-04-28T14:07:42.000Z",
           "wordCount": 513,
           "title": "🅷 微软用 Rust 重写核心 Windows 代码» 04.28 周五 #硬核观察# 985 https://youtu.be/o9OURk6S8ds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1651915423833530369",
-          "author": "Linux中国",
-          "description": "硬核观察 | 硬核观察 #985 微软用 Rust 重写核心 Windows 代码 \nhttps://linux.cn/article-15763-1.html \n🅷 微软用 Rust 重写核心 Windows 代码\n🄸 基于区块链来共享空闲的 WiFi 接入点\n🄸 谷歌计划在认证器中加入端对端加密功能\n» \n» https://t.co/3zx0mfN5yY",
-          "link": "https://twitter.com/linux_cn/status/1651915423833530369",
-          "publishedOn": "2023-04-28T11:45:02.000Z",
-          "wordCount": 513,
-          "title": "硬核观察 | 硬核观察 #985 微软用 Rust 重写核心 Windows 代码 https://linux.cn/article-15763-1.html 🅷 微软用 Rust 重写核心 Windows 代码 🄸 基于区块...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1651613233206132737",
-          "author": "Linux中国",
-          "description": "技术 | 使用 Linux 命令从图像中删除背景 \nhttps://linux.cn/article-15762-1.html \nPython 的力量使 Linux 上的图像编辑变得简单。 https://t.co/XtfC9eCSRk",
-          "link": "https://twitter.com/linux_cn/status/1651613233206132737",
-          "publishedOn": "2023-04-27T15:44:14.000Z",
-          "wordCount": 513,
-          "title": "技术 | 使用 Linux 命令从图像中删除背景 https://linux.cn/article-15762-1.html Python 的力量使 Linux 上的图像编辑变得简单。 https://t.co/XtfC9eCSRk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1651583287519858689",
-          "author": "Linux中国",
-          "description": "技术 | 官方的 Ubuntu 精简 ISO 真的“精简”吗？ \nhttps://linux.cn/article-15761-1.html \nUbuntu 23.04 “Lunar Lobster” 新推出的精简安装程序到底有多精简呢？一起来看看吧。 https://t.co/mchF4TSmZQ",
-          "link": "https://twitter.com/linux_cn/status/1651583287519858689",
-          "publishedOn": "2023-04-27T13:45:15.000Z",
-          "wordCount": 513,
-          "title": "技术 | 官方的 Ubuntu 精简 ISO 真的“精简”吗？ https://linux.cn/article-15761-1.html Ubuntu 23.04 “Lunar Lobster” 新推出的精简安装程序到底有多精简呢...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1651573866332864513",
-          "author": "Linux中国",
-          "description": "🅷 ChatGPT 允许禁用聊天历史，但仍会保留 30 天» 04.27 周四 #硬核观察# 984 \nhttps://youtu.be/zRV1rGFSBNc",
-          "link": "https://twitter.com/linux_cn/status/1651573866332864513",
-          "publishedOn": "2023-04-27T13:07:49.000Z",
-          "wordCount": 513,
-          "title": "🅷 ChatGPT 允许禁用聊天历史，但仍会保留 30 天» 04.27 周四 #硬核观察# 984 https://youtu.be/zRV1rGFSBNc",
           "imageUrl": null
         }
       ]
