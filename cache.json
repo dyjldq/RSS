@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81293",
+          "author": "张奕源Nick",
+          "description": "对于既信任 Apple 的声学和降噪技术，又想与其它平台连接使用的用户来说，Beats Studio Pro 是个挺好的选择。查看全文",
+          "link": "https://sspai.com/post/81293",
+          "publishedOn": "2023-07-19T14:01:00.000Z",
+          "wordCount": 785,
+          "title": "更开放的降噪旗舰耳机：Beats Studio Pro 佩戴体验",
+          "imageUrl": "https://cdn.sspai.com/19/07/2023/article/23014801-55b4-4c21-4581-cf7bd3311138.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/80961",
+          "author": "Hzao",
+          "description": "Numpkin 从我自己的旅行和聚会经历中得到的启发，涵盖了出行分账的各个方面：预付款、支出记录、同步共享、结算建议、明细导出……与此同时，它目前还有一个比较「交朋友」的价格。查看全文",
+          "link": "https://sspai.com/post/80961",
+          "publishedOn": "2023-07-19T07:56:26.000Z",
+          "wordCount": 875,
+          "title": "为了让旅行少一些记账的痛苦，我自己动手做了一款 app：Numpkin",
+          "imageUrl": "https://cdn.sspai.com/2023/07/10/31ce114529accec8170cfd1246b5cc8f.png"
+        },
+        {
+          "id": "https://sspai.com/post/81073",
+          "author": "waychane",
+          "description": "与智能家居一样，全屋网络也是早在动工之前，我就已经确定了品牌和方案。不论是早年被 Amplifi HD 的精巧设计所打动，还是后来 Amplifi Alien 的「未来感」给我留下的深刻印象，Ubiquiti 优倍快 (原 ubnt) 路由系统都将自己出色的设计能力通过这些承载无形网络的设备体现得淋漓尽致，「由 Apple 前工程师创建的网络解决方案」也是我对 Ubiquiti 品牌最早的认识。\n\n当然网速快慢并不「看脸」，网络体验的好坏也不是仅靠设计能辨高下。在逐渐了解 Ubiquiti 的软硬件生态之后，他们的另一套系统性解决方案 UniFi OS 进入了我的视野：同水准乃至更甚的工业设计、丰富的扩展能力、强大的软件系统管理和解决方案…… 都让我决定，就是它了。查看全文",
+          "link": "https://sspai.com/post/81073",
+          "publishedOn": "2023-07-19T06:38:36.000Z",
+          "wordCount": 950,
+          "title": "家的日志 | 工欲善其事，必先利其器：我的家庭网络组网方案",
+          "imageUrl": "https://cdn.sspai.com/2023/7/12/article/f624d05f-e84a-e4f9-b852-3a1e855405b7.png"
+        },
+        {
+          "id": "https://sspai.com/post/80998",
+          "author": "张子豪John",
+          "description": "Paperlib 是一个免费的，开源的，简洁的学术论文管理工具，由 GeoffreyChen 开发，主要针对计算机科学学科；这篇文章我想聊一下我使用文献管理工具的心得，以及为什么在这里推荐 Paperlib。查看全文",
+          "link": "https://sspai.com/post/80998",
+          "publishedOn": "2023-07-19T03:42:47.000Z",
+          "wordCount": 1040,
+          "title": "界面简洁，功能丰富：Paperlib 如何帮我做好文献管理",
+          "imageUrl": "https://cdn.sspai.com/2023/07/10/786846e8314df2f838a55e9b60b2f618.png"
+        },
+        {
+          "id": "https://sspai.com/post/81280",
+          "author": "少数派编辑部",
+          "description": "特斯拉推出太阳能充电功能，Google 艺术与文化更新品牌 logo 等。查看全文",
+          "link": "https://sspai.com/post/81280",
+          "publishedOn": "2023-07-19T00:51:22.000Z",
+          "wordCount": 782,
+          "title": "派早报：拜亚动力发布颈挂式蓝牙耳机、 罗技收购 Loupedeck 等",
+          "imageUrl": "https://cdn.sspai.com/2023/7/19/article/855499b1-a58b-cd0a-0187-974a4af0ca09.jpg"
+        },
+        {
           "id": "https://sspai.com/post/81263",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
@@ -1194,46 +1244,6 @@
           "wordCount": 797,
           "title": "派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等",
           "imageUrl": "https://cdn.sspai.com/2023/6/21/article/0bf3ecc7-b425-6eaa-874c-7fd6a89fab70.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zouzhe-230620",
-          "author": "克莱德",
-          "description": "在不留悬念的新方式上，Pixel 倒是每年都会留下不少悬念。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zouzhe-230620",
-          "publishedOn": "2023-06-20T09:57:19.000Z",
-          "wordCount": 1020,
-          "title": "奏折 | 反正无悬念，内外有预告的一波新机",
-          "imageUrl": "https://cdn.sspai.com/6/20/2023/article/2d6a59eb-1ef0-2f63-047b-a2b7e67ceac9.png"
-        },
-        {
-          "id": "https://sspai.com/post/80461",
-          "author": "一柳繁",
-          "description": "管理能量的目的是让我在下班后仍有足够的能量去做我想做、我需要做、甚至可能有点难的事，比如学习、写作和社交。查看全文",
-          "link": "https://sspai.com/post/80461",
-          "publishedOn": "2023-06-20T07:00:00.000Z",
-          "wordCount": 689,
-          "title": "下班之后时间宝贵，直接开摆实在浪费：我的精力管理与自我提升探索",
-          "imageUrl": "https://cdn.sspai.com/2023/6/20/article/7407dc19-16e5-cf57-5667-c3919875653b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79411",
-          "author": "Konstantine",
-          "description": "找一个不太远的地方，卸下大人的包袱、做回孩子，比如去海边呆三天。阿那亚对我来说，就是这么一个完美的 get away location。查看全文",
-          "link": "https://sspai.com/post/79411",
-          "publishedOn": "2023-06-20T03:30:00.000Z",
-          "wordCount": 778,
-          "title": "城市漫步指南：去阿那亚的海边「呆」三天",
-          "imageUrl": "https://cdn.sspai.com/2023/04/30/bf1b2332a1cc8e7039e89c6d28f8358a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80454",
-          "author": "少数派编辑部",
-          "description": "中消协将开展「反对强制关注公众号」消费监督工作，微软确认近期服务中断是遭受 DDoS 拒绝服务攻击等。查看全文",
-          "link": "https://sspai.com/post/80454",
-          "publishedOn": "2023-06-20T01:01:13.000Z",
-          "wordCount": 781,
-          "title": "派早报：微信上线「安静模式」，印象笔记宣布开放印象 AI 限制等",
-          "imageUrl": "https://cdn.sspai.com/2023/6/20/article/7298b0bd-c50d-8509-8544-8847e2a881ac.png"
         }
       ]
     },
@@ -1242,6 +1252,176 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1681714170734194688",
+          "author": "ahhhhfs",
+          "description": "🤤🤤电动车中的保时捷\n这广告语是苹果同事写的吗 https://t.co/14ZlwFwvEU",
+          "link": "https://twitter.com/abskoop/status/1681714170734194688",
+          "publishedOn": "2023-07-19T17:14:37.000Z",
+          "wordCount": null,
+          "title": "🤤🤤电动车中的保时捷 这广告语是苹果同事写的吗 https://t.co/14ZlwFwvEU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681706576212525063",
+          "author": "ahhhhfs",
+          "description": "👉💍👈\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/ https://t.co/9TxNquv7em",
+          "link": "https://twitter.com/abskoop/status/1681706576212525063",
+          "publishedOn": "2023-07-19T16:44:27.000Z",
+          "wordCount": null,
+          "title": "👉💍👈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681705793320632326",
+          "author": "ahhhhfs",
+          "description": "有哪些国家在用微信🙊 https://t.co/BVFQ2IG4gy",
+          "link": "https://twitter.com/abskoop/status/1681705793320632326",
+          "publishedOn": "2023-07-19T16:41:20.000Z",
+          "wordCount": null,
+          "title": "有哪些国家在用微信🙊 https://t.co/BVFQ2IG4gy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681697771437412354",
+          "author": "ahhhhfs",
+          "description": "一些暑假小朋友适合看的纪录片\n国外大厂制作\n👉https://www.ahhhhfs.com/44820/ https://t.co/R0U46xIV2J",
+          "link": "https://twitter.com/abskoop/status/1681697771437412354",
+          "publishedOn": "2023-07-19T16:09:27.000Z",
+          "wordCount": null,
+          "title": "一些暑假小朋友适合看的纪录片 国外大厂制作 👉https://www.ahhhhfs.com/44820/ https://t.co/R0U46xIV2J",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681692770551857155",
+          "author": "ahhhhfs",
+          "description": "闪电侠 The Flash (2023) 4K上线了🤤 https://t.co/hMprXFRLvX",
+          "link": "https://twitter.com/abskoop/status/1681692770551857155",
+          "publishedOn": "2023-07-19T15:49:35.000Z",
+          "wordCount": null,
+          "title": "闪电侠 The Flash (2023) 4K上线了🤤 https://t.co/hMprXFRLvX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681681403539337219",
+          "author": "ahhhhfs",
+          "description": "在线高质量图片学习网站：果体图库NAKE\n👉https://www.ahhhhfs.com/44800/ https://t.co/fXUwAkkDRe",
+          "link": "https://twitter.com/abskoop/status/1681681403539337219",
+          "publishedOn": "2023-07-19T15:04:25.000Z",
+          "wordCount": null,
+          "title": "在线高质量图片学习网站：果体图库NAKE 👉https://www.ahhhhfs.com/44800/ https://t.co/fXUwAkkDRe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681667245037047809",
+          "author": "ahhhhfs",
+          "description": "追剧app🤤🤤\n\nahhhhfs: HoleFlix：轻量简洁无广告的追剧神器\n支持影视、番剧、漫画和磁力搜索等功能\n还有一个R18类型的漫画通道\n👉https://www.ahhhhfs.com/41500/ https://t.co/wj7ebHnE7k",
+          "link": "https://twitter.com/abskoop/status/1681667245037047809",
+          "publishedOn": "2023-07-19T14:08:09.000Z",
+          "wordCount": null,
+          "title": "追剧app🤤🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681665992714334209",
+          "author": "ahhhhfs",
+          "description": "Re @BhxKWp3DGo8jDKu 🙊在外面可以打开评论区看了",
+          "link": "https://twitter.com/abskoop/status/1681665992714334209",
+          "publishedOn": "2023-07-19T14:03:11.000Z",
+          "wordCount": null,
+          "title": "Re @BhxKWp3DGo8jDKu 🙊在外面可以打开评论区看了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681665822425595904",
+          "author": "ahhhhfs",
+          "description": "Re @258369qaz 🙊挂梯子 不行就换哈哈",
+          "link": "https://twitter.com/abskoop/status/1681665822425595904",
+          "publishedOn": "2023-07-19T14:02:30.000Z",
+          "wordCount": null,
+          "title": "Re @258369qaz 🙊挂梯子 不行就换哈哈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681665020919160834",
+          "author": "ahhhhfs",
+          "description": "Re @foreverbeliev22 这个是你开发的么🤤以前发过来\n\nahhhhfs: HoleFlix：轻量简洁无广告的追剧神器\n支持影视、番剧、漫画和磁力搜索等功能\n还有一个R18类型的漫画通道\n👉https://www.ahhhhfs.com/41500/ https://t.co/wj7ebHnE7k",
+          "link": "https://twitter.com/abskoop/status/1681665020919160834",
+          "publishedOn": "2023-07-19T13:59:19.000Z",
+          "wordCount": null,
+          "title": "Re @foreverbeliev22 这个是你开发的么🤤以前发过来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681663358708117506",
+          "author": "ahhhhfs",
+          "description": "M3U8 IPTV PLAYER ONLINE\n全球在线M3U8 IPTV直播源播放\n收集国内外游戏诶热门的电视直播频道\n打开就能直接在线播放🤤🤤\n👉https://www.ahhhhfs.com/44777/ https://t.co/HqwcWF33lC",
+          "link": "https://twitter.com/abskoop/status/1681663358708117506",
+          "publishedOn": "2023-07-19T13:52:43.000Z",
+          "wordCount": null,
+          "title": "M3U8 IPTV PLAYER ONLINE 全球在线M3U8 IPTV直播源播放 收集国内外游戏诶热门的电视直播频道 打开就能直接在线播放🤤🤤 👉https://www.ahhhhfs.com/44777/...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681651277296541696",
+          "author": "ahhhhfs",
+          "description": "付费看推 马上就来了🤤 https://t.co/6wUL3URzvB",
+          "link": "https://twitter.com/abskoop/status/1681651277296541696",
+          "publishedOn": "2023-07-19T13:04:42.000Z",
+          "wordCount": null,
+          "title": "付费看推 马上就来了🤤 https://t.co/6wUL3URzvB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681650581176287232",
+          "author": "ahhhhfs",
+          "description": "Re @Fly2up 好像是🙊",
+          "link": "https://twitter.com/abskoop/status/1681650581176287232",
+          "publishedOn": "2023-07-19T13:01:56.000Z",
+          "wordCount": null,
+          "title": "Re @Fly2up 好像是🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681645904019824645",
+          "author": "ahhhhfs",
+          "description": "Re @jakeupton12 淘宝app多开吗🤤",
+          "link": "https://twitter.com/abskoop/status/1681645904019824645",
+          "publishedOn": "2023-07-19T12:43:21.000Z",
+          "wordCount": null,
+          "title": "Re @jakeupton12 淘宝app多开吗🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681645788525391873",
+          "author": "ahhhhfs",
+          "description": "马老板清理推特机器人帐号\n清的差不多了吧🙊 是不是",
+          "link": "https://twitter.com/abskoop/status/1681645788525391873",
+          "publishedOn": "2023-07-19T12:42:54.000Z",
+          "wordCount": null,
+          "title": "马老板清理推特机器人帐号 清的差不多了吧🙊 是不是",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681642065707319296",
+          "author": "ahhhhfs",
+          "description": "World Bank Open Data/世界银行公开数据 \n免费获取下载世界各国的发展数据\n例如各国GDP、人口、各国经济情况等等\n支持多种语言\n👉https://www.ahhhhfs.com/3547/ https://t.co/wmH8R8R0wB",
+          "link": "https://twitter.com/abskoop/status/1681642065707319296",
+          "publishedOn": "2023-07-19T12:28:06.000Z",
+          "wordCount": null,
+          "title": "World Bank Open Data/世界银行公开数据 免费获取下载世界各国的发展数据 例如各国GDP、人口、各国经济情况等等 支持多种语言 👉https://www.ahhhhfs.com/3547...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1681630099551010817",
+          "author": "ahhhhfs",
+          "description": "Re @shihaoran0817 你点开日历看看订阅源是哪个🤤",
+          "link": "https://twitter.com/abskoop/status/1681630099551010817",
+          "publishedOn": "2023-07-19T11:40:33.000Z",
+          "wordCount": null,
+          "title": "Re @shihaoran0817 你点开日历看看订阅源是哪个🤤",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1681339007211388941",
           "author": "ahhhhfs",
@@ -5700,86 +5880,6 @@
           "publishedOn": "2023-06-20T13:40:49.000Z",
           "wordCount": null,
           "title": "一套 MBA商业逻辑基础班课程 12个模块 👉https://www.ahhhhfs.com/43445/ https://t.co/RR95MHaMdU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1671135206110101505",
-          "author": "ahhhhfs",
-          "description": "多媒体视频音乐下载机器人：DownloadsMasterBot\n支持YouTube、Spotify、Instagram、TikTok、\nTwitter、Facebook、Reddit和Twitch等媒体下载\n👉https://www.ahhhhfs.com/43450/ https://t.co/6mwfgWGzMS",
-          "link": "https://twitter.com/abskoop/status/1671135206110101505",
-          "publishedOn": "2023-06-20T12:37:35.000Z",
-          "wordCount": null,
-          "title": "多媒体视频音乐下载机器人：DownloadsMasterBot 支持YouTube、Spotify、Instagram、TikTok、 Twitter、Facebook、Reddit和Twitch等媒体下载 👉https://www.ahh...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1671064712459567105",
-          "author": "ahhhhfs",
-          "description": "ChatHub：多合一聊天机器人客户端\n在一个应用中同时与多个聊天机器人进行对话\n方便比较它们的回答\n目前支持 ChatGPT、Bing Chat、Google Bard、\nClaude 、 Alpaca等10 多个开源模型\n👉https://www.ahhhhfs.com/39372/ https://t.co/g2jFb1tanz",
-          "link": "https://twitter.com/abskoop/status/1671064712459567105",
-          "publishedOn": "2023-06-20T07:57:28.000Z",
-          "wordCount": null,
-          "title": "ChatHub：多合一聊天机器人客户端 在一个应用中同时与多个聊天机器人进行对话 方便比较它们的回答 目前支持 ChatGPT、Bing Chat、Google Bard、 Claude 、 Alpac...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670978598612738048",
-          "author": "ahhhhfs",
-          "description": "奇怪的IP都是谁在用🙊 https://t.co/G5hhpEmHkM",
-          "link": "https://twitter.com/abskoop/status/1670978598612738048",
-          "publishedOn": "2023-06-20T02:15:17.000Z",
-          "wordCount": null,
-          "title": "奇怪的IP都是谁在用🙊 https://t.co/G5hhpEmHkM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670842471843086339",
-          "author": "ahhhhfs",
-          "description": "学会了🤤🤤明天去麦当劳吃甜筒用上了 https://t.co/7E9Ba8ZxiQ",
-          "link": "https://twitter.com/abskoop/status/1670842471843086339",
-          "publishedOn": "2023-06-19T17:14:22.000Z",
-          "wordCount": null,
-          "title": "学会了🤤🤤明天去麦当劳吃甜筒用上了 https://t.co/7E9Ba8ZxiQ",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670820897945526273",
-          "author": "ahhhhfs",
-          "description": "某马PHP （基础班/就业班）全套课程视频+笔记\n👉https://www.ahhhhfs.com/43429/ https://t.co/RPqxzkMjdh",
-          "link": "https://twitter.com/abskoop/status/1670820897945526273",
-          "publishedOn": "2023-06-19T15:48:39.000Z",
-          "wordCount": null,
-          "title": "某马PHP （基础班/就业班）全套课程视频+笔记 👉https://www.ahhhhfs.com/43429/ https://t.co/RPqxzkMjdh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670816355430412288",
-          "author": "ahhhhfs",
-          "description": "一份在线外贸行业知识库：Lisa聊外贸\n包括各种话术、模板、常用工具等等\n👉https://www.ahhhhfs.com/43393/ https://t.co/R0n8ClL3fj",
-          "link": "https://twitter.com/abskoop/status/1670816355430412288",
-          "publishedOn": "2023-06-19T15:30:36.000Z",
-          "wordCount": null,
-          "title": "一份在线外贸行业知识库：Lisa聊外贸 包括各种话术、模板、常用工具等等 👉https://www.ahhhhfs.com/43393/ https://t.co/R0n8ClL3fj",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670809079311114240",
-          "author": "ahhhhfs",
-          "description": "资源丰富的资源采集学习网站 无水印：森林资源\n视频、小说和图片等各种类型、各种题材\n👉https://www.ahhhhfs.com/43423/ https://t.co/KZ2qUPAuPi",
-          "link": "https://twitter.com/abskoop/status/1670809079311114240",
-          "publishedOn": "2023-06-19T15:01:41.000Z",
-          "wordCount": null,
-          "title": "资源丰富的资源采集学习网站 无水印：森林资源 视频、小说和图片等各种类型、各种题材 👉https://www.ahhhhfs.com/43423/ https://t.co/KZ2qUPAuPi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1670792549047631872",
-          "author": "ahhhhfs",
-          "description": "go proxy bing ：基于New Bing演示站点\n国内免登录使用Bing AI\n兼容微软 Bing AI 所有功能\n支持 ChatGPT 提示词和AI绘画\n👉https://www.ahhhhfs.com/43413/ https://t.co/cpFCySlgmc",
-          "link": "https://twitter.com/abskoop/status/1670792549047631872",
-          "publishedOn": "2023-06-19T13:56:00.000Z",
-          "wordCount": null,
-          "title": "go proxy bing ：基于New Bing演示站点 国内免登录使用Bing AI 兼容微软 Bing AI 所有功能 支持 ChatGPT 提示词和AI绘画 👉https://www.ahhhhfs.com/43413/ ht...",
           "imageUrl": null
         }
       ]
@@ -18347,6 +18447,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1681671126366457856",
+          "author": "Linux中国",
+          "description": "🅷 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式» 07.19 周三 #硬核观察# 1067 \nhttps://youtu.be/yTIqx31EkH4",
+          "link": "https://twitter.com/linux_cn/status/1681671126366457856",
+          "publishedOn": "2023-07-19T14:23:35.000Z",
+          "wordCount": null,
+          "title": "🅷 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式» 07.19 周三 #硬核观察# 1067 https://youtu.be/yTIqx31EkH4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1681625787072380929",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1067 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式 \nhttps://linux.cn/article-16014-1.html \n🅷 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式\n🄸 美国启动物联网安全标签计划\n🄸 印度大部分外包程序员将在两年内因人工智能而消失\n» \n» https://t.co/xYDojMZoBq",
+          "link": "https://twitter.com/linux_cn/status/1681625787072380929",
+          "publishedOn": "2023-07-19T11:23:25.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1067 Meta 发布新大语言模型，可免费商用，采用特别的“开源”方式 https://linux.cn/article-16014-1.html 🅷 Meta 发布新大语言模型，...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1681567777402806272",
+          "author": "Linux中国",
+          "description": "观点 | 你应该使用新的、较为冷门的 Linux 发行版，还是坚持使用主流的发行版？ \nhttps://linux.cn/article-16013-1.html \n简单的答案是坚持使用主流的发行版，但真正的答案需要你自己思考。 https://t.co/p1PUUbY9Xp",
+          "link": "https://twitter.com/linux_cn/status/1681567777402806272",
+          "publishedOn": "2023-07-19T07:32:54.000Z",
+          "wordCount": null,
+          "title": "观点 | 你应该使用新的、较为冷门的 Linux 发行版，还是坚持使用主流的发行版？ https://linux.cn/article-16013-1.html 简单的答案是坚持使用主流的发行版，但...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1681548927374327809",
+          "author": "Linux中国",
+          "description": "新闻 | 不可变发行版 blendOS 发布最新版本 \nhttps://linux.cn/article-16012-1.html \nblendOS v3 已经来到，并带来了重大升级！ https://t.co/N058WyBcDL",
+          "link": "https://twitter.com/linux_cn/status/1681548927374327809",
+          "publishedOn": "2023-07-19T06:18:00.000Z",
+          "wordCount": null,
+          "title": "新闻 | 不可变发行版 blendOS 发布最新版本 https://linux.cn/article-16012-1.html blendOS v3 已经来到，并带来了重大升级！ https://t.co/N058WyBcDL",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1681302488446828544",
           "author": "Linux中国",
