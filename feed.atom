@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T00:44:28.616Z</updated>
+    <updated>2023-07-21T00:43:43.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 154｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/81329</id>
+        <link href="https://sspai.com/post/81329"/>
+        <updated>2023-07-20T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日]]></title>
+        <id>https://sspai.com/post/81239</id>
+        <link href="https://sspai.com/post/81239"/>
+        <updated>2023-07-20T07:57:45.000Z</updated>
+        <summary type="html"><![CDATA[我们可以在 iOS 联系人 app 中为亲朋好友添加农历生日并在日历 app 中实现联动提醒，但是遗憾的是该功能一直以来都有些小 bug，近日我就发现一例。本文介绍这个 bug 和我发现的解法，在 Apple 正式解决之前，希望遇到此问题的朋友能用这个简单的办法先解决问题。查看全文]]></summary>
+        <author>
+            <name>文某君</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产力祛魅：一位社科工作者的知识工作流]]></title>
+        <id>https://sspai.com/post/80962</id>
+        <link href="https://sspai.com/post/80962"/>
+        <updated>2023-07-20T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[不同于许多朋友主张的 all in one，我所偏向的是挖掘软件的闪光点。查看全文]]></summary>
+        <author>
+            <name>Soar_Freely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用这篇景点和美食攻略，为记忆中的土耳其生活作结]]></title>
+        <id>https://sspai.com/post/81040</id>
+        <link href="https://sspai.com/post/81040"/>
+        <updated>2023-07-20T03:34:33.000Z</updated>
+        <summary type="html"><![CDATA[土耳其不像歌里那样到处是浪漫的，但也不像很多人妖魔化的那种奇葩国家。写完这篇文章，一张张看过那些日子拍的照片，感觉就像是在记忆里重新把在土耳其的半年过了一遍。查看全文]]></summary>
+        <author>
+            <name>Miobowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题]]></title>
+        <id>https://sspai.com/post/81312</id>
+        <link href="https://sspai.com/post/81312"/>
+        <updated>2023-07-20T00:35:24.000Z</updated>
+        <summary type="html"><![CDATA[戴森推出空气净化器 BP06查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🤤🤤电动车中的保时捷 这广告语是苹果同事写的吗 https://t.co/14ZlwFwvEU]]></title>
         <id>https://twitter.com/abskoop/status/1681714170734194688</id>
@@ -15439,16 +15489,6 @@ https://cn.nytimes.com/usa/20230621/biden-china-spy-balloon/?utm_source=tw-nytim
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？]]></title>
-        <id>https://sspai.com/post/70113</id>
-        <link href="https://sspai.com/post/70113"/>
-        <updated>2023-06-21T09:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Apple 的自助维修计划是什么？和我有多大关系？我也能动手修 iPhone 了吗？……等等问题你将能在这篇文章里得到答案。查看全文]]></summary>
-        <author>
-            <name>PostMeridy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拜登称习近平对间谍气球毫不知情，一直被本国政府蒙在鼓里。这一言论透露了美国情报机构在该事件中了解到的北京内部混乱情况，也可能会使中美外交接触进一步复杂...]]></title>
         <id>https://twitter.com/nytchinese/status/1671440457086402560</id>
         <link href="https://twitter.com/nytchinese/status/1671440457086402560"/>
@@ -15521,16 +15561,6 @@ https://cn.nytimes.com/usa/20230621/biden-china-spy-balloon/?utm_source=tw-nytim
         <summary type="html"><![CDATA[法庭宣判三名被告跟踪罪和一项相关串谋罪名成立。这是针对“猎狐行动”的第一起诉讼，司法部称该行动的部分目的是控制海外中国公民，审理之时正值中美紧张关系达到顶点。https://cn.nytimes.com/usa/20230621/verdict-china-spying-trial/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur]]></summary>
         <author>
             <name>纽约时报中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保持精力，保持警惕，独自成行也分外有趣]]></title>
-        <id>https://sspai.com/post/80437</id>
-        <link href="https://sspai.com/post/80437"/>
-        <updated>2023-06-21T07:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>ErinChen</name>
         </author>
     </entry>
     <entry>
@@ -15614,16 +15644,6 @@ ahhhhfs: DM Ticket：大麦网自动购票工具
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[618 活动还在继续：少数派正版软件限时 5 折起]]></title>
-        <id>https://sspai.com/post/80415</id>
-        <link href="https://sspai.com/post/80415"/>
-        <updated>2023-06-21T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[也许你已经注意到，少数派正版软件618大促已于上周全面开启。本次活动中，我们继续与国内外数十家优秀的开发者以及团队推出限时特惠活动，也为会员用户带来了部分软件的专属折上折优惠券。目前，少数派正版软件6 ...查看全文]]></summary>
-        <author>
-            <name>福利派</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中国网友将布林肯的来访视为讨好求和，中国官媒也呼应了这种胜利叙事。美国则表示，对话不是让步。两国恢复了高层外交接触，但在核心议题上没有取得进展。https:...]]></title>
         <id>https://twitter.com/nytchinese/status/1671345174310449159</id>
         <link href="https://twitter.com/nytchinese/status/1671345174310449159"/>
@@ -15653,16 +15673,6 @@ ahhhhfs: DM Ticket：大麦网自动购票工具
 当地时间6月16日，LVMH“太子爷”安托万·阿尔诺笑问马斯克，“LVMH旗下品牌存在年份总和是8393年，市值却被19岁的特斯拉超越，你还要让我们难堪多久？” https://t.co/XdocQLKbSB]]></summary>
         <author>
             <name>The Paper 澎湃新闻</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等]]></title>
-        <id>https://sspai.com/post/80491</id>
-        <link href="https://sspai.com/post/80491"/>
-        <updated>2023-06-21T01:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Apple 更新自主维修计划设备支持范围及流程，Meta 发布用于语音的生成式 AI 模型 Voicebox 等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81329",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/81329",
+          "publishedOn": "2023-07-20T09:19:23.000Z",
+          "wordCount": 833,
+          "title": "新玩意 154｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdn.sspai.com/2023/7/20/article/66fe18b8-83fa-5925-7c1b-5e19ae5a6531.png"
+        },
+        {
+          "id": "https://sspai.com/post/81239",
+          "author": "文某君",
+          "description": "我们可以在 iOS 联系人 app 中为亲朋好友添加农历生日并在日历 app 中实现联动提醒，但是遗憾的是该功能一直以来都有些小 bug，近日我就发现一例。本文介绍这个 bug 和我发现的解法，在 Apple 正式解决之前，希望遇到此问题的朋友能用这个简单的办法先解决问题。查看全文",
+          "link": "https://sspai.com/post/81239",
+          "publishedOn": "2023-07-20T07:57:45.000Z",
+          "wordCount": 726,
+          "title": "一日一技 | 绕过 iOS 和 iPadOS 的系统 bug 设置农历生日",
+          "imageUrl": "https://cdn.sspai.com/2023/07/17/d715b996d0548adb5d02faeecb612c72.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/80962",
+          "author": "Soar_Freely",
+          "description": "不同于许多朋友主张的 all in one，我所偏向的是挖掘软件的闪光点。查看全文",
+          "link": "https://sspai.com/post/80962",
+          "publishedOn": "2023-07-20T06:30:00.000Z",
+          "wordCount": 931,
+          "title": "生产力祛魅：一位社科工作者的知识工作流",
+          "imageUrl": "https://cdn.sspai.com/2023/07/09/54c2c24973c947915470d1c0effa35c8.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81040",
+          "author": "Miobowl",
+          "description": "土耳其不像歌里那样到处是浪漫的，但也不像很多人妖魔化的那种奇葩国家。写完这篇文章，一张张看过那些日子拍的照片，感觉就像是在记忆里重新把在土耳其的半年过了一遍。查看全文",
+          "link": "https://sspai.com/post/81040",
+          "publishedOn": "2023-07-20T03:34:33.000Z",
+          "wordCount": 743,
+          "title": "用这篇景点和美食攻略，为记忆中的土耳其生活作结",
+          "imageUrl": "https://cdn.sspai.com/2023/07/11/973be3652b66c4cab5a685ca62f18847.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81312",
+          "author": "少数派编辑部",
+          "description": "戴森推出空气净化器 BP06查看全文",
+          "link": "https://sspai.com/post/81312",
+          "publishedOn": "2023-07-20T00:35:24.000Z",
+          "wordCount": 750,
+          "title": "派早报：群晖发布两款 NAS 新品、工信部将重点整治欺骗误导下载等问题",
+          "imageUrl": "https://cdn.sspai.com/7/20/2023/article/67d6145c-4cae-67e5-0e6d-3e0677927141.png"
+        },
+        {
           "id": "https://sspai.com/post/81293",
           "author": "张奕源Nick",
           "description": "对于既信任 Apple 的声学和降噪技术，又想与其它平台连接使用的用户来说，Beats Studio Pro 是个挺好的选择。查看全文",
@@ -1204,46 +1254,6 @@
           "wordCount": 1070,
           "title": "少数派编辑部都装了啥字体？",
           "imageUrl": "https://cdn.sspai.com/6/21/2023/article/3e2720e1-b0a8-9b76-7703-6aff978235eb.png"
-        },
-        {
-          "id": "https://sspai.com/post/70113",
-          "author": "PostMeridy",
-          "description": "Apple 的自助维修计划是什么？和我有多大关系？我也能动手修 iPhone 了吗？……等等问题你将能在这篇文章里得到答案。查看全文",
-          "link": "https://sspai.com/post/70113",
-          "publishedOn": "2023-06-21T09:58:03.000Z",
-          "wordCount": 1152,
-          "title": "Apple 新政策允许个人维修 iPhone，对我们来说都意味着什么？",
-          "imageUrl": "https://cdn.sspai.com/article/40a8f06e-efa6-b717-7b85-f181da3e3597.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80437",
-          "author": "ErinChen",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/80437",
-          "publishedOn": "2023-06-21T07:01:18.000Z",
-          "wordCount": 661,
-          "title": "保持精力，保持警惕，独自成行也分外有趣",
-          "imageUrl": "https://cdn.sspai.com/2023/06/19/60578ac5ca8f56c65658fcb94a1070f9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80415",
-          "author": "福利派",
-          "description": "也许你已经注意到，少数派正版软件618大促已于上周全面开启。本次活动中，我们继续与国内外数十家优秀的开发者以及团队推出限时特惠活动，也为会员用户带来了部分软件的专属折上折优惠券。目前，少数派正版软件6 ...查看全文",
-          "link": "https://sspai.com/post/80415",
-          "publishedOn": "2023-06-21T03:30:00.000Z",
-          "wordCount": 824,
-          "title": "618 活动还在继续：少数派正版软件限时 5 折起",
-          "imageUrl": "https://cdn.sspai.com/2023/6/19/article/e3a573c2-7d20-9b88-edc8-53b2a2a96819.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80491",
-          "author": "少数派编辑部",
-          "description": "Apple 更新自主维修计划设备支持范围及流程，Meta 发布用于语音的生成式 AI 模型 Voicebox 等。查看全文",
-          "link": "https://sspai.com/post/80491",
-          "publishedOn": "2023-06-21T01:07:05.000Z",
-          "wordCount": 797,
-          "title": "派早报：Outlook 将成为 Windows 11 默认应用、有道云笔记将限制同时登录设备数量等",
-          "imageUrl": "https://cdn.sspai.com/2023/6/21/article/0bf3ecc7-b425-6eaa-874c-7fd6a89fab70.png"
         }
       ]
     },
