@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81445",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/81445",
+          "publishedOn": "2023-07-25T09:19:38.000Z",
+          "wordCount": 963,
+          "title": "社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享",
+          "imageUrl": "https://cdn.sspai.com/7/25/2023/article/54c70b9e-c28b-6201-67b9-068cc9273e74.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81257",
+          "author": "胖鱼要进步",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/81257",
+          "publishedOn": "2023-07-25T07:00:00.000Z",
+          "wordCount": 667,
+          "title": "被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要",
+          "imageUrl": "https://cdn.sspai.com/2023/7/25/article/9cc19aa9-7911-b878-4e41-4205a11b6cbb.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81269",
+          "author": "JamesHopbourn",
+          "description": "在软件公司开始实习三周有余，公司内部使用「禅道」进行项目管理。每天需要时不时上去看看组长有没有派发新任务，所以经常需要手动刷新网页查看。如下图所示，橙色矩形框框选的区域就是工作总计。但是作为一个自动化玩家，每天手动刷新几十次网页去查看工作任务，这对我来说是不可接受的。所以就开始考虑是否可以使用自动化脚本，实现定时通知任务状态的功能。查看全文",
+          "link": "https://sspai.com/post/81269",
+          "publishedOn": "2023-07-25T03:31:40.000Z",
+          "wordCount": 896,
+          "title": "通用状态监控通知脚本，订阅状态通知",
+          "imageUrl": "https://cdn.sspai.com/2023/07/18/2ca700ef8fd8389cabdb6f7a69f64174.png"
+        },
+        {
+          "id": "https://sspai.com/post/81453",
+          "author": "少数派编辑部",
+          "description": "索尼发布 WF-1000XM5 降噪耳机，微软将强制完成 Outlook PWA 推广等。查看全文",
+          "link": "https://sspai.com/post/81453",
+          "publishedOn": "2023-07-25T00:49:58.000Z",
+          "wordCount": 861,
+          "title": "派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等",
+          "imageUrl": "https://cdn.sspai.com/2023/7/25/article/8de9e64a-dc91-e5ca-998d-ae62c56ce02d.png"
+        },
+        {
           "id": "https://sspai.com/post/81442",
           "author": "少数派编辑部",
           "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
@@ -1214,76 +1254,6 @@
           "wordCount": 859,
           "title": "派早报：哔哩哔哩将更换播放数据呈现方式等",
           "imageUrl": "https://cdn.sspai.com/2023/6/27/article/3f0d2a9e-d5d6-dac9-bedd-e47927b4a3db.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zouzhe-230626",
-          "author": "板斧",
-          "description": "当 E3 真的隐入历史，业界和玩家一些怅然若失的情绪是可以理解的。但事实表明，每年这个时候集中进行宣发、讨论的行业「习俗」却未受影响，呈现在玩家面前的依然是一个百花齐放的「E3 月」。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zouzhe-230626",
-          "publishedOn": "2023-06-26T10:00:37.000Z",
-          "wordCount": 996,
-          "title": "6 月失去了 E3，但夏天依然洋溢着游戏",
-          "imageUrl": "https://cdn.sspai.com/6/26/2023/article/ffd6b0f4-81ad-26e5-9a5b-2f071d96aeb4.png"
-        },
-        {
-          "id": "https://sspai.com/post/80608",
-          "author": "少数派编辑部",
-          "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
-          "link": "https://sspai.com/post/80608",
-          "publishedOn": "2023-06-26T09:31:26.000Z",
-          "wordCount": 916,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/6/26/article/dccf8950-666e-99d7-de52-64362ec9db07.png"
-        },
-        {
-          "id": "https://sspai.com/post/80589",
-          "author": "数字工具组",
-          "description": "从全球范围来看，近两年的Notion，可能比你想象的要火！从2021年12月开始，Notion在谷歌上的搜索热度开始爆发性增长，一下子拉开了与老对手Evernote和OneNote的差距，即使是那两年 ...查看全文",
-          "link": "https://sspai.com/post/80589",
-          "publishedOn": "2023-06-26T09:07:11.000Z",
-          "wordCount": 835,
-          "title": "众筹 | Notion All in One，一份给知识工作者的 Notion 终极指南",
-          "imageUrl": "https://cdn.sspai.com/26/6/2023/article/f9d62d63-cb7b-4039-d966-0915e4742209.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/68027",
-          "author": "广陵止息",
-          "description": "事实上，空气的另外一个属性也会切实影响到我们感受到的温度，控制好湿度可以让你过上冬天更暖、夏天更冷的四季。查看全文",
-          "link": "https://sspai.com/post/68027",
-          "publishedOn": "2023-06-26T07:59:58.000Z",
-          "wordCount": 715,
-          "title": "掌控湿度、凉爽一夏：送给受不了 105 度的你",
-          "imageUrl": "https://cdn.sspai.com/article/aa72f6c0-4137-c705-6593-1a624f39b3c0.png"
-        },
-        {
-          "id": "https://sspai.com/post/80583",
-          "author": "swerveeeed",
-          "description": "考虑好这三点后，再来想 FW3 也不晚。查看全文",
-          "link": "https://sspai.com/post/80583",
-          "publishedOn": "2023-06-26T06:30:00.000Z",
-          "wordCount": 769,
-          "title": "飞傲 FW3 上手体验：499 元带 Hi-Fi 芯片的真无线，香吗？",
-          "imageUrl": "https://cdn.sspai.com/2023/06/25/31329ba84bafd1ac15a26875a7a9727e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80530",
-          "author": "休伯利安",
-          "description": "贸然入坑的小白总是要交学费的，以下的文字是真金白银堆出来的经验之谈，希望可以减少喜欢骑行朋友的入坑成本。查看全文",
-          "link": "https://sspai.com/post/80530",
-          "publishedOn": "2023-06-26T03:33:23.000Z",
-          "wordCount": 677,
-          "title": "用烧钱折腾一个月的经历教训，聊聊如何入门骑行运动",
-          "imageUrl": "https://cdn.sspai.com/2023/06/23/d29b54d9b4d6656f512d25e550302cdd.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80582",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事FTC诉微软收购暴雪案开庭6月22日，FTC就微软收购暴雪提起的诉讼在旧金山开庭。FTC要求获得法院下发禁令，阻止微软在8月2日之前完成交易，届时FTC就该收购另行发起的行政诉讼将开 ...查看全文",
-          "link": "https://sspai.com/post/80582",
-          "publishedOn": "2023-06-26T00:58:34.000Z",
-          "wordCount": 930,
-          "title": "派早报：FTC 诉微软收购暴雪案开庭；马斯克与扎克伯格「约架」",
-          "imageUrl": "https://cdn.sspai.com/6/25/2023/article/b6821016-079f-3304-75fb-945c5b0aa8e7.png"
         }
       ]
     },
@@ -1292,6 +1262,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1683909228811911170",
+          "author": "ahhhhfs",
+          "description": "双控灯是这样的🤤",
+          "link": "https://twitter.com/abskoop/status/1683909228811911170",
+          "publishedOn": "2023-07-25T18:37:00.000Z",
+          "wordCount": null,
+          "title": "双控灯是这样的🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683877545043800067",
+          "author": "ahhhhfs",
+          "description": "BT磁力搜索引擎：磁力多\n自己搜搜🙊不要迷路了\n👉https://www.ahhhhfs.com/33125/",
+          "link": "https://twitter.com/abskoop/status/1683877545043800067",
+          "publishedOn": "2023-07-25T16:31:06.000Z",
+          "wordCount": null,
+          "title": "BT磁力搜索引擎：磁力多 自己搜搜🙊不要迷路了 👉https://www.ahhhhfs.com/33125/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683869721819484161",
+          "author": "ahhhhfs",
+          "description": "iPhone历代壁纸大全 超全集合🤤\n👉https://www.ahhhhfs.com/45043/",
+          "link": "https://twitter.com/abskoop/status/1683869721819484161",
+          "publishedOn": "2023-07-25T16:00:01.000Z",
+          "wordCount": null,
+          "title": "iPhone历代壁纸大全 超全集合🤤 👉https://www.ahhhhfs.com/45043/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683867634226405376",
+          "author": "ahhhhfs",
+          "description": "力量大赛🤤🤤",
+          "link": "https://twitter.com/abskoop/status/1683867634226405376",
+          "publishedOn": "2023-07-25T15:51:43.000Z",
+          "wordCount": null,
+          "title": "力量大赛🤤🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683863455470612483",
+          "author": "ahhhhfs",
+          "description": "一份不负责任的机场使用手册\n比较全面的✈️使用科普文档🙊\n👉https://www.ahhhhfs.com/45059/",
+          "link": "https://twitter.com/abskoop/status/1683863455470612483",
+          "publishedOn": "2023-07-25T15:35:07.000Z",
+          "wordCount": null,
+          "title": "一份不负责任的机场使用手册 比较全面的✈️使用科普文档🙊 👉https://www.ahhhhfs.com/45059/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683847199786926081",
+          "author": "ahhhhfs",
+          "description": "在线干净的图片学习网站：每日妹子图\n高清无水印\n👉https://www.ahhhhfs.com/45031/",
+          "link": "https://twitter.com/abskoop/status/1683847199786926081",
+          "publishedOn": "2023-07-25T14:30:31.000Z",
+          "wordCount": null,
+          "title": "在线干净的图片学习网站：每日妹子图 高清无水印 👉https://www.ahhhhfs.com/45031/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683826684536197122",
+          "author": "ahhhhfs",
+          "description": "最强工具人在线工具箱：TOOLFK工具网\n收集各种实用的在线小工具\n无论是创作还是程序员都适用\n👉https://www.ahhhhfs.com/45038/",
+          "link": "https://twitter.com/abskoop/status/1683826684536197122",
+          "publishedOn": "2023-07-25T13:09:00.000Z",
+          "wordCount": null,
+          "title": "最强工具人在线工具箱：TOOLFK工具网 收集各种实用的在线小工具 无论是创作还是程序员都适用 👉https://www.ahhhhfs.com/45038/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683795982239014912",
+          "author": "ahhhhfs",
+          "description": "199IT：互联网数据研究报告下载\n👉https://www.ahhhhfs.com/45009/",
+          "link": "https://twitter.com/abskoop/status/1683795982239014912",
+          "publishedOn": "2023-07-25T11:07:00.000Z",
+          "wordCount": null,
+          "title": "199IT：互联网数据研究报告下载 👉https://www.ahhhhfs.com/45009/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683764688792739845",
+          "author": "ahhhhfs",
+          "description": "WallpapersCraft：在线4K壁纸素材下载\n提供各种类型和各种分辨率的高清壁纸素材\n👉https://www.ahhhhfs.com/44945/",
+          "link": "https://twitter.com/abskoop/status/1683764688792739845",
+          "publishedOn": "2023-07-25T09:02:39.000Z",
+          "wordCount": null,
+          "title": "WallpapersCraft：在线4K壁纸素材下载 提供各种类型和各种分辨率的高清壁纸素材 👉https://www.ahhhhfs.com/44945/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683733131206045699",
+          "author": "ahhhhfs",
+          "description": "engVid：免费公益性英语视频教学网站 \n课程涵盖英语语法、词汇、发音、雅思、托福等\n通过经验丰富的教师在线教授免费学习英语\n幽默风趣，适合初级、中级和高级学者\n👉https://www.ahhhhfs.com/45001/",
+          "link": "https://twitter.com/abskoop/status/1683733131206045699",
+          "publishedOn": "2023-07-25T06:57:15.000Z",
+          "wordCount": null,
+          "title": "engVid：免费公益性英语视频教学网站 课程涵盖英语语法、词汇、发音、雅思、托福等 通过经验丰富的教师在线教授免费学习英语 幽默风趣，适合初级、中级和高级学...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1683699590774636544",
+          "author": "ahhhhfs",
+          "description": "是我了 生活水平明显下降了🥲",
+          "link": "https://twitter.com/abskoop/status/1683699590774636544",
+          "publishedOn": "2023-07-25T04:43:58.000Z",
+          "wordCount": null,
+          "title": "是我了 生活水平明显下降了🥲",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1683533081288867840",
           "author": "ahhhhfs",
@@ -5590,86 +5670,6 @@
           "publishedOn": "2023-06-26T14:35:25.000Z",
           "wordCount": null,
           "title": "国内免翻在线视频学习网站：在线影院 👉https://www.ahhhhfs.com/43653/ https://t.co/MhzxiwBLW7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673285314750693376",
-          "author": "ahhhhfs",
-          "description": "MAC小站：免费MAC破解软件下载\n无需注册登录，下载不限速\n👉https://www.ahhhhfs.com/43641/ https://t.co/AAMZHYvuDi",
-          "link": "https://twitter.com/abskoop/status/1673285314750693376",
-          "publishedOn": "2023-06-26T11:01:21.000Z",
-          "wordCount": null,
-          "title": "MAC小站：免费MAC破解软件下载 无需注册登录，下载不限速 👉https://www.ahhhhfs.com/43641/ https://t.co/AAMZHYvuDi",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673240825961086978",
-          "author": "ahhhhfs",
-          "description": "一套课程：20小时快速掌握英语核心秘诀\n实用、有趣易懂\n👉https://www.ahhhhfs.com/43632/ https://t.co/xBNGcKcuaN",
-          "link": "https://twitter.com/abskoop/status/1673240825961086978",
-          "publishedOn": "2023-06-26T08:04:34.000Z",
-          "wordCount": null,
-          "title": "一套课程：20小时快速掌握英语核心秘诀 实用、有趣易懂 👉https://www.ahhhhfs.com/43632/ https://t.co/xBNGcKcuaN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673140208672428034",
-          "author": "ahhhhfs",
-          "description": "还要准备其他什么吗🤤 https://t.co/pu7vRFC8od",
-          "link": "https://twitter.com/abskoop/status/1673140208672428034",
-          "publishedOn": "2023-06-26T01:24:45.000Z",
-          "wordCount": null,
-          "title": "还要准备其他什么吗🤤 https://t.co/pu7vRFC8od",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673010391746596864",
-          "author": "ahhhhfs",
-          "description": "海外上网教程🤫🤫\n\nahhhhfs: 出海上网工具Cla👀sh for Windows使用教程\n安卓、macOS、Windows通用\n👉https://www.ahhhhfs.com/41105/ https://t.co/mee18TKPyB",
-          "link": "https://twitter.com/abskoop/status/1673010391746596864",
-          "publishedOn": "2023-06-25T16:48:55.000Z",
-          "wordCount": null,
-          "title": "海外上网教程🤫🤫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673005761130115072",
-          "author": "ahhhhfs",
-          "description": "某款TV 电视直播盒子 解锁版 \n会员午夜频道新密码：5516\n👉http://ahhhhfs.com/42185/ https://t.co/ThVYMtvXcK",
-          "link": "https://twitter.com/abskoop/status/1673005761130115072",
-          "publishedOn": "2023-06-25T16:30:31.000Z",
-          "wordCount": null,
-          "title": "某款TV 电视直播盒子 解锁版 会员午夜频道新密码：5516 👉http://ahhhhfs.com/42185/ https://t.co/ThVYMtvXcK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1672990532572774400",
-          "author": "ahhhhfs",
-          "description": "2345出海导航：跨境电商出海资源工具集合\n提供跨境电商、跨境营销、跨境推广引流、\n虚拟接码、海外支付、网络IP代理、\n出海业务的必备网站网址和工具软件\n👉https://www.ahhhhfs.com/43625/ https://t.co/mCWA2CMDpW",
-          "link": "https://twitter.com/abskoop/status/1672990532572774400",
-          "publishedOn": "2023-06-25T15:30:00.000Z",
-          "wordCount": null,
-          "title": "2345出海导航：跨境电商出海资源工具集合 提供跨境电商、跨境营销、跨境推广引流、 虚拟接码、海外支付、网络IP代理、 出海业务的必备网站网址和工具软件 👉ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1672976439619010561",
-          "author": "ahhhhfs",
-          "description": "国外在线大人VR视频学习网站：VRPO\n👉https://www.ahhhhfs.com/43620/ https://t.co/YjveJH16ty",
-          "link": "https://twitter.com/abskoop/status/1672976439619010561",
-          "publishedOn": "2023-06-25T14:34:00.000Z",
-          "wordCount": null,
-          "title": "国外在线大人VR视频学习网站：VRPO 👉https://www.ahhhhfs.com/43620/ https://t.co/YjveJH16ty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1672957707505086467",
-          "author": "ahhhhfs",
-          "description": "看图作文____。 https://t.co/mwF1K9lrw8",
-          "link": "https://twitter.com/abskoop/status/1672957707505086467",
-          "publishedOn": "2023-06-25T13:19:34.000Z",
-          "wordCount": null,
-          "title": "看图作文____。 https://t.co/mwF1K9lrw8",
           "imageUrl": null
         }
       ]
