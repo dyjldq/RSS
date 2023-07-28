@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81536",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/81536",
+          "publishedOn": "2023-07-27T09:11:18.000Z",
+          "wordCount": 723,
+          "title": "新玩意 155｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdn.sspai.com/2023/7/27/article/d9c44243-b6b0-8a6d-1f9f-3c8a585d4069.png"
+        },
+        {
+          "id": "https://sspai.com/post/81523",
+          "author": "一柳繁",
+          "description": "本文从简历、面试、建立人脉网络，以及如何面对求职过程中的压力这些方面，详细介绍我为求职所做的准备。查看全文",
+          "link": "https://sspai.com/post/81523",
+          "publishedOn": "2023-07-27T07:00:54.000Z",
+          "wordCount": 722,
+          "title": "从制作简历到建立人脉，这些准备帮我找到心仪工作",
+          "imageUrl": "https://cdn.sspai.com/2023/7/27/article/d405072e-c967-ac6a-4a3b-c80e811e4bbb.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81363",
+          "author": "SimonYoung",
+          "description": "在打开标签页比较多的情况下，使用快捷键一路 Ctrl+W 下去，不小心关闭了最后一个 Tab 页，然后整个 Safari 窗口退出了，于是不得不再从 Dock 栏里面唤醒 Safari。而本文则介绍了一种快速关闭 Safari 浏览器所有标签页同时保留最后一个标签页的方法。查看全文",
+          "link": "https://sspai.com/post/81363",
+          "publishedOn": "2023-07-27T03:30:26.000Z",
+          "wordCount": 798,
+          "title": "一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」",
+          "imageUrl": "https://cdn.sspai.com/7/27/2023/article/4eccec68-5610-83d6-ecda-8a9543faeec5.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81514",
+          "author": "少数派编辑部",
+          "description": "高德地图国际图服务将于 9 月 2 日起上线、方块游戏确认《仙剑奇侠传四》重制中等。查看全文",
+          "link": "https://sspai.com/post/81514",
+          "publishedOn": "2023-07-27T00:30:53.000Z",
+          "wordCount": 766,
+          "title": "派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等",
+          "imageUrl": "https://cdn.sspai.com/27/07/2023/article/c7e74517-b11f-b906-6a10-cf8ea03fe2aa.jpg"
+        },
+        {
           "id": "https://sspai.com/prime/story/zhuanglesha-230726",
           "author": "少数派编辑部",
           "description": "作为数据事故的「高危人群」，编辑部成员们分别聊了聊自己的无损备份工具和技巧。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1214,56 +1254,6 @@
           "wordCount": 1039,
           "title": "Google 做不好的「小组件」，MIUI 做对了什么？",
           "imageUrl": "https://cdn.sspai.com/6/28/2023/article/189a7c9d-9c63-bc89-3cdd-59c08f762657.png"
-        },
-        {
-          "id": "https://sspai.com/post/80603",
-          "author": "少数派播客",
-          "description": "在本次对谈中，我们就请钱小磊分享了自己「不务正业」的人生经历。查看全文",
-          "link": "https://sspai.com/post/80603",
-          "publishedOn": "2023-06-28T09:00:00.000Z",
-          "wordCount": 648,
-          "title": "播客 | 从锤科公关，到香蕉攀岩老板",
-          "imageUrl": "https://cdn.sspai.com/26/06/2023/article/62174618-2b92-ed9d-402e-3751de18d109.jpg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/automation-n8n",
-          "author": "珪璋",
-          "description": "从商业化工具开始的探索\n很久以前，我曾经试图用一个工具整合各种需求，即所谓「All in One」，结果却是让工具内部变得臃肿和笨重，后来还是逐渐放弃了。\n现在，我做笔记用的是 Obsidian 和 Notion，任务管理用滴答清单，剪藏管理用 Cubox（都是少数派商店里面的好货）。这样将需求拆解到不同工具之后，很多复杂脚本被现成功能取代，工作确实简单了一些。但相应的代价则是需要在工具之间跳转，而它们的协作缺乏了一些「灵性」。\n针对这种问题，市场上出现了许多基于 API 的自动化平台，试图让用户以较低门槛打通不同应用。这其中的行业领先者包括 Zapier 和 IFTTT 等，都是少数派读者耳熟能详的，在少数派上也有不少关的深度教程，例如：\n  \n经过检索，我发现在 AI 兴起之后，很多这类服务都快速添加了调用 OpenAI API 的功能。但是它们有一个共同的缺点（或者是我自己的缺点……），就是太贵了。可以对比一下此类产品的价格：\n产品\n                价格\n            \nZapier\n                免费用户每月 100 次任务。最低升级价格 $20/月，含 750 次任务\n            \nIFTTT\n                免费用户可保存 3 个自动化（Applets）。含有 AI 功能的升级方案升级 $5/月\n            \n集简云\n                免费用户每月 500 次执行。升级一年 ￥1990，每月可执行 1500 次\n            \nHiFlow（腾讯轻联）\n                免费用户每月 1000 次执行。升级一年 ￥980，每月 3000 次\n            \n原则上，我是非常支持为互联网企业的创新功能付费的，但是日常用户的需求并没有强烈到能支撑这种价格。特别是 Zapier，已经像是「轻奢品」的范畴了。\n本文中，我将介绍自己如何搭建开源、可自建的自动化工具 n8n，并演示几个真实用例。在此基础上，我将对用自动化工具辅助工作的未来提出一些展望，以及就个人如何跟进这新的一轮「产业革命」提出些小小看法。\n在经历一系列摸索之后，我最终找到了一个可用且免费的替代品——n8n。\nn8n 是一个开源的自动化控制台。它具有设计简洁的图形界面，可以非常清晰地展示数据在各种服务之间流动的过程。对于入门用户，n8n 提供了丰富的模板，也有活跃的社区支持。\n\nn8n 提供官方托管服务，定价也不便宜。但得益于开源属性，可以比较方便地在自己的 NAS 或 VPS 上部署，从而不需要任何额外开销。\n用 Docker Compose 安装 n8n\nn8n 的安装方式有多种选择，我选择的是 Docker Compose 方案，这也是一种比较容易上手的方案。（下面的步骤假定读者掌握基本的终端操作，且已经安装好 Docker。）\n[ 编注：我们之前会员文章介绍过的 YunoHost 也可以快速安装 n8n。]\n[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/automation-n8n",
-          "publishedOn": "2023-06-28T08:32:12.000Z",
-          "wordCount": 1479,
-          "title": "基于 n8n 的开源自动化：以滴答清单同步 Notion 为例",
-          "imageUrl": "https://cdn.sspai.com/5/11/2023/article/2870908f-c397-920c-837e-6b0b24a7ec79.png"
-        },
-        {
-          "id": "https://sspai.com/post/74196",
-          "author": "少数派编辑部",
-          "description": "自己在家制作夏日特饮，是一件能够同时收获成就感与满足感的美事。查看全文",
-          "link": "https://sspai.com/post/74196",
-          "publishedOn": "2023-06-28T03:33:54.000Z",
-          "wordCount": 668,
-          "title": "咖啡美酒冷泡茶，这些消暑饮品在家就能动手做",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/cb57mr5b34tbt4lb7hug"
-        },
-        {
-          "id": "https://sspai.com/post/80659",
-          "author": "少数派编辑部",
-          "description": "JetBrains 为 IDE 集成 AI 编程助手功能，工信部发布新版《中华人民共和国无线电频率划分规定》。查看全文",
-          "link": "https://sspai.com/post/80659",
-          "publishedOn": "2023-06-28T00:52:05.000Z",
-          "wordCount": 831,
-          "title": "派早报：Android 将更新品牌标识、Meta 推出 VR 游戏订阅服务等",
-          "imageUrl": "https://cdn.sspai.com/2023/6/28/article/e6ca9ad7-5036-46fb-98c7-acae01a41454.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/windows-macos-version-number-explained",
-          "author": "PlatyHsu",
-          "description": "一起来唠唠操作系统起名编号的家长里短。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/windows-macos-version-number-explained",
-          "publishedOn": "2023-06-27T14:04:32.000Z",
-          "wordCount": 1005,
-          "title": "你的名字到底有几种写法？——聊聊 Windows 和 macOS 的版本号",
-          "imageUrl": "https://cdn.sspai.com/6/27/2023/article/cd44420d-dc3a-136b-09ee-7ef90ac1205f.png"
         }
       ]
     },
@@ -1272,6 +1262,106 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1684580401585823744",
+          "author": "ahhhhfs",
+          "description": "7X24小时在线要饭网站源码：alms\n纯原生js手撸，无任何框架\n不用数据库，不用部署服务器上\n零成本，代码部署GitHub\n👉https://www.ahhhhfs.com/45140/",
+          "link": "https://twitter.com/abskoop/status/1684580401585823744",
+          "publishedOn": "2023-07-27T15:04:00.000Z",
+          "wordCount": null,
+          "title": "7X24小时在线要饭网站源码：alms 纯原生js手撸，无任何框架 不用数据库，不用部署服务器上 零成本，代码部署GitHub 👉https://www.ahhhhfs.com/45140/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684572674243317763",
+          "author": "ahhhhfs",
+          "description": "近二十年黄金价格🤤",
+          "link": "https://twitter.com/abskoop/status/1684572674243317763",
+          "publishedOn": "2023-07-27T14:33:18.000Z",
+          "wordCount": null,
+          "title": "近二十年黄金价格🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684571844400091136",
+          "author": "ahhhhfs",
+          "description": "男同学身体锻炼手册 \n网友三甲医院拍的🤤🤤\n👉https://www.ahhhhfs.com/45129/",
+          "link": "https://twitter.com/abskoop/status/1684571844400091136",
+          "publishedOn": "2023-07-27T14:30:00.000Z",
+          "wordCount": null,
+          "title": "男同学身体锻炼手册 网友三甲医院拍的🤤🤤 👉https://www.ahhhhfs.com/45129/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684565190476705792",
+          "author": "ahhhhfs",
+          "description": "Twitter X Beta版本推出  已上车\n下载和安装地址🤤\n👉https://www.ahhhhfs.com/45158/",
+          "link": "https://twitter.com/abskoop/status/1684565190476705792",
+          "publishedOn": "2023-07-27T14:03:33.000Z",
+          "wordCount": null,
+          "title": "Twitter X Beta版本推出 已上车 下载和安装地址🤤 👉https://www.ahhhhfs.com/45158/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684551210341371904",
+          "author": "ahhhhfs",
+          "description": "Promptchan：在线AI图片生成工具 \n支持涩涩图片生成🤤🤤 自己试试\n👉https://www.ahhhhfs.com/45052/",
+          "link": "https://twitter.com/abskoop/status/1684551210341371904",
+          "publishedOn": "2023-07-27T13:08:00.000Z",
+          "wordCount": null,
+          "title": "Promptchan：在线AI图片生成工具 支持涩涩图片生成🤤🤤 自己试试 👉https://www.ahhhhfs.com/45052/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684537969884254208",
+          "author": "ahhhhfs",
+          "description": "猎魔人 第三季 上完了 全8集🙊",
+          "link": "https://twitter.com/abskoop/status/1684537969884254208",
+          "publishedOn": "2023-07-27T12:15:23.000Z",
+          "wordCount": null,
+          "title": "猎魔人 第三季 上完了 全8集🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684533368309047296",
+          "author": "ahhhhfs",
+          "description": "ProxyPin：免费跨平台开源抓包工具\n支持手机扫码连接\n不用手动配置Wifi代理\n包括配置同步\n所有终端都可以互相扫码连接转发流量\n👉https://www.ahhhhfs.com/45134/",
+          "link": "https://twitter.com/abskoop/status/1684533368309047296",
+          "publishedOn": "2023-07-27T11:57:06.000Z",
+          "wordCount": null,
+          "title": "ProxyPin：免费跨平台开源抓包工具 支持手机扫码连接 不用手动配置Wifi代理 包括配置同步 所有终端都可以互相扫码连接转发流量 👉https://www.ahhhhfs.com/451...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684513262556315649",
+          "author": "ahhhhfs",
+          "description": "厦门的同学注意了🥶",
+          "link": "https://twitter.com/abskoop/status/1684513262556315649",
+          "publishedOn": "2023-07-27T10:37:13.000Z",
+          "wordCount": null,
+          "title": "厦门的同学注意了🥶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684498462551998464",
+          "author": "ahhhhfs",
+          "description": "Class Central：全球在线课程搜索引擎和学习平台\n汇集了来自斯坦佛大学、麻省理工学院、\n英国公开大学等慕课平台的150000门课程\n可以根据大学、提供商和机构等进行搜索查找\n👉https://www.ahhhhfs.com/45079/",
+          "link": "https://twitter.com/abskoop/status/1684498462551998464",
+          "publishedOn": "2023-07-27T09:38:24.000Z",
+          "wordCount": null,
+          "title": "Class Central：全球在线课程搜索引擎和学习平台 汇集了来自斯坦佛大学、麻省理工学院、 英国公开大学等慕课平台的150000门课程 可以根据大学、提供商和机构等进...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1684469562841108480",
+          "author": "ahhhhfs",
+          "description": "到底是哪里出问题了呢",
+          "link": "https://twitter.com/abskoop/status/1684469562841108480",
+          "publishedOn": "2023-07-27T07:43:34.000Z",
+          "wordCount": null,
+          "title": "到底是哪里出问题了呢",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1684262510529249280",
           "author": "ahhhhfs",
@@ -5540,126 +5630,6 @@
           "publishedOn": "2023-06-28T12:56:49.000Z",
           "wordCount": null,
           "title": "两份字母大人圈自测表：某乐园 👉https://www.ahhhhfs.com/43738/ https://t.co/YoLjLDPMWO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1674029403880161280",
-          "author": "ahhhhfs",
-          "description": "你卖什么的🤤 https://t.co/HBVFJyRvAn",
-          "link": "https://twitter.com/abskoop/status/1674029403880161280",
-          "publishedOn": "2023-06-28T12:18:06.000Z",
-          "wordCount": null,
-          "title": "你卖什么的🤤 https://t.co/HBVFJyRvAn",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1674022331080122372",
-          "author": "ahhhhfs",
-          "description": "ChatMap AI：基于ChatGPT智能 AI地图搜索工具\n利用人工智能技术帮你快速定位地图的位置\n对于地图爱好者和历史、地理研究者\n或者新闻学者可以极大提高工作效率\n使用只需输入地理位置的描述\n例如：世界最高的山峰、美国人口最多的州\n即可快速在地图上标注出来了\n👉https://www.ahhhhfs.com/43723/ https://t.co/w6zxUzTKPB",
-          "link": "https://twitter.com/abskoop/status/1674022331080122372",
-          "publishedOn": "2023-06-28T11:50:00.000Z",
-          "wordCount": null,
-          "title": "ChatMap AI：基于ChatGPT智能 AI地图搜索工具 利用人工智能技术帮你快速定位地图的位置 对于地图爱好者和历史、地理研究者 或者新闻学者可以极大提高工作效率 使...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673728691048787969",
-          "author": "ahhhhfs",
-          "description": "这鞋一千多🤤🤤 https://t.co/t7ta9zEKmv",
-          "link": "https://twitter.com/abskoop/status/1673728691048787969",
-          "publishedOn": "2023-06-27T16:23:10.000Z",
-          "wordCount": null,
-          "title": "这鞋一千多🤤🤤 https://t.co/t7ta9zEKmv",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673720133527691267",
-          "author": "ahhhhfs",
-          "description": "免费出海外上网订阅链接和教程：TopFreeProxy\n👉https://www.ahhhhfs.com/43696/ https://t.co/J0dWh2lk5V",
-          "link": "https://twitter.com/abskoop/status/1673720133527691267",
-          "publishedOn": "2023-06-27T15:49:10.000Z",
-          "wordCount": null,
-          "title": "免费出海外上网订阅链接和教程：TopFreeProxy 👉https://www.ahhhhfs.com/43696/ https://t.co/J0dWh2lk5V",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673713391741857796",
-          "author": "ahhhhfs",
-          "description": "夏天空调制冷使用小技巧🫡 https://t.co/eW7PuLu1Xe",
-          "link": "https://twitter.com/abskoop/status/1673713391741857796",
-          "publishedOn": "2023-06-27T15:22:23.000Z",
-          "wordCount": null,
-          "title": "夏天空调制冷使用小技巧🫡 https://t.co/eW7PuLu1Xe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673712031936008192",
-          "author": "ahhhhfs",
-          "description": "2023高考志愿填报指南与专业解读\n👉https://www.ahhhhfs.com/43666/ https://t.co/StnpTJDjAN",
-          "link": "https://twitter.com/abskoop/status/1673712031936008192",
-          "publishedOn": "2023-06-27T15:16:59.000Z",
-          "wordCount": null,
-          "title": "2023高考志愿填报指南与专业解读 👉https://www.ahhhhfs.com/43666/ https://t.co/StnpTJDjAN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673704570864762880",
-          "author": "ahhhhfs",
-          "description": "资源丰富的社区学习网站：1024\n👉https://www.ahhhhfs.com/43681/ https://t.co/lwBvNrwl0u",
-          "link": "https://twitter.com/abskoop/status/1673704570864762880",
-          "publishedOn": "2023-06-27T14:47:20.000Z",
-          "wordCount": null,
-          "title": "资源丰富的社区学习网站：1024 👉https://www.ahhhhfs.com/43681/ https://t.co/lwBvNrwl0u",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673695027317424130",
-          "author": "ahhhhfs",
-          "description": "2023 QS世界大学排名完整榜单\n👉 https://www.ahhhhfs.com/22726/ https://t.co/PBjY1MyCk5",
-          "link": "https://twitter.com/abskoop/status/1673695027317424130",
-          "publishedOn": "2023-06-27T14:09:24.000Z",
-          "wordCount": null,
-          "title": "2023 QS世界大学排名完整榜单 👉 https://www.ahhhhfs.com/22726/ https://t.co/PBjY1MyCk5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673693546631639044",
-          "author": "ahhhhfs",
-          "description": "Re @xliudada 有发过一些相关qs世界大学排名\n你可以翻翻🤤 https://twitter.com/abskoop/status/1537726696022872065\n\nahhhhfs: 2023QS世界大学排名 前100完整榜单\n👉 https://www.ahhhhfs.com/22726/ https://t.co/uqhnFduDTm",
-          "link": "https://twitter.com/abskoop/status/1673693546631639044",
-          "publishedOn": "2023-06-27T14:03:31.000Z",
-          "wordCount": null,
-          "title": "Re @xliudada 有发过一些相关qs世界大学排名 你可以翻翻🤤 https://twitter.com/abskoop/status/1537726696022872065",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673691779713859590",
-          "author": "ahhhhfs",
-          "description": "Re @QingDaoAssMan 有的 考研资料集合\n👉 https://www.ahhhhfs.com/?s=%E8%80%83%E7%A0%94 https://t.co/WOdmwuT5Sh",
-          "link": "https://twitter.com/abskoop/status/1673691779713859590",
-          "publishedOn": "2023-06-27T13:56:30.000Z",
-          "wordCount": null,
-          "title": "Re @QingDaoAssMan 有的 考研资料集合 👉 https://www.ahhhhfs.com/?s=%E8%80%83%E7%A0%94 https://t.co/WOdmwuT5Sh",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673690219944501250",
-          "author": "ahhhhfs",
-          "description": "免费电子书下载：Zlib图书馆又推出Linux版本了\n客户端支持macOS、Windows、Android、Linux等等\n收藏官方下载页（回家不迷路）\n👉https://www.ahhhhfs.com/43497/ https://t.co/Y7yntOBbcm",
-          "link": "https://twitter.com/abskoop/status/1673690219944501250",
-          "publishedOn": "2023-06-27T13:50:18.000Z",
-          "wordCount": null,
-          "title": "免费电子书下载：Zlib图书馆又推出Linux版本了 客户端支持macOS、Windows、Android、Linux等等 收藏官方下载页（回家不迷路） 👉https://www.ahhhhfs.com/4349...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1673684582976180225",
-          "author": "ahhhhfs",
-          "description": "Re @raywong2047 发我看看吗🤤",
-          "link": "https://twitter.com/abskoop/status/1673684582976180225",
-          "publishedOn": "2023-06-27T13:27:54.000Z",
-          "wordCount": null,
-          "title": "Re @raywong2047 发我看看吗🤤",
           "imageUrl": null
         }
       ]
