@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T00:40:07.513Z</updated>
+    <updated>2023-07-29T00:41:24.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chromebook 漫游指南 (2023)]]></title>
+        <id>https://sspai.com/prime/story/chromebook-in-2023</id>
+        <link href="https://sspai.com/prime/story/chromebook-in-2023"/>
+        <updated>2023-07-28T12:03:33.000Z</updated>
+        <summary type="html"><![CDATA[能用一个浏览器搞定一切是一件多么理想主义的事，而现在能用 Chromebook 一台设备搞定的事情也越来越多了。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>nemofq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
+        <id>https://sspai.com/post/81569</id>
+        <link href="https://sspai.com/post/81569"/>
+        <updated>2023-07-28T09:54:19.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]封神第一部：朝歌风云、[英剧]好兆头第二季、[美剧]吸血鬼生活第五季、[美剧]火线警探：原始城市、[日剧]隼消防团、[动画]时光代理人第二季、[动画]勇者赫鲁库、[ ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？]]></title>
+        <id>https://sspai.com/post/81552</id>
+        <link href="https://sspai.com/post/81552"/>
+        <updated>2023-07-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[作为 Apple Watch 用户，如果它也曾为你的生活带来了一些改变，欢迎在评论区与我们分享你的故事。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅]]></title>
+        <id>https://sspai.com/post/81315</id>
+        <link href="https://sspai.com/post/81315"/>
+        <updated>2023-07-28T06:36:10.000Z</updated>
+        <summary type="html"><![CDATA[作为一名推理小说迷，我不仅喜欢阅读推理小说，还热衷于探访和推理小说有关的景点，去世界各地圣地巡礼。在《推理》杂志停刊之前，我在杂志上发表过《美国推理之旅》，后来也在我们的播客「波罗咖啡馆」中介绍过《英 ...查看全文]]></summary>
+        <author>
+            <name>Sholmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验]]></title>
+        <id>https://sspai.com/post/81331</id>
+        <link href="https://sspai.com/post/81331"/>
+        <updated>2023-07-28T03:04:57.000Z</updated>
+        <summary type="html"><![CDATA[虽然 Google TV 是一款发布于 3 年前的产品，但在今天它依然拥有良好的使用体验。如果你想要尝试一下，本文是一些比较基础的提醒和建议。查看全文]]></summary>
+        <author>
+            <name>Ethan29</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络]]></title>
+        <id>https://sspai.com/post/81546</id>
+        <link href="https://sspai.com/post/81546"/>
+        <updated>2023-07-28T00:45:33.000Z</updated>
+        <summary type="html"><![CDATA[四大顶端 AI 公司共同推进 AI 安全与负责任开发，两部门联合发布国家车联网产业标准建设指南等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7X24小时在线要饭网站源码：alms 纯原生js手撸，无任何框架 不用数据库，不用部署服务器上 零成本，代码部署GitHub 👉https://www.ahhhhfs.com/45140/]]></title>
         <id>https://twitter.com/abskoop/status/1684580401585823744</id>
@@ -11824,16 +11885,6 @@ https://cn.nytimes.com/usa/20230630/affirmative-action-us-college-admissions/?ut
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新玩意 151｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/80707</id>
-        <link href="https://sspai.com/post/80707"/>
-        <updated>2023-06-29T09:26:13.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[#新新世界 梁先生现年38岁，在过去三年的大部分时间里，他一直处于失业状态，部分原因是新冠疫情以及低迷的中国经济。但他认为，失业的主因是自己的年龄。 对包...]]></title>
         <id>https://twitter.com/nytchinese/status/1674341947643940867</id>
         <link href="https://twitter.com/nytchinese/status/1674341947643940867"/>
@@ -11888,16 +11939,6 @@ https://cn.nytimes.com/business/20230629/china-exports-economy/?utm_source=tw-ny
 【网民炮轰 部分评论被删】… https://twitter.com/i/web/status/1674307900544790528 https://t.co/I52YuhcDSI]]></summary>
         <author>
             <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kindle 中国区电子书店即将停止运营，你可以这样下载买过的电子书]]></title>
-        <id>https://sspai.com/post/56997</id>
-        <link href="https://sspai.com/post/56997"/>
-        <updated>2023-06-29T06:30:05.000Z</updated>
-        <summary type="html"><![CDATA[为了有效地避免电子书被下架或者调整内容造成的影响，为自己购买的 Kindle 电子书做一个本地的备份和管理就显得尤为重要。查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
         </author>
     </entry>
     <entry>
@@ -12029,16 +12070,6 @@ ahhhhfs: @tt565366 发过一些影视解析接口
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[收集、学习、创作：这是我的论文阅读流]]></title>
-        <id>https://sspai.com/post/79966</id>
-        <link href="https://sspai.com/post/79966"/>
-        <updated>2023-06-29T03:09:50.000Z</updated>
-        <summary type="html"><![CDATA[「好记性不如烂笔头」。但在这样一个信息爆炸的时代，信息电子化更加符合社会潮流，我们只需将重点信息进行标注，而后定期浏览复习即可。查看全文]]></summary>
-        <author>
-            <name>Soar_Freely</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re 拜登政府官员表示，令人担忧的方面包括人工智能被中国用于操纵武器，进行网络战争，以及被用于追踪异见人士和少数民族的面部识别系统。 此前在可能出现打击出...]]></title>
         <id>https://twitter.com/nytchinese/status/1674251345128243201</id>
         <link href="https://twitter.com/nytchinese/status/1674251345128243201"/>
@@ -12102,16 +12133,6 @@ https://cn.nytimes.com/business/20230629/biden-administration-ai-chips-china/?ut
         <summary type="html"><![CDATA[乌克兰逮捕一名被控指引俄军空袭克拉马托尔斯克披萨餐厅的男子 http://dlvr.it/SrNvFw]]></summary>
         <author>
             <name>美国之音中文网</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：ChatGPT 集成必应搜索、菜鸟推出自营快递业务等]]></title>
-        <id>https://sspai.com/post/80688</id>
-        <link href="https://sspai.com/post/80688"/>
-        <updated>2023-06-29T00:38:28.000Z</updated>
-        <summary type="html"><![CDATA[复旦大学联手腾讯、上科大推出 MotionGPT、Android Nearby Share 功能支持锁屏收发文件等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -12650,17 +12671,6 @@ https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-06282023082430.html]]><
 https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ec-06282023080906.html]]></summary>
         <author>
             <name>自由亚洲电台</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 做不好的「小组件」，MIUI 做对了什么？]]></title>
-        <id>https://sspai.com/prime/story/android-widget-problems</id>
-        <link href="https://sspai.com/prime/story/android-widget-problems"/>
-        <updated>2023-06-28T14:50:58.000Z</updated>
-        <summary type="html"><![CDATA[我们请来了人气跨平台记账应用《钱迹》的开发者，为大家解读原生和定制 Android 系统小组件的功过得失。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>克莱德</name>
         </author>
     </entry>
     <entry>
