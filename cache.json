@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81509",
+          "author": "千里之豪",
+          "description": "因为数据是无价的，所以我也不敢忽视低概率的另外俩问题：NAS 的损坏、丢失等问题。这也就涉及到了本文的重点：两地三中心的搭建、数据迁移以及数据同步。查看全文",
+          "link": "https://sspai.com/post/81509",
+          "publishedOn": "2023-08-05T09:05:23.000Z",
+          "wordCount": 813,
+          "title": "硬件有价数据无价，从零搭建 NAS 数据备份系统",
+          "imageUrl": "https://cdn.sspai.com/8/5/2023/article/8a39e7e7-62a8-1817-4a30-9b06f7b75c65.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81740",
+          "author": "炜智能",
+          "description": "没用过的人无法理解如何使用这种「残疾」键盘，真正用过且会用的人又会对其爱不释手。查看全文",
+          "link": "https://sspai.com/post/81740",
+          "publishedOn": "2023-08-05T03:30:00.000Z",
+          "wordCount": 767,
+          "title": "一入直列深似海，旁人不会用此盘：Planck 配列键盘使用心得",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/cj5q5clb34tb5g39p920"
+        },
+        {
           "id": "https://sspai.com/post/81765",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[韩剧]D.P：逃兵追缉令第二季、[动画]僵尸100～在成为僵尸前要做的100件事～、[英剧]心跳漏一拍第二季、[日剧]往这边看，向井君、[日剧]元气囝仔、[日剧]量产型璃 ...查看全文",
@@ -1194,46 +1214,6 @@
           "wordCount": 719,
           "title": "从泳池到湖泊，我从游泳中学到了什么",
           "imageUrl": "https://cdn.sspai.com/2023/07/06/6893ce2c66a7fc60364ef0005acb40e3.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/80914",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]八角笼中、[美剧]战士第三季、[台剧]八尺门的辩护人、[韩剧]恶鬼、[日剧]再会了，美好时光、[国产]古相思曲、[纪录片]闪闪的儿科医生、[动画]命运/奇异赝品-黎 ...查看全文",
-          "link": "https://sspai.com/post/80914",
-          "publishedOn": "2023-07-07T10:31:20.000Z",
-          "wordCount": 965,
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "imageUrl": "https://cdn.sspai.com/2023/7/7/article/a2e1b0d1-1f79-d726-2019-9a7cd5ddabb4.png"
-        },
-        {
-          "id": "https://sspai.com/post/80594",
-          "author": "kai_",
-          "description": "大家好，我是Kai，一名独立开发者。目前在AppStore中上线了一款专注个人OKR的APP：Vision，之前我有使用Vision在少数派的官方账号发布过相关介绍文章。正如我在之前的文章中提到的，V ...查看全文",
-          "link": "https://sspai.com/post/80594",
-          "publishedOn": "2023-07-07T07:01:17.000Z",
-          "wordCount": 852,
-          "title": "[公测邀请] Context ：一款基于「语境学习」的英语学习工具",
-          "imageUrl": "https://cdn.sspai.com/7/7/2023/article/886fe6cd-51c6-d361-8d65-e4e1e03aaa22.png"
-        },
-        {
-          "id": "https://sspai.com/post/80741",
-          "author": "珪璋",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/80741",
-          "publishedOn": "2023-07-07T03:25:18.000Z",
-          "wordCount": 1250,
-          "title": "想写就写，灵思无疆：用自动化部署让写作更得心应手",
-          "imageUrl": "https://cdn.sspai.com/editor/u_chivier/16881329555227.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80897",
-          "author": "少数派编辑部",
-          "description": "Aqara 发布支持 Matter 的门窗传感器 P2，全球大部分地区 Xbox Game Pass 订阅开始涨价等查看全文",
-          "link": "https://sspai.com/post/80897",
-          "publishedOn": "2023-07-07T01:00:30.000Z",
-          "wordCount": 953,
-          "title": "派早报：Meta 推出 Twitter 竞品应用 Threads、Sony 推出便携式影院扬声器系统 HT-AX7",
-          "imageUrl": "https://cdn.sspai.com/7/7/2023/article/c19b577d-6650-e965-39a2-32e8482b845e.png"
         }
       ]
     },
@@ -1242,6 +1222,156 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1687955782489518080",
+          "author": "ahhhhfs",
+          "description": "你放一个试试",
+          "link": "https://twitter.com/abskoop/status/1687955782489518080",
+          "publishedOn": "2023-08-05T22:36:33.000Z",
+          "wordCount": null,
+          "title": "你放一个试试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687865403442356224",
+          "author": "ahhhhfs",
+          "description": "🐋🐋🐋\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/",
+          "link": "https://twitter.com/abskoop/status/1687865403442356224",
+          "publishedOn": "2023-08-05T16:37:25.000Z",
+          "wordCount": null,
+          "title": "🐋🐋🐋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687850196385021953",
+          "author": "ahhhhfs",
+          "description": "某k eep运动健身教程合集 会员付费\n👉https://www.ahhhhfs.com/45509/",
+          "link": "https://twitter.com/abskoop/status/1687850196385021953",
+          "publishedOn": "2023-08-05T15:37:00.000Z",
+          "wordCount": null,
+          "title": "某k eep运动健身教程合集 会员付费 👉https://www.ahhhhfs.com/45509/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687846026856595457",
+          "author": "ahhhhfs",
+          "description": "Re @cai567890 哪儿要的🤤我找找看",
+          "link": "https://twitter.com/abskoop/status/1687846026856595457",
+          "publishedOn": "2023-08-05T15:20:26.000Z",
+          "wordCount": null,
+          "title": "Re @cai567890 哪儿要的🤤我找找看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687842395042226177",
+          "author": "ahhhhfs",
+          "description": "Claude 2 国内镜像站 免翻可用：claudeai\n支持100K上下文对话\n并且可以同时和5个文档进行对话等等\n👉https://www.ahhhhfs.com/45540/",
+          "link": "https://twitter.com/abskoop/status/1687842395042226177",
+          "publishedOn": "2023-08-05T15:06:00.000Z",
+          "wordCount": null,
+          "title": "Claude 2 国内镜像站 免翻可用：claudeai 支持100K上下文对话 并且可以同时和5个文档进行对话等等 👉https://www.ahhhhfs.com/45540/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687827305350213632",
+          "author": "ahhhhfs",
+          "description": "影视明星精彩删减片段集合视频学习网站：videoce\n👉https://www.ahhhhfs.com/45505/",
+          "link": "https://twitter.com/abskoop/status/1687827305350213632",
+          "publishedOn": "2023-08-05T14:06:02.000Z",
+          "wordCount": null,
+          "title": "影视明星精彩删减片段集合视频学习网站：videoce 👉https://www.ahhhhfs.com/45505/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687809176079130624",
+          "author": "ahhhhfs",
+          "description": "小唐即时搜索：编程知识代码搜索引擎\n可以搜索空格及符号等等任意片段\n支持大小写敏感及整词匹配\n支持多种编程语言、编程技术和编程工具搜索\n内置ChatGPT提示词等等实用工具\n简洁无广告，带来丝滑流畅的搜索体验\n👉https://www.ahhhhfs.com/45534/",
+          "link": "https://twitter.com/abskoop/status/1687809176079130624",
+          "publishedOn": "2023-08-05T12:54:00.000Z",
+          "wordCount": null,
+          "title": "小唐即时搜索：编程知识代码搜索引擎 可以搜索空格及符号等等任意片段 支持大小写敏感及整词匹配 支持多种编程语言、编程技术和编程工具搜索 内置ChatGPT提示词...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687778725465907200",
+          "author": "ahhhhfs",
+          "description": "全球免费音乐搜索下载工具：sliderkz\n可以搜索任何歌曲，提供在线播放和下载功能\n👉https://www.ahhhhfs.com/45473/",
+          "link": "https://twitter.com/abskoop/status/1687778725465907200",
+          "publishedOn": "2023-08-05T10:53:00.000Z",
+          "wordCount": null,
+          "title": "全球免费音乐搜索下载工具：sliderkz 可以搜索任何歌曲，提供在线播放和下载功能 👉https://www.ahhhhfs.com/45473/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687757831791882240",
+          "author": "ahhhhfs",
+          "description": "Re @suyu0999aaz 大部份国内浏览器都拦截了 🤤要备案才不提示",
+          "link": "https://twitter.com/abskoop/status/1687757831791882240",
+          "publishedOn": "2023-08-05T09:29:58.000Z",
+          "wordCount": null,
+          "title": "Re @suyu0999aaz 大部份国内浏览器都拦截了 🤤要备案才不提示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687748274747531264",
+          "author": "ahhhhfs",
+          "description": "2023新番表 国内外新番追番工具：Yuc's Anime List\n收集了2019到现在的新番资源开播更新信息\n而且还提供番剧的在线播放链接\n👉https://www.ahhhhfs.com/45468/",
+          "link": "https://twitter.com/abskoop/status/1687748274747531264",
+          "publishedOn": "2023-08-05T08:52:00.000Z",
+          "wordCount": null,
+          "title": "2023新番表 国内外新番追番工具：Yuc's Anime List 收集了2019到现在的新番资源开播更新信息 而且还提供番剧的在线播放链接 👉https://www.ahhhhfs.com/45468/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687717988797952000",
+          "author": "ahhhhfs",
+          "description": "Bili You：简约纯净B站第三方客户端 \n无广告 支持8K\n👉https://www.ahhhhfs.com/45455/",
+          "link": "https://twitter.com/abskoop/status/1687717988797952000",
+          "publishedOn": "2023-08-05T06:51:39.000Z",
+          "wordCount": null,
+          "title": "Bili You：简约纯净B站第三方客户端 无广告 支持8K 👉https://www.ahhhhfs.com/45455/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687708585411612672",
+          "author": "ahhhhfs",
+          "description": "🐸🐸🐸\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/",
+          "link": "https://twitter.com/abskoop/status/1687708585411612672",
+          "publishedOn": "2023-08-05T06:14:17.000Z",
+          "wordCount": null,
+          "title": "🐸🐸🐸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687701605397692416",
+          "author": "ahhhhfs",
+          "description": "国产游戏三大厂🤤还是游戏赚钱",
+          "link": "https://twitter.com/abskoop/status/1687701605397692416",
+          "publishedOn": "2023-08-05T05:46:33.000Z",
+          "wordCount": null,
+          "title": "国产游戏三大厂🤤还是游戏赚钱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687685753973682176",
+          "author": "ahhhhfs",
+          "description": "中国移动免费领取5元话费秒到账 \n限量10万份领完即止🙊\n👉https://www.ahhhhfs.com/44248/",
+          "link": "https://twitter.com/abskoop/status/1687685753973682176",
+          "publishedOn": "2023-08-05T04:43:34.000Z",
+          "wordCount": null,
+          "title": "中国移动免费领取5元话费秒到账 限量10万份领完即止🙊 👉https://www.ahhhhfs.com/44248/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1687680230750642176",
+          "author": "ahhhhfs",
+          "description": "不是不报，石猴未到🤤",
+          "link": "https://twitter.com/abskoop/status/1687680230750642176",
+          "publishedOn": "2023-08-05T04:21:37.000Z",
+          "wordCount": null,
+          "title": "不是不报，石猴未到🤤",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1687539981101760513",
           "author": "ahhhhfs",
@@ -4960,126 +5090,6 @@
           "publishedOn": "2023-07-07T13:36:23.000Z",
           "wordCount": null,
           "title": "Re @aikon602 哈哈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677289606776242178",
-          "author": "ahhhhfs",
-          "description": "bilibiliDown：极简纯净B站视频解析提取工具\n可一键解析单视频、合集、分集、封面、\nsrt字幕、xml弹幕、ass弹幕、视频下载链接\n轻松将bilibili视频下载到本地\n👉https://www.ahhhhfs.com/44176/ https://t.co/dfZFHyE7Zn",
-          "link": "https://twitter.com/abskoop/status/1677289606776242178",
-          "publishedOn": "2023-07-07T12:12:59.000Z",
-          "wordCount": null,
-          "title": "bilibiliDown：极简纯净B站视频解析提取工具 可一键解析单视频、合集、分集、封面、 srt字幕、xml弹幕、ass弹幕、视频下载链接 轻松将bilibili视频下载到本地 �...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677276749577461760",
-          "author": "ahhhhfs",
-          "description": "角色切换自如 哈哈 🤤🤤这个手 是分不了了 https://t.co/Tt4Tx955EK",
-          "link": "https://twitter.com/abskoop/status/1677276749577461760",
-          "publishedOn": "2023-07-07T11:21:54.000Z",
-          "wordCount": null,
-          "title": "角色切换自如 哈哈 🤤🤤这个手 是分不了了 https://t.co/Tt4Tx955EK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677265409412677632",
-          "author": "ahhhhfs",
-          "description": "一键生成论文工具：小论文神器\n基于 30w 文献数据的论文自动生成工具\n资料来源于全网，段落可无限替换\n自带标准格式Word文档下载\n是选修课论文的不二之选\n👉https://www.ahhhhfs.com/44185/ https://t.co/NSTeFEarfi",
-          "link": "https://twitter.com/abskoop/status/1677265409412677632",
-          "publishedOn": "2023-07-07T10:36:50.000Z",
-          "wordCount": null,
-          "title": "一键生成论文工具：小论文神器 基于 30w 文献数据的论文自动生成工具 资料来源于全网，段落可无限替换 自带标准格式Word文档下载 是选修课论文的不二之选 👉ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677021127686643720",
-          "author": "ahhhhfs",
-          "description": "很棒🤤 https://t.co/rcvE1isfiG",
-          "link": "https://twitter.com/abskoop/status/1677021127686643720",
-          "publishedOn": "2023-07-06T18:26:09.000Z",
-          "wordCount": null,
-          "title": "很棒🤤 https://t.co/rcvE1isfiG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677002408780496900",
-          "author": "ahhhhfs",
-          "description": "这是哪儿的 想问问🤤 https://t.co/59cxGTPavB",
-          "link": "https://twitter.com/abskoop/status/1677002408780496900",
-          "publishedOn": "2023-07-06T17:11:46.000Z",
-          "wordCount": null,
-          "title": "这是哪儿的 想问问🤤 https://t.co/59cxGTPavB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1677001450193289244",
-          "author": "ahhhhfs",
-          "description": "免费看无删减H漫：韩漫射\n👉https://www.ahhhhfs.com/23174/ https://t.co/UrPuevqy4I",
-          "link": "https://twitter.com/abskoop/status/1677001450193289244",
-          "publishedOn": "2023-07-06T17:07:57.000Z",
-          "wordCount": null,
-          "title": "免费看无删减H漫：韩漫射 👉https://www.ahhhhfs.com/23174/ https://t.co/UrPuevqy4I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676983198754959362",
-          "author": "ahhhhfs",
-          "description": "某宇一套英语教程：极👀简英语课程 完结版 \n👉https://www.ahhhhfs.com/44117/ https://t.co/MGJw69JVMS",
-          "link": "https://twitter.com/abskoop/status/1676983198754959362",
-          "publishedOn": "2023-07-06T15:55:26.000Z",
-          "wordCount": null,
-          "title": "某宇一套英语教程：极👀简英语课程 完结版 👉https://www.ahhhhfs.com/44117/ https://t.co/MGJw69JVMS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676979155676585989",
-          "author": "ahhhhfs",
-          "description": "TikTok 抖音国际解锁版 v30.2.3   \n去广告、国内免拔卡、任意切换国家地区  \n👉https://ahhhhfs.com/16646/ https://t.co/LM17klUccY",
-          "link": "https://twitter.com/abskoop/status/1676979155676585989",
-          "publishedOn": "2023-07-06T15:39:22.000Z",
-          "wordCount": null,
-          "title": "TikTok 抖音国际解锁版 v30.2.3 去广告、国内免拔卡、任意切换国家地区 👉https://ahhhhfs.com/16646/ https://t.co/LM17klUccY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676973372725514241",
-          "author": "ahhhhfs",
-          "description": "不太灵影视：高清蓝光4K影视下载站 \n干净无广告，无需注册登录\n👉https://www.ahhhhfs.com/44144/ https://t.co/YXzyzQZu2J",
-          "link": "https://twitter.com/abskoop/status/1676973372725514241",
-          "publishedOn": "2023-07-06T15:16:23.000Z",
-          "wordCount": null,
-          "title": "不太灵影视：高清蓝光4K影视下载站 干净无广告，无需注册登录 👉https://www.ahhhhfs.com/44144/ https://t.co/YXzyzQZu2J",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676966962788982785",
-          "author": "ahhhhfs",
-          "description": "原创在线图片学习网站：街拍APP\n👉https://www.ahhhhfs.com/44102/ https://t.co/FfNThLoMGa",
-          "link": "https://twitter.com/abskoop/status/1676966962788982785",
-          "publishedOn": "2023-07-06T14:50:55.000Z",
-          "wordCount": null,
-          "title": "原创在线图片学习网站：街拍APP 👉https://www.ahhhhfs.com/44102/ https://t.co/FfNThLoMGa",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676954285379301380",
-          "author": "ahhhhfs",
-          "description": "艾媒报告中心：全球行业研究报告下载\n👉https://www.ahhhhfs.com/44132/ https://t.co/3jFSQOIn8b",
-          "link": "https://twitter.com/abskoop/status/1676954285379301380",
-          "publishedOn": "2023-07-06T14:00:32.000Z",
-          "wordCount": null,
-          "title": "艾媒报告中心：全球行业研究报告下载 👉https://www.ahhhhfs.com/44132/ https://t.co/3jFSQOIn8b",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1676935467726434304",
-          "author": "ahhhhfs",
-          "description": "在线随机小姐姐视频 2万多个：欣赏小姐姐\n👉https://www.ahhhhfs.com/44151/ https://t.co/0tieuzyOnP",
-          "link": "https://twitter.com/abskoop/status/1676935467726434304",
-          "publishedOn": "2023-07-06T12:45:46.000Z",
-          "wordCount": null,
-          "title": "在线随机小姐姐视频 2万多个：欣赏小姐姐 👉https://www.ahhhhfs.com/44151/ https://t.co/0tieuzyOnP",
           "imageUrl": null
         }
       ]
@@ -17647,6 +17657,196 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1687844074173104128",
+          "author": "Linux中国",
+          "description": "技术 | Linux 黑话解析：什么是 LUKS 加密？ \nhttps://linux.cn/article-16068-1.html \nLUKS 是 Linux 用户中流行的磁盘加密机制。在这篇术语解析文章中，可以了解更多关于 LUKS 的信息。",
+          "link": "https://twitter.com/linux_cn/status/1687844074173104128",
+          "publishedOn": "2023-08-05T15:12:40.000Z",
+          "wordCount": null,
+          "title": "技术 | Linux 黑话解析：什么是 LUKS 加密？ https://linux.cn/article-16068-1.html LUKS 是 Linux 用户中流行的磁盘加密机制。在这篇术语解析文章中，可以了解...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687814206437933056",
+          "author": "Linux中国",
+          "description": "🅷 特斯拉的软件付费功能被破解» 08.05 周六 #硬核观察# 1084 \nhttps://youtu.be/E0Tdf-PYzhA",
+          "link": "https://twitter.com/linux_cn/status/1687814206437933056",
+          "publishedOn": "2023-08-05T13:13:59.000Z",
+          "wordCount": null,
+          "title": "🅷 特斯拉的软件付费功能被破解» 08.05 周六 #硬核观察# 1084 https://youtu.be/E0Tdf-PYzhA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687776293910171649",
+          "author": "Linux中国",
+          "description": "技术 | 在启用安全启动的 Fedora 中安装英伟达驱动 \nhttps://linux.cn/article-16067-1.html \n本文介绍如何在 Fedora 中自动签署英伟达内核模块。",
+          "link": "https://twitter.com/linux_cn/status/1687776293910171649",
+          "publishedOn": "2023-08-05T10:43:20.000Z",
+          "wordCount": null,
+          "title": "技术 | 在启用安全启动的 Fedora 中安装英伟达驱动 https://linux.cn/article-16067-1.html 本文介绍如何在 Fedora 中自动签署英伟达内核模块。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687746166086070272",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1084 特斯拉的软件付费功能被破解 \nhttps://linux.cn/article-16066-1.html \n🅷 特斯拉的软件付费功能被破解\n🄸 阿里巴巴采用特别许可证“开源”其大语言模型通义千问\n🄸 高通成立 RISC-V 合资公司\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1687746166086070272",
+          "publishedOn": "2023-08-05T08:43:37.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1084 特斯拉的软件付费功能被破解 https://linux.cn/article-16066-1.html 🅷 特斯拉的软件付费功能被破解 🄸 阿里巴巴采用特别许可证...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687730949625171968",
+          "author": "Linux中国",
+          "description": "技术 | systemd：初学者如何理解其中的争议 \nhttps://linux.cn/article-16065-1.html \n对于什么是 systemd，以及为什么它经常成为 Linux 世界争议的焦点，你可能仍然感到困惑。我将尝试用简单的语言来回答。",
+          "link": "https://twitter.com/linux_cn/status/1687730949625171968",
+          "publishedOn": "2023-08-05T07:43:09.000Z",
+          "wordCount": null,
+          "title": "技术 | systemd：初学者如何理解其中的争议 https://linux.cn/article-16065-1.html 对于什么是 systemd，以及为什么它经常成为 Linux 世界争议的焦点，你可能仍...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687696967638376448",
+          "author": "Linux中国",
+          "description": "容器与云 | 分步指南：安装和访问 Kubernetes 仪表板 \nhttps://linux.cn/article-16064-1.html \nKubernetes 仪表板是一个基于 Web 的用户界面，可让你可视化 Kubernetes 集群并与之交互。",
+          "link": "https://twitter.com/linux_cn/status/1687696967638376448",
+          "publishedOn": "2023-08-05T05:28:07.000Z",
+          "wordCount": null,
+          "title": "容器与云 | 分步指南：安装和访问 Kubernetes 仪表板 https://linux.cn/article-16064-1.html Kubernetes 仪表板是一个基于 Web 的用户界面，可让你可视化 Kuber...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687451729875406848",
+          "author": "Linux中国",
+          "description": "🅷 MacBook 上的 Asahi Linux 将基于 Fedora Linux» 08.04 周五 #硬核观察# 1083 \nhttps://youtu.be/gg_xO-Q4oms",
+          "link": "https://twitter.com/linux_cn/status/1687451729875406848",
+          "publishedOn": "2023-08-04T13:13:38.000Z",
+          "wordCount": null,
+          "title": "🅷 MacBook 上的 Asahi Linux 将基于 Fedora Linux» 08.04 周五 #硬核观察# 1083 https://youtu.be/gg_xO-Q4oms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687413711625965568",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1083 MacBook 上的 Asahi Linux 将基于 Fedora Linux \nhttps://linux.cn/article-16063-1.html \n🅷 MacBook 上的 Asahi Linux 将基于 Fedora Linux\n🄸 systemd 提供加快重启速度的软重启功能\n🄸 跨国自动诈骗电话公司被处罚 3 亿美元\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1687413711625965568",
+          "publishedOn": "2023-08-04T10:42:34.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1083 MacBook 上的 Asahi Linux 将基于 Fedora Linux https://linux.cn/article-16063-1.html 🅷 MacBook 上的 Asahi Linux 将基于 Fedo...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687293091013701632",
+          "author": "Linux中国",
+          "description": "分享 | 2023 年最佳 Linux 视频编辑软件 \nhttps://linux.cn/article-16062-1.html \n我们列出了最佳的 Linux 视频编辑器选项。请看一下。",
+          "link": "https://twitter.com/linux_cn/status/1687293091013701632",
+          "publishedOn": "2023-08-04T02:43:15.000Z",
+          "wordCount": null,
+          "title": "分享 | 2023 年最佳 Linux 视频编辑软件 https://linux.cn/article-16062-1.html 我们列出了最佳的 Linux 视频编辑器选项。请看一下。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687278061681610752",
+          "author": "Linux中国",
+          "description": "观点 | 你的旧电脑是 “过时” 了，还是使用 Linux 的机会？ \nhttps://linux.cn/article-16061-1.html \n很多时候，老旧的电脑往往被打上 “过时” 的标签。Linux 改变了这一现状。翻新旧电脑，让它重新为需要它的人所用。",
+          "link": "https://twitter.com/linux_cn/status/1687278061681610752",
+          "publishedOn": "2023-08-04T01:43:32.000Z",
+          "wordCount": null,
+          "title": "观点 | 你的旧电脑是 “过时” 了，还是使用 Linux 的机会？ https://linux.cn/article-16061-1.html 很多时候，老旧的电脑往往被打上 “过时” 的标签。Linux ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687093364976390144",
+          "author": "Linux中国",
+          "description": "🅷 ChromeOS 将分离浏览器和操作系统» 08.03 周四 #硬核观察# 1082 \nhttps://youtu.be/gwV9J-Uq4CQ",
+          "link": "https://twitter.com/linux_cn/status/1687093364976390144",
+          "publishedOn": "2023-08-03T13:29:37.000Z",
+          "wordCount": null,
+          "title": "🅷 ChromeOS 将分离浏览器和操作系统» 08.03 周四 #硬核观察# 1082 https://youtu.be/gwV9J-Uq4CQ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687042421501108224",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1082 ChromeOS 将分离浏览器和操作系统 \nhttps://linux.cn/article-16060-1.html \n🅷 ChromeOS 将分离浏览器和操作系统\n🄸 40% 基于 Arm 的服务器部署在中国\n🄸 Meta 开源从文本中创建音乐的人工智能工具\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1687042421501108224",
+          "publishedOn": "2023-08-03T10:07:11.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1082 ChromeOS 将分离浏览器和操作系统 https://linux.cn/article-16060-1.html 🅷 ChromeOS 将分离浏览器和操作系统 🄸 40% 基于 Arm...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1687009887513989120",
+          "author": "Linux中国",
+          "description": "技术 | Linux 中退出码的含义 \nhttps://linux.cn/article-16059-1.html \n揭开 Linux 中退出码的神秘面纱。了解什么是退出码，以及为什么和如何使用它们。",
+          "link": "https://twitter.com/linux_cn/status/1687009887513989120",
+          "publishedOn": "2023-08-03T07:57:54.000Z",
+          "wordCount": null,
+          "title": "技术 | Linux 中退出码的含义 https://linux.cn/article-16059-1.html 揭开 Linux 中退出码的神秘面纱。了解什么是退出码，以及为什么和如何使用它们。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686764631736348672",
+          "author": "Linux中国",
+          "description": "分享 | Fedora Linux 的家族（二）：定制版 \nhttps://linux.cn/article-16058-1.html \n使用 Linux 的一个好处是可以选择多种不同的桌面环境。",
+          "link": "https://twitter.com/linux_cn/status/1686764631736348672",
+          "publishedOn": "2023-08-02T15:43:21.000Z",
+          "wordCount": null,
+          "title": "分享 | Fedora Linux 的家族（二）：定制版 https://linux.cn/article-16058-1.html 使用 Linux 的一个好处是可以选择多种不同的桌面环境。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686709317708169216",
+          "author": "Linux中国",
+          "description": "🅷 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器» 08.02 周三 #硬核观察# 1081 \nhttps://youtu.be/sXLL2F6hJKo",
+          "link": "https://twitter.com/linux_cn/status/1686709317708169216",
+          "publishedOn": "2023-08-02T12:03:33.000Z",
+          "wordCount": null,
+          "title": "🅷 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器» 08.02 周三 #硬核观察# 1081 https://youtu.be/sXLL2F6hJKo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686684238937022465",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1081 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器 \nhttps://linux.cn/article-16057-1.html \n🅷 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器\n🄸 最高产的 Alpine Linux 打包者离开该项目\n🄸 Linus Torvalds 让大家禁用愚蠢的 AMD CPU 功能\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1686684238937022465",
+          "publishedOn": "2023-08-02T10:23:54.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1081 仅 100KB 大小，只需 4 分钟训练的人工智能图像生成器 https://linux.cn/article-16057-1.html 🅷 仅 100KB 大小，只需 4 分钟训练...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686582008917454848",
+          "author": "Linux中国",
+          "description": "技术 | 如何访问虚拟机中的 GRUB 菜单 \nhttps://linux.cn/article-16056-1.html \n需要在虚拟机中访问 GRUB 菜单吗？以下是做法。",
+          "link": "https://twitter.com/linux_cn/status/1686582008917454848",
+          "publishedOn": "2023-08-02T03:37:40.000Z",
+          "wordCount": null,
+          "title": "技术 | 如何访问虚拟机中的 GRUB 菜单 https://linux.cn/article-16056-1.html 需要在虚拟机中访问 GRUB 菜单吗？以下是做法。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686577311351484419",
+          "author": "Linux中国",
+          "description": "软件开发 | 使用 GoogleTest 和 CTest 进行单元测试 \nhttps://linux.cn/article-16055-1.html \n进行单元测试可以提高代码质量，并且它不会打断你的工作流。",
+          "link": "https://twitter.com/linux_cn/status/1686577311351484419",
+          "publishedOn": "2023-08-02T03:19:00.000Z",
+          "wordCount": null,
+          "title": "软件开发 | 使用 GoogleTest 和 CTest 进行单元测试 https://linux.cn/article-16055-1.html 进行单元测试可以提高代码质量，并且它不会打断你的工作流。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1686545807200129025",
+          "author": "Linux中国",
+          "description": "🅷 谁在为 NSO 间谍工具买单？FBI 发现是它自己» 08.01 周二 #硬核观察# 1080 \nhttps://youtu.be/8b-SsTL4tNg",
+          "link": "https://twitter.com/linux_cn/status/1686545807200129025",
+          "publishedOn": "2023-08-02T01:13:49.000Z",
+          "wordCount": null,
+          "title": "🅷 谁在为 NSO 间谍工具买单？FBI 发现是它自己» 08.01 周二 #硬核观察# 1080 https://youtu.be/8b-SsTL4tNg",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1686147005700001792",
           "author": "Linux中国",
