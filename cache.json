@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/81982",
+          "author": "克莱德",
+          "description": "Chrome 依然有很多功能因为正在测试、分批推送等原因藏在标签（flags）之后，想要尝鲜就得手动开启。本文为你收录了四个在最新稳定版本中可以试试的新选项。查看全文",
+          "link": "https://sspai.com/post/81982",
+          "publishedOn": "2023-08-13T07:00:00.000Z",
+          "wordCount": 809,
+          "title": "4 个隐藏「小开关」，让你的 Chrome 浏览器更好用",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/cjc3fq5b34tamhgdh8ig"
+        },
+        {
+          "id": "https://sspai.com/post/81930",
+          "author": "少数派编辑部",
+          "description": "借着与 WOLB 人脉管理团队的联系，我们与两位效率工具玩家深入聊了聊他们对工具、管理方法、工作与生活的理解。查看全文",
+          "link": "https://sspai.com/post/81930",
+          "publishedOn": "2023-08-13T03:30:00.000Z",
+          "wordCount": 748,
+          "title": "两位效率工具玩家眼中的人脉管理与知识管理",
+          "imageUrl": "https://cdn.sspai.com/2023/8/11/article/892dbb05-83eb-291d-ea51-ee4365437283.jpg"
+        },
+        {
           "id": "https://sspai.com/post/81971",
           "author": "二一的笔记",
           "description": "本文详细介绍了 Notion 的自动化功能 Button，通过 10 个案例从入门到进阶讲解了 Button 的各种功能和用法。Button 可以在 Notion 的各个地方创建，并能链接到任意数据库，实现一键执行多个动作的集成化操作，大大提高了工作效率和组织管理能力。同时，文章还探讨了 Button 的一些不足之处，并提供了一些使用案例供读者参考。\n想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》\n[......]\n查看全文\n本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。",
@@ -1124,46 +1144,6 @@
           "wordCount": 818,
           "title": "小米 13 Ultra 影像体验：寻找摄影的快乐",
           "imageUrl": "https://cdn.sspai.com/12/07/2023/article/389ec80e-5af5-231b-1a26-4dbdb6fe914f.jpg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/android-mediastore-explained",
-          "author": "克莱德",
-          "description": "Android 应用图片选择界面的「脏乱差」一直是个老大难问题，这与其历史上的权限宽松和执行不力是分不开的，但往者不可谏，来者犹可追。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/android-mediastore-explained",
-          "publishedOn": "2023-07-15T09:56:53.000Z",
-          "wordCount": 912,
-          "title": "谁来管管 Android 的照片选择器",
-          "imageUrl": "https://cdn.sspai.com/2023/7/13/article/332ae7a9-83f0-ebec-92a2-bcd26cbc1328.png"
-        },
-        {
-          "id": "https://sspai.com/post/81074",
-          "author": "zachal",
-          "description": "K3 Pro 作为两年前 K3 的继承者，具备了前代大部分的优点，而在此之外新款自然也有了一些「Pro」的改进。查看全文",
-          "link": "https://sspai.com/post/81074",
-          "publishedOn": "2023-07-15T07:34:32.000Z",
-          "wordCount": 838,
-          "title": "如约而至的更新，少数派定制 Keychron K3 Pro 体验",
-          "imageUrl": "https://cdn.sspai.com/2023/07/14/a4ba528a1b86155f334154026feef09d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81166",
-          "author": "少数派编辑部",
-          "description": "谁能拒绝史努比表盘呢🌝查看全文",
-          "link": "https://sspai.com/post/81166",
-          "publishedOn": "2023-07-15T07:00:00.000Z",
-          "wordCount": 816,
-          "title": "watchOS 10 推出公测版，这些新功能值得尝鲜",
-          "imageUrl": "https://cdn.sspai.com/2023/07/15/b3d53784094c5ffea22940ce66ec7afe.png"
-        },
-        {
-          "id": "https://sspai.com/post/81158",
-          "author": "北鸮",
-          "description": "这届金曲奖其实争议不小，从入围名单到奖项授予，各方各面都有质疑。但对于平常没时间挑歌，又不想随着榜单听些粗制滥造的快餐音乐的人来说，顺着一个权威奖项的候选名单从头听到尾，确实是最快的方法了。查看全文",
-          "link": "https://sspai.com/post/81158",
-          "publishedOn": "2023-07-15T03:00:00.000Z",
-          "wordCount": 750,
-          "title": "找不到好歌尝鲜？来试试金曲 34 中这些值得一听的专辑",
-          "imageUrl": "https://cdn.sspai.com/2023/7/14/article/e5394292-54d1-5c08-150f-153e36c1fb72.png"
         }
       ]
     },
@@ -1172,6 +1152,96 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1690775807029825536",
+          "author": "ahhhhfs",
+          "description": "汽车知识🤤",
+          "link": "https://twitter.com/abskoop/status/1690775807029825536",
+          "publishedOn": "2023-08-13T17:22:20.000Z",
+          "wordCount": null,
+          "title": "汽车知识🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690762578937483264",
+          "author": "ahhhhfs",
+          "description": "不需要感到内疚的事🙊",
+          "link": "https://twitter.com/abskoop/status/1690762578937483264",
+          "publishedOn": "2023-08-13T16:29:46.000Z",
+          "wordCount": null,
+          "title": "不需要感到内疚的事🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690751783029641216",
+          "author": "ahhhhfs",
+          "description": "两x性专题学习资料集合【48.2GB】\n和谐不补哈🙊\n👉https://www.ahhhhfs.com/45871/",
+          "link": "https://twitter.com/abskoop/status/1690751783029641216",
+          "publishedOn": "2023-08-13T15:46:52.000Z",
+          "wordCount": null,
+          "title": "两x性专题学习资料集合【48.2GB】 和谐不补哈🙊 👉https://www.ahhhhfs.com/45871/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690744460756582400",
+          "author": "ahhhhfs",
+          "description": "免费百万行业研究报告下载：研报客\n涵盖国内外各种大牌机构和各行业报告\n👉https://www.ahhhhfs.com/45861/",
+          "link": "https://twitter.com/abskoop/status/1690744460756582400",
+          "publishedOn": "2023-08-13T15:17:46.000Z",
+          "wordCount": null,
+          "title": "免费百万行业研究报告下载：研报客 涵盖国内外各种大牌机构和各行业报告 👉https://www.ahhhhfs.com/45861/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690737547281117184",
+          "author": "ahhhhfs",
+          "description": "干净的日本老师资源学习网站：JA目录\n👉https://www.ahhhhfs.com/45857/",
+          "link": "https://twitter.com/abskoop/status/1690737547281117184",
+          "publishedOn": "2023-08-13T14:50:18.000Z",
+          "wordCount": null,
+          "title": "干净的日本老师资源学习网站：JA目录 👉https://www.ahhhhfs.com/45857/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690689807792640000",
+          "author": "ahhhhfs",
+          "description": "趣卡翻译：双语对照翻译工具 \n支持多语言和PDF等多种文件翻译\n能够精准对文档表格、公式、\n矢量图等进行识别和翻译\n👉https://www.ahhhhfs.com/45841/",
+          "link": "https://twitter.com/abskoop/status/1690689807792640000",
+          "publishedOn": "2023-08-13T11:40:36.000Z",
+          "wordCount": null,
+          "title": "趣卡翻译：双语对照翻译工具 支持多语言和PDF等多种文件翻译 能够精准对文档表格、公式、 矢量图等进行识别和翻译 👉https://www.ahhhhfs.com/45841/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690655096575852544",
+          "author": "ahhhhfs",
+          "description": "Ai画廊：AI绘画AI关键词生成器\n自带翻译中文描述、艺术家及风格可视化功能\n内置各种midjourney常用参数等\n帮助喜欢AI绘画或者小白用户\n快速生成AI绘画关键词\n👉https://www.ahhhhfs.com/45837/",
+          "link": "https://twitter.com/abskoop/status/1690655096575852544",
+          "publishedOn": "2023-08-13T09:22:40.000Z",
+          "wordCount": null,
+          "title": "Ai画廊：AI绘画AI关键词生成器 自带翻译中文描述、艺术家及风格可视化功能 内置各种midjourney常用参数等 帮助喜欢AI绘画或者小白用户 快速生成AI绘画关键词 �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690642812642230273",
+          "author": "ahhhhfs",
+          "description": "100W快充怎么说的🙊",
+          "link": "https://twitter.com/abskoop/status/1690642812642230273",
+          "publishedOn": "2023-08-13T08:33:51.000Z",
+          "wordCount": null,
+          "title": "100W快充怎么说的🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690623535713247232",
+          "author": "ahhhhfs",
+          "description": "备胎书屋：电子书免费下载 、存档网站\n收集了海量的电子资源而且免费提供下载服务\n涵盖各种类型，无需注册登录免费使用\n👉https://www.ahhhhfs.com/45830/",
+          "link": "https://twitter.com/abskoop/status/1690623535713247232",
+          "publishedOn": "2023-08-13T07:17:15.000Z",
+          "wordCount": null,
+          "title": "备胎书屋：电子书免费下载 、存档网站 收集了海量的电子资源而且免费提供下载服务 涵盖各种类型，无需注册登录免费使用 👉https://www.ahhhhfs.com/45830/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1690402364132413440",
           "author": "ahhhhfs",
@@ -4630,216 +4700,6 @@
           "publishedOn": "2023-07-15T13:33:00.000Z",
           "wordCount": null,
           "title": "668游戏仓库：全球大型游戏下载中心 收录单机游戏、某Sw游戏，某S4游戏等等 👉https://www.ahhhhfs.com/44566/ https://t.co/AIDoVqVt8Z",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680193242917384192",
-          "author": "ahhhhfs",
-          "description": "国内招投标行业网站和工具大全：中国招投标导航网\n收录了大量常用招投标平台、招投标网站、\n招投标实用工具、公共资源交易和政府采购网等等，\n非常齐全\n👉https://www.ahhhhfs.com/44512/ https://t.co/AKhhtphOXD",
-          "link": "https://twitter.com/abskoop/status/1680193242917384192",
-          "publishedOn": "2023-07-15T12:31:00.000Z",
-          "wordCount": null,
-          "title": "国内招投标行业网站和工具大全：中国招投标导航网 收录了大量常用招投标平台、招投标网站、 招投标实用工具、公共资源交易和政府采购网等等， 非常齐全 👉http...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680175626643185665",
-          "author": "ahhhhfs",
-          "description": "免费某度网盘不限速下载工具\n某度网盘直链提取聚合API\n无需注册登录，速度拉满\n免费使用无限制，低调用🤤🤤\n👉https://www.ahhhhfs.com/44588/ https://t.co/zcmf2iShZM",
-          "link": "https://twitter.com/abskoop/status/1680175626643185665",
-          "publishedOn": "2023-07-15T11:21:00.000Z",
-          "wordCount": null,
-          "title": "免费某度网盘不限速下载工具 某度网盘直链提取聚合API 无需注册登录，速度拉满 免费使用无限制，低调用🤤🤤 👉https://www.ahhhhfs.com/44588/ https://t....",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680171046480277504",
-          "author": "ahhhhfs",
-          "description": "良心还是要有的🤤🤤 https://t.co/yORn34aGBe",
-          "link": "https://twitter.com/abskoop/status/1680171046480277504",
-          "publishedOn": "2023-07-15T11:02:48.000Z",
-          "wordCount": null,
-          "title": "良心还是要有的🤤🤤 https://t.co/yORn34aGBe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680145658555006976",
-          "author": "ahhhhfs",
-          "description": "AI好爱者：免翻在线私人ChatGPT 应用 \n基于ChatGPT Next Web搭建\n国内网络可用，内置120美元使用额度\n👉https://www.ahhhhfs.com/44582/ https://t.co/VU1LXOe3X1",
-          "link": "https://twitter.com/abskoop/status/1680145658555006976",
-          "publishedOn": "2023-07-15T09:21:55.000Z",
-          "wordCount": null,
-          "title": "AI好爱者：免翻在线私人ChatGPT 应用 基于ChatGPT Next Web搭建 国内网络可用，内置120美元使用额度 👉https://www.ahhhhfs.com/44582/ https://t.co/VU1LXOe3...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680111205346582529",
-          "author": "ahhhhfs",
-          "description": "京东9-2满减券 全品类商品适用 \n每日限量 领完即止 🤤🤤\n👉https://www.ahhhhfs.com/44571/ https://t.co/igqm3Zzfus",
-          "link": "https://twitter.com/abskoop/status/1680111205346582529",
-          "publishedOn": "2023-07-15T07:05:00.000Z",
-          "wordCount": null,
-          "title": "京东9-2满减券 全品类商品适用 每日限量 领完即止 🤤🤤 👉https://www.ahhhhfs.com/44571/ https://t.co/igqm3Zzfus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680103700193214464",
-          "author": "ahhhhfs",
-          "description": "Re @TxxSw103 好的🤤",
-          "link": "https://twitter.com/abskoop/status/1680103700193214464",
-          "publishedOn": "2023-07-15T06:35:11.000Z",
-          "wordCount": null,
-          "title": "Re @TxxSw103 好的🤤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680103618949545984",
-          "author": "ahhhhfs",
-          "description": "Re @PRGYop 还有啥🙊",
-          "link": "https://twitter.com/abskoop/status/1680103618949545984",
-          "publishedOn": "2023-07-15T06:34:52.000Z",
-          "wordCount": null,
-          "title": "Re @PRGYop 还有啥🙊",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680103162651222017",
-          "author": "ahhhhfs",
-          "description": "羡慕人家的发量 \n我头发都要掉光了😭\n今晚早睡有用吗 https://t.co/vNxB328zd1",
-          "link": "https://twitter.com/abskoop/status/1680103162651222017",
-          "publishedOn": "2023-07-15T06:33:03.000Z",
-          "wordCount": null,
-          "title": "羡慕人家的发量 我头发都要掉光了😭 今晚早睡有用吗 https://t.co/vNxB328zd1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680082823921713155",
-          "author": "ahhhhfs",
-          "description": "某付费海报logo生成器网站去水印工具：Free Canvas\n 去除水印免费下载源文件\n👉https://www.ahhhhfs.com/44518/ https://t.co/ORbUMRIVPT",
-          "link": "https://twitter.com/abskoop/status/1680082823921713155",
-          "publishedOn": "2023-07-15T05:12:14.000Z",
-          "wordCount": null,
-          "title": "某付费海报logo生成器网站去水印工具：Free Canvas 去除水印免费下载源文件 👉https://www.ahhhhfs.com/44518/ https://t.co/ORbUMRIVPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680038204181823488",
-          "author": "ahhhhfs",
-          "description": "Re @Bolt20200610 描述得好准确🤤移动炮车 哈哈哈",
-          "link": "https://twitter.com/abskoop/status/1680038204181823488",
-          "publishedOn": "2023-07-15T02:14:56.000Z",
-          "wordCount": null,
-          "title": "Re @Bolt20200610 描述得好准确🤤移动炮车 哈哈哈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680037402046259202",
-          "author": "ahhhhfs",
-          "description": "现在这么恐怖的了吗🤤 https://t.co/oY0CHRYTeo",
-          "link": "https://twitter.com/abskoop/status/1680037402046259202",
-          "publishedOn": "2023-07-15T02:11:44.000Z",
-          "wordCount": null,
-          "title": "现在这么恐怖的了吗🤤 https://t.co/oY0CHRYTeo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679900164151029760",
-          "author": "ahhhhfs",
-          "description": "一套C语言课程：C语言系统化精讲\n原理+实践，一课带你吃透C语言\n👉https://www.ahhhhfs.com/30977/ https://t.co/ZUhbLAIsw5",
-          "link": "https://twitter.com/abskoop/status/1679900164151029760",
-          "publishedOn": "2023-07-14T17:06:24.000Z",
-          "wordCount": null,
-          "title": "一套C语言课程：C语言系统化精讲 原理+实践，一课带你吃透C语言 👉https://www.ahhhhfs.com/30977/ https://t.co/ZUhbLAIsw5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679893192718843905",
-          "author": "ahhhhfs",
-          "description": "是的  什么都没干🤤🤤 https://t.co/nFKfYd5TqG",
-          "link": "https://twitter.com/abskoop/status/1679893192718843905",
-          "publishedOn": "2023-07-14T16:38:42.000Z",
-          "wordCount": null,
-          "title": "是的 什么都没干🤤🤤 https://t.co/nFKfYd5TqG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679887480018055174",
-          "author": "ahhhhfs",
-          "description": "Re @whateversot 🤤等大佬搞一个开箱即用的",
-          "link": "https://twitter.com/abskoop/status/1679887480018055174",
-          "publishedOn": "2023-07-14T16:16:00.000Z",
-          "wordCount": null,
-          "title": "Re @whateversot 🤤等大佬搞一个开箱即用的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679886885974589440",
-          "author": "ahhhhfs",
-          "description": "中医类资源集合🙊🙊\n👉 https://www.ahhhhfs.com/?cat=&s=%E4%B8%AD%E5%8C%BB\n\nahhhhfs: @Ae0jMvUWUcFgBNC 你可以到网站搜索一下相关关键词哈\n发过一些相关的资源\n👉 https://www.ahhhhfs.com/?cat=&s=%E4%B8%AD%E5%8C%BB https://t.co/JodXPaWsh1",
-          "link": "https://twitter.com/abskoop/status/1679886885974589440",
-          "publishedOn": "2023-07-14T16:13:39.000Z",
-          "wordCount": null,
-          "title": "中医类资源集合🙊🙊 👉 https://www.ahhhhfs.com/?cat=&s=%E4%B8%AD%E5%8C%BB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679886733264162821",
-          "author": "ahhhhfs",
-          "description": "Re @Ae0jMvUWUcFgBNC 你可以到网站搜索一下相关关键词哈\n发过一些相关的资源\n👉 https://www.ahhhhfs.com/?cat=&s=%E4%B8%AD%E5%8C%BB https://t.co/JodXPaWsh1",
-          "link": "https://twitter.com/abskoop/status/1679886733264162821",
-          "publishedOn": "2023-07-14T16:13:02.000Z",
-          "wordCount": null,
-          "title": "Re @Ae0jMvUWUcFgBNC 你可以到网站搜索一下相关关键词哈 发过一些相关的资源 👉 https://www.ahhhhfs.com/?cat=&s=%E4%B8%AD%E5%8C%BB https://t.co/JodXPaWsh...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679886331986731009",
-          "author": "ahhhhfs",
-          "description": "Re @Threedays_on 🤤暂时没有搬过来",
-          "link": "https://twitter.com/abskoop/status/1679886331986731009",
-          "publishedOn": "2023-07-14T16:11:26.000Z",
-          "wordCount": null,
-          "title": "Re @Threedays_on 🤤暂时没有搬过来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679885598876741632",
-          "author": "ahhhhfs",
-          "description": "免费AI视频换脸工具：roop\n👉https://www.ahhhhfs.com/44548/ https://t.co/ormafOEM2n",
-          "link": "https://twitter.com/abskoop/status/1679885598876741632",
-          "publishedOn": "2023-07-14T16:08:32.000Z",
-          "wordCount": null,
-          "title": "免费AI视频换脸工具：roop 👉https://www.ahhhhfs.com/44548/ https://t.co/ormafOEM2n",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679873691910381569",
-          "author": "ahhhhfs",
-          "description": "高品质DTS无损音乐 1400张\n👉https://www.ahhhhfs.com/44539/ https://t.co/VNCpHvWAP6",
-          "link": "https://twitter.com/abskoop/status/1679873691910381569",
-          "publishedOn": "2023-07-14T15:21:13.000Z",
-          "wordCount": null,
-          "title": "高品质DTS无损音乐 1400张 👉https://www.ahhhhfs.com/44539/ https://t.co/VNCpHvWAP6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679863951008448512",
-          "author": "ahhhhfs",
-          "description": "高质量图片学习网站：一方净土\n👉https://www.ahhhhfs.com/44533/ https://t.co/26rRvDnI1R",
-          "link": "https://twitter.com/abskoop/status/1679863951008448512",
-          "publishedOn": "2023-07-14T14:42:30.000Z",
-          "wordCount": null,
-          "title": "高质量图片学习网站：一方净土 👉https://www.ahhhhfs.com/44533/ https://t.co/26rRvDnI1R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1679845954688778241",
-          "author": "ahhhhfs",
-          "description": "免费AI变声工具 ：大饼AI变声\n支持游戏开黑和社交直播app等等变声\n支持中文、英文、日语等40+种语言\n还提供声音定制等等\n👉https://www.ahhhhfs.com/44528/ https://t.co/39TKs0K0CW",
-          "link": "https://twitter.com/abskoop/status/1679845954688778241",
-          "publishedOn": "2023-07-14T13:31:00.000Z",
-          "wordCount": null,
-          "title": "免费AI变声工具 ：大饼AI变声 支持游戏开黑和社交直播app等等变声 支持中文、英文、日语等40+种语言 还提供声音定制等等 👉https://www.ahhhhfs.com/44528/ ht...",
           "imageUrl": null
         }
       ]
