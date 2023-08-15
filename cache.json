@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82015",
+          "author": "少数派编辑部",
+          "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
+          "link": "https://sspai.com/post/82015",
+          "publishedOn": "2023-08-14T09:53:57.000Z",
+          "wordCount": 915,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/8/14/article/892e01b0-414d-3445-021e-740289f374ad.png"
+        },
+        {
+          "id": "https://sspai.com/post/81993",
+          "author": "板斧",
+          "description": "欢迎来到「本月玩什么」，又有一大堆新游戏值得一玩啦。查看全文",
+          "link": "https://sspai.com/post/81993",
+          "publishedOn": "2023-08-14T07:30:00.000Z",
+          "wordCount": 1039,
+          "title": "本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神",
+          "imageUrl": "https://cdn.sspai.com/2023/08/14/bcc50fe2ae7e191599242c6ceb467252.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81215",
+          "author": "feverlife",
+          "description": "打个不恰当的比方，如果说 Apple Watch 是 CBD 中翘楚新锐，Garmin Fenix 则是时刻等待使命召唤的健将战士。查看全文",
+          "link": "https://sspai.com/post/81215",
+          "publishedOn": "2023-08-14T03:35:01.000Z",
+          "wordCount": 798,
+          "title": "六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享",
+          "imageUrl": "https://cdn.sspai.com/2023/07/18/e3af9079c13b9652ede25079c404e43a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81988",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事Zoom修改条款，承诺不用通信内容训练AI8月12日，Zoom再次修改了近日引发争议的新版服务条款，明确承诺「不会使用你的任何音频、视频、聊天、屏幕共享、附件或其他『通信类客户内容』 ...查看全文",
+          "link": "https://sspai.com/post/81988",
+          "publishedOn": "2023-08-14T00:58:26.000Z",
+          "wordCount": 911,
+          "title": "派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展",
+          "imageUrl": "https://cdn.sspai.com/8/13/2023/article/51db44b5-69fc-e1b4-7000-2d3b4030915c.png"
+        },
+        {
           "id": "https://sspai.com/post/81982",
           "author": "克莱德",
           "description": "Chrome 依然有很多功能因为正在测试、分批推送等原因藏在标签（flags）之后，想要尝鲜就得手动开启。本文为你收录了四个在最新稳定版本中可以试试的新选项。查看全文",
@@ -1114,36 +1154,6 @@
           "wordCount": 924,
           "title": "派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成",
           "imageUrl": "https://cdn.sspai.com/7/16/2023/article/377f69e2-c7a6-71f0-5b89-38884e0b3967.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-2",
-          "author": "Kiririn",
-          "description": "RIM 企业服务基础的奠定，以及黑莓在手机和 PDA 之间的道路探索查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-2",
-          "publishedOn": "2023-07-16T10:00:26.000Z",
-          "wordCount": 1126,
-          "title": "花点时间，走在趋势之前：Blackberry 简史（二）",
-          "imageUrl": "https://cdn.sspai.com/2023/7/14/article/ba8695c5-01cc-92dd-594a-04f723e2e29d.png"
-        },
-        {
-          "id": "https://sspai.com/post/81185",
-          "author": "少数派编辑部",
-          "description": "本文为你整理了 macOS Sonoma 值得关注的一些新功能、如何升级系统以及升级前需要了解的一些注意事项，希望对你有所帮助。查看全文",
-          "link": "https://sspai.com/post/81185",
-          "publishedOn": "2023-07-16T07:00:05.000Z",
-          "wordCount": 871,
-          "title": "macOS Sonoma 推出公开测试版，这些新特性值得一试",
-          "imageUrl": "https://cdn.sspai.com/7/16/2023/article/3f831803-82a5-0e0f-468e-af1454af51f0.png"
-        },
-        {
-          "id": "https://sspai.com/post/81076",
-          "author": "张奕源Nick",
-          "description": "这是一部有着鲜明个性的手机，它对影像有自己的理解，有自己的脾气，有自己的判断，有自己擅长和不擅长的场景与题材。该如何与它相处，利用它的特点和能力，需要拍摄者有自己的思考。查看全文",
-          "link": "https://sspai.com/post/81076",
-          "publishedOn": "2023-07-16T03:19:34.000Z",
-          "wordCount": 818,
-          "title": "小米 13 Ultra 影像体验：寻找摄影的快乐",
-          "imageUrl": "https://cdn.sspai.com/12/07/2023/article/389ec80e-5af5-231b-1a26-4dbdb6fe914f.jpg"
         }
       ]
     },
@@ -1152,6 +1162,106 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1691123028699361281",
+          "author": "ahhhhfs",
+          "description": "难怪我腰酸背痛 原来姿势不对🙊",
+          "link": "https://twitter.com/abskoop/status/1691123028699361281",
+          "publishedOn": "2023-08-14T16:22:04.000Z",
+          "wordCount": null,
+          "title": "难怪我腰酸背痛 原来姿势不对🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691114763747799040",
+          "author": "ahhhhfs",
+          "description": "一些风水玄学专题资源集合 35.7GB🤤\n👉https://www.ahhhhfs.com/45916/",
+          "link": "https://twitter.com/abskoop/status/1691114763747799040",
+          "publishedOn": "2023-08-14T15:49:13.000Z",
+          "wordCount": null,
+          "title": "一些风水玄学专题资源集合 35.7GB🤤 👉https://www.ahhhhfs.com/45916/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691106841223421952",
+          "author": "ahhhhfs",
+          "description": "ToolAI ：全球最AI人工智能工具集合\n收集6800+ 人工智能平台和工具，每日更新\n👉https://www.ahhhhfs.com/45906/",
+          "link": "https://twitter.com/abskoop/status/1691106841223421952",
+          "publishedOn": "2023-08-14T15:17:44.000Z",
+          "wordCount": null,
+          "title": "ToolAI ：全球最AI人工智能工具集合 收集6800+ 人工智能平台和工具，每日更新 👉https://www.ahhhhfs.com/45906/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691098830023143424",
+          "author": "ahhhhfs",
+          "description": "三老师退隐后新作品 4K+在线\n👉https://www.ahhhhfs.com/45888/",
+          "link": "https://twitter.com/abskoop/status/1691098830023143424",
+          "publishedOn": "2023-08-14T14:45:54.000Z",
+          "wordCount": null,
+          "title": "三老师退隐后新作品 4K+在线 👉https://www.ahhhhfs.com/45888/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691087865927602176",
+          "author": "ahhhhfs",
+          "description": "BeeBee Ai：使用AI深度分析上市公司财报会议记录 \n提供单季度或多季度的财务分析等等\n以帮助投资者做出明智的投资决策\n👉https://www.ahhhhfs.com/45894/",
+          "link": "https://twitter.com/abskoop/status/1691087865927602176",
+          "publishedOn": "2023-08-14T14:02:20.000Z",
+          "wordCount": null,
+          "title": "BeeBee Ai：使用AI深度分析上市公司财报会议记录 提供单季度或多季度的财务分析等等 以帮助投资者做出明智的投资决策 👉https://www.ahhhhfs.com/45894/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691051978233962497",
+          "author": "ahhhhfs",
+          "description": "全球经典纪录片下载：纪录片之家\n收集分享国内外各种系列和大厂的纪录片\n👉https://www.ahhhhfs.com/45876/",
+          "link": "https://twitter.com/abskoop/status/1691051978233962497",
+          "publishedOn": "2023-08-14T11:39:44.000Z",
+          "wordCount": null,
+          "title": "全球经典纪录片下载：纪录片之家 收集分享国内外各种系列和大厂的纪录片 👉https://www.ahhhhfs.com/45876/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691049248727666688",
+          "author": "ahhhhfs",
+          "description": "冬天就要来了",
+          "link": "https://twitter.com/abskoop/status/1691049248727666688",
+          "publishedOn": "2023-08-14T11:28:53.000Z",
+          "wordCount": null,
+          "title": "冬天就要来了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691024302475448320",
+          "author": "ahhhhfs",
+          "description": "买的机场大部分都上不了instagram了吗\n好在我有服务器搭建的梯子😂\n这公司防人机防成这样 还不倒闭吗",
+          "link": "https://twitter.com/abskoop/status/1691024302475448320",
+          "publishedOn": "2023-08-14T09:49:46.000Z",
+          "wordCount": null,
+          "title": "买的机场大部分都上不了instagram了吗 好在我有服务器搭建的梯子😂 这公司防人机防成这样 还不倒闭吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1691020010372648961",
+          "author": "ahhhhfs",
+          "description": "好用的哔哩哔哩漫画下载器 ：BiliBili Manga Downloader\n黑科技下载未解锁章节🙊无广告看漫画\n拥有图形界面，支持关键词搜索漫画、\n多线程下载、多种保存格式\n👉https://www.ahhhhfs.com/45849/",
+          "link": "https://twitter.com/abskoop/status/1691020010372648961",
+          "publishedOn": "2023-08-14T09:32:42.000Z",
+          "wordCount": null,
+          "title": "好用的哔哩哔哩漫画下载器 ：BiliBili Manga Downloader 黑科技下载未解锁章节🙊无广告看漫画 拥有图形界面，支持关键词搜索漫画、 多线程下载、多种保存格式 ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1690985442546479104",
+          "author": "ahhhhfs",
+          "description": "Boardmix：集AIGC于一体在线白板工具 \n输入一句话，AI帮你一键生产PPT，思维导图等\n👉https://www.ahhhhfs.com/45882/",
+          "link": "https://twitter.com/abskoop/status/1690985442546479104",
+          "publishedOn": "2023-08-14T07:15:21.000Z",
+          "wordCount": null,
+          "title": "Boardmix：集AIGC于一体在线白板工具 输入一句话，AI帮你一键生产PPT，思维导图等 👉https://www.ahhhhfs.com/45882/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1690775807029825536",
           "author": "ahhhhfs",
@@ -4620,86 +4730,6 @@
           "publishedOn": "2023-07-16T16:02:17.000Z",
           "wordCount": null,
           "title": "Re @ai3106115088 我看评论数字不对 就知道这样操作🤤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680263249722310656",
-          "author": "ahhhhfs",
-          "description": "一些海外上网科普知识🙊\n👉 http://ahhhhfs.com/37770/ https://t.co/ms4Uaezp55",
-          "link": "https://twitter.com/abskoop/status/1680263249722310656",
-          "publishedOn": "2023-07-15T17:09:11.000Z",
-          "wordCount": null,
-          "title": "一些海外上网科普知识🙊 👉 http://ahhhhfs.com/37770/ https://t.co/ms4Uaezp55",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680252116156268546",
-          "author": "ahhhhfs",
-          "description": "Re @JR246813 啥意思 截图看看吗",
-          "link": "https://twitter.com/abskoop/status/1680252116156268546",
-          "publishedOn": "2023-07-15T16:24:56.000Z",
-          "wordCount": null,
-          "title": "Re @JR246813 啥意思 截图看看吗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680251273419841539",
-          "author": "ahhhhfs",
-          "description": "一部前几天上的电👀影 偷偷版\n👉https://www.ahhhhfs.com/44605/ https://t.co/tUVQhzSEzU",
-          "link": "https://twitter.com/abskoop/status/1680251273419841539",
-          "publishedOn": "2023-07-15T16:21:35.000Z",
-          "wordCount": null,
-          "title": "一部前几天上的电👀影 偷偷版 👉https://www.ahhhhfs.com/44605/ https://t.co/tUVQhzSEzU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680248306604163078",
-          "author": "ahhhhfs",
-          "description": "🦆🦆🦆\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/ https://t.co/9TxNquv7em",
-          "link": "https://twitter.com/abskoop/status/1680248306604163078",
-          "publishedOn": "2023-07-15T16:09:48.000Z",
-          "wordCount": null,
-          "title": "🦆🦆🦆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680241645663715335",
-          "author": "ahhhhfs",
-          "description": "一些香港 鬼怪 电影 合集🤤🤤\n👉https://www.ahhhhfs.com/44461/ https://t.co/WfjSEWKroI",
-          "link": "https://twitter.com/abskoop/status/1680241645663715335",
-          "publishedOn": "2023-07-15T15:43:20.000Z",
-          "wordCount": null,
-          "title": "一些香港 鬼怪 电影 合集🤤🤤 👉https://www.ahhhhfs.com/44461/ https://t.co/WfjSEWKroI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680234654631096320",
-          "author": "ahhhhfs",
-          "description": "Warp自选IP 海外无限流量高速上网教程🙊🙊\n👉https://www.ahhhhfs.com/44560/ https://t.co/zG6SgDg7ZY",
-          "link": "https://twitter.com/abskoop/status/1680234654631096320",
-          "publishedOn": "2023-07-15T15:15:33.000Z",
-          "wordCount": null,
-          "title": "Warp自选IP 海外无限流量高速上网教程🙊🙊 👉https://www.ahhhhfs.com/44560/ https://t.co/zG6SgDg7ZY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680224951746396161",
-          "author": "ahhhhfs",
-          "description": "一本自学手册：BO起硬度训练手册🤤🤤\n👉https://www.ahhhhfs.com/44599/ https://t.co/uevJwPTTlY",
-          "link": "https://twitter.com/abskoop/status/1680224951746396161",
-          "publishedOn": "2023-07-15T14:37:00.000Z",
-          "wordCount": null,
-          "title": "一本自学手册：BO起硬度训练手册🤤🤤 👉https://www.ahhhhfs.com/44599/ https://t.co/uevJwPTTlY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1680208845615022086",
-          "author": "ahhhhfs",
-          "description": "668游戏仓库：全球大型游戏下载中心 \n收录单机游戏、某Sw游戏，某S4游戏等等\n👉https://www.ahhhhfs.com/44566/ https://t.co/AIDoVqVt8Z",
-          "link": "https://twitter.com/abskoop/status/1680208845615022086",
-          "publishedOn": "2023-07-15T13:33:00.000Z",
-          "wordCount": null,
-          "title": "668游戏仓库：全球大型游戏下载中心 收录单机游戏、某Sw游戏，某S4游戏等等 👉https://www.ahhhhfs.com/44566/ https://t.co/AIDoVqVt8Z",
           "imageUrl": null
         }
       ]
@@ -17268,6 +17298,126 @@
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
         {
+          "id": "https://twitter.com/linux_cn/status/1691083158899281920",
+          "author": "Linux中国",
+          "description": "🅷 Firefox 在意 Linux 桌面用户吗？» 08.14 周一 #硬核观察# 1093 \nhttps://youtu.be/NqCfWqEvmsg",
+          "link": "https://twitter.com/linux_cn/status/1691083158899281920",
+          "publishedOn": "2023-08-14T13:43:38.000Z",
+          "wordCount": null,
+          "title": "🅷 Firefox 在意 Linux 桌面用户吗？» 08.14 周一 #硬核观察# 1093 https://youtu.be/NqCfWqEvmsg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1691030141147787265",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1093 Firefox 在意 Linux 桌面用户吗？ \nhttps://linux.cn/article-16093-1.html \n🅷 Firefox 在意 Linux 桌面用户吗？\n🄸 Stack Overflow 拥抱人工智能\n🄸 OpenAI 每天花掉 70 万美元\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1691030141147787265",
+          "publishedOn": "2023-08-14T10:12:58.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1093 Firefox 在意 Linux 桌面用户吗？ https://linux.cn/article-16093-1.html 🅷 Firefox 在意 Linux 桌面用户吗？ 🄸 Stack Overfl...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690924522969460736",
+          "author": "Linux中国",
+          "description": "观点 | 我的 Linux 团队使用 Penpot 的 3 个原因 \nhttps://linux.cn/article-16092-1.html \nPenpot 是一个设计师和开发人员使用的开源设计工作空间。",
+          "link": "https://twitter.com/linux_cn/status/1690924522969460736",
+          "publishedOn": "2023-08-14T03:13:16.000Z",
+          "wordCount": null,
+          "title": "观点 | 我的 Linux 团队使用 Penpot 的 3 个原因 https://linux.cn/article-16092-1.html Penpot 是一个设计师和开发人员使用的开源设计工作空间。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690752109002584064",
+          "author": "Linux中国",
+          "description": "技术 | 在 Fedora Linux 上使用 FIDO U2F 安全密钥 \nhttps://linux.cn/article-16091-1.html \n本文介绍了 FIDO 协议，并展示了如何安装和启用 FIDO U2F 安全密钥作为替代身份验证因素，以用于登录终端、GDM 或进行 sudo 认证。",
+          "link": "https://twitter.com/linux_cn/status/1690752109002584064",
+          "publishedOn": "2023-08-13T15:48:10.000Z",
+          "wordCount": null,
+          "title": "技术 | 在 Fedora Linux 上使用 FIDO U2F 安全密钥 https://linux.cn/article-16091-1.html 本文介绍了 FIDO 协议，并展示了如何安装和启用 FIDO U2F 安全密钥作...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690725971173761025",
+          "author": "Linux中国",
+          "description": "🅷 时隔 15 年，几名学生再次黑进波士顿地铁» 08.13 周日 #硬核观察# 1092 \nhttps://youtu.be/gnAA5wtJExs",
+          "link": "https://twitter.com/linux_cn/status/1690725971173761025",
+          "publishedOn": "2023-08-13T14:04:18.000Z",
+          "wordCount": null,
+          "title": "🅷 时隔 15 年，几名学生再次黑进波士顿地铁» 08.13 周日 #硬核观察# 1092 https://youtu.be/gnAA5wtJExs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690667841748369410",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1092 时隔 15 年，几名学生再次黑进波士顿地铁 \nhttps://linux.cn/article-16090-1.html \n🅷 时隔 15 年，几名学生再次黑进波士顿地铁\n🄸 ChatGPT 回答代码问题的正确率还不如抛硬币\n🄸 《雷神之锤 2》游戏代码开源\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1690667841748369410",
+          "publishedOn": "2023-08-13T10:13:19.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1092 时隔 15 年，几名学生再次黑进波士顿地铁 https://linux.cn/article-16090-1.html 🅷 时隔 15 年，几名学生再次黑进波士顿地铁 �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690579810551242752",
+          "author": "Linux中国",
+          "description": "技术 | 为什么 DNS 仍然难以学习？ \nhttps://linux.cn/article-16089-1.html \n以下是关于为什么学习排除 DNS 问题很困难的几点思考。",
+          "link": "https://twitter.com/linux_cn/status/1690579810551242752",
+          "publishedOn": "2023-08-13T04:23:30.000Z",
+          "wordCount": null,
+          "title": "技术 | 为什么 DNS 仍然难以学习？ https://linux.cn/article-16089-1.html 以下是关于为什么学习排除 DNS 问题很困难的几点思考。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690545594958311424",
+          "author": "Linux中国",
+          "description": "技术 | Gherkin 语言如何弥合客户和开发人员之间的差距 \nhttps://linux.cn/article-16088-1.html \nGherkin 语法可以帮助你思考技术交易的过程，然后帮助你将其转化为程序员逻辑的形式写下来。",
+          "link": "https://twitter.com/linux_cn/status/1690545594958311424",
+          "publishedOn": "2023-08-13T02:07:33.000Z",
+          "wordCount": null,
+          "title": "技术 | Gherkin 语言如何弥合客户和开发人员之间的差距 https://linux.cn/article-16088-1.html Gherkin 语法可以帮助你思考技术交易的过程，然后帮助你将其转化...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690346114137096192",
+          "author": "Linux中国",
+          "description": "🅷 Chrome 将支持抗量子计算机攻击加密» 08.12 周六 #硬核观察# 1091 \nhttps://youtu.be/BPbVB39aB6E",
+          "link": "https://twitter.com/linux_cn/status/1690346114137096192",
+          "publishedOn": "2023-08-12T12:54:53.000Z",
+          "wordCount": null,
+          "title": "🅷 Chrome 将支持抗量子计算机攻击加密» 08.12 周六 #硬核观察# 1091 https://youtu.be/BPbVB39aB6E",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690322275868856320",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1091 Chrome 将支持抗量子计算机攻击加密 \nhttps://linux.cn/article-16087-1.html \n🅷 Chrome 将支持抗量子计算机攻击加密\n🄸 Linus Torvalds 亲自审查 Bcachefs 文件系统代码\n🄸 Firefox 将成为唯一支持开放扩展的安卓浏览器\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1690322275868856320",
+          "publishedOn": "2023-08-12T11:20:09.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1091 Chrome 将支持抗量子计算机攻击加密 https://linux.cn/article-16087-1.html 🅷 Chrome 将支持抗量子计算机攻击加密 🄸 Linus To...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690241044690915328",
+          "author": "Linux中国",
+          "description": "技术 | 在 Linux 中使用 cp 命令 \nhttps://linux.cn/article-16086-1.html \n熟悉在 Linux 命令行中复制文件和目录的 cp 命令。",
+          "link": "https://twitter.com/linux_cn/status/1690241044690915328",
+          "publishedOn": "2023-08-12T05:57:22.000Z",
+          "wordCount": null,
+          "title": "技术 | 在 Linux 中使用 cp 命令 https://linux.cn/article-16086-1.html 熟悉在 Linux 命令行中复制文件和目录的 cp 命令。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1690187385554751488",
+          "author": "Linux中国",
+          "description": "技术 | 如何在命令行上舒适地生存？ \nhttps://linux.cn/article-16085-1.html \n如果在过去一到三年内，你刚刚不再害怕使用命令行了，是什么帮助了你？",
+          "link": "https://twitter.com/linux_cn/status/1690187385554751488",
+          "publishedOn": "2023-08-12T02:24:09.000Z",
+          "wordCount": null,
+          "title": "技术 | 如何在命令行上舒适地生存？ https://linux.cn/article-16085-1.html 如果在过去一到三年内，你刚刚不再害怕使用命令行了，是什么帮助了你？",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/linux_cn/status/1690003586397110272",
           "author": "Linux中国",
           "description": "🅷 甲骨文、SUSE 等“抱团”制作兼容版企业 Linux» 08.11 周五 #硬核观察# 1090 \nhttps://youtu.be/Q8UCgGAgP7s",
@@ -18125,116 +18275,6 @@
           "publishedOn": "2023-07-16T14:23:58.000Z",
           "wordCount": null,
           "title": "🅷 CentOS 项目发出一篇奇怪的博文» 07.16 周日 #硬核观察# 1064 https://youtu.be/jDL3UP4r5eY",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680551104461910018",
-          "author": "Linux中国",
-          "description": "硬核观察 | 硬核观察 #1064 CentOS 项目发出一篇奇怪的博文 \nhttps://linux.cn/article-16005-1.html \n🅷 CentOS 项目发出一篇奇怪的博文\n🄸 利用微软证书签发的恶意驱动多达数千个\n🄸 印度开发商解雇 90% 的技术支持团队，将工作外包给人工智能\n» \n» https://t.co/uRP5UsGr2g",
-          "link": "https://twitter.com/linux_cn/status/1680551104461910018",
-          "publishedOn": "2023-07-16T12:13:01.000Z",
-          "wordCount": null,
-          "title": "硬核观察 | 硬核观察 #1064 CentOS 项目发出一篇奇怪的博文 https://linux.cn/article-16005-1.html 🅷 CentOS 项目发出一篇奇怪的博文 🄸 利用微软证书签发...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680504382125666304",
-          "author": "Linux中国",
-          "description": "分享 | Terminator：适用于 Linux 专业人员的平铺终端仿真器 \nhttps://linux.cn/article-16004-1.html \n你可能已经看到一些同事或 UP 主们在一个终端窗口中运行多个终端会话。 https://t.co/WaFGLoC51c",
-          "link": "https://twitter.com/linux_cn/status/1680504382125666304",
-          "publishedOn": "2023-07-16T09:07:21.000Z",
-          "wordCount": null,
-          "title": "分享 | Terminator：适用于 Linux 专业人员的平铺终端仿真器 https://linux.cn/article-16004-1.html 你可能已经看到一些同事或 UP 主们在一个终端窗口中运行多...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680210310735470593",
-          "author": "Linux中国",
-          "description": "🅷 互联网档案馆要求 GitHub 下架 DRM 去除工具» 07.15 周六 #硬核观察# 1063 \nhttps://youtu.be/Vw6R02DZ8ts",
-          "link": "https://twitter.com/linux_cn/status/1680210310735470593",
-          "publishedOn": "2023-07-15T13:38:49.000Z",
-          "wordCount": null,
-          "title": "🅷 互联网档案馆要求 GitHub 下架 DRM 去除工具» 07.15 周六 #硬核观察# 1063 https://youtu.be/Vw6R02DZ8ts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680152092780969984",
-          "author": "Linux中国",
-          "description": "硬核观察 | 硬核观察 #1063 互联网档案馆要求 GitHub 下架 DRM 去除工具 \nhttps://linux.cn/article-16003-1.html \n🅷 互联网档案馆要求 GitHub 下架 DRM 去除工具\n🄸 Meta 公司将发布 LLaMA 的商业版本\n🄸 GTK 对 macOS 将降到“尽力而为”的状态\n» \n» https://t.co/Cd1YxkmByH",
-          "link": "https://twitter.com/linux_cn/status/1680152092780969984",
-          "publishedOn": "2023-07-15T09:47:29.000Z",
-          "wordCount": null,
-          "title": "硬核观察 | 硬核观察 #1063 互联网档案馆要求 GitHub 下架 DRM 去除工具 https://linux.cn/article-16003-1.html 🅷 互联网档案馆要求 GitHub 下架 DRM 去除工...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680061630502121473",
-          "author": "Linux中国",
-          "description": "技术 | 10 分钟让你了解 Linux ABI \nhttps://linux.cn/article-16002-1.html \n熟悉 ABI 的概念、ABI 稳定性的重要性以及 Linux 稳定 ABI 中包含的内容。 https://t.co/0riBVpYnZs",
-          "link": "https://twitter.com/linux_cn/status/1680061630502121473",
-          "publishedOn": "2023-07-15T03:48:01.000Z",
-          "wordCount": null,
-          "title": "技术 | 10 分钟让你了解 Linux ABI https://linux.cn/article-16002-1.html 熟悉 ABI 的概念、ABI 稳定性的重要性以及 Linux 稳定 ABI 中包含的内容。 https://t...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1680032603754119169",
-          "author": "Linux中国",
-          "description": "软件开发 | Bash 基础知识系列 #3：传递参数和接受用户输入 \nhttps://linux.cn/article-16001-1.html \n在 Bash 基础系列的这一章中，学习如何向 Bash 脚本传递参数并使它们具有交互性。 https://t.co/fHOnXwsaeY",
-          "link": "https://twitter.com/linux_cn/status/1680032603754119169",
-          "publishedOn": "2023-07-15T01:52:40.000Z",
-          "wordCount": null,
-          "title": "软件开发 | Bash 基础知识系列 #3：传递参数和接受用户输入 https://linux.cn/article-16001-1.html 在 Bash 基础系列的这一章中，学习如何向 Bash 脚本传递参数...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1679840343028649986",
-          "author": "Linux中国",
-          "description": "🅷 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性» 07.14 周五 #硬核观察# 1062 \nhttps://youtu.be/-hsJJVlRoXM",
-          "link": "https://twitter.com/linux_cn/status/1679840343028649986",
-          "publishedOn": "2023-07-14T13:08:42.000Z",
-          "wordCount": null,
-          "title": "🅷 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性» 07.14 周五 #硬核观察# 1062 https://youtu.be/-hsJJVlRoXM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1679767264097173505",
-          "author": "Linux中国",
-          "description": "硬核观察 | 硬核观察 #1062 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性 \nhttps://linux.cn/article-16000-1.html \n🅷 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性\n🄸 好莱坞想要永远免费得到龙套演员的人工智能复制品\n🄸 2027 年欧盟销售的智能手机电池需要可更换\n» \n» https://t.co/WerU1URKIh",
-          "link": "https://twitter.com/linux_cn/status/1679767264097173505",
-          "publishedOn": "2023-07-14T08:18:18.000Z",
-          "wordCount": null,
-          "title": "硬核观察 | 硬核观察 #1062 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性 https://linux.cn/article-16000-1.html 🅷 AlmaLinux 不再追求与 RHEL 的 1:1 兼容性 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1679746941742186496",
-          "author": "Linux中国",
-          "description": "观点 | 构建成功的开源项目的重要建议 \nhttps://linux.cn/article-15999-1.html \n使用这些步骤来为你的第一个或接下来的项目打下坚实的基础。 https://t.co/FoYk9yCHfJ",
-          "link": "https://twitter.com/linux_cn/status/1679746941742186496",
-          "publishedOn": "2023-07-14T06:57:33.000Z",
-          "wordCount": null,
-          "title": "观点 | 构建成功的开源项目的重要建议 https://linux.cn/article-15999-1.html 使用这些步骤来为你的第一个或接下来的项目打下坚实的基础。 https://t.co/FoYk9y...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1679729484885311488",
-          "author": "Linux中国",
-          "description": "分享 | Linux 桌面的十个最佳光标主题 \nhttps://linux.cn/article-15998-1.html \n一个用于各种 Linux 桌面的最佳光标主题的混合列表。 https://t.co/QtGTPKRFN8",
-          "link": "https://twitter.com/linux_cn/status/1679729484885311488",
-          "publishedOn": "2023-07-14T05:48:11.000Z",
-          "wordCount": null,
-          "title": "分享 | Linux 桌面的十个最佳光标主题 https://linux.cn/article-15998-1.html 一个用于各种 Linux 桌面的最佳光标主题的混合列表。 https://t.co/QtGTPKRFN8",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1679488137846816768",
-          "author": "Linux中国",
-          "description": "🅷 华为有望克服美国禁令重返 5G 手机市场» 07.13 周四 #硬核观察# 1061 \nhttps://youtu.be/yPntaBdMeb0",
-          "link": "https://twitter.com/linux_cn/status/1679488137846816768",
-          "publishedOn": "2023-07-13T13:49:10.000Z",
-          "wordCount": null,
-          "title": "🅷 华为有望克服美国禁令重返 5G 手机市场» 07.13 周四 #硬核观察# 1061 https://youtu.be/yPntaBdMeb0",
           "imageUrl": null
         }
       ]
