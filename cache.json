@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82042",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/82042",
+          "publishedOn": "2023-08-15T09:26:22.000Z",
+          "wordCount": 816,
+          "title": "社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意",
+          "imageUrl": "https://cdn.sspai.com/8/15/2023/article/2591eaec-3dad-102f-792e-fd778bdda4e4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82017",
+          "author": "张奕源Nick",
+          "description": "「iPad 笔记课代表」活动的获奖作品在厦门 Apple Store 与观众见面，几位参与了本次作品征集的笔记创作者也来到活动现场，分享了他们的笔记创作过程和心得。查看全文",
+          "link": "https://sspai.com/post/82017",
+          "publishedOn": "2023-08-15T08:30:00.000Z",
+          "wordCount": 728,
+          "title": "遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾",
+          "imageUrl": "https://cdn.sspai.com/14/08/2023/article/42b11100-01c8-a989-b207-98d227401dac.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82018",
+          "author": "少数派播客",
+          "description": "在本期节目中，笪屹超人分享了他作为一名科技博主的成长历程以及日常使用的效率工具。节目中，他还给想要涉入科技行业的自媒体新人们一些诚恳的建议。查看全文",
+          "link": "https://sspai.com/post/82018",
+          "publishedOn": "2023-08-15T07:30:00.000Z",
+          "wordCount": 661,
+          "title": "播客 | 对话笪屹超人：如何成为不一样的科技博主",
+          "imageUrl": "https://cdn.sspai.com/14/08/2023/article/f4133f79-36e4-ead2-9683-f5dfffde9ed6.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81294",
+          "author": "小梨笔记",
+          "description": "甲之砒霜乙之蜜糖，最重要的是发现自己的需求，然后根据自己的需求去找合适的工具，而不是被工具绑架，强迫自己去适应某一个工具。查看全文",
+          "link": "https://sspai.com/post/81294",
+          "publishedOn": "2023-08-15T03:31:10.000Z",
+          "wordCount": 733,
+          "title": "关于番茄工作法的思考，和替代解决方案",
+          "imageUrl": "https://cdn.sspai.com/2023/07/19/86b3726b7a9215526a6a4b9ac2c2a45a.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/82034",
+          "author": "少数派编辑部",
+          "description": "抖音新成立文娱部门，Netflix 游戏将登陆更多平台查看全文",
+          "link": "https://sspai.com/post/82034",
+          "publishedOn": "2023-08-15T01:08:24.000Z",
+          "wordCount": 800,
+          "title": "派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等",
+          "imageUrl": "https://cdn.sspai.com/2023/8/15/article/a174b6c6-2b78-3e9a-774a-5bf45abdba41.png"
+        },
+        {
           "id": "https://sspai.com/post/82015",
           "author": "少数派编辑部",
           "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
@@ -1094,66 +1144,6 @@
           "wordCount": 752,
           "title": "派早报：微软推出 Xbox Game Pass Core，微信好友上限证实约 1 万个等",
           "imageUrl": "https://cdn.sspai.com/2023/7/18/article/563f4cd2-305b-1eaa-fff5-aba958b99d66.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zhuanglesha-230717",
-          "author": "少数派编辑部",
-          "description": "用拍摄实践来习得创造画面的能力，用审美实践来提高对艺术的想象力。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zhuanglesha-230717",
-          "publishedOn": "2023-07-17T11:07:31.000Z",
-          "wordCount": 899,
-          "title": "品牌创意人、摄影师陈川端都装了啥？",
-          "imageUrl": "https://cdn.sspai.com/2023/7/17/article/19e8c29d-1034-2aab-921b-20a0eed96077.png"
-        },
-        {
-          "id": "https://sspai.com/post/81231",
-          "author": "少数派编辑部",
-          "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
-          "link": "https://sspai.com/post/81231",
-          "publishedOn": "2023-07-17T10:01:05.000Z",
-          "wordCount": 862,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/ciqgvolb34t9o1ls5u70"
-        },
-        {
-          "id": "https://sspai.com/post/80954",
-          "author": "feverlife",
-          "description": "这篇文章我们聊聊夏日游泳时应该了解的隐性知识点，避免一腔热情大变一肚光火，莫负夏日泳池好时光。查看全文",
-          "link": "https://sspai.com/post/80954",
-          "publishedOn": "2023-07-17T08:34:14.000Z",
-          "wordCount": 686,
-          "title": "了解这些注意点，安心从容享受夏日泳池",
-          "imageUrl": "https://cdn.sspai.com/2023/07/08/e764c56e3b2eac1968e4f6d7a757f280.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/81072",
-          "author": "少数派播客",
-          "description": "希望可以给想要了解播客行业或者学习播客制作的朋友们一些有价值的参考。查看全文",
-          "link": "https://sspai.com/post/81072",
-          "publishedOn": "2023-07-17T08:00:00.000Z",
-          "wordCount": 649,
-          "title": "一次长谈，聊聊关于播客的一切",
-          "imageUrl": "https://cdn.sspai.com/17/07/2023/article/2576d34e-28ec-eb89-6236-dd32a66b931f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/80926",
-          "author": "這李設計",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/80926",
-          "publishedOn": "2023-07-17T03:26:15.000Z",
-          "wordCount": 717,
-          "title": "尊重字体版权，我整理了一个免费商用字体库",
-          "imageUrl": "https://cdn.sspai.com/2023/07/07/932b43f8b0cbd8e460f6b89e1b473adb.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81205",
-          "author": "少数派编辑部",
-          "description": "IEEE 通过 802.11bb 标准，网信办等七部门联合公布《生成式人工智能服务管理暂行办法》等查看全文",
-          "link": "https://sspai.com/post/81205",
-          "publishedOn": "2023-07-17T00:45:50.000Z",
-          "wordCount": 924,
-          "title": "派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成",
-          "imageUrl": "https://cdn.sspai.com/7/16/2023/article/377f69e2-c7a6-71f0-5b89-38884e0b3967.png"
         }
       ]
     },

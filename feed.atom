@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T00:33:39.233Z</updated>
+    <updated>2023-08-16T00:33:38.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意]]></title>
+        <id>https://sspai.com/post/82042</id>
+        <link href="https://sspai.com/post/82042"/>
+        <updated>2023-08-15T09:26:22.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾]]></title>
+        <id>https://sspai.com/post/82017</id>
+        <link href="https://sspai.com/post/82017"/>
+        <updated>2023-08-15T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「iPad 笔记课代表」活动的获奖作品在厦门 Apple Store 与观众见面，几位参与了本次作品征集的笔记创作者也来到活动现场，分享了他们的笔记创作过程和心得。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[播客 | 对话笪屹超人：如何成为不一样的科技博主]]></title>
+        <id>https://sspai.com/post/82018</id>
+        <link href="https://sspai.com/post/82018"/>
+        <updated>2023-08-15T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在本期节目中，笪屹超人分享了他作为一名科技博主的成长历程以及日常使用的效率工具。节目中，他还给想要涉入科技行业的自媒体新人们一些诚恳的建议。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于番茄工作法的思考，和替代解决方案]]></title>
+        <id>https://sspai.com/post/81294</id>
+        <link href="https://sspai.com/post/81294"/>
+        <updated>2023-08-15T03:31:10.000Z</updated>
+        <summary type="html"><![CDATA[甲之砒霜乙之蜜糖，最重要的是发现自己的需求，然后根据自己的需求去找合适的工具，而不是被工具绑架，强迫自己去适应某一个工具。查看全文]]></summary>
+        <author>
+            <name>小梨笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等]]></title>
+        <id>https://sspai.com/post/82034</id>
+        <link href="https://sspai.com/post/82034"/>
+        <updated>2023-08-15T01:08:24.000Z</updated>
+        <summary type="html"><![CDATA[抖音新成立文娱部门，Netflix 游戏将登陆更多平台查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[难怪我腰酸背痛 原来姿势不对🙊]]></title>
         <id>https://twitter.com/abskoop/status/1691123028699361281</id>
@@ -6279,17 +6329,6 @@ https://youtu.be/AjFPKhO7tJU]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[品牌创意人、摄影师陈川端都装了啥？]]></title>
-        <id>https://sspai.com/prime/story/zhuanglesha-230717</id>
-        <link href="https://sspai.com/prime/story/zhuanglesha-230717"/>
-        <updated>2023-07-17T11:07:31.000Z</updated>
-        <summary type="html"><![CDATA[用拍摄实践来习得创造画面的能力，用审美实践来提高对艺术的想象力。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[日本老师某番号系列原档大集合 5.4T🤤🤤 👉https://www.ahhhhfs.com/44652/ https://t.co/6L9Yl3i3pf]]></title>
         <id>https://twitter.com/abskoop/status/1680896934079332353</id>
         <link href="https://twitter.com/abskoop/status/1680896934079332353"/>
@@ -6298,16 +6337,6 @@ https://youtu.be/AjFPKhO7tJU]]></summary>
 👉https://www.ahhhhfs.com/44652/ https://t.co/6L9Yl3i3pf]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/81231</id>
-        <link href="https://sspai.com/post/81231"/>
-        <updated>2023-07-17T10:01:05.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -6324,26 +6353,6 @@ https://linux.cn/article-16008-1.html
 » https://t.co/yoMNPdYXAq]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解这些注意点，安心从容享受夏日泳池]]></title>
-        <id>https://sspai.com/post/80954</id>
-        <link href="https://sspai.com/post/80954"/>
-        <updated>2023-07-17T08:34:14.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章我们聊聊夏日游泳时应该了解的隐性知识点，避免一腔热情大变一肚光火，莫负夏日泳池好时光。查看全文]]></summary>
-        <author>
-            <name>feverlife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次长谈，聊聊关于播客的一切]]></title>
-        <id>https://sspai.com/post/81072</id>
-        <link href="https://sspai.com/post/81072"/>
-        <updated>2023-07-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[希望可以给想要了解播客行业或者学习播客制作的朋友们一些有价值的参考。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
         </author>
     </entry>
     <entry>
@@ -6382,16 +6391,6 @@ https://linux.cn/article-16007-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[尊重字体版权，我整理了一个免费商用字体库]]></title>
-        <id>https://sspai.com/post/80926</id>
-        <link href="https://sspai.com/post/80926"/>
-        <updated>2023-07-17T03:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>這李設計</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[软件开发 | Bash 基础知识系列 #4：算术运算 https://linux.cn/article-16006-1.html 在本系列的第四章，学习在 Bash 中使用基本数学运算。 https://t.co/97ggt1...]]></title>
         <id>https://twitter.com/linux_cn/status/1680776229010415616</id>
         <link href="https://twitter.com/linux_cn/status/1680776229010415616"/>
@@ -6401,16 +6400,6 @@ https://linux.cn/article-16006-1.html
 在本系列的第四章，学习在 Bash 中使用基本数学运算。 https://t.co/97ggt1v1Dp]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Office 更换默认字体，微软收购动视暴雪可能接近完成]]></title>
-        <id>https://sspai.com/post/81205</id>
-        <link href="https://sspai.com/post/81205"/>
-        <updated>2023-07-17T00:45:50.000Z</updated>
-        <summary type="html"><![CDATA[IEEE 通过 802.11bb 标准，网信办等七部门联合公布《生成式人工智能服务管理暂行办法》等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
