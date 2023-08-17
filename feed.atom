@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-16T00:33:38.243Z</updated>
+    <updated>2023-08-17T00:33:02.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[极简三步，我的个人知识管理工作流]]></title>
+        <id>https://sspai.com/post/81926</id>
+        <link href="https://sspai.com/post/81926"/>
+        <updated>2023-08-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[以成熟方案为参考，结合自己的实际需求，我迭代了目前来说合适自己的知识管理工作流。查看全文]]></summary>
+        <author>
+            <name>小梨笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响]]></title>
+        <id>https://sspai.com/post/81940</id>
+        <link href="https://sspai.com/post/81940"/>
+        <updated>2023-08-16T07:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>SIMON_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便]]></title>
+        <id>https://sspai.com/post/81413</id>
+        <link href="https://sspai.com/post/81413"/>
+        <updated>2023-08-16T03:30:18.000Z</updated>
+        <summary type="html"><![CDATA[我做了一个 app，帮你方便地加上相机水印。查看全文]]></summary>
+        <author>
+            <name>散步黑色公鸡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等]]></title>
+        <id>https://sspai.com/post/82066</id>
+        <link href="https://sspai.com/post/82066"/>
+        <updated>2023-08-16T00:32:23.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome 将推出网页摘要功能，亚马逊推出基于生成式 AI 的商品评价摘要等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意]]></title>
         <id>https://sspai.com/post/82042</id>
@@ -6040,16 +6080,6 @@ Re @nintendo0505 你可以搜搜 有发过一些pikpak资源哈
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 004：毕业去哪玩、工具分享和作者的新玩意]]></title>
-        <id>https://sspai.com/post/81263</id>
-        <link href="https://sspai.com/post/81263"/>
-        <updated>2023-07-18T09:22:01.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一些各行各业合作协议合同模板 包含合同模板、合作协议和创业起步协议等 👉https://www.ahhhhfs.com/44713/ https://t.co/EaUq1qFgHv]]></title>
         <id>https://twitter.com/abskoop/status/1681231840319815682</id>
         <link href="https://twitter.com/abskoop/status/1681231840319815682"/>
@@ -6088,18 +6118,6 @@ https://linux.cn/article-16011-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[万字解析 | 深度剖析 GPT 的原理、现状与前景]]></title>
-        <id>https://sspai.com/post/81036</id>
-        <link href="https://sspai.com/post/81036"/>
-        <updated>2023-07-18T08:01:13.000Z</updated>
-        <summary type="html"><![CDATA[[......]
-查看全文
-本文为付费栏目文章，出自《生产力超频：成为 ChatGPT 全域调教高手》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Fairyex</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[观点 | 20 个恐怖传说：在技术上犯过的最糟糕错误 https://linux.cn/article-16010-1.html 一些系统管理员、网页设计师、工程师和程序员分享了他们在命令行上经...]]></title>
         <id>https://twitter.com/linux_cn/status/1681197804398551040</id>
         <link href="https://twitter.com/linux_cn/status/1681197804398551040"/>
@@ -6112,26 +6130,6 @@ https://linux.cn/article-16010-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新设计、新功能，老牌浏览器大更新：Opera One]]></title>
-        <id>https://sspai.com/post/80970</id>
-        <link href="https://sspai.com/post/80970"/>
-        <updated>2023-07-18T06:54:55.000Z</updated>
-        <summary type="html"><![CDATA[随着 Opera 正式推出了其第 100 个版本，Opera 将其这个历史悠久的桌面端网页浏览器品牌重新命名为 Opera One。全新的命名 + 全新的升级，Opera One 用起来怎么样，不妨一起来看看。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三年级四年级五年级六年级，反正不讲做题]]></title>
-        <id>https://sspai.com/post/81086</id>
-        <link href="https://sspai.com/post/81086"/>
-        <updated>2023-07-18T03:31:24.000Z</updated>
-        <summary type="html"><![CDATA[真正的学习不仅仅是记忆知识，更重要的是理解和掌握思考的方法。虽然需要投入大量的时间和精力，但这种投资是非常值得的。查看全文]]></summary>
-        <author>
-            <name>朱近野</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[软件开发 | 如何在 C 语言中安全地读取用户输入 https://linux.cn/article-16009-1.html getline() 提供了一种更灵活的方法，可以在不破坏系统的情况下将用户数...]]></title>
         <id>https://twitter.com/linux_cn/status/1681133611540422658</id>
         <link href="https://twitter.com/linux_cn/status/1681133611540422658"/>
@@ -6141,16 +6139,6 @@ https://linux.cn/article-16009-1.html
 getline() 提供了一种更灵活的方法，可以在不破坏系统的情况下将用户数据读入程序。 https://t.co/JW84MgkLwK]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：微软推出 Xbox Game Pass Core，微信好友上限证实约 1 万个等]]></title>
-        <id>https://sspai.com/post/81243</id>
-        <link href="https://sspai.com/post/81243"/>
-        <updated>2023-07-18T01:01:19.000Z</updated>
-        <summary type="html"><![CDATA[微软将受欧盟反垄断调查，邮件错别字导致美军数百万邮件泄漏等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
