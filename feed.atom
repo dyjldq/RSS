@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-19T00:31:58.575Z</updated>
+    <updated>2023-08-20T00:35:43.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[冰岛记忆：梦乡和梦魇咫尺之间]]></title>
+        <id>https://sspai.com/prime/story/iceland-tour-guide-1</id>
+        <link href="https://sspai.com/prime/story/iceland-tour-guide-1"/>
+        <updated>2023-08-19T13:09:23.000Z</updated>
+        <summary type="html"><![CDATA[[......]
+查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>许万里Alva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人]]></title>
+        <id>https://sspai.com/post/82163</id>
+        <link href="https://sspai.com/post/82163"/>
+        <updated>2023-08-19T03:43:02.000Z</updated>
+        <summary type="html"><![CDATA[这是个美好的时代，科技的发展不是为了取代你我，而是为了让我们变得更好。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大壶作品]]></title>
         <id>https://sspai.com/post/82149</id>
@@ -5427,27 +5449,6 @@ https://linux.cn/article-16021-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cocoa 文本组合键：macOS 中隐藏的 Emacs 情怀]]></title>
-        <id>https://sspai.com/prime/story/cocoa-text-keybindings</id>
-        <link href="https://sspai.com/prime/story/cocoa-text-keybindings"/>
-        <updated>2023-07-21T10:02:01.000Z</updated>
-        <summary type="html"><![CDATA[在 macOS 中，隐藏着一整套来源于经典编辑器 Emacs 的文本编辑组合键，熟练掌握可以省去很多移动手腕功夫，减少疲劳并提高编辑效率。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大铲作品]]></title>
-        <id>https://sspai.com/post/81361</id>
-        <link href="https://sspai.com/post/81361"/>
-        <updated>2023-07-21T09:45:39.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]芭比、[国产]不完美受害人、[日剧]活着VIVANT、[日剧]一兆游戏、[日剧]晚酌的流派2、[美剧]环环相扣、[动画]堀与宫村-piece-、[动画]白圣女与黑牧 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[免费IPA软件资源分享：iOSIPA软件网 👉https://www.ahhhhfs.com/44835/ https://t.co/3cztJrLvoH]]></title>
         <id>https://twitter.com/abskoop/status/1682319627617984513</id>
         <link href="https://twitter.com/abskoop/status/1682319627617984513"/>
@@ -5490,16 +5491,6 @@ https://linux.cn/article-16021-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[寻找一种真实：音乐模拟介质小史]]></title>
-        <id>https://sspai.com/post/81162</id>
-        <link href="https://sspai.com/post/81162"/>
-        <updated>2023-07-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在如今日新月异的环境中，模拟介质带来的「真实」的声音可以让人平缓下来，好好感受身边真实的世界。查看全文]]></summary>
-        <author>
-            <name>Ethan29</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在线免费双语读物网站：bilinguis 网站整理一些基本经典的书籍 提供中文、英文、世界语、 法语、日语等双语 用来做外语入门非常不错 阅读双语工具书和推断词汇和...]]></title>
         <id>https://twitter.com/abskoop/status/1682279991113920512</id>
         <link href="https://twitter.com/abskoop/status/1682279991113920512"/>
@@ -5537,26 +5528,6 @@ https://linux.cn/article-16019-1.html
 Geary 44 听起来是一个有趣的版本，有一些有用的变化。 https://t.co/url0OZu9h0]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用 AI 帮你做 PPT？]]></title>
-        <id>https://sspai.com/post/81124</id>
-        <link href="https://sspai.com/post/81124"/>
-        <updated>2023-07-21T03:29:52.000Z</updated>
-        <summary type="html"><![CDATA[本文为你展示了如何让 AI 作为助手，围绕某个主题 GPT-4 生成内容并转换大纲模式，用 Gamma 自动寻找配图后输出成漂亮的 PPT。查看全文]]></summary>
-        <author>
-            <name>玉树芝兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Unity 发布 PolySpatial 测试版、暴雪旗下游戏将登陆 Steam 等]]></title>
-        <id>https://sspai.com/post/81340</id>
-        <link href="https://sspai.com/post/81340"/>
-        <updated>2023-07-21T00:22:18.000Z</updated>
-        <summary type="html"><![CDATA[蔚来发布 20kW V2G 充电桩、微信团队提醒用户警惕公众号欺诈行为、壹号本 OneXPlayer 将推出飞行家 F1 掌机等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
