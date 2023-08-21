@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-20T00:35:43.567Z</updated>
+    <updated>2023-08-21T00:34:13.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去往「夜之城」的更深处：《赛博朋克 2077》衍生作品介绍]]></title>
+        <id>https://sspai.com/post/82216</id>
+        <link href="https://sspai.com/post/82216"/>
+        <updated>2023-08-20T07:00:05.000Z</updated>
+        <summary type="html"><![CDATA[在这个特殊的日子里，你可以在这些衍生作品里感受更立体、更深层次的赛博朋克之美。查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被浏览器厂商公开反对，想让你少看验证码的 WEI API 哪里出了问题？]]></title>
+        <id>https://sspai.com/post/81970</id>
+        <link href="https://sspai.com/post/81970"/>
+        <updated>2023-08-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WEI API 究竟是什么？它为什么能激起如此激烈的反对？查看全文]]></summary>
+        <author>
+            <name>Shiau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[冰岛记忆：梦乡和梦魇咫尺之间]]></title>
         <id>https://sspai.com/prime/story/iceland-tour-guide-1</id>
@@ -5284,16 +5304,6 @@ https://www.ahhhhfs.com/44911/ https://twitter.com/i/web/status/1682682272372203
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[和《纸鹤》一起，成为 XR 世界的原住民]]></title>
-        <id>https://sspai.com/post/81244</id>
-        <link href="https://sspai.com/post/81244"/>
-        <updated>2023-07-22T08:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>善宝橘</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[技术 | 如何在 Linux 主机和 KVM 中的 Windows 客户机之间共享文件夹 https://linux.cn/article-16023-1.html 在本指南中，你将了解如何在 Linux 主机（例如使用...]]></title>
         <id>https://twitter.com/linux_cn/status/1682663634625781761</id>
         <link href="https://twitter.com/linux_cn/status/1682663634625781761"/>
@@ -5326,16 +5336,6 @@ https://linux.cn/article-16022-1.html
 什么是 KDE Connect？它的主要特性是什么？它应该如何安装？本文提供了基本的使用指南。 https://t.co/U7gdr7CJWz]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客 | 等一朵花开：独立女性创业故事]]></title>
-        <id>https://sspai.com/post/81318</id>
-        <link href="https://sspai.com/post/81318"/>
-        <updated>2023-07-22T03:13:34.000Z</updated>
-        <summary type="html"><![CDATA[听桃子姐谈谈自己的传奇经历以及对于创业的体悟和思考。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
         </author>
     </entry>
     <entry>
