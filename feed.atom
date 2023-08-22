@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-21T00:34:13.019Z</updated>
+    <updated>2023-08-22T00:34:04.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Context 众筹 ｜ 搭建你的个人英语「语境库」]]></title>
+        <id>https://sspai.com/post/82252</id>
+        <link href="https://sspai.com/post/82252"/>
+        <updated>2023-08-21T10:01:12.000Z</updated>
+        <summary type="html"><![CDATA[我们做了一个 App，帮助你通过收集语境加快学习单词的效率查看全文]]></summary>
+        <author>
+            <name>kai_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/82255</id>
+        <link href="https://sspai.com/post/82255"/>
+        <updated>2023-08-21T09:45:50.000Z</updated>
+        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国产热门 3A 大作举行线下试玩：《黑神话：悟空》玩起来怎么样？]]></title>
+        <id>https://sspai.com/post/82244</id>
+        <link href="https://sspai.com/post/82244"/>
+        <updated>2023-08-21T07:20:39.000Z</updated>
+        <summary type="html"><![CDATA[《黑神话：悟空》是一款以西游题材为背景的单机动作角色扮演游戏，开发团队「游戏科学」来自中国杭州，本作将于 2024 年夏季正式发售。《黑神话：悟空》于 2020 年 8 月 20 日公布了首支实机演示视频，并于 3 年后即 2023 年 8 月 20 日在杭州举行了首次千人线下试玩活动。本文作者 IGN 中国作为国内知名游戏媒体，在试玩会前一个月受邀参与了本作的内部闭门测试活动，本文即为相关游玩体验。查看全文]]></summary>
+        <author>
+            <name>IGN中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物]]></title>
+        <id>https://sspai.com/post/82234</id>
+        <link href="https://sspai.com/post/82234"/>
+        <updated>2023-08-21T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[每到七夕这样的节日，我们总能在网上看到许多「送XX礼物」这样的话题和讨论。在向心爱之人表达爱意这件事上，大家似乎从来不吝自己的创意与想法。在送礼的时候，有些人或许喜欢黄金、红包这样「务实」的选择，而有 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本浮生录 02：漫步北九州，感受自然和人文之美]]></title>
+        <id>https://sspai.com/post/82037</id>
+        <link href="https://sspai.com/post/82037"/>
+        <updated>2023-08-21T03:37:32.000Z</updated>
+        <summary type="html"><![CDATA[九州有着丰富的自然景观，包括火山、温泉、山脉以及绝美的海岸线，还有众多当地小吃和美食，如果你已经已经去过日本其他地方或是想要体验与众不同的日本文化，它应该是不错的选择。查看全文]]></summary>
+        <author>
+            <name>SIMON_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：《黑神话：悟空》举办线下试玩，稚晖君团队首款机器人亮相]]></title>
+        <id>https://sspai.com/post/82240</id>
+        <link href="https://sspai.com/post/82240"/>
+        <updated>2023-08-21T00:54:54.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事《黑神话：悟空》举办线下试玩，上架Steam8月20日上午十点，《黑神话：悟空》在杭州举行首次线下试玩会，并通过B站直播。英伟达同步发布了基于线下试玩同一版本录制的实机视频，内容为4 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去往「夜之城」的更深处：《赛博朋克 2077》衍生作品介绍]]></title>
         <id>https://sspai.com/post/82216</id>
@@ -5124,16 +5184,6 @@ ahhhhfs: @Aileu901 发过好一些了🙊应该还可以的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本月玩什么 | Viewfinder、OXENFREE II、薇妮巴一家、小小贴纸铺、三伏]]></title>
-        <id>https://sspai.com/post/81410</id>
-        <link href="https://sspai.com/post/81410"/>
-        <updated>2023-07-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7 月值得关注的新游汇总。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[居家在线食谱 做菜小工具：Cook 直接挑选食材和厨具 即可搭配出相关的菜谱和详细的视频教程 菜式非常丰富多样🤤🤤 👉https://www.ahhhhfs.com/18861/ http...]]></title>
         <id>https://twitter.com/abskoop/status/1683028381087014912</id>
         <link href="https://twitter.com/abskoop/status/1683028381087014912"/>
@@ -5145,16 +5195,6 @@ ahhhhfs: @Aileu901 发过好一些了🙊应该还可以的
 👉https://www.ahhhhfs.com/18861/ https://t.co/3qbbOK4s2i]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心灵之旅：三年跑步 2000 公里，这是我的感悟与思考]]></title>
-        <id>https://sspai.com/post/81288</id>
-        <link href="https://sspai.com/post/81288"/>
-        <updated>2023-07-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我认为，跑步本质上是对更好的自己的不断追求和超越。查看全文]]></summary>
-        <author>
-            <name>杰克苏的假象世界</name>
         </author>
     </entry>
     <entry>
