@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-22T00:34:04.952Z</updated>
+    <updated>2023-08-23T00:34:05.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 009 | 超实用汽车配件、防摸鱼工具以及作者的新玩意]]></title>
+        <id>https://sspai.com/post/82278</id>
+        <link href="https://sspai.com/post/82278"/>
+        <updated>2023-08-22T09:27:07.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[播客 | 对话蒋方舟：写作，一种生活方式]]></title>
+        <id>https://sspai.com/post/82276</id>
+        <link href="https://sspai.com/post/82276"/>
+        <updated>2023-08-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在本期节目里，蒋方舟坦诚地谈到了她的作家身份、她的创作、她对文学的看法，以及她的「断网少女」生活。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产力祛魅：理清适合自己的工作流，社科工作者是这么做的]]></title>
+        <id>https://sspai.com/post/82092</id>
+        <link href="https://sspai.com/post/82092"/>
+        <updated>2023-08-22T03:41:22.000Z</updated>
+        <summary type="html"><![CDATA[「生产力祛魅」系列主要记录并分析我个人的生产力工作流，它不是一个能够简单复制的工作流，而是希望为朋友们提供借鉴与经验，吸收精华，将不符合自身的内容摒弃，从而塑造出符合自身的生产力工作流。查看全文]]></summary>
+        <author>
+            <name>Soar_Freely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等]]></title>
+        <id>https://sspai.com/post/82272</id>
+        <link href="https://sspai.com/post/82272"/>
+        <updated>2023-08-22T00:53:40.000Z</updated>
+        <summary type="html"><![CDATA[X 称 2014 年之前推文配图丢失是 bug 所致，自动驾驶出租车公司 Cruise 被要求减半车队规模等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Context 众筹 ｜ 搭建你的个人英语「语境库」]]></title>
         <id>https://sspai.com/post/82252</id>
@@ -5017,16 +5057,6 @@ ahhhhfs: @Aileu901 发过好一些了🙊应该还可以的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/81442</id>
-        <link href="https://sspai.com/post/81442"/>
-        <updated>2023-07-24T10:12:21.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[现在的医院都是这样的了吗🤤]]></title>
         <id>https://twitter.com/abskoop/status/1683419133256269825</id>
         <link href="https://twitter.com/abskoop/status/1683419133256269825"/>
@@ -5051,16 +5081,6 @@ ahhhhfs: @Aileu901 发过好一些了🙊应该还可以的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[突然，我想用这张桌子听歌了]]></title>
-        <id>https://sspai.com/post/81419</id>
-        <link href="https://sspai.com/post/81419"/>
-        <updated>2023-07-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[虽然音乐的载体和使用的形式变了，但想听歌和想拥有的想法没有变。作为一个非常老派的人，我还是觉得本地专辑、本地播放还是有必要的——最近放上桌面的，就是由飞傲 R7 和 SP3 组成的「一套西装」。查看全文]]></summary>
-        <author>
-            <name>swerveeeed</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某X站 国内免翻优化版：XV站🙊 👉 http://ahhhhfs.com/39947/]]></title>
         <id>https://twitter.com/abskoop/status/1683384017482133505</id>
         <link href="https://twitter.com/abskoop/status/1683384017482133505"/>
@@ -5069,36 +5089,6 @@ ahhhhfs: @Aileu901 发过好一些了🙊应该还可以的
 👉 http://ahhhhfs.com/39947/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高难度开局的求职之路如何步步拆解：我的回顾与复盘]]></title>
-        <id>https://sspai.com/post/81429</id>
-        <link href="https://sspai.com/post/81429"/>
-        <updated>2023-07-24T06:29:53.000Z</updated>
-        <summary type="html"><![CDATA[本文聊聊我是如何找到这份喜欢并适合自己的工作，以及为了达成这个目标做了怎样的尝试，希望这段求职历程对你有所帮助。查看全文]]></summary>
-        <author>
-            <name>一柳繁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看似完美的电纸书是不存在的：聊聊我的 Kindle 与 Kobo 使用心得]]></title>
-        <id>https://sspai.com/post/81210</id>
-        <link href="https://sspai.com/post/81210"/>
-        <updated>2023-07-24T03:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>上课不倒下的小杰瑞</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：微信支付宝开放绑定境外卡；上海暂停新办网约车运输证]]></title>
-        <id>https://sspai.com/post/81422</id>
-        <link href="https://sspai.com/post/81422"/>
-        <updated>2023-07-24T00:57:12.000Z</updated>
-        <summary type="html"><![CDATA[蔚来发布 20kW V2G 充电桩、微信团队提醒用户警惕公众号欺诈行为、壹号本 OneXPlayer 将推出飞行家 F1 掌机等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
