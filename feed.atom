@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-23T00:34:05.493Z</updated>
+    <updated>2023-08-24T00:33:45.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总]]></title>
+        <id>https://sspai.com/post/82360</id>
+        <link href="https://sspai.com/post/82360"/>
+        <updated>2023-08-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今天凌晨，一般被称呼为「科隆游戏展」或「科隆展」的 Gamescom 正式拉开帷幕，作为开幕式的重头戏，近 30 款新作齐聚 Opening Night Live——本文带你一一梳理。查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vivo X90s 体验：一次胶片与质感色彩的预演]]></title>
+        <id>https://sspai.com/post/82336</id>
+        <link href="https://sspai.com/post/82336"/>
+        <updated>2023-08-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[聊聊 vivo X90s 和 vivo 的质感色彩模式。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[屏幕使用时间超标？也许本文可以帮你]]></title>
+        <id>https://sspai.com/post/82138</id>
+        <link href="https://sspai.com/post/82138"/>
+        <updated>2023-08-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>他山之石4961</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Beats Studio Buds + 推出新配色、英伟达发布 DLSS 3.5 等]]></title>
+        <id>https://sspai.com/post/82324</id>
+        <link href="https://sspai.com/post/82324"/>
+        <updated>2023-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anker 发布 Soundcore Space One 耳机，微软将动视暴雪云游戏版权转售给育碧等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 009 | 超实用汽车配件、防摸鱼工具以及作者的新玩意]]></title>
         <id>https://sspai.com/post/82278</id>
@@ -4896,16 +4936,6 @@ Make bluebird great again
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 005 | 大家爱听的播客、作者的新玩意以及工具分享]]></title>
-        <id>https://sspai.com/post/81445</id>
-        <link href="https://sspai.com/post/81445"/>
-        <updated>2023-07-25T09:19:38.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WallpapersCraft：在线4K壁纸素材下载 提供各种类型和各种分辨率的高清壁纸素材 👉https://www.ahhhhfs.com/44945/]]></title>
         <id>https://twitter.com/abskoop/status/1683764688792739845</id>
         <link href="https://twitter.com/abskoop/status/1683764688792739845"/>
@@ -4915,16 +4945,6 @@ Make bluebird great again
 👉https://www.ahhhhfs.com/44945/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要]]></title>
-        <id>https://sspai.com/post/81257</id>
-        <link href="https://sspai.com/post/81257"/>
-        <updated>2023-07-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>胖鱼要进步</name>
         </author>
     </entry>
     <entry>
@@ -4949,26 +4969,6 @@ Make bluebird great again
         <summary type="html"><![CDATA[是我了 生活水平明显下降了🥲]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用状态监控通知脚本，订阅状态通知]]></title>
-        <id>https://sspai.com/post/81269</id>
-        <link href="https://sspai.com/post/81269"/>
-        <updated>2023-07-25T03:31:40.000Z</updated>
-        <summary type="html"><![CDATA[在软件公司开始实习三周有余，公司内部使用「禅道」进行项目管理。每天需要时不时上去看看组长有没有派发新任务，所以经常需要手动刷新网页查看。如下图所示，橙色矩形框框选的区域就是工作总计。但是作为一个自动化玩家，每天手动刷新几十次网页去查看工作任务，这对我来说是不可接受的。所以就开始考虑是否可以使用自动化脚本，实现定时通知任务状态的功能。查看全文]]></summary>
-        <author>
-            <name>JamesHopbourn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Twitter 更改 logo，任天堂将严惩不当使用账号行为等]]></title>
-        <id>https://sspai.com/post/81453</id>
-        <link href="https://sspai.com/post/81453"/>
-        <updated>2023-07-25T00:49:58.000Z</updated>
-        <summary type="html"><![CDATA[索尼发布 WF-1000XM5 降噪耳机，微软将强制完成 Outlook PWA 推广等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
