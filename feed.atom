@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T00:33:45.506Z</updated>
+    <updated>2023-08-25T00:34:23.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian]]></title>
+        <id>https://sspai.com/post/82279</id>
+        <link href="https://sspai.com/post/82279"/>
+        <updated>2023-08-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不管是 Obisidian、Zotero 还是 Keyboard Maestro ，都有非常高的自由度，各自都能实现丰富的功能。查看全文]]></summary>
+        <author>
+            <name>李市镇青石厂厂长</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用词句堆出来的用户体验：谈 app 文案的细节斟酌]]></title>
+        <id>https://sspai.com/post/82145</id>
+        <link href="https://sspai.com/post/82145"/>
+        <updated>2023-08-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一句话使人跳，一句话使人笑。好的内容设计应当是包容的，与人人都有关，那更加包容的 UX 文案究竟该如何设计？查看全文]]></summary>
+        <author>
+            <name>沉默的冬青</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普通人选车如何避坑？这是我的选配心得]]></title>
+        <id>https://sspai.com/post/82249</id>
+        <link href="https://sspai.com/post/82249"/>
+        <updated>2023-08-24T03:19:23.000Z</updated>
+        <summary type="html"><![CDATA[我从事的是汽车公关行业，工作关系开过不少车，也看过太多车广和车黑文章，所以想从个人体验的角度，分享一下普通人选车的心得。查看全文]]></summary>
+        <author>
+            <name>Joevia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等]]></title>
+        <id>https://sspai.com/post/82370</id>
+        <link href="https://sspai.com/post/82370"/>
+        <updated>2023-08-24T00:34:51.000Z</updated>
+        <summary type="html"><![CDATA[联发科确认其下一代旗舰芯片组可在手机本地运行生成式 AI、TVB 与腾讯视频签署合作协议、索尼正式确认串流掌机名称等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总]]></title>
         <id>https://sspai.com/post/82360</id>
@@ -4750,27 +4790,6 @@ Make bluebird great again
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[来自编辑部的无损备份技巧]]></title>
-        <id>https://sspai.com/prime/story/zhuanglesha-230726</id>
-        <link href="https://sspai.com/prime/story/zhuanglesha-230726"/>
-        <updated>2023-07-26T12:02:22.000Z</updated>
-        <summary type="html"><![CDATA[作为数据事故的「高危人群」，编辑部成员们分别聊了聊自己的无损备份工具和技巧。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）]]></title>
-        <id>https://sspai.com/post/80066</id>
-        <link href="https://sspai.com/post/80066"/>
-        <updated>2023-07-26T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章中，我们已经详细讲解了历代iPhone的结构堆叠设计，而本文则会将结构堆叠发展历程的考据扩大到更多的智能手机品牌，并将其分为数个发展阶段，通过解析每个阶段中那些具有代表性的机型设计，梳理智 ...查看全文]]></summary>
-        <author>
-            <name>TExbnm</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[免费企业信息查询工具：钉钉企典 支持查公司企业整体情况、 查老板、找客户、查风险等等 无需注册登录即可使用 👉https://www.ahhhhfs.com/45075/]]></title>
         <id>https://twitter.com/abskoop/status/1684127449188012033</id>
         <link href="https://twitter.com/abskoop/status/1684127449188012033"/>
@@ -4795,36 +4814,6 @@ Make bluebird great again
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派开箱 | 特洛克红白机插座]]></title>
-        <id>https://sspai.com/post/81048</id>
-        <link href="https://sspai.com/post/81048"/>
-        <updated>2023-07-26T07:57:53.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握命题与表达的自由：我的非功利写作流程]]></title>
-        <id>https://sspai.com/post/81277</id>
-        <link href="https://sspai.com/post/81277"/>
-        <updated>2023-07-26T07:01:58.000Z</updated>
-        <summary type="html"><![CDATA[「写任何你感兴趣的，记录你的工作、阅读，展示你的工作文档，记录你学习的东西+在社交媒体上活跃，这样你会遇到朋友，接触到业务，最终你会真正成为互联网公民。」查看全文]]></summary>
-        <author>
-            <name>jona小仙籽儿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派思考 037：致新一年会员开启]]></title>
-        <id>https://sspai.com/post/81457</id>
-        <link href="https://sspai.com/post/81457"/>
-        <updated>2023-07-26T03:11:56.000Z</updated>
-        <summary type="html"><![CDATA[一转眼，少数派会员已经走入第三个年头了。为了迎接第三年，我们也结合前两年的经验和反馈，对会员服务的定位和权益做了很多优化调整。这背后的缘由和思考，值得在这里好好跟大家聊聊。第一年：验证概念，复古期刊刚 ...查看全文]]></summary>
-        <author>
-            <name>老麦</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitter被除名了🥲]]></title>
         <id>https://twitter.com/abskoop/status/1684038682234216450</id>
         <link href="https://twitter.com/abskoop/status/1684038682234216450"/>
@@ -4832,16 +4821,6 @@ Make bluebird great again
         <summary type="html"><![CDATA[Twitter被除名了🥲]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等]]></title>
-        <id>https://sspai.com/post/81474</id>
-        <link href="https://sspai.com/post/81474"/>
-        <updated>2023-07-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple 开放 Vision Pro 开发套件申请，Google Play 服务将不再支持 Android 4.4 等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

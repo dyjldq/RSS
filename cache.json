@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82279",
+          "author": "李市镇青石厂厂长",
+          "description": "不管是 Obisidian、Zotero 还是 Keyboard Maestro ，都有非常高的自由度，各自都能实现丰富的功能。查看全文",
+          "link": "https://sspai.com/post/82279",
+          "publishedOn": "2023-08-24T09:00:00.000Z",
+          "wordCount": 760,
+          "title": "一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian",
+          "imageUrl": "https://cdn.sspai.com/24/08/2023/article/732ea9ec-b158-83d5-f222-0413a6b5c897.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82145",
+          "author": "沉默的冬青",
+          "description": "一句话使人跳，一句话使人笑。好的内容设计应当是包容的，与人人都有关，那更加包容的 UX 文案究竟该如何设计？查看全文",
+          "link": "https://sspai.com/post/82145",
+          "publishedOn": "2023-08-24T07:00:00.000Z",
+          "wordCount": 783,
+          "title": "用词句堆出来的用户体验：谈 app 文案的细节斟酌",
+          "imageUrl": "https://cdn.sspai.com/2023/8/24/article/4530c1a9-5288-cbbf-c72c-06c16a725457.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82249",
+          "author": "Joevia",
+          "description": "我从事的是汽车公关行业，工作关系开过不少车，也看过太多车广和车黑文章，所以想从个人体验的角度，分享一下普通人选车的心得。查看全文",
+          "link": "https://sspai.com/post/82249",
+          "publishedOn": "2023-08-24T03:19:23.000Z",
+          "wordCount": 663,
+          "title": "普通人选车如何避坑？这是我的选配心得",
+          "imageUrl": "https://cdn.sspai.com/2023/08/21/ef5f6ffe936c40b7e8dddf999bbaedb0.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82370",
+          "author": "少数派编辑部",
+          "description": "联发科确认其下一代旗舰芯片组可在手机本地运行生成式 AI、TVB 与腾讯视频签署合作协议、索尼正式确认串流掌机名称等。查看全文",
+          "link": "https://sspai.com/post/82370",
+          "publishedOn": "2023-08-24T00:34:51.000Z",
+          "wordCount": 866,
+          "title": "派早报：骁龙推出 G 系列处理器、GPT-3.5 Turbo 支持微调等",
+          "imageUrl": "https://cdn.sspai.com/24/08/2023/article/de4b860b-6169-db07-14d5-c842f63123f2.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82360",
           "author": "板斧",
           "description": "今天凌晨，一般被称呼为「科隆游戏展」或「科隆展」的 Gamescom 正式拉开帷幕，作为开幕式的重头戏，近 30 款新作齐聚 Opening Night Live——本文带你一一梳理。查看全文",
@@ -1074,66 +1114,6 @@
           "wordCount": 766,
           "title": "派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等",
           "imageUrl": "https://cdn.sspai.com/27/07/2023/article/c7e74517-b11f-b906-6a10-cf8ea03fe2aa.jpg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zhuanglesha-230726",
-          "author": "少数派编辑部",
-          "description": "作为数据事故的「高危人群」，编辑部成员们分别聊了聊自己的无损备份工具和技巧。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zhuanglesha-230726",
-          "publishedOn": "2023-07-26T12:02:22.000Z",
-          "wordCount": 1179,
-          "title": "来自编辑部的无损备份技巧",
-          "imageUrl": "https://cdn.sspai.com/7/26/2023/article/80a8cb17-3f1c-6f9d-4373-e01ed4bd5df9.png"
-        },
-        {
-          "id": "https://sspai.com/post/80066",
-          "author": "TExbnm",
-          "description": "在上一篇文章中，我们已经详细讲解了历代iPhone的结构堆叠设计，而本文则会将结构堆叠发展历程的考据扩大到更多的智能手机品牌，并将其分为数个发展阶段，通过解析每个阶段中那些具有代表性的机型设计，梳理智 ...查看全文",
-          "link": "https://sspai.com/post/80066",
-          "publishedOn": "2023-07-26T09:30:00.000Z",
-          "wordCount": 928,
-          "title": "从 iPhone 4 说起，聊聊智能手机内部结构堆叠的历史（上）",
-          "imageUrl": "https://cdn.sspai.com/2023/05/30/d46d77e2e4fa6f81ccd996a20b96cd63.png"
-        },
-        {
-          "id": "https://sspai.com/post/81048",
-          "author": "少数派编辑部",
-          "description": "关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...查看全文",
-          "link": "https://sspai.com/post/81048",
-          "publishedOn": "2023-07-26T07:57:53.000Z",
-          "wordCount": 664,
-          "title": "派开箱 | 特洛克红白机插座",
-          "imageUrl": "https://cdn.sspai.com/2023/07/12/c94fce34140331421ac3061437ad05b2.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81277",
-          "author": "jona小仙籽儿",
-          "description": "「写任何你感兴趣的，记录你的工作、阅读，展示你的工作文档，记录你学习的东西+在社交媒体上活跃，这样你会遇到朋友，接触到业务，最终你会真正成为互联网公民。」查看全文",
-          "link": "https://sspai.com/post/81277",
-          "publishedOn": "2023-07-26T07:01:58.000Z",
-          "wordCount": 661,
-          "title": "掌握命题与表达的自由：我的非功利写作流程",
-          "imageUrl": "https://cdn.sspai.com/2023/07/19/8957c0a07e97fbec80d5d778f7f01170.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81457",
-          "author": "老麦",
-          "description": "一转眼，少数派会员已经走入第三个年头了。为了迎接第三年，我们也结合前两年的经验和反馈，对会员服务的定位和权益做了很多优化调整。这背后的缘由和思考，值得在这里好好跟大家聊聊。第一年：验证概念，复古期刊刚 ...查看全文",
-          "link": "https://sspai.com/post/81457",
-          "publishedOn": "2023-07-26T03:11:56.000Z",
-          "wordCount": 650,
-          "title": "少数派思考 037：致新一年会员开启",
-          "imageUrl": "https://cdn.sspai.com/2023/07/25/2c085255a18697d81a522764325d79ac.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81474",
-          "author": "少数派编辑部",
-          "description": "Apple 开放 Vision Pro 开发套件申请，Google Play 服务将不再支持 Android 4.4 等。查看全文",
-          "link": "https://sspai.com/post/81474",
-          "publishedOn": "2023-07-26T00:00:00.000Z",
-          "wordCount": 822,
-          "title": "派早报：Spotify 上调订阅费用、索尼推出 PS5 Access 无障碍控制器等",
-          "imageUrl": "https://cdn.sspai.com/2023/7/25/article/657f4786-5571-9201-674a-c656a497e7a8.png"
         }
       ]
     },
