@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T00:34:23.345Z</updated>
+    <updated>2023-08-26T00:32:45.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网页直接标注：工具比较与使用技巧]]></title>
+        <id>https://sspai.com/prime/story/web-annotators-compared</id>
+        <link href="https://sspai.com/prime/story/web-annotators-compared"/>
+        <updated>2023-08-25T13:31:09.000Z</updated>
+        <summary type="html"><![CDATA[与先抓取再标注的常见功能相比，「在原始网页上直接标注」效率更高、适用面更广，在不少场合是更有意义的选择。本文分析和比较了 Hypothesis、Raindrop 和 Readwise Reader 三款具有直接标注功能的产品。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大坛作品]]></title>
+        <id>https://sspai.com/post/82430</id>
+        <link href="https://sspai.com/post/82430"/>
+        <updated>2023-08-25T11:03:28.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产剧]装腔启示录、[韩剧]假面女郎、[美剧]阿索卡、[美剧]亿万第七季/最终季、[电影]金币灰黄、[电影]过往人生、[电影]流水落花、[电影]死亡护理师、[动画]雾山五 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入华 30 周年之际，我们参观了 Apple 智惠教育中心]]></title>
+        <id>https://sspai.com/post/82407</id>
+        <link href="https://sspai.com/post/82407"/>
+        <updated>2023-08-25T08:59:48.000Z</updated>
+        <summary type="html"><![CDATA[在入华 30 周年这样的重要时刻，葛越将 Apple 在浙江大学设立的智惠教育中心设为了行程首站——少数派受邀参观的同时，也就一些我们比较关注的问题进行了采访。查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为表格打开新天地：Excel Python 整合上手体验]]></title>
+        <id>https://sspai.com/post/82426</id>
+        <link href="https://sspai.com/post/82426"/>
+        <updated>2023-08-25T07:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Excel 支持 Python 数据处理功能，有什么用、该怎么用，这篇文章汇总了这些你所关心的问题。查看全文]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？]]></title>
+        <id>https://sspai.com/post/82268</id>
+        <link href="https://sspai.com/post/82268"/>
+        <updated>2023-08-25T03:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>Roman_Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划]]></title>
+        <id>https://sspai.com/post/82416</id>
+        <link href="https://sspai.com/post/82416"/>
+        <updated>2023-08-25T00:41:24.000Z</updated>
+        <summary type="html"><![CDATA[微软 8 月更新导致部分电脑蓝屏，iOS Beta 版 Chrome 浏览器支持将地址栏移至底部等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一日一技 | 一键把 Zotero 摘录以特定格式粘贴到 Obsidian]]></title>
         <id>https://sspai.com/post/82279</id>
@@ -4625,16 +4686,6 @@ https://youtu.be/21RHsm_cSXc]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新玩意 155｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/81536</id>
-        <link href="https://sspai.com/post/81536"/>
-        <updated>2023-07-27T09:11:18.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[到底是哪里出问题了呢]]></title>
         <id>https://twitter.com/abskoop/status/1684469562841108480</id>
         <link href="https://twitter.com/abskoop/status/1684469562841108480"/>
@@ -4642,36 +4693,6 @@ https://youtu.be/21RHsm_cSXc]]></summary>
         <summary type="html"><![CDATA[到底是哪里出问题了呢]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从制作简历到建立人脉，这些准备帮我找到心仪工作]]></title>
-        <id>https://sspai.com/post/81523</id>
-        <link href="https://sspai.com/post/81523"/>
-        <updated>2023-07-27T07:00:54.000Z</updated>
-        <summary type="html"><![CDATA[本文从简历、面试、建立人脉网络，以及如何面对求职过程中的压力这些方面，详细介绍我为求职所做的准备。查看全文]]></summary>
-        <author>
-            <name>一柳繁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 调用 AppleScript 给 Safari 标签页加一层「保险」]]></title>
-        <id>https://sspai.com/post/81363</id>
-        <link href="https://sspai.com/post/81363"/>
-        <updated>2023-07-27T03:30:26.000Z</updated>
-        <summary type="html"><![CDATA[在打开标签页比较多的情况下，使用快捷键一路 Ctrl+W 下去，不小心关闭了最后一个 Tab 页，然后整个 Safari 窗口退出了，于是不得不再从 Dock 栏里面唤醒 Safari。而本文则介绍了一种快速关闭 Safari 浏览器所有标签页同时保留最后一个标签页的方法。查看全文]]></summary>
-        <author>
-            <name>SimonYoung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 推出与 App Store 专家会面活动、ChatGPT for Android 开放下载等]]></title>
-        <id>https://sspai.com/post/81514</id>
-        <link href="https://sspai.com/post/81514"/>
-        <updated>2023-07-27T00:30:53.000Z</updated>
-        <summary type="html"><![CDATA[高德地图国际图服务将于 9 月 2 日起上线、方块游戏确认《仙剑奇侠传四》重制中等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
