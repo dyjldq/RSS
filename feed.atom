@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-26T00:32:45.372Z</updated>
+    <updated>2023-08-27T00:36:27.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[内容的未来，是广告还是用户付费？]]></title>
+        <id>https://sspai.com/post/82309</id>
+        <link href="https://sspai.com/post/82309"/>
+        <updated>2023-08-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[苟住，持续输出，给自己打造一个有概率发生意外好事情的系统。查看全文]]></summary>
+        <author>
+            <name>孙彬</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[播客 | 对话老麦：请回答什么是少数派的下一个十年]]></title>
+        <id>https://sspai.com/post/82453</id>
+        <link href="https://sspai.com/post/82453"/>
+        <updated>2023-08-26T06:29:02.000Z</updated>
+        <summary type="html"><![CDATA[两颗皮蛋对谈老麦，从创作到创造。查看全文]]></summary>
+        <author>
+            <name>两颗皮蛋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员应该知道的常识，我认为有这 5 个]]></title>
+        <id>https://sspai.com/post/82286</id>
+        <link href="https://sspai.com/post/82286"/>
+        <updated>2023-08-26T02:12:12.000Z</updated>
+        <summary type="html"><![CDATA[从基础知识学习、业务认知能力到如何避免过度设计、AI 带来的挑战，这 5 条是我认为程序员应该知道的常识。查看全文]]></summary>
+        <author>
+            <name>李琦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网页直接标注：工具比较与使用技巧]]></title>
         <id>https://sspai.com/prime/story/web-annotators-compared</id>
@@ -4442,17 +4472,6 @@ https://linux.cn/article-16043-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chromebook 漫游指南 (2023)]]></title>
-        <id>https://sspai.com/prime/story/chromebook-in-2023</id>
-        <link href="https://sspai.com/prime/story/chromebook-in-2023"/>
-        <updated>2023-07-28T12:03:33.000Z</updated>
-        <summary type="html"><![CDATA[能用一个浏览器搞定一切是一件多么理想主义的事，而现在能用 Chromebook 一台设备搞定的事情也越来越多了。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>nemofq</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[🅷 Vivaldi 反对谷歌的 WEI 规范提议» 07.28 周五 #硬核观察# 1076 https://youtu.be/9ILPMp5hbIk]]></title>
         <id>https://twitter.com/linux_cn/status/1684896140498493440</id>
         <link href="https://twitter.com/linux_cn/status/1684896140498493440"/>
@@ -4461,46 +4480,6 @@ https://linux.cn/article-16043-1.html
 https://youtu.be/9ILPMp5hbIk]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/81569</id>
-        <link href="https://sspai.com/post/81569"/>
-        <updated>2023-07-28T09:54:19.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]封神第一部：朝歌风云、[英剧]好兆头第二季、[美剧]吸血鬼生活第五季、[美剧]火线警探：原始城市、[日剧]隼消防团、[动画]时光代理人第二季、[动画]勇者赫鲁库、[ ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？]]></title>
-        <id>https://sspai.com/post/81552</id>
-        <link href="https://sspai.com/post/81552"/>
-        <updated>2023-07-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[作为 Apple Watch 用户，如果它也曾为你的生活带来了一些改变，欢迎在评论区与我们分享你的故事。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅]]></title>
-        <id>https://sspai.com/post/81315</id>
-        <link href="https://sspai.com/post/81315"/>
-        <updated>2023-07-28T06:36:10.000Z</updated>
-        <summary type="html"><![CDATA[作为一名推理小说迷，我不仅喜欢阅读推理小说，还热衷于探访和推理小说有关的景点，去世界各地圣地巡礼。在《推理》杂志停刊之前，我在杂志上发表过《美国推理之旅》，后来也在我们的播客「波罗咖啡馆」中介绍过《英 ...查看全文]]></summary>
-        <author>
-            <name>Sholmes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验]]></title>
-        <id>https://sspai.com/post/81331</id>
-        <link href="https://sspai.com/post/81331"/>
-        <updated>2023-07-28T03:04:57.000Z</updated>
-        <summary type="html"><![CDATA[虽然 Google TV 是一款发布于 3 年前的产品，但在今天它依然拥有良好的使用体验。如果你想要尝试一下，本文是一些比较基础的提醒和建议。查看全文]]></summary>
-        <author>
-            <name>Ethan29</name>
         </author>
     </entry>
     <entry>
@@ -4517,16 +4496,6 @@ https://linux.cn/article-16042-1.html
 »]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络]]></title>
-        <id>https://sspai.com/post/81546</id>
-        <link href="https://sspai.com/post/81546"/>
-        <updated>2023-07-28T00:45:33.000Z</updated>
-        <summary type="html"><![CDATA[四大顶端 AI 公司共同推进 AI 安全与负责任开发，两部门联合发布国家车联网产业标准建设指南等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

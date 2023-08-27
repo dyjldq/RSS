@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82309",
+          "author": "孙彬",
+          "description": "苟住，持续输出，给自己打造一个有概率发生意外好事情的系统。查看全文",
+          "link": "https://sspai.com/post/82309",
+          "publishedOn": "2023-08-26T07:00:00.000Z",
+          "wordCount": 678,
+          "title": "内容的未来，是广告还是用户付费？",
+          "imageUrl": "https://cdn.sspai.com/2023/08/22/5f6be110edb61444d0b80a9cabf0c234.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82453",
+          "author": "两颗皮蛋",
+          "description": "两颗皮蛋对谈老麦，从创作到创造。查看全文",
+          "link": "https://sspai.com/post/82453",
+          "publishedOn": "2023-08-26T06:29:02.000Z",
+          "wordCount": 693,
+          "title": "播客 | 对话老麦：请回答什么是少数派的下一个十年",
+          "imageUrl": "https://cdn.sspai.com/26/08/2023/article/1bd85df4-9462-4e4d-c371-933cc585ad59.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82286",
+          "author": "李琦",
+          "description": "从基础知识学习、业务认知能力到如何避免过度设计、AI 带来的挑战，这 5 条是我认为程序员应该知道的常识。查看全文",
+          "link": "https://sspai.com/post/82286",
+          "publishedOn": "2023-08-26T02:12:12.000Z",
+          "wordCount": 670,
+          "title": "程序员应该知道的常识，我认为有这 5 个",
+          "imageUrl": "https://cdn.sspai.com/2023/08/22/050e32537decab40f0d37c95f892eaf6.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/web-annotators-compared",
           "author": "PlatyHsu",
           "description": "与先抓取再标注的常见功能相比，「在原始网页上直接标注」效率更高、适用面更广，在不少场合是更有意义的选择。本文分析和比较了 Hypothesis、Raindrop 和 Readwise Reader 三款具有直接标注功能的产品。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1074,66 +1104,6 @@
           "wordCount": 984,
           "title": "如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试",
           "imageUrl": "https://cdn.sspai.com/2023/07/25/6c96ad1fc0b93ee4805fe79b651d3cc6.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/chromebook-in-2023",
-          "author": "nemofq",
-          "description": "能用一个浏览器搞定一切是一件多么理想主义的事，而现在能用 Chromebook 一台设备搞定的事情也越来越多了。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/chromebook-in-2023",
-          "publishedOn": "2023-07-28T12:03:33.000Z",
-          "wordCount": 1134,
-          "title": "Chromebook 漫游指南 (2023)",
-          "imageUrl": "https://cdn.sspai.com/2023/7/26/article/69fb917b-1fde-4fba-146e-bfb4f855d9d7.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81569",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]封神第一部：朝歌风云、[英剧]好兆头第二季、[美剧]吸血鬼生活第五季、[美剧]火线警探：原始城市、[日剧]隼消防团、[动画]时光代理人第二季、[动画]勇者赫鲁库、[ ...查看全文",
-          "link": "https://sspai.com/post/81569",
-          "publishedOn": "2023-07-28T09:54:19.000Z",
-          "wordCount": 926,
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "imageUrl": "https://cdn.sspai.com/2023/7/28/article/37cacdf3-565b-82a4-a08d-a79d4f151830.png"
-        },
-        {
-          "id": "https://sspai.com/post/81552",
-          "author": "少数派编辑部",
-          "description": "作为 Apple Watch 用户，如果它也曾为你的生活带来了一些改变，欢迎在评论区与我们分享你的故事。查看全文",
-          "link": "https://sspai.com/post/81552",
-          "publishedOn": "2023-07-28T08:00:00.000Z",
-          "wordCount": 1046,
-          "title": "Matrix 圆桌 | 入手 Apple Watch 之后，它给我的生活带来了什么改变？",
-          "imageUrl": "https://cdn.sspai.com/2023/7/28/article/3042cdac-800e-b620-9e97-05153bf5c0e6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81315",
-          "author": "Sholmes",
-          "description": "作为一名推理小说迷，我不仅喜欢阅读推理小说，还热衷于探访和推理小说有关的景点，去世界各地圣地巡礼。在《推理》杂志停刊之前，我在杂志上发表过《美国推理之旅》，后来也在我们的播客「波罗咖啡馆」中介绍过《英 ...查看全文",
-          "link": "https://sspai.com/post/81315",
-          "publishedOn": "2023-07-28T06:36:10.000Z",
-          "wordCount": 842,
-          "title": "城市收藏夹 | 圣地巡礼，这是我期待已久的东京推理之旅",
-          "imageUrl": "https://cdn.sspai.com/2023/07/20/3f09cb00b7007f0bb0419daa1fd9e890.png"
-        },
-        {
-          "id": "https://sspai.com/post/81331",
-          "author": "Ethan29",
-          "description": "虽然 Google TV 是一款发布于 3 年前的产品，但在今天它依然拥有良好的使用体验。如果你想要尝试一下，本文是一些比较基础的提醒和建议。查看全文",
-          "link": "https://sspai.com/post/81331",
-          "publishedOn": "2023-07-28T03:04:57.000Z",
-          "wordCount": 891,
-          "title": "虽然发布于 3 年前，但 Chromecast with Google TV 依然值得体验",
-          "imageUrl": "https://cdn.sspai.com/2023/07/20/cb5cfc9cd167f302a11fe57610f31e85.png"
-        },
-        {
-          "id": "https://sspai.com/post/81546",
-          "author": "少数派编辑部",
-          "description": "四大顶端 AI 公司共同推进 AI 安全与负责任开发，两部门联合发布国家车联网产业标准建设指南等查看全文",
-          "link": "https://sspai.com/post/81546",
-          "publishedOn": "2023-07-28T00:45:33.000Z",
-          "wordCount": 943,
-          "title": "派早报：Twitter 正式更名为 X，Google 推迟 Find My Device 网络",
-          "imageUrl": "https://cdn.sspai.com/7/28/2023/article/66d5d0e4-004d-aa0f-1892-0da78750f9c3.png"
         }
       ]
     },
