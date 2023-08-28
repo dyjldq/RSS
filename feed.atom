@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-27T00:36:27.569Z</updated>
+    <updated>2023-08-28T00:35:22.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科隆游戏展札记：最中国的悟空，最纯粹的快乐]]></title>
+        <id>https://sspai.com/post/82466</id>
+        <link href="https://sspai.com/post/82466"/>
+        <updated>2023-08-27T10:50:26.000Z</updated>
+        <summary type="html"><![CDATA[在科隆游戏展的展厅里，不时会见到这样的场景：无论你在社会中扮演什么样的角色，父母或是子女，上班族或是创业者，工程师还是设计师，来到游戏展，都只用展示自己作为「玩家」的一面。这便是参加游戏展的乐趣。今年 ...查看全文]]></summary>
+        <author>
+            <name>sainho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这 8 件别人眼中的「电子垃圾」，是我手中的宝贝]]></title>
+        <id>https://sspai.com/post/82436</id>
+        <link href="https://sspai.com/post/82436"/>
+        <updated>2023-08-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[二手乃至N手的数码产品一直是我的兴趣之一。作为一个产品五花八门、技术迭代迅速，往往还带着很多个人回忆的品类，这些「旧东西」对于我的意义很多时候也远不止兴趣使然那么简单——它们反而更像是一种「时间胶囊」 ...查看全文]]></summary>
+        <author>
+            <name>PostMeridy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内容的未来，是广告还是用户付费？]]></title>
         <id>https://sspai.com/post/82309</id>
@@ -4419,16 +4439,6 @@ https://youtu.be/A6TeNuAFc04]]></summary>
 👉https://www.ahhhhfs.com/45145/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让 ChatGPT 更懂你？新功能 Custom Instructions 尝试]]></title>
-        <id>https://sspai.com/post/81470</id>
-        <link href="https://sspai.com/post/81470"/>
-        <updated>2023-07-29T03:44:29.000Z</updated>
-        <summary type="html"><![CDATA[祝 AI 问答使用愉快！查看全文]]></summary>
-        <author>
-            <name>玉树芝兰</name>
         </author>
     </entry>
     <entry>
