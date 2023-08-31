@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-30T00:34:47.738Z</updated>
+    <updated>2023-08-31T00:34:50.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[利用位置记忆技巧提高生活和工作效率，这是我的心得]]></title>
+        <id>https://sspai.com/post/81586</id>
+        <link href="https://sspai.com/post/81586"/>
+        <updated>2023-08-30T09:24:12.000Z</updated>
+        <summary type="html"><![CDATA[没有将学习内容通过复习反复加以巩固，所有的学习努力很可能会白白浪费。查看全文]]></summary>
+        <author>
+            <name>愚人哲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每个人都需要的「第三方授权登录」查询与解绑指南]]></title>
+        <id>https://sspai.com/post/82550</id>
+        <link href="https://sspai.com/post/82550"/>
+        <updated>2023-08-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你还记得这些曾经登录过的账户和服务吗？查看全文]]></summary>
+        <author>
+            <name>PostMeridy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用三次踩坑经历告诉你，电动牙刷头的「陷阱」并非危言耸听]]></title>
+        <id>https://sspai.com/post/81578</id>
+        <link href="https://sspai.com/post/81578"/>
+        <updated>2023-08-30T02:54:12.000Z</updated>
+        <summary type="html"><![CDATA[作为关系到口腔健康的电动牙刷刷头产品，消费者的基本权益必须得到尊重和保证——所以我打算把我遇到的相关事情如实描述出来，让已经购买和计划购买第三方电动牙刷刷头的消费者注意。查看全文]]></summary>
+        <author>
+            <name>iArter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布会将于 9 月 13 日举行、Edge 浏览器将精简功能等]]></title>
+        <id>https://sspai.com/post/82543</id>
+        <link href="https://sspai.com/post/82543"/>
+        <updated>2023-08-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google 相册照片加密功能支持云同步，OpenAI 推出企业级 ChatGPT 服务等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价]]></title>
         <id>https://sspai.com/post/82520</id>
@@ -3855,16 +3895,6 @@ VIP频道密码：588
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 006 | 拟物设计的剪辑应用、Arc 之魅力以及散步路线]]></title>
-        <id>https://sspai.com/post/81650</id>
-        <link href="https://sspai.com/post/81650"/>
-        <updated>2023-08-01T08:57:39.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[8月3号 男人节🤤准备好了吗]]></title>
         <id>https://twitter.com/abskoop/status/1686296832178065409</id>
         <link href="https://twitter.com/abskoop/status/1686296832178065409"/>
@@ -3885,26 +3915,6 @@ VIP频道密码：588
 👉https://www.ahhhhfs.com/45321/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple 那些经典的「One More Thing」现在怎样了]]></title>
-        <id>https://sspai.com/post/81645</id>
-        <link href="https://sspai.com/post/81645"/>
-        <updated>2023-08-01T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[作为消费者，你期待的下一个「One More Thing」又是什么？查看全文]]></summary>
-        <author>
-            <name>Voyager_1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两位效率工具玩家眼中的人脉管理]]></title>
-        <id>https://sspai.com/post/81532</id>
-        <link href="https://sspai.com/post/81532"/>
-        <updated>2023-08-01T07:42:18.000Z</updated>
-        <summary type="html"><![CDATA[和两位效率玩家谈谈他们使用效率工具的方式以及对于人脉管理的看法。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
         </author>
     </entry>
     <entry>
@@ -3938,26 +3948,6 @@ VIP频道密码：588
 👉https://www.ahhhhfs.com/45295/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从《海妖的呼唤》的爆火，聊聊我们想看怎样的「全女综艺」]]></title>
-        <id>https://sspai.com/post/81533</id>
-        <link href="https://sspai.com/post/81533"/>
-        <updated>2023-08-01T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>老直啊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Twitter 在 App Store 获批更名为 X，《黑神话：悟空》将举办线下试玩会等]]></title>
-        <id>https://sspai.com/post/81632</id>
-        <link href="https://sspai.com/post/81632"/>
-        <updated>2023-08-01T01:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Meta 被判提供涉嫌诽谤的匿名用户个人信息，索尼 PS5 最新测试固件支持杜比全景声等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
