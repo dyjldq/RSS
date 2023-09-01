@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T00:34:50.178Z</updated>
+    <updated>2023-09-01T00:37:22.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 159｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/82575</id>
+        <link href="https://sspai.com/post/82575"/>
+        <updated>2023-08-31T09:35:41.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次省心的装修体验：我选择了宜家全屋设计服务]]></title>
+        <id>https://sspai.com/post/82584</id>
+        <link href="https://sspai.com/post/82584"/>
+        <updated>2023-08-31T07:03:31.000Z</updated>
+        <summary type="html"><![CDATA[收房后经过了各种驴唇不对马嘴的话术洗礼，亲眼见识花式恨错难返的全屋定制质量之后，我决定和「宜家」谈。查看全文]]></summary>
+        <author>
+            <name>Snow</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[导出多年微信聊天记录，我用可视化分析了出自己的口头禅]]></title>
+        <id>https://sspai.com/post/82577</id>
+        <link href="https://sspai.com/post/82577"/>
+        <updated>2023-08-31T03:37:31.000Z</updated>
+        <summary type="html"><![CDATA[导出微信的聊天记录，你可以试着学会的聊天可视化分析。无论是词云、表情统计，还是聊天时间分析，又或是制作聊天频率热图，总有一种你用得上。查看全文]]></summary>
+        <author>
+            <name>JamesHopbourn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：SDC23 大会时间确认、PS Plus 上调订阅价等]]></title>
+        <id>https://sspai.com/post/82574</id>
+        <link href="https://sspai.com/post/82574"/>
+        <updated>2023-08-31T00:47:48.000Z</updated>
+        <summary type="html"><![CDATA[美图发布 AI 数字人生成工具 DreamAvatar、深港交通一卡通正式发行、Ayaneo 发布「鲲」Windows 掌机等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用位置记忆技巧提高生活和工作效率，这是我的心得]]></title>
         <id>https://sspai.com/post/81586</id>
@@ -3630,16 +3670,6 @@ https://linux.cn/article-16057-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为了追求画质，真的要买台电影机吗？我的 Bmpcc 6K Pro 单兵作战体验]]></title>
-        <id>https://sspai.com/post/81560</id>
-        <link href="https://sspai.com/post/81560"/>
-        <updated>2023-08-02T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Fake it until you make it.查看全文]]></summary>
-        <author>
-            <name>Xenogeneic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在线DOS 游戏集合：Chinese DOS games collections 目前一共收录了共有 1898 款经典DOS游戏 免费提供在线玩和下载，可存档，童年记忆🙊 👉https://www.ahhhh...]]></title>
         <id>https://twitter.com/abskoop/status/1686666647736659968</id>
         <link href="https://twitter.com/abskoop/status/1686666647736659968"/>
@@ -3650,16 +3680,6 @@ https://linux.cn/article-16057-1.html
 👉https://www.ahhhhfs.com/45362/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 从互联网消失的 Flash 游戏和动画，你可以在这里怀旧]]></title>
-        <id>https://sspai.com/post/81698</id>
-        <link href="https://sspai.com/post/81698"/>
-        <updated>2023-08-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[它是你的怀旧利器，也是你低配电脑的娱乐救星。查看全文]]></summary>
-        <author>
-            <name>bakamio</name>
         </author>
     </entry>
     <entry>
@@ -3675,16 +3695,6 @@ https://linux.cn/article-16057-1.html
 👉https://www.ahhhhfs.com/45334/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上车聊聊 | 一台 Model Y 和 3 种生活新体验]]></title>
-        <id>https://sspai.com/post/81647</id>
-        <link href="https://sspai.com/post/81647"/>
-        <updated>2023-08-02T07:10:09.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是少数派#上车聊聊征文活动的入围文章。文章内容代表作者本人观点，少数派仅对标题和排版略作调整。本次「上车聊聊」征文活动长期有效，欢迎投稿聊聊你与车之间的故事。投稿文章一经推荐，我们还将送出包 ...查看全文]]></summary>
-        <author>
-            <name>一只索狗</name>
         </author>
     </entry>
     <entry>
@@ -3784,16 +3794,6 @@ https://linux.cn/article-16055-1.html
 https://youtu.be/8b-SsTL4tNg]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 等公司成立 AOUSD 联盟、大上发布 Paperlike Color 显示器等]]></title>
-        <id>https://sspai.com/post/81679</id>
-        <link href="https://sspai.com/post/81679"/>
-        <updated>2023-08-02T00:35:18.000Z</updated>
-        <summary type="html"><![CDATA[高德地图升级「积水地图」功能，多家浏览器就 WEI API 提出抗议等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
