@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-02T00:33:14.877Z</updated>
+    <updated>2023-09-03T00:36:48.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从产品经理的角度，聊聊 Context 的开发心得和规划]]></title>
+        <id>https://sspai.com/post/82629</id>
+        <link href="https://sspai.com/post/82629"/>
+        <updated>2023-09-02T09:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Context+《英语自学手册》联名众筹于8月21日至9月4日之间开展，分「天使版」和「普通版」两种规格，均包含Context订阅权益和《英语自学手册》栏目阅读权益，低至市场价格的53折，《英语自学手 ...查看全文]]></summary>
+        <author>
+            <name>Qian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家用咖啡手册 11 | 一杯不错的意式咖啡是如何诞生的？]]></title>
+        <id>https://sspai.com/post/82327</id>
+        <link href="https://sspai.com/post/82327"/>
+        <updated>2023-09-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇正式进入意式浓缩的制作教学，尽可能的将制作意式咖啡需要注意的各类细节讲到位。也提供一些遇到问题时，如何调整浓缩的思路。理解烘焙对萃取的帮助咖啡豆的性质，这里详细说一下烘焙度，这关系到后边研磨度调整 ...查看全文]]></summary>
+        <author>
+            <name>老林还年少</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Essential，一场探寻人机关系「本质」的无果之旅]]></title>
         <id>https://sspai.com/prime/story/essential-phone</id>
@@ -3235,16 +3255,6 @@ https://linux.cn/article-16063-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/81765</id>
-        <link href="https://sspai.com/post/81765"/>
-        <updated>2023-08-04T10:19:13.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[韩剧]D.P：逃兵追缉令第二季、[动画]僵尸100～在成为僵尸前要做的100件事～、[英剧]心跳漏一拍第二季、[日剧]往这边看，向井君、[日剧]元气囝仔、[日剧]量产型璃 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Re @ftium4 play store老这样🤤哈哈]]></title>
         <id>https://twitter.com/abskoop/status/1687407092309606400</id>
         <link href="https://twitter.com/abskoop/status/1687407092309606400"/>
@@ -3269,36 +3279,6 @@ https://linux.cn/article-16063-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[属于平凡人的经验之谈：我的校园招聘工具「组合拳」]]></title>
-        <id>https://sspai.com/post/79049</id>
-        <link href="https://sspai.com/post/79049"/>
-        <updated>2023-08-04T08:21:44.000Z</updated>
-        <summary type="html"><![CDATA[本篇文章将会分为投递阶段、跟进阶段、决策阶段三个时期，分享我所使用的工具和方法，希望能够给有校园招聘场景诉求的读者一些帮助和启发。查看全文]]></summary>
-        <author>
-            <name>中杯冰拿铁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 降临 —— 个人笔记的黄昏？]]></title>
-        <id>https://sspai.com/post/81585</id>
-        <link href="https://sspai.com/post/81585"/>
-        <updated>2023-08-04T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI 不会完全取代任何东西。它只会逐渐融入我们原有的工作流中，将其中低效、机械的部分取代。而那些无法被 AI 取代的，才是这些事的本质所在，才是矿石中提炼出来的真金白银。查看全文]]></summary>
-        <author>
-            <name>人形睿</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小风扇常见，但可以降温的「高速吹风机」你不妨一试]]></title>
-        <id>https://sspai.com/post/81440</id>
-        <link href="https://sspai.com/post/81440"/>
-        <updated>2023-08-04T02:51:16.000Z</updated>
-        <summary type="html"><![CDATA[我从来没有买过手持小风扇，但也经常会羡慕夏日里用它乘风纳凉的人。作为一个贵州人，我是去广东读大学在军训时第一次看到小风扇这个品类，它虽然比不上刚从冰柜里掏出来的宝矿力，但十分钟的休息时间里看着一些同学 ...查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[分享 | 2023 年最佳 Linux 视频编辑软件 https://linux.cn/article-16062-1.html 我们列出了最佳的 Linux 视频编辑器选项。请看一下。]]></title>
         <id>https://twitter.com/linux_cn/status/1687293091013701632</id>
         <link href="https://twitter.com/linux_cn/status/1687293091013701632"/>
@@ -3320,16 +3300,6 @@ https://linux.cn/article-16061-1.html
 很多时候，老旧的电脑往往被打上 “过时” 的标签。Linux 改变了这一现状。翻新旧电脑，让它重新为需要它的人所用。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：中兴 5G 随身 Wi-Fi F50 正式上架、Meta 发布开源 AI 工具 AudioCraft]]></title>
-        <id>https://sspai.com/post/81751</id>
-        <link href="https://sspai.com/post/81751"/>
-        <updated>2023-08-04T00:33:22.000Z</updated>
-        <summary type="html"><![CDATA[飞宇推出了新款手机稳定器，《博德之门 3》正式发售等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
