@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T00:35:35.146Z</updated>
+    <updated>2023-09-05T00:34:17.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/82673</id>
+        <link href="https://sspai.com/post/82673"/>
+        <updated>2023-09-04T09:51:59.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：闯进大西北的金色世界]]></title>
+        <id>https://sspai.com/post/82536</id>
+        <link href="https://sspai.com/post/82536"/>
+        <updated>2023-09-04T06:51:17.000Z</updated>
+        <summary type="html"><![CDATA[作为半个西北人，也看了全国不少山川湖海，欣赏了许多不一样的风景，但是回过头来，自己却一次也没有选择在西北出游。虽说不应有恨，但是确实是我的心头之痛。正好工作遇到瓶颈，很是头疼，索性向老板请了长假，无论 ...查看全文]]></summary>
+        <author>
+            <name>Xenogeneic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？]]></title>
+        <id>https://sspai.com/post/82260</id>
+        <link href="https://sspai.com/post/82260"/>
+        <updated>2023-09-04T03:30:59.000Z</updated>
+        <summary type="html"><![CDATA[在游泳时听歌，一个普遍问题是，耳机上的音乐过时或者反复听厌了，而手动利用电脑管理音乐确实繁琐。这篇文章将告诉您如何利用 USB Copy 或自动化脚本，实现歌曲的自动更新。查看全文]]></summary>
+        <author>
+            <name>之北</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：第二批深度合成服务算法备案公布，苹果拒绝重启 CSAM 检测上报]]></title>
+        <id>https://sspai.com/post/82658</id>
+        <link href="https://sspai.com/post/82658"/>
+        <updated>2023-09-04T00:50:16.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事第二批深度合成服务算法备案公布9月2日，网信办发布了第二批境内深度合成服务算法备案信息。通知随附的《境内深度合成服务算法备案清单》（2023年8月）共包含来自62个主体的110种算法 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是色彩？——评 Boox Tab10 C]]></title>
         <id>https://sspai.com/post/82653</id>
@@ -2767,16 +2807,6 @@ https://linux.cn/article-16069-1.html
         <summary type="html"><![CDATA[这衣服能放洗衣机洗吗🤤]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客 | 中文打字机：一个世纪的汉字突围史]]></title>
-        <id>https://sspai.com/post/81761</id>
-        <link href="https://sspai.com/post/81761"/>
-        <updated>2023-08-06T07:41:48.000Z</updated>
-        <summary type="html"><![CDATA[和《中文打字机》中文版译者张朋亮老师聊聊中文打字机的发展历史以及这本书从翻译到出版的幕后故事。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
         </author>
     </entry>
     <entry>

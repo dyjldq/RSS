@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82673",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/82673",
+          "publishedOn": "2023-09-04T09:51:59.000Z",
+          "wordCount": 943,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/9/4/article/4aae3778-213f-7110-482e-630694c68da1.png"
+        },
+        {
+          "id": "https://sspai.com/post/82536",
+          "author": "Xenogeneic",
+          "description": "作为半个西北人，也看了全国不少山川湖海，欣赏了许多不一样的风景，但是回过头来，自己却一次也没有选择在西北出游。虽说不应有恨，但是确实是我的心头之痛。正好工作遇到瓶颈，很是头疼，索性向老板请了长假，无论 ...查看全文",
+          "link": "https://sspai.com/post/82536",
+          "publishedOn": "2023-09-04T06:51:17.000Z",
+          "wordCount": 661,
+          "title": "城市漫步指南：闯进大西北的金色世界",
+          "imageUrl": "https://cdn.sspai.com/2023/08/29/1145c0a7c57760178c0de8de8f2f92d4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82260",
+          "author": "之北",
+          "description": "在游泳时听歌，一个普遍问题是，耳机上的音乐过时或者反复听厌了，而手动利用电脑管理音乐确实繁琐。这篇文章将告诉您如何利用 USB Copy 或自动化脚本，实现歌曲的自动更新。查看全文",
+          "link": "https://sspai.com/post/82260",
+          "publishedOn": "2023-09-04T03:30:59.000Z",
+          "wordCount": 1012,
+          "title": "一日一技 | 群晖+Walkman，如何让游泳时听的歌总有新鲜感？",
+          "imageUrl": "https://cdn.sspai.com/2023/08/21/4cd1e1318659852c5c4f1a1f596984e5.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/82658",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事第二批深度合成服务算法备案公布9月2日，网信办发布了第二批境内深度合成服务算法备案信息。通知随附的《境内深度合成服务算法备案清单》（2023年8月）共包含来自62个主体的110种算法 ...查看全文",
+          "link": "https://sspai.com/post/82658",
+          "publishedOn": "2023-09-04T00:50:16.000Z",
+          "wordCount": 823,
+          "title": "派早报：第二批深度合成服务算法备案公布，苹果拒绝重启 CSAM 检测上报",
+          "imageUrl": "https://cdn.sspai.com/9/3/2023/article/a0505d70-a61e-7845-51ca-6bc1c822beed.png"
+        },
+        {
           "id": "https://sspai.com/post/82653",
           "author": "PlatyHsu",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -1094,16 +1134,6 @@
           "wordCount": 891,
           "title": "派早报：Vim 作者逝世，二季度全球手机销售额继续下降",
           "imageUrl": "https://cdn.sspai.com/8/6/2023/article/172f215b-7df6-762a-79e1-97bda53361d3.png"
-        },
-        {
-          "id": "https://sspai.com/post/81761",
-          "author": "少数派播客",
-          "description": "和《中文打字机》中文版译者张朋亮老师聊聊中文打字机的发展历史以及这本书从翻译到出版的幕后故事。查看全文",
-          "link": "https://sspai.com/post/81761",
-          "publishedOn": "2023-08-06T07:41:48.000Z",
-          "wordCount": 650,
-          "title": "播客 | 中文打字机：一个世纪的汉字突围史",
-          "imageUrl": "https://cdn.sspai.com/04/08/2023/article/b3bb7888-9777-8a9c-9ca3-bbc04b9d3e45.jpg"
         }
       ]
     },
