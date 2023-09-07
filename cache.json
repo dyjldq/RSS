@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82726",
+          "author": "Snow",
+          "description": "从2018年首次下载米家App算起，我接触智能家居有5年多的时间。这期间我陆续购入了十几款米家的设备，搭建了简易的智能家居环境。购入HomePodmini和AppleTV后，我也玩过Homekit联动 ...查看全文",
+          "link": "https://sspai.com/post/82726",
+          "publishedOn": "2023-09-06T09:38:37.000Z",
+          "wordCount": 788,
+          "title": "谈不了性价比，或许谈得上省心：我的智能家居全屋定制体验",
+          "imageUrl": "https://cdn.sspai.com/2023/9/6/article/6e729225-cf7a-17ff-e3ec-82c745b80741.png"
+        },
+        {
+          "id": "https://sspai.com/post/82707",
+          "author": "吃派的水獭",
+          "description": "随着开学季的到来，学生朋友们纷纷回到校园，开启了紧张又忙碌的学习时光。我派商店又为大家带来了部分商店产品的优惠活动，希望它们可以提高你的生活质量，同时陪伴着你高效学习。⌚️活动时间：9.620:00至 ...查看全文",
+          "link": "https://sspai.com/post/82707",
+          "publishedOn": "2023-09-06T08:00:10.000Z",
+          "wordCount": 836,
+          "title": "开学季 | 派商店优惠上新：开学新篇章，好物常相伴",
+          "imageUrl": "https://cdn.sspai.com/2023/09/05/3eff01f887a3f361c791e77d5d83651a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82606",
+          "author": "孙彬",
+          "description": "用 Ulysses 也可以进行卡片写作，它顺便帮我解决了写作困难的问题。查看全文",
+          "link": "https://sspai.com/post/82606",
+          "publishedOn": "2023-09-06T07:05:52.000Z",
+          "wordCount": 734,
+          "title": "干掉码字困难症：如何用 Ulysses 实现卡片写作？",
+          "imageUrl": "https://cdn.sspai.com/2023/09/01/f631de3175b9227866c1a9ebd2782fff.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82670",
+          "author": "炜智能",
+          "description": "因为本人动手能力比较强，所以目前使用的是一台自组的 DIY NAS。其实相较于 NAS，我更喜欢称呼这类机器为家庭服务器，存储对我来说仅仅只是一部分需求。不过本篇文章的重点是分享一些我个人数据存储及备份的心得体会，其他应用只会简单介绍一下。查看全文",
+          "link": "https://sspai.com/post/82670",
+          "publishedOn": "2023-09-06T03:31:53.000Z",
+          "wordCount": 830,
+          "title": "从零开始搭建 Home Lab，这是我的体会与心得",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/cjqoce5b34tcsu5b1krg"
+        },
+        {
+          "id": "https://sspai.com/post/82722",
+          "author": "少数派编辑部",
+          "description": "微软将不再强制欧盟地区 Windows 11 用户使用 Edge 浏览器，WPS AI 正式面向社会开放等。查看全文",
+          "link": "https://sspai.com/post/82722",
+          "publishedOn": "2023-09-06T00:58:31.000Z",
+          "wordCount": 807,
+          "title": "派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等",
+          "imageUrl": "https://cdn.sspai.com/2023/9/6/article/be83bcac-32b7-9ad9-d7de-cb35b375b417.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/android-data-backup-issues-tips",
           "author": "克莱德",
           "description": "从 Android 原生应用备份功能的发展出发，聊聊阻碍这项功能普及的因素，以及曲线救国的技巧。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1094,46 +1144,6 @@
           "wordCount": 829,
           "title": "派早报：Chrome 安全补丁更新改为每周推送、Sonos 推出 Era 100 音箱等",
           "imageUrl": "https://cdn.sspai.com/2023/8/9/article/d4715215-aff1-a47d-0c38-15c3c45b9820.png"
-        },
-        {
-          "id": "https://sspai.com/post/81857",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/81857",
-          "publishedOn": "2023-08-08T09:00:26.000Z",
-          "wordCount": 1128,
-          "title": "社区速递 007 | 买过的「洋垃圾」、平板上的代码和作者的新玩意",
-          "imageUrl": "https://cdn.sspai.com/8/8/2023/article/63893981-8cc5-1eb0-70ac-5fec102dde6a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81775",
-          "author": "Ankisan",
-          "description": "为了更好地安排目标和每日进度，再加上近期对独立开发相当感兴趣，于是我将其设为了过去一段时间的核心目标，着手开发了一个 App，将其命名为「生活规划」。查看全文",
-          "link": "https://sspai.com/post/81775",
-          "publishedOn": "2023-08-08T07:35:17.000Z",
-          "wordCount": 721,
-          "title": "为了重拾对生活的「掌控感」，我做了一款 iOS 应用",
-          "imageUrl": "https://cdn.sspai.com/2023/08/04/727e3e8a4df4488b2ceb69ffba13d7fa.png"
-        },
-        {
-          "id": "https://sspai.com/post/81756",
-          "author": "EricYoung",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/81756",
-          "publishedOn": "2023-08-08T03:04:55.000Z",
-          "wordCount": 698,
-          "title": "一场特别的深度家庭大扫除，来收拾跨城搬家的累与泪",
-          "imageUrl": "https://cdn.sspai.com/2023/08/04/eede83ecf396dd8dd08f5a5ab414cfa9.png"
-        },
-        {
-          "id": "https://sspai.com/post/81862",
-          "author": "少数派编辑部",
-          "description": "IGN 推出 AI 聊天机器人，华硕计划开始逐步取消 Bootloader 解锁等查看全文",
-          "link": "https://sspai.com/post/81862",
-          "publishedOn": "2023-08-08T01:03:16.000Z",
-          "wordCount": 844,
-          "title": "派早报：微软更新 Windows 11 CPU 支持列表，Amazfit Cheetah Pro 上架等",
-          "imageUrl": "https://cdn.sspai.com/2023/8/8/article/7ed644b0-55d8-d60a-a667-6b7eee4a2ca9.png"
         }
       ]
     },
