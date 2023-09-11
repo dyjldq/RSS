@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-10T00:37:02.228Z</updated>
+    <updated>2023-09-11T00:35:28.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？]]></title>
+        <id>https://sspai.com/post/82821</id>
+        <link href="https://sspai.com/post/82821"/>
+        <updated>2023-09-10T07:02:23.000Z</updated>
+        <summary type="html"><![CDATA[离发布会只有短短数日，根据往年的经验，各方面的爆料已经越来越接近真实。如果你想先睹为快，就一起来看看今年 Apple 可能会给我们带来什么样的惊喜吧。查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？]]></title>
         <id>https://sspai.com/post/82749</id>
@@ -1559,20 +1569,6 @@ https://linux.cn/article-16087-1.html
 👉https://www.ahhhhfs.com/45799/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试读福利 | Notion 自动化从 Button 开始，用 10 个案例带你从入门到进阶]]></title>
-        <id>https://sspai.com/post/81971</id>
-        <link href="https://sspai.com/post/81971"/>
-        <updated>2023-08-12T08:11:04.000Z</updated>
-        <summary type="html"><![CDATA[本文详细介绍了 Notion 的自动化功能 Button，通过 10 个案例从入门到进阶讲解了 Button 的各种功能和用法。Button 可以在 Notion 的各个地方创建，并能链接到任意数据库，实现一键执行多个动作的集成化操作，大大提高了工作效率和组织管理能力。同时，文章还探讨了 Button 的一些不足之处，并提供了一些使用案例供读者参考。
-想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》
-[......]
-查看全文
-本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>二一的笔记</name>
         </author>
     </entry>
     <entry>
