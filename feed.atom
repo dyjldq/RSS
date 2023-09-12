@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-11T00:35:28.813Z</updated>
+    <updated>2023-09-12T00:33:35.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率]]></title>
+        <id>https://sspai.com/post/82854</id>
+        <link href="https://sspai.com/post/82854"/>
+        <updated>2023-09-11T10:42:35.000Z</updated>
+        <summary type="html"><![CDATA[macOS平台上的效率工具可谓是「神仙打架」，简单询问下GPT，就能给你推荐出七八款各具特色的自动化应用。但只有KeyboardMaestro敢于在其官网喊出「顶级Mac自动化软件（ThePremie ...查看全文]]></summary>
+        <author>
+            <name>数字工具组</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/82853</id>
+        <link href="https://sspai.com/post/82853"/>
+        <updated>2023-09-11T09:50:26.000Z</updated>
+        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会]]></title>
+        <id>https://sspai.com/post/82842</id>
+        <link href="https://sspai.com/post/82842"/>
+        <updated>2023-09-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[节目主要针对即将召开的 Apple 九月新品发布会展开了预测，并在一次次「缺德」发言中演变成了一场大型暴言表演。查看全文]]></summary>
+        <author>
+            <name>两颗皮蛋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从「伪需求」到「离不开」：我的 Apple Watch 一年深体验]]></title>
+        <id>https://sspai.com/post/82487</id>
+        <link href="https://sspai.com/post/82487"/>
+        <updated>2023-09-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>一只波露</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世]]></title>
+        <id>https://sspai.com/post/82829</id>
+        <link href="https://sspai.com/post/82829"/>
+        <updated>2023-09-11T00:57:53.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事知名手绘应用Procreate将推出动画版9月9日，知名手绘应用Procreate开发商宣布推出ProcreateDreams，旨在打造一款任何人都可以上手使用的动画工具。据介绍，P ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？]]></title>
         <id>https://sspai.com/post/82821</id>
@@ -1412,16 +1462,6 @@ https://linux.cn/article-16090-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 个隐藏「小开关」，让你的 Chrome 浏览器更好用]]></title>
-        <id>https://sspai.com/post/81982</id>
-        <link href="https://sspai.com/post/81982"/>
-        <updated>2023-08-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chrome 依然有很多功能因为正在测试、分批推送等原因藏在标签（flags）之后，想要尝鲜就得手动开启。本文为你收录了四个在最新稳定版本中可以试试的新选项。查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[技术 | 为什么 DNS 仍然难以学习？ https://linux.cn/article-16089-1.html 以下是关于为什么学习排除 DNS 问题很困难的几点思考。]]></title>
         <id>https://twitter.com/linux_cn/status/1690579810551242752</id>
         <link href="https://twitter.com/linux_cn/status/1690579810551242752"/>
@@ -1431,16 +1471,6 @@ https://linux.cn/article-16089-1.html
 以下是关于为什么学习排除 DNS 问题很困难的几点思考。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两位效率工具玩家眼中的人脉管理与知识管理]]></title>
-        <id>https://sspai.com/post/81930</id>
-        <link href="https://sspai.com/post/81930"/>
-        <updated>2023-08-13T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[借着与 WOLB 人脉管理团队的联系，我们与两位效率工具玩家深入聊了聊他们对工具、管理方法、工作与生活的理解。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
