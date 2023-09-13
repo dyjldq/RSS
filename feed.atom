@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:33:35.375Z</updated>
+    <updated>2023-09-13T00:35:17.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一图流 | 一张图带你看完 iPhone 15 发布会]]></title>
+        <id>https://sspai.com/post/82898</id>
+        <link href="https://sspai.com/post/82898"/>
+        <updated>2023-09-12T21:30:14.000Z</updated>
+        <summary type="html"><![CDATA[如果你没有熬夜看本次发布会，不用担心，少数派不仅整理了详细回顾文章，还连夜赶制了要点一图流，让你用最简单直观的方式迅速了解 Apple 新品的完整动态。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾]]></title>
+        <id>https://sspai.com/post/82897</id>
+        <link href="https://sspai.com/post/82897"/>
+        <updated>2023-09-12T21:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Apple 推出多款新品：iPhone 15 Pro 采用钛金属边框，iPhone 15 支持灵动岛，Apple Watch Series 9 及 Apple Watch Ultra 2 性能大升级等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗]]></title>
+        <id>https://sspai.com/post/82880</id>
+        <link href="https://sspai.com/post/82880"/>
+        <updated>2023-09-12T09:52:55.000Z</updated>
+        <summary type="html"><![CDATA[📍省流总结：免费更新：《iOS蓝皮书》已开启年度更新，内容适配iOS17。已购买读者无须付费，享受免费更新。并且首发加入「会员畅读」权益，少数派年度会员可直接畅读；读者共创：《iOS蓝皮书》开启读者共 ...查看全文]]></summary>
+        <author>
+            <name>数字工具组</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意]]></title>
+        <id>https://sspai.com/post/82869</id>
+        <link href="https://sspai.com/post/82869"/>
+        <updated>2023-09-12T08:52:17.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开学季 | iPad 手写笔记 app 横评，找出最适合自己的那款]]></title>
+        <id>https://sspai.com/post/82865</id>
+        <link href="https://sspai.com/post/82865"/>
+        <updated>2023-09-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们帮你从价格、笔记管理方式、页面样式与管理、「文具盒」、非文本元素以及特色功能，对比了六款手写笔记 app，希望能帮你找到最适合的那款。查看全文]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭服务器除了存储还能做什么？聊聊我的部署思路]]></title>
+        <id>https://sspai.com/post/82512</id>
+        <link href="https://sspai.com/post/82512"/>
+        <updated>2023-09-12T03:30:27.000Z</updated>
+        <summary type="html"><![CDATA[很多朋友入手 NAS 后，费了老大劲部署好一个服务，却发现体验一般，可能还不如互联网大厂提供的应用，最后折腾下来，也就用于备份、看剧了。因此，我斗胆以广而不深的方式介绍一下这些年来我在家庭服务器 Home Server 上的实践。查看全文]]></summary>
+        <author>
+            <name>凉糕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等]]></title>
+        <id>https://sspai.com/post/82862</id>
+        <link href="https://sspai.com/post/82862"/>
+        <updated>2023-09-12T01:11:14.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事联发科发布天玑7200-Ultra，红米Note13首发联发科于9月11日正式宣布推出天玑7200-Ultra移动芯片，该芯片采用台积电第二代4nm制程，八核CPU架构，包含2个主频 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率]]></title>
         <id>https://sspai.com/post/82854</id>
@@ -1226,16 +1296,6 @@ https://linux.cn/article-16093-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/82015</id>
-        <link href="https://sspai.com/post/82015"/>
-        <updated>2023-08-14T09:53:57.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[买的机场大部分都上不了instagram了吗 好在我有服务器搭建的梯子😂 这公司防人机防成这样 还不倒闭吗]]></title>
         <id>https://twitter.com/abskoop/status/1691024302475448320</id>
         <link href="https://twitter.com/abskoop/status/1691024302475448320"/>
@@ -1262,16 +1322,6 @@ https://linux.cn/article-16093-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本月玩什么 | 博德之门 3、宇宙之轮姐妹会、机战佣兵 VI、流浪之神]]></title>
-        <id>https://sspai.com/post/81993</id>
-        <link href="https://sspai.com/post/81993"/>
-        <updated>2023-08-14T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[欢迎来到「本月玩什么」，又有一大堆新游戏值得一玩啦。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Boardmix：集AIGC于一体在线白板工具 输入一句话，AI帮你一键生产PPT，思维导图等 👉https://www.ahhhhfs.com/45882/]]></title>
         <id>https://twitter.com/abskoop/status/1690985442546479104</id>
         <link href="https://twitter.com/abskoop/status/1690985442546479104"/>
@@ -1284,16 +1334,6 @@ https://linux.cn/article-16093-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[六边形游泳数据统计员，Garmin Fenix 智能手表深度使用分享]]></title>
-        <id>https://sspai.com/post/81215</id>
-        <link href="https://sspai.com/post/81215"/>
-        <updated>2023-08-14T03:35:01.000Z</updated>
-        <summary type="html"><![CDATA[打个不恰当的比方，如果说 Apple Watch 是 CBD 中翘楚新锐，Garmin Fenix 则是时刻等待使命召唤的健将战士。查看全文]]></summary>
-        <author>
-            <name>feverlife</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[观点 | 我的 Linux 团队使用 Penpot 的 3 个原因 https://linux.cn/article-16092-1.html Penpot 是一个设计师和开发人员使用的开源设计工作空间。]]></title>
         <id>https://twitter.com/linux_cn/status/1690924522969460736</id>
         <link href="https://twitter.com/linux_cn/status/1690924522969460736"/>
@@ -1303,16 +1343,6 @@ https://linux.cn/article-16092-1.html
 Penpot 是一个设计师和开发人员使用的开源设计工作空间。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Zoom 承诺不用通信内容训练 AI，Android 版 Firefox 将支持扩展]]></title>
-        <id>https://sspai.com/post/81988</id>
-        <link href="https://sspai.com/post/81988"/>
-        <updated>2023-08-14T00:58:26.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Zoom修改条款，承诺不用通信内容训练AI8月12日，Zoom再次修改了近日引发争议的新版服务条款，明确承诺「不会使用你的任何音频、视频、聊天、屏幕共享、附件或其他『通信类客户内容』 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
