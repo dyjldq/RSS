@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/vscode-as-scratchpad",
+          "author": "PlatyHsu",
+          "description": "借助配置文件、任务、代码片段和快捷键映射等功能，就能把 VS Code 变成一个跨平台、全功能的 Markdown「草稿本」，同时不影响它发挥代码编辑器的本职功能。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/vscode-as-scratchpad",
+          "publishedOn": "2023-09-13T10:05:35.000Z",
+          "wordCount": 1279,
+          "title": "将 VS Code 打造成跨平台 Markdown「草稿本」",
+          "imageUrl": "https://cdn.sspai.com/9/13/2023/article/fdc221d5-abb9-8a5e-fb74-f4571574d9c8.png"
+        },
+        {
+          "id": "https://sspai.com/post/82626",
+          "author": "SoraStar",
+          "description": "尽管磁带在商用存储领域大放异彩，但对民用领域而言，磁带的未来似乎正如同大多数存储设备一样，大展身手后被市场淘汰，最后沦为人们缅怀过去的谈资。查看全文",
+          "link": "https://sspai.com/post/82626",
+          "publishedOn": "2023-09-13T09:25:12.000Z",
+          "wordCount": 747,
+          "title": "你记忆中的磁带从何而来，大放异彩之后它又去了哪里？",
+          "imageUrl": "https://cdn.sspai.com/2023/09/01/5ca9dadbf88a116cb9225042faebd22f.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82238",
+          "author": "养鳖大亨",
+          "description": "飞书对我来说是一款好产品，但它可能要挣扎更久。查看全文",
+          "link": "https://sspai.com/post/82238",
+          "publishedOn": "2023-09-13T07:07:40.000Z",
+          "wordCount": 770,
+          "title": "飞书，见证 B 端陷阱",
+          "imageUrl": "https://cdn.sspai.com/2023/08/20/dc2988690c4151d49ef095c075bf907f.png"
+        },
+        {
+          "id": "https://sspai.com/post/82899",
+          "author": "少数派编辑部",
+          "description": "英特尔推出 Thunderbolt 5 连接标准，OPPO 将与索尼合作推出新款 LYTIA 图像传感器等。查看全文",
+          "link": "https://sspai.com/post/82899",
+          "publishedOn": "2023-09-12T23:58:35.000Z",
+          "wordCount": 987,
+          "title": "派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等",
+          "imageUrl": "https://cdn.sspai.com/2023/9/13/article/504e808b-911c-5bea-115d-bbe50262abc8.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82898",
           "author": "少数派编辑部",
           "description": "如果你没有熬夜看本次发布会，不用担心，少数派不仅整理了详细回顾文章，还连夜赶制了要点一图流，让你用最简单直观的方式迅速了解 Apple 新品的完整动态。查看全文",
@@ -1124,56 +1164,6 @@
           "wordCount": 743,
           "title": "派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等",
           "imageUrl": "https://cdn.sspai.com/2023/8/16/article/571b6250-0e78-f758-48c4-bf10e217c4e1.png"
-        },
-        {
-          "id": "https://sspai.com/post/82042",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/82042",
-          "publishedOn": "2023-08-15T09:26:22.000Z",
-          "wordCount": 816,
-          "title": "社区速递 008 | 夏日好物、基于 Obisidian 的生活记录以及新玩意",
-          "imageUrl": "https://cdn.sspai.com/8/15/2023/article/2591eaec-3dad-102f-792e-fd778bdda4e4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82017",
-          "author": "张奕源Nick",
-          "description": "「iPad 笔记课代表」活动的获奖作品在厦门 Apple Store 与观众见面，几位参与了本次作品征集的笔记创作者也来到活动现场，分享了他们的笔记创作过程和心得。查看全文",
-          "link": "https://sspai.com/post/82017",
-          "publishedOn": "2023-08-15T08:30:00.000Z",
-          "wordCount": 728,
-          "title": "遇见「iPad 笔记课代表」：2023 iPad 电子笔记大赛回顾",
-          "imageUrl": "https://cdn.sspai.com/14/08/2023/article/42b11100-01c8-a989-b207-98d227401dac.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82018",
-          "author": "少数派播客",
-          "description": "在本期节目中，笪屹超人分享了他作为一名科技博主的成长历程以及日常使用的效率工具。节目中，他还给想要涉入科技行业的自媒体新人们一些诚恳的建议。查看全文",
-          "link": "https://sspai.com/post/82018",
-          "publishedOn": "2023-08-15T07:30:00.000Z",
-          "wordCount": 661,
-          "title": "播客 | 对话笪屹超人：如何成为不一样的科技博主",
-          "imageUrl": "https://cdn.sspai.com/14/08/2023/article/f4133f79-36e4-ead2-9683-f5dfffde9ed6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81294",
-          "author": "小梨笔记",
-          "description": "甲之砒霜乙之蜜糖，最重要的是发现自己的需求，然后根据自己的需求去找合适的工具，而不是被工具绑架，强迫自己去适应某一个工具。查看全文",
-          "link": "https://sspai.com/post/81294",
-          "publishedOn": "2023-08-15T03:31:10.000Z",
-          "wordCount": 733,
-          "title": "关于番茄工作法的思考，和替代解决方案",
-          "imageUrl": "https://cdn.sspai.com/2023/07/19/86b3726b7a9215526a6a4b9ac2c2a45a.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/82034",
-          "author": "少数派编辑部",
-          "description": "抖音新成立文娱部门，Netflix 游戏将登陆更多平台查看全文",
-          "link": "https://sspai.com/post/82034",
-          "publishedOn": "2023-08-15T01:08:24.000Z",
-          "wordCount": 800,
-          "title": "派早报：小米召开 2023 年度新品发布会，阿里集团明确钉钉独立发展等",
-          "imageUrl": "https://cdn.sspai.com/2023/8/15/article/a174b6c6-2b78-3e9a-774a-5bf45abdba41.png"
         }
       ]
     },
