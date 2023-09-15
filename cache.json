@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82951",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/82951",
+          "publishedOn": "2023-09-14T09:25:12.000Z",
+          "wordCount": 850,
+          "title": "新玩意 160｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdn.sspai.com/2023/9/14/article/d1d0ec68-9521-cc98-8017-610ce90583a0.png"
+        },
+        {
+          "id": "https://sspai.com/post/82939",
+          "author": "化学心情下2",
+          "description": "9月13日凌晨，Apple召开新品发布会，推出新一代iPhone和AppleWatch系列设备。其中iPhone15和iPhone15Pro系列的四款机型将会在北京时间9月15日20:00接受订购，A ...查看全文",
+          "link": "https://sspai.com/post/82939",
+          "publishedOn": "2023-09-14T06:50:17.000Z",
+          "wordCount": 904,
+          "title": "下单新 iPhone 前，先来看看外媒真机上手体验",
+          "imageUrl": "https://cdn.sspai.com/2023/9/14/article/2fed7e63-0eb2-81af-1d40-a903823dda5d.png"
+        },
+        {
+          "id": "https://sspai.com/post/82326",
+          "author": "EricYoung",
+          "description": "打造一个让自己专注的角落，并不需要一大堆硬核设备，你只需要加入一点能提升品质的元素就足够了。当你能够在这里开始阅读、写作、放空、慢慢地进入另一种生活状态时，我相信，你距离下一个人生闪光点已经不远了。查看全文",
+          "link": "https://sspai.com/post/82326",
+          "publishedOn": "2023-09-14T03:35:37.000Z",
+          "wordCount": 724,
+          "title": "专注也需要一个空间：给自己布置一个简易书房角落",
+          "imageUrl": "https://cdn.sspai.com/2023/08/23/fdeb43f0eff8fc77d7284377f7919e9f.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/82930",
+          "author": "少数派编辑部",
+          "description": "微软 Android 软硬件消息两则、高通骁龙将成为曼联队的球衣胸前广告赞助商等。查看全文",
+          "link": "https://sspai.com/post/82930",
+          "publishedOn": "2023-09-14T00:52:57.000Z",
+          "wordCount": 778,
+          "title": "派早报：Unity 引擎调整收费模式、华为和小米达成交叉专利许可等",
+          "imageUrl": "https://cdn.sspai.com/14/09/2023/article/f666c207-df17-bc48-1aa6-746006d71cf4.jpg"
+        },
+        {
           "id": "https://sspai.com/prime/story/vscode-as-scratchpad",
           "author": "PlatyHsu",
           "description": "借助配置文件、任务、代码片段和快捷键映射等功能，就能把 VS Code 变成一个跨平台、全功能的 Markdown「草稿本」，同时不影响它发挥代码编辑器的本职功能。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1124,46 +1164,6 @@
           "wordCount": 812,
           "title": "派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等",
           "imageUrl": "https://cdn.sspai.com/17/08/2023/article/57b26214-4de9-d314-7b46-8f60d44ed5b1.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81926",
-          "author": "小梨笔记",
-          "description": "以成熟方案为参考，结合自己的实际需求，我迭代了目前来说合适自己的知识管理工作流。查看全文",
-          "link": "https://sspai.com/post/81926",
-          "publishedOn": "2023-08-16T09:00:00.000Z",
-          "wordCount": 789,
-          "title": "极简三步，我的个人知识管理工作流",
-          "imageUrl": "https://cdn.sspai.com/2023/08/10/4c9fe9ebb256009109271cd1bcc47b26.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/81940",
-          "author": "SIMON_",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/81940",
-          "publishedOn": "2023-08-16T07:15:14.000Z",
-          "wordCount": 730,
-          "title": "日本浮生录 01：首次自驾，听佐渡岛与大地艺术节的交响",
-          "imageUrl": "https://cdn.sspai.com/2023/08/11/c08afdb8063198131314d29953dc00e3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/81413",
-          "author": "散步黑色公鸡",
-          "description": "我做了一个 app，帮你方便地加上相机水印。查看全文",
-          "link": "https://sspai.com/post/81413",
-          "publishedOn": "2023-08-16T03:30:18.000Z",
-          "wordCount": 682,
-          "title": "App+1 | 给照片加上「徕卡风格」水印，这个 app 比快捷指令更方便",
-          "imageUrl": "https://cdn.sspai.com/2023/07/23/1c426d1e15c2263271b1ca210a5aad73.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82066",
-          "author": "少数派编辑部",
-          "description": "Google Chrome 将推出网页摘要功能，亚马逊推出基于生成式 AI 的商品评价摘要等。查看全文",
-          "link": "https://sspai.com/post/82066",
-          "publishedOn": "2023-08-16T00:32:23.000Z",
-          "wordCount": 743,
-          "title": "派早报：微信公众号支持图片修改、微软将推送新版 Office 应用默认主题等",
-          "imageUrl": "https://cdn.sspai.com/2023/8/16/article/571b6250-0e78-f758-48c4-bf10e217c4e1.png"
         }
       ]
     },
