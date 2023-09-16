@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-15T00:35:25.220Z</updated>
+    <updated>2023-09-16T00:34:18.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
+        <id>https://sspai.com/post/82969</id>
+        <link href="https://sspai.com/post/82969"/>
+        <updated>2023-09-15T09:59:03.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]永安镇故事集、[国产]我有一个朋友、[美剧]行尸走肉：达里尔·迪克森第一季、[韩剧]2时15分、[韩剧]恋人、[日剧]她们的犯罪、[动画]火之鸟伊甸之宙、[纪录片] ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？]]></title>
+        <id>https://sspai.com/post/82916</id>
+        <link href="https://sspai.com/post/82916"/>
+        <updated>2023-09-15T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[正所谓人靠衣装，我们平时寸步不离的手机自然也离不开各种配件的装点。无论是简单的手机壳、充电器，还是看似「花里胡哨」的手机支架、外接设备，这些能够提升「幸福感」的手机配件，往往能让我们使用手机时感到更加 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化]]></title>
+        <id>https://sspai.com/post/82913</id>
+        <link href="https://sspai.com/post/82913"/>
+        <updated>2023-09-15T07:03:38.000Z</updated>
+        <summary type="html"><![CDATA[曾经那些出现在 iPhone 上「极为先进」的接口们，是怎样诞生、发展，再成为历史的。查看全文]]></summary>
+        <author>
+            <name>宛潼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Obsidian 两年以后，聊聊我的同步和整理心得]]></title>
+        <id>https://sspai.com/post/82501</id>
+        <link href="https://sspai.com/post/82501"/>
+        <updated>2023-09-15T03:32:06.000Z</updated>
+        <summary type="html"><![CDATA[作者从早期使用多插件进行知识管理，到现在精简插件，强调搜索功能的重要性。作者现在的 Obsidian 使用方法更倾向于将一个问题或观念在一张文档内阐述清楚，而不是大量的整理归类。此外，作者也提到了如何在 Obsidian 中建立有效的索引，以便于管理和查找内容。查看全文]]></summary>
+        <author>
+            <name>Seyee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等]]></title>
+        <id>https://sspai.com/post/82957</id>
+        <link href="https://sspai.com/post/82957"/>
+        <updated>2023-09-15T00:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Stability AI 推出 Stable Audio 工具，网件发布新款 Nighthawk Wi-Fi 6E Mesh 路由器等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新玩意 160｜少数派的编辑们最近买了啥？]]></title>
         <id>https://sspai.com/post/82951</id>
@@ -1115,67 +1165,6 @@
         <link href="https://sspai.com/post/82141"/>
         <updated>2023-08-18T00:45:05.000Z</updated>
         <summary type="html"><![CDATA[文心一言现上线插件功能，微软将允许用户卸载更多的内置应用等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派产品经理 SamWanng 都装了啥？]]></title>
-        <id>https://sspai.com/prime/story/zhuanglesha-230817</id>
-        <link href="https://sspai.com/prime/story/zhuanglesha-230817"/>
-        <updated>2023-08-17T09:59:01.000Z</updated>
-        <summary type="html"><![CDATA[信息茧房的困局总是难以逃脱，更重要的是以开放的心态去多多了解和接触，去选择资讯和分析结果。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>SamWanng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 158｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/82125</id>
-        <link href="https://sspai.com/post/82125"/>
-        <updated>2023-08-17T09:08:38.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有些实用，有些华丽，这是派商店为你准备的七夕新品]]></title>
-        <id>https://sspai.com/post/82091</id>
-        <link href="https://sspai.com/post/82091"/>
-        <updated>2023-08-17T08:30:35.000Z</updated>
-        <summary type="html"><![CDATA[七夕节即将到来，我们又为你筛选了一系列的商品，有些适合送礼，有些自用也还不错。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 用游戏互动守护你的颈椎：NeckGo]]></title>
-        <id>https://sspai.com/post/82035</id>
-        <link href="https://sspai.com/post/82035"/>
-        <updated>2023-08-17T07:01:15.000Z</updated>
-        <summary type="html"><![CDATA[NeckGo 是由曾打造 Arrrt、Daaay 等产品并获得 App Store 编辑推荐的团队，携手波克医疗打造的一款游戏化颈椎健康应用，它利用 AirPods 等智能产品的传感器，通过游戏化、社交化的的方式来帮助用户舒缓颈椎问题、锻炼肩颈肌肉、保持良好坐姿。查看全文]]></summary>
-        <author>
-            <name>Humanitech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要创意，也要规范：Function Call 如何让 GPT 更懂你？]]></title>
-        <id>https://sspai.com/post/81986</id>
-        <link href="https://sspai.com/post/81986"/>
-        <updated>2023-08-17T03:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Function Call 的发布，我觉得是给社区提供了一种现有系统能力轻松集成进会话的实现范式。开发者只需要极低的研发成本，就可以为用户带来完全不同的产品体验，进而引发更巨大的产品形态变革，用户与界面的交互方式也会产生质的飞跃。查看全文]]></summary>
-        <author>
-            <name>空谷</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：一加发布 Ace 2 Pro 手机、Setapp 将推出 iOS 应用商店等]]></title>
-        <id>https://sspai.com/post/82109</id>
-        <link href="https://sspai.com/post/82109"/>
-        <updated>2023-08-17T00:25:28.000Z</updated>
-        <summary type="html"><![CDATA[《钉钉》开放个人版内测、YouTube Music 增加 Samples 短视频功能等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
