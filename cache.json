@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/ppc-history-08",
+          "author": "MIG",
+          "description": "乔布斯与盖茨和好、剿杀 Mac 克隆，使苹果得以挺过艰难时光。PowerPC 的工程师们不负众望，打造出力压奔腾 II 的 G3。但乔布斯却开始逐渐萌生向英特尔靠拢的想法。查看全文\n本文为付费栏目文章，出自《处理器简史之 PowerPC》，订阅后可阅读全文。\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/ppc-history-08",
+          "publishedOn": "2023-09-16T10:13:25.000Z",
+          "wordCount": 1227,
+          "title": "处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）",
+          "imageUrl": "https://cdn.sspai.com/9/16/2023/article/5101915b-0dd1-78fc-c2e6-165b8abfefa0.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/82791",
+          "author": "熊猫别熬夜",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/82791",
+          "publishedOn": "2023-09-16T09:00:21.000Z",
+          "wordCount": 976,
+          "title": "Eagle 的隐藏用法：批量导入并管理 Zotero 的标注图片",
+          "imageUrl": "https://cdn.sspai.com/9/16/2023/article/ba29f713-a3e8-f301-f24b-4f47741ffa14.png"
+        },
+        {
           "id": "https://sspai.com/post/82969",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[电影]永安镇故事集、[国产]我有一个朋友、[美剧]行尸走肉：达里尔·迪克森第一季、[韩剧]2时15分、[韩剧]恋人、[日剧]她们的犯罪、[动画]火之鸟伊甸之宙、[纪录片] ...查看全文",
@@ -1114,46 +1134,6 @@
           "wordCount": 719,
           "title": "在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人",
           "imageUrl": "https://cdn.sspai.com/18/08/2023/article/5b164888-d968-927b-2bd6-b4cb2b41a912.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82149",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[韩剧]Moving超异能族、[韩剧]国民死刑投票、[美剧]大楼里只有谋杀第三季、[日剧]没有季节的城市、[美剧]无痛杀手、[电影]戏梦空间、[美剧]保留地之犬第三季/最终 ...查看全文",
-          "link": "https://sspai.com/post/82149",
-          "publishedOn": "2023-08-18T10:12:49.000Z",
-          "wordCount": 918,
-          "title": "本周看什么 | 最近值得一看的一大壶作品",
-          "imageUrl": "https://cdn.sspai.com/2023/8/18/article/290688fe-8d66-5065-37ae-96ff64260be9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82099",
-          "author": "feverlife",
-          "description": "其实经营人脉不难，说白了就是把人做地道，把事做漂亮，把话说体面，人脉肯定不会差。所有人脉往来的核心还是在人待人、人处事上。查看全文",
-          "link": "https://sspai.com/post/82099",
-          "publishedOn": "2023-08-18T07:00:00.000Z",
-          "wordCount": 710,
-          "title": "有人的地方就有江湖，聊聊我眼中的「价值」与「人脉」",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/cje94itb34tamr9691j0"
-        },
-        {
-          "id": "https://sspai.com/post/82085",
-          "author": "愚人哲",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82085",
-          "publishedOn": "2023-08-18T03:30:00.000Z",
-          "wordCount": 674,
-          "title": "保持情绪健康，我选择每天用十分钟自我疗愈",
-          "imageUrl": "https://cdn.sspai.com/2023/08/16/8729a0c0742fe557721605e79b34df56.png"
-        },
-        {
-          "id": "https://sspai.com/post/82141",
-          "author": "少数派编辑部",
-          "description": "文心一言现上线插件功能，微软将允许用户卸载更多的内置应用等查看全文",
-          "link": "https://sspai.com/post/82141",
-          "publishedOn": "2023-08-18T00:45:05.000Z",
-          "wordCount": 817,
-          "title": "派早报：Apple 庆祝在中国发展 30 周年、罗德推出无线麦克风套组",
-          "imageUrl": "https://cdn.sspai.com/8/18/2023/article/64406624-bc57-e6d6-bbd0-63441f222378.png"
         }
       ]
     },
