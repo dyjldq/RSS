@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-17T00:37:19.986Z</updated>
+    <updated>2023-09-18T00:35:33.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开学季 | 值得关注的官翻渠道汇总 (2023)]]></title>
+        <id>https://sspai.com/post/82996</id>
+        <link href="https://sspai.com/post/82996"/>
+        <updated>2023-09-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[比二手更可靠，比全新价更低。查看全文]]></summary>
+        <author>
+            <name>Noah_Choi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[处理器简史｜PowerPC 08：否极泰来 以弱胜强（下）]]></title>
         <id>https://sspai.com/prime/story/ppc-history-08</id>
@@ -1140,16 +1150,6 @@
 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
         <author>
             <name>许万里Alva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在三里屯 Apple Store，我们遇见了张亚东和一群充满创意的年轻人]]></title>
-        <id>https://sspai.com/post/82163</id>
-        <link href="https://sspai.com/post/82163"/>
-        <updated>2023-08-19T03:43:02.000Z</updated>
-        <summary type="html"><![CDATA[这是个美好的时代，科技的发展不是为了取代你我，而是为了让我们变得更好。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
         </author>
     </entry>
     <entry>
