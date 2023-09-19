@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-18T00:35:33.475Z</updated>
+    <updated>2023-09-19T00:35:52.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/83027</id>
+        <link href="https://sspai.com/post/83027"/>
+        <updated>2023-09-18T09:43:57.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 发布会上没有告诉你的那些事]]></title>
+        <id>https://sspai.com/post/82987</id>
+        <link href="https://sspai.com/post/82987"/>
+        <updated>2023-09-18T07:06:12.000Z</updated>
+        <summary type="html"><![CDATA[每年发布会 Apple 都会留下一些悬念，等待大家去发掘。iPhone 15 系列还没正式发货，我们整理了 Apple 发布会上没提到的事，一起看看有没有你感兴趣的。查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obsidian + Excalidraw：我的个人知识管理可视化方法论]]></title>
+        <id>https://sspai.com/post/82130</id>
+        <link href="https://sspai.com/post/82130"/>
+        <updated>2023-09-18T03:01:49.000Z</updated>
+        <summary type="html"><![CDATA[「可视化笔记」在 Obsidian 环境中的对比与应用。查看全文]]></summary>
+        <author>
+            <name>Echo_Nebula_PKM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案]]></title>
+        <id>https://sspai.com/post/83006</id>
+        <link href="https://sspai.com/post/83006"/>
+        <updated>2023-09-18T00:58:01.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事苹果更新iPhone12软件以符合法国射频规定据路透社等报道，9月15日，在法国以违反射频辐射限制为由停售iPhone12后，苹果承诺在法国更新该型号的软件，以符合当地规定。此前在上 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开学季 | 值得关注的官翻渠道汇总 (2023)]]></title>
         <id>https://sspai.com/post/82996</id>
@@ -1118,38 +1158,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事《黑神话：悟空》举办线下试玩，上架Steam8月20日上午十点，《黑神话：悟空》在杭州举行首次线下试玩会，并通过B站直播。英伟达同步发布了基于线下试玩同一版本录制的实机视频，内容为4 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去往「夜之城」的更深处：《赛博朋克 2077》衍生作品介绍]]></title>
-        <id>https://sspai.com/post/82216</id>
-        <link href="https://sspai.com/post/82216"/>
-        <updated>2023-08-20T07:00:05.000Z</updated>
-        <summary type="html"><![CDATA[在这个特殊的日子里，你可以在这些衍生作品里感受更立体、更深层次的赛博朋克之美。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被浏览器厂商公开反对，想让你少看验证码的 WEI API 哪里出了问题？]]></title>
-        <id>https://sspai.com/post/81970</id>
-        <link href="https://sspai.com/post/81970"/>
-        <updated>2023-08-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WEI API 究竟是什么？它为什么能激起如此激烈的反对？查看全文]]></summary>
-        <author>
-            <name>Shiau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰岛记忆：梦乡和梦魇咫尺之间]]></title>
-        <id>https://sspai.com/prime/story/iceland-tour-guide-1</id>
-        <link href="https://sspai.com/prime/story/iceland-tour-guide-1"/>
-        <updated>2023-08-19T13:09:23.000Z</updated>
-        <summary type="html"><![CDATA[[......]
-查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>许万里Alva</name>
         </author>
     </entry>
     <entry>
