@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-19T00:35:52.324Z</updated>
+    <updated>2023-09-20T00:35:20.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[手感更轻、性能更重：iPhone 15 Pro 快速上手体验]]></title>
+        <id>https://sspai.com/post/83066</id>
+        <link href="https://sspai.com/post/83066"/>
+        <updated>2023-09-19T13:01:08.000Z</updated>
+        <summary type="html"><![CDATA[随着新一代 iPhone 系列机型的亮相以及正式发售日期的临近，在拿到新设备前，相信不少人都对几款新 iPhone 有许多感兴趣的细节和疑问。在正式发售前夕，少数派也有机会获得了提前体验新款 iPhone 的机会，对于大家比较关心的配色、外观、重量、新功能等问题，我们在短暂体验之后也进行了整理，通过这篇文章与你分享。查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一步步做个最适合自己的键盘固件：QMK 固件制作全解]]></title>
+        <id>https://sspai.com/prime/story/qmk-firmware-tutorial</id>
+        <link href="https://sspai.com/prime/story/qmk-firmware-tutorial"/>
+        <updated>2023-09-19T09:33:28.000Z</updated>
+        <summary type="html"><![CDATA[入坑客制化键盘早晚都会接触到 VIA 这个改键软件，本文将带你开启自己编写键盘固件的第一步。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>炜智能</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库]]></title>
+        <id>https://sspai.com/post/83052</id>
+        <link href="https://sspai.com/post/83052"/>
+        <updated>2023-09-19T09:27:48.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？]]></title>
+        <id>https://sspai.com/post/82826</id>
+        <link href="https://sspai.com/post/82826"/>
+        <updated>2023-09-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GUGA 就像班级中的全能学生，什么都能做、但什么都做不到最好——好在它的独特优势和风格，在一众缺乏新意的笔记市场中仍显难能可贵。查看全文]]></summary>
+        <author>
+            <name>Lars漫步</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 17 正式版来了，升级后先试试这些新功能]]></title>
+        <id>https://sspai.com/post/83015</id>
+        <link href="https://sspai.com/post/83015"/>
+        <updated>2023-09-19T03:30:02.000Z</updated>
+        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 17 中值得关注的新功能和新特性，希望帮你进一步了解新版系统的方方面面。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派开箱 | 当轻巧与耐用兼得，Bellroy 又设计了怎样的好包]]></title>
+        <id>https://sspai.com/post/82906</id>
+        <link href="https://sspai.com/post/82906"/>
+        <updated>2023-09-19T02:06:58.000Z</updated>
+        <summary type="html"><![CDATA[九年前在别司工作时策划了几场「海外精品」主题的海淘活动，也是在那会儿初识Bellroy。彼时说「品牌」有些隆重，它更像是一个小小的「设计工作室」，秉承着「slimyourwallet」的理念销售着寥寥 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：iPhone 15 机型维修费用公布、iOS 17 等系统正式版发布等]]></title>
+        <id>https://sspai.com/post/83044</id>
+        <link href="https://sspai.com/post/83044"/>
+        <updated>2023-09-19T01:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Unity 为收费政策发布致歉，大疆回应近期传言等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/83027</id>
@@ -1096,66 +1167,6 @@
         <link href="https://sspai.com/post/82272"/>
         <updated>2023-08-22T00:53:40.000Z</updated>
         <summary type="html"><![CDATA[X 称 2014 年之前推文配图丢失是 bug 所致，自动驾驶出租车公司 Cruise 被要求减半车队规模等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context 众筹 ｜ 搭建你的个人英语「语境库」]]></title>
-        <id>https://sspai.com/post/82252</id>
-        <link href="https://sspai.com/post/82252"/>
-        <updated>2023-08-21T10:01:12.000Z</updated>
-        <summary type="html"><![CDATA[我们做了一个 App，帮助你通过收集语境加快学习单词的效率查看全文]]></summary>
-        <author>
-            <name>kai_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/82255</id>
-        <link href="https://sspai.com/post/82255"/>
-        <updated>2023-08-21T09:45:50.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产热门 3A 大作举行线下试玩：《黑神话：悟空》玩起来怎么样？]]></title>
-        <id>https://sspai.com/post/82244</id>
-        <link href="https://sspai.com/post/82244"/>
-        <updated>2023-08-21T07:20:39.000Z</updated>
-        <summary type="html"><![CDATA[《黑神话：悟空》是一款以西游题材为背景的单机动作角色扮演游戏，开发团队「游戏科学」来自中国杭州，本作将于 2024 年夏季正式发售。《黑神话：悟空》于 2020 年 8 月 20 日公布了首支实机演示视频，并于 3 年后即 2023 年 8 月 20 日在杭州举行了首次千人线下试玩活动。本文作者 IGN 中国作为国内知名游戏媒体，在试玩会前一个月受邀参与了本作的内部闭门测试活动，本文即为相关游玩体验。查看全文]]></summary>
-        <author>
-            <name>IGN中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Talk | 不吝想法和创意：聊聊我们收到的七夕礼物]]></title>
-        <id>https://sspai.com/post/82234</id>
-        <link href="https://sspai.com/post/82234"/>
-        <updated>2023-08-21T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[每到七夕这样的节日，我们总能在网上看到许多「送XX礼物」这样的话题和讨论。在向心爱之人表达爱意这件事上，大家似乎从来不吝自己的创意与想法。在送礼的时候，有些人或许喜欢黄金、红包这样「务实」的选择，而有 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本浮生录 02：漫步北九州，感受自然和人文之美]]></title>
-        <id>https://sspai.com/post/82037</id>
-        <link href="https://sspai.com/post/82037"/>
-        <updated>2023-08-21T03:37:32.000Z</updated>
-        <summary type="html"><![CDATA[九州有着丰富的自然景观，包括火山、温泉、山脉以及绝美的海岸线，还有众多当地小吃和美食，如果你已经已经去过日本其他地方或是想要体验与众不同的日本文化，它应该是不错的选择。查看全文]]></summary>
-        <author>
-            <name>SIMON_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：《黑神话：悟空》举办线下试玩，稚晖君团队首款机器人亮相]]></title>
-        <id>https://sspai.com/post/82240</id>
-        <link href="https://sspai.com/post/82240"/>
-        <updated>2023-08-21T00:54:54.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事《黑神话：悟空》举办线下试玩，上架Steam8月20日上午十点，《黑神话：悟空》在杭州举行首次线下试玩会，并通过B站直播。英伟达同步发布了基于线下试玩同一版本录制的实机视频，内容为4 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
