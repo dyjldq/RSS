@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-20T00:35:20.236Z</updated>
+    <updated>2023-09-21T00:35:23.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[双轨歌词、动态封面：我是如何用 mpv 听歌的]]></title>
+        <id>https://sspai.com/post/82744</id>
+        <link href="https://sspai.com/post/82744"/>
+        <updated>2023-09-20T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[mpv 是一款媒体播放器——尽管在大多数读者的认知中，它作为视频播放器的存在感更强、用途也更常见一点。本文则另辟蹊径，教你利用 mpv 的字幕功能打造带封面展示和歌词的本地音乐播放器。查看全文]]></summary>
+        <author>
+            <name>scillidan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出行锦囊 | 如何买到一张价格合理的机票]]></title>
+        <id>https://sspai.com/post/83081</id>
+        <link href="https://sspai.com/post/83081"/>
+        <updated>2023-09-20T07:19:11.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文为「这个夏天我在这」特别活动延伸策划内容，通过行程规划、旅途好物、出行游记等一系列相关话题内容，希望能够帮助你策划一场更加「完美」的旅游。也欢迎你在微博参加我们的照片征集活动，告诉我们你在路 ...查看全文]]></summary>
+        <author>
+            <name>煎饼饼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更有本事， 更显你本色：iPadOS 17 中值得关注的新特性]]></title>
+        <id>https://sspai.com/post/83079</id>
+        <link href="https://sspai.com/post/83079"/>
+        <updated>2023-09-20T03:30:57.000Z</updated>
+        <summary type="html"><![CDATA[今年的 iPadOS 17 更新在补全一些基础功能之外还带来了不少新功能，在这篇文章中我们帮你整理出了 iPadOS 17 中这些值得关注的新特性查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等]]></title>
+        <id>https://sspai.com/post/83076</id>
+        <link href="https://sspai.com/post/83076"/>
+        <updated>2023-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Core Ultra 处理器将于 12 月 14 日发布，Windows 为画图应用加入图层功能。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手感更轻、性能更重：iPhone 15 Pro 快速上手体验]]></title>
         <id>https://sspai.com/post/83066</id>
@@ -1127,46 +1167,6 @@
         <link href="https://sspai.com/post/82324"/>
         <updated>2023-08-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Anker 发布 Soundcore Space One 耳机，微软将动视暴雪云游戏版权转售给育碧等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 009 | 超实用汽车配件、防摸鱼工具以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/82278</id>
-        <link href="https://sspai.com/post/82278"/>
-        <updated>2023-08-22T09:27:07.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客 | 对话蒋方舟：写作，一种生活方式]]></title>
-        <id>https://sspai.com/post/82276</id>
-        <link href="https://sspai.com/post/82276"/>
-        <updated>2023-08-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在本期节目里，蒋方舟坦诚地谈到了她的作家身份、她的创作、她对文学的看法，以及她的「断网少女」生活。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生产力祛魅：理清适合自己的工作流，社科工作者是这么做的]]></title>
-        <id>https://sspai.com/post/82092</id>
-        <link href="https://sspai.com/post/82092"/>
-        <updated>2023-08-22T03:41:22.000Z</updated>
-        <summary type="html"><![CDATA[「生产力祛魅」系列主要记录并分析我个人的生产力工作流，它不是一个能够简单复制的工作流，而是希望为朋友们提供借鉴与经验，吸收精华，将不符合自身的内容摒弃，从而塑造出符合自身的生产力工作流。查看全文]]></summary>
-        <author>
-            <name>Soar_Freely</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：国区 Skype for Business 停运，QQ 客户端存在漏洞等]]></title>
-        <id>https://sspai.com/post/82272</id>
-        <link href="https://sspai.com/post/82272"/>
-        <updated>2023-08-22T00:53:40.000Z</updated>
-        <summary type="html"><![CDATA[X 称 2014 年之前推文配图丢失是 bug 所致，自动驾驶出租车公司 Cruise 被要求减半车队规模等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
