@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T00:35:23.234Z</updated>
+    <updated>2023-09-22T00:35:18.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奥本海默没看够？这 8 部人物传记电影让你更了解他们]]></title>
+        <id>https://sspai.com/post/83098</id>
+        <link href="https://sspai.com/post/83098"/>
+        <updated>2023-09-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[随着《奥本海默》的热映，诺兰将镜头对准这位「原子弹之父」的一生，也让观众将目光看向了二战时期和那些拥有传奇人生的科学家们。如果你也因《奥本海默》而对更多历史人物和传记电影感兴趣，不妨收藏这份「人物传记 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可能是近几年 Apple Store 的最大胜利：iPhone 15 系列选购指南]]></title>
+        <id>https://sspai.com/post/83113</id>
+        <link href="https://sspai.com/post/83113"/>
+        <updated>2023-09-21T07:04:41.000Z</updated>
+        <summary type="html"><![CDATA[可能是近几年最好选的一代，也是最让人纠结的一代。查看全文]]></summary>
+        <author>
+            <name>宛潼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图标设计知往鉴今：致敬 Apple 初代设计师 Susan Kare]]></title>
+        <id>https://sspai.com/post/82739</id>
+        <link href="https://sspai.com/post/82739"/>
+        <updated>2023-09-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[谈谈图标的诞生、历史渊源和图标的今天。查看全文]]></summary>
+        <author>
+            <name>Micoxx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：尼康推出 Z f 复古相机、荣耀发布 V Purse 钱包手机等]]></title>
+        <id>https://sspai.com/post/83101</id>
+        <link href="https://sspai.com/post/83101"/>
+        <updated>2023-09-21T00:43:39.000Z</updated>
+        <summary type="html"><![CDATA[阿里影业宣布收购大麦、TCL 发布双子舱洗烘护集成机 T10、Netflix 公布《鬼武者》动画版预告片等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[双轨歌词、动态封面：我是如何用 mpv 听歌的]]></title>
         <id>https://sspai.com/post/82744</id>
@@ -1127,46 +1167,6 @@
         <link href="https://sspai.com/post/82370"/>
         <updated>2023-08-24T00:34:51.000Z</updated>
         <summary type="html"><![CDATA[联发科确认其下一代旗舰芯片组可在手机本地运行生成式 AI、TVB 与腾讯视频签署合作协议、索尼正式确认串流掌机名称等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[近 30 款新作齐聚之夜：科隆展前发布会信资讯汇总]]></title>
-        <id>https://sspai.com/post/82360</id>
-        <link href="https://sspai.com/post/82360"/>
-        <updated>2023-08-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[今天凌晨，一般被称呼为「科隆游戏展」或「科隆展」的 Gamescom 正式拉开帷幕，作为开幕式的重头戏，近 30 款新作齐聚 Opening Night Live——本文带你一一梳理。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo X90s 体验：一次胶片与质感色彩的预演]]></title>
-        <id>https://sspai.com/post/82336</id>
-        <link href="https://sspai.com/post/82336"/>
-        <updated>2023-08-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[聊聊 vivo X90s 和 vivo 的质感色彩模式。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏幕使用时间超标？也许本文可以帮你]]></title>
-        <id>https://sspai.com/post/82138</id>
-        <link href="https://sspai.com/post/82138"/>
-        <updated>2023-08-23T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>他山之石4961</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Beats Studio Buds + 推出新配色、英伟达发布 DLSS 3.5 等]]></title>
-        <id>https://sspai.com/post/82324</id>
-        <link href="https://sspai.com/post/82324"/>
-        <updated>2023-08-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Anker 发布 Soundcore Space One 耳机，微软将动视暴雪云游戏版权转售给育碧等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
