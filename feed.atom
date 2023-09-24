@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-23T00:34:03.953Z</updated>
+    <updated>2023-09-24T00:37:25.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开学季 | 挑个趁手的工具，尽早学会文献管理]]></title>
+        <id>https://sspai.com/post/82931</id>
+        <link href="https://sspai.com/post/82931"/>
+        <updated>2023-09-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[文献管理是个相当未雨绸缪的工作，拖得越晚越积重难返。这篇文章就是给还没有开始第一步的朋友准备的。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大匣作品]]></title>
         <id>https://sspai.com/post/83155</id>
@@ -1119,56 +1129,6 @@
 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
         <author>
             <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大坛作品]]></title>
-        <id>https://sspai.com/post/82430</id>
-        <link href="https://sspai.com/post/82430"/>
-        <updated>2023-08-25T11:03:28.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产剧]装腔启示录、[韩剧]假面女郎、[美剧]阿索卡、[美剧]亿万第七季/最终季、[电影]金币灰黄、[电影]过往人生、[电影]流水落花、[电影]死亡护理师、[动画]雾山五 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[入华 30 周年之际，我们参观了 Apple 智惠教育中心]]></title>
-        <id>https://sspai.com/post/82407</id>
-        <link href="https://sspai.com/post/82407"/>
-        <updated>2023-08-25T08:59:48.000Z</updated>
-        <summary type="html"><![CDATA[在入华 30 周年这样的重要时刻，葛越将 Apple 在浙江大学设立的智惠教育中心设为了行程首站——少数派受邀参观的同时，也就一些我们比较关注的问题进行了采访。查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为表格打开新天地：Excel Python 整合上手体验]]></title>
-        <id>https://sspai.com/post/82426</id>
-        <link href="https://sspai.com/post/82426"/>
-        <updated>2023-08-25T07:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Excel 支持 Python 数据处理功能，有什么用、该怎么用，这篇文章汇总了这些你所关心的问题。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？]]></title>
-        <id>https://sspai.com/post/82268</id>
-        <link href="https://sspai.com/post/82268"/>
-        <updated>2023-08-25T03:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>Roman_Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划]]></title>
-        <id>https://sspai.com/post/82416</id>
-        <link href="https://sspai.com/post/82416"/>
-        <updated>2023-08-25T00:41:24.000Z</updated>
-        <summary type="html"><![CDATA[微软 8 月更新导致部分电脑蓝屏，iOS Beta 版 Chrome 浏览器支持将地址栏移至底部等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82931",
+          "author": "北鸮",
+          "description": "文献管理是个相当未雨绸缪的工作，拖得越晚越积重难返。这篇文章就是给还没有开始第一步的朋友准备的。查看全文",
+          "link": "https://sspai.com/post/82931",
+          "publishedOn": "2023-09-23T07:00:00.000Z",
+          "wordCount": 738,
+          "title": "开学季 | 挑个趁手的工具，尽早学会文献管理",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/ck15rg5b34tdabkg8hb0"
+        },
+        {
           "id": "https://sspai.com/post/83155",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[英剧]性爱自修室第四季、[国产]异人之下、[美剧]早间新闻第三季、[日剧]落日、[日剧]潜入搜查官松下洸平、[韩剧]诱拐之日、[电影]宇航员、[电影]伯爵、[美剧]桃乐丝 ...查看全文",
@@ -1104,56 +1114,6 @@
           "wordCount": 1122,
           "title": "网页直接标注：工具比较与使用技巧",
           "imageUrl": "https://cdn.sspai.com/8/25/2023/article/5f4f508c-37c4-2bb2-a670-f14708052462.png"
-        },
-        {
-          "id": "https://sspai.com/post/82430",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[国产剧]装腔启示录、[韩剧]假面女郎、[美剧]阿索卡、[美剧]亿万第七季/最终季、[电影]金币灰黄、[电影]过往人生、[电影]流水落花、[电影]死亡护理师、[动画]雾山五 ...查看全文",
-          "link": "https://sspai.com/post/82430",
-          "publishedOn": "2023-08-25T11:03:28.000Z",
-          "wordCount": 1001,
-          "title": "本周看什么 | 最近值得一看的一大坛作品",
-          "imageUrl": "https://cdn.sspai.com/2023/8/25/article/9131d3d3-eaa9-a92c-3f2b-17cdaba116a9.png"
-        },
-        {
-          "id": "https://sspai.com/post/82407",
-          "author": "waychane",
-          "description": "在入华 30 周年这样的重要时刻，葛越将 Apple 在浙江大学设立的智惠教育中心设为了行程首站——少数派受邀参观的同时，也就一些我们比较关注的问题进行了采访。查看全文",
-          "link": "https://sspai.com/post/82407",
-          "publishedOn": "2023-08-25T08:59:48.000Z",
-          "wordCount": 747,
-          "title": "入华 30 周年之际，我们参观了 Apple 智惠教育中心",
-          "imageUrl": "https://cdn.sspai.com/2023/8/25/article/82bc8ad1-7dfb-b635-8a30-b03607d20903.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82426",
-          "author": "Kostya",
-          "description": "Excel 支持 Python 数据处理功能，有什么用、该怎么用，这篇文章汇总了这些你所关心的问题。查看全文",
-          "link": "https://sspai.com/post/82426",
-          "publishedOn": "2023-08-25T07:00:34.000Z",
-          "wordCount": 1024,
-          "title": "为表格打开新天地：Excel Python 整合上手体验",
-          "imageUrl": "https://cdn.sspai.com/8/25/2023/article/fd07ac48-76d4-9b48-b9df-e4021727ae46.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82268",
-          "author": "Roman_Wang",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82268",
-          "publishedOn": "2023-08-25T03:20:06.000Z",
-          "wordCount": 685,
-          "title": "接受服务应知应会：从政策到实践，关于「退货」我们应该知道什么？",
-          "imageUrl": "https://cdn.sspai.com/2023/8/25/article/70830eee-4cc8-efe6-83c3-e097f7c439f9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82416",
-          "author": "少数派编辑部",
-          "description": "微软 8 月更新导致部分电脑蓝屏，iOS Beta 版 Chrome 浏览器支持将地址栏移至底部等查看全文",
-          "link": "https://sspai.com/post/82416",
-          "publishedOn": "2023-08-25T00:41:24.000Z",
-          "wordCount": 837,
-          "title": "派早报：Apple 支持加州维修权法案、Epic 宣布独占首发游戏计划",
-          "imageUrl": "https://cdn.sspai.com/8/25/2023/article/9e338298-cdb8-843a-e2c2-ae223f6bdd3d.png"
         }
       ]
     },
