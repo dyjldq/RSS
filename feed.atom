@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-24T00:37:25.315Z</updated>
+    <updated>2023-09-25T00:35:56.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[点一下能解决的事就别长按：Android 应用快捷方式面面观]]></title>
+        <id>https://sspai.com/prime/story/android-intents-affordances</id>
+        <link href="https://sspai.com/prime/story/android-intents-affordances"/>
+        <updated>2023-09-24T13:18:17.000Z</updated>
+        <summary type="html"><![CDATA[替代应用图标、嵌入更多可见界面和提供索引甚至自动化接入，摆在应用快捷方式面前的解法其实有不少。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增加保修次数和年度订阅，这个 Apple 产品保险服务更划算了：AppleCare+ 详解]]></title>
+        <id>https://sspai.com/post/62824</id>
+        <link href="https://sspai.com/post/62824"/>
+        <updated>2023-09-24T05:53:01.000Z</updated>
+        <summary type="html"><![CDATA[你该不该为手上的 Apple 设备买一份「保险」？AppleCare+ 条款更新解读和常见问题，希望帮你做出正确购买决定。查看全文]]></summary>
+        <author>
+            <name>广陵止息</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开学季 | 挑个趁手的工具，尽早学会文献管理]]></title>
         <id>https://sspai.com/post/82931</id>
@@ -1088,47 +1109,6 @@
         <summary type="html"><![CDATA[二手乃至N手的数码产品一直是我的兴趣之一。作为一个产品五花八门、技术迭代迅速，往往还带着很多个人回忆的品类，这些「旧东西」对于我的意义很多时候也远不止兴趣使然那么简单——它们反而更像是一种「时间胶囊」 ...查看全文]]></summary>
         <author>
             <name>PostMeridy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内容的未来，是广告还是用户付费？]]></title>
-        <id>https://sspai.com/post/82309</id>
-        <link href="https://sspai.com/post/82309"/>
-        <updated>2023-08-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[苟住，持续输出，给自己打造一个有概率发生意外好事情的系统。查看全文]]></summary>
-        <author>
-            <name>孙彬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客 | 对话老麦：请回答什么是少数派的下一个十年]]></title>
-        <id>https://sspai.com/post/82453</id>
-        <link href="https://sspai.com/post/82453"/>
-        <updated>2023-08-26T06:29:02.000Z</updated>
-        <summary type="html"><![CDATA[两颗皮蛋对谈老麦，从创作到创造。查看全文]]></summary>
-        <author>
-            <name>两颗皮蛋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员应该知道的常识，我认为有这 5 个]]></title>
-        <id>https://sspai.com/post/82286</id>
-        <link href="https://sspai.com/post/82286"/>
-        <updated>2023-08-26T02:12:12.000Z</updated>
-        <summary type="html"><![CDATA[从基础知识学习、业务认知能力到如何避免过度设计、AI 带来的挑战，这 5 条是我认为程序员应该知道的常识。查看全文]]></summary>
-        <author>
-            <name>李琦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网页直接标注：工具比较与使用技巧]]></title>
-        <id>https://sspai.com/prime/story/web-annotators-compared</id>
-        <link href="https://sspai.com/prime/story/web-annotators-compared"/>
-        <updated>2023-08-25T13:31:09.000Z</updated>
-        <summary type="html"><![CDATA[与先抓取再标注的常见功能相比，「在原始网页上直接标注」效率更高、适用面更广，在不少场合是更有意义的选择。本文分析和比较了 Hypothesis、Raindrop 和 Readwise Reader 三款具有直接标注功能的产品。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PlatyHsu</name>
         </author>
     </entry>
     <entry>
