@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T00:35:56.861Z</updated>
+    <updated>2023-09-26T00:35:57.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/83210</id>
+        <link href="https://sspai.com/post/83210"/>
+        <updated>2023-09-25T10:06:06.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈飞傲 M11S 与 BTR7]]></title>
+        <id>https://sspai.com/post/82472</id>
+        <link href="https://sspai.com/post/82472"/>
+        <updated>2023-09-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[BTR7 作为一种方向的尝试非常值得肯定，也希望在不久的将来看到飞傲推出改进后的新品。查看全文]]></summary>
+        <author>
+            <name>ROB1N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试]]></title>
+        <id>https://sspai.com/post/83105</id>
+        <link href="https://sspai.com/post/83105"/>
+        <updated>2023-09-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PowerToys 已经内置了 21 种不同的系统工具，本文为你介绍最近新增的其中三款。查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店]]></title>
+        <id>https://sspai.com/post/83199</id>
+        <link href="https://sspai.com/post/83199"/>
+        <updated>2023-09-25T03:30:06.000Z</updated>
+        <summary type="html"><![CDATA[在考量了有限的时间、精力以及预算经费的情况下，我们应该如何兼顾旅行中的体验与性价比。查看全文]]></summary>
+        <author>
+            <name>拐子狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二]]></title>
+        <id>https://sspai.com/post/83189</id>
+        <link href="https://sspai.com/post/83189"/>
+        <updated>2023-09-25T00:56:01.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事Unity致歉并修订争议收费政策9月22日，Unity通过官方博客发布致歉信，宣布对之前备受争议的收费政策做出重大修订。根据Unity在9月12日宣布的政策，从2024年1月起，对于 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点一下能解决的事就别长按：Android 应用快捷方式面面观]]></title>
         <id>https://sspai.com/prime/story/android-intents-affordances</id>
@@ -1089,26 +1139,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事数字服务法在欧生效，大平台义务加重8月25日，于去年4月获得批准、旨在监管在线内容的欧盟《数字服务法》（DigitalServicesAct,Regulation(EU)2022/2 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科隆游戏展札记：最中国的悟空，最纯粹的快乐]]></title>
-        <id>https://sspai.com/post/82466</id>
-        <link href="https://sspai.com/post/82466"/>
-        <updated>2023-08-27T10:50:26.000Z</updated>
-        <summary type="html"><![CDATA[在科隆游戏展的展厅里，不时会见到这样的场景：无论你在社会中扮演什么样的角色，父母或是子女，上班族或是创业者，工程师还是设计师，来到游戏展，都只用展示自己作为「玩家」的一面。这便是参加游戏展的乐趣。今年 ...查看全文]]></summary>
-        <author>
-            <name>sainho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这 8 件别人眼中的「电子垃圾」，是我手中的宝贝]]></title>
-        <id>https://sspai.com/post/82436</id>
-        <link href="https://sspai.com/post/82436"/>
-        <updated>2023-08-27T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[二手乃至N手的数码产品一直是我的兴趣之一。作为一个产品五花八门、技术迭代迅速，往往还带着很多个人回忆的品类，这些「旧东西」对于我的意义很多时候也远不止兴趣使然那么简单——它们反而更像是一种「时间胶囊」 ...查看全文]]></summary>
-        <author>
-            <name>PostMeridy</name>
         </author>
     </entry>
     <entry>
