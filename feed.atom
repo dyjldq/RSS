@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-27T00:36:06.001Z</updated>
+    <updated>2023-09-28T00:35:31.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记]]></title>
+        <id>https://sspai.com/post/82818</id>
+        <link href="https://sspai.com/post/82818"/>
+        <updated>2023-09-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[轻松、散漫、走走停停，和李姐的浪漫旅行。查看全文]]></summary>
+        <author>
+            <name>Microhoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性]]></title>
+        <id>https://sspai.com/post/83228</id>
+        <link href="https://sspai.com/post/83228"/>
+        <updated>2023-09-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[macOS Sonoma 为我们带来了新的锁屏界面，改善了小组件、Safari 浏览器等一种内置应用，还为游戏打下了基础。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了出国，我们学习 GRE 还有什么用？]]></title>
+        <id>https://sspai.com/post/83125</id>
+        <link href="https://sspai.com/post/83125"/>
+        <updated>2023-09-27T03:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>乔淼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等]]></title>
+        <id>https://sspai.com/post/83243</id>
+        <link href="https://sspai.com/post/83243"/>
+        <updated>2023-09-27T01:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Google 播客将停用并迁移至 YouTube Music，Spotify 推出 Jam、AI 播客语音转译功能等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 014 |  交互式小组件、预制菜和派友的维修经历]]></title>
         <id>https://sspai.com/post/83232</id>
@@ -1076,56 +1116,6 @@
         <link href="https://sspai.com/post/82543"/>
         <updated>2023-08-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Google 相册照片加密功能支持云同步，OpenAI 推出企业级 ChatGPT 服务等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季三重优惠买栏目：985 快闪礼包，优惠翻倍，还有栏目史低价]]></title>
-        <id>https://sspai.com/post/82520</id>
-        <link href="https://sspai.com/post/82520"/>
-        <updated>2023-08-29T10:35:19.000Z</updated>
-        <summary type="html"><![CDATA[⏰活动时间：8月29日~9月7日🏷️活动内容热门栏目史低价：7款热门栏目6折起，降至栏目上架以来最低价，最高可省近60元；限定985礼包：活动期间购买《科研学术写作礼包》或《PPTer效率礼包》，只需 ...查看全文]]></summary>
-        <author>
-            <name>数字工具组</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 010 | 向大模型提问、软盘的历史以及「冷门」词汇]]></title>
-        <id>https://sspai.com/post/82510</id>
-        <link href="https://sspai.com/post/82510"/>
-        <updated>2023-08-29T08:34:36.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[结合语境学英语，这是他们的实践体验]]></title>
-        <id>https://sspai.com/post/82490</id>
-        <link href="https://sspai.com/post/82490"/>
-        <updated>2023-08-29T07:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Context+《英语自学手册》联名众筹于8月21日至9月4日之间开展，分「天使版」和「普通版」两种规格，均包含Context订阅权益和《英语自学手册》栏目阅读权益，低至市场价格的53折，《英语自学手 ...查看全文]]></summary>
-        <author>
-            <name>数字工具组</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma 内置的 AI 白板工具：Jambot 小组件上手体验]]></title>
-        <id>https://sspai.com/post/82441</id>
-        <link href="https://sspai.com/post/82441"/>
-        <updated>2023-08-29T03:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Jambot 的推出可以看出 Figma 在生成式 AI 上面是有着自己的思考的，这让我更加期待，当它给自己的设计功能加上 AI 后会玩出什么花样。查看全文]]></summary>
-        <author>
-            <name>ZHYuts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：realme 发布真我 GT5 手机，美团外卖与多家配送服务商达成合作等]]></title>
-        <id>https://sspai.com/post/82505</id>
-        <link href="https://sspai.com/post/82505"/>
-        <updated>2023-08-29T01:08:13.000Z</updated>
-        <summary type="html"><![CDATA[中国网络空间安全协会发布短视频类 App 个人信息收集情况测试报告等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
