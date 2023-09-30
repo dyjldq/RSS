@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T00:35:47.067Z</updated>
+    <updated>2023-09-30T00:34:28.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
+        <id>https://sspai.com/post/83307</id>
+        <link href="https://sspai.com/post/83307"/>
+        <updated>2023-09-29T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[台剧]有生之年、[国产]九义人、[日剧]穴界风云、[美剧]大陆酒店、[电影]上帝在吗？我是玛格丽特、[日剧]派对浪客诸葛孔明、[英剧]上层男孩第五季/最终季、[动画]恶魔 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析]]></title>
+        <id>https://sspai.com/post/83300</id>
+        <link href="https://sspai.com/post/83300"/>
+        <updated>2023-09-29T04:33:37.000Z</updated>
+        <summary type="html"><![CDATA[质疑苹果，理解苹果，成为苹果。查看全文]]></summary>
+        <author>
+            <name>两颗皮蛋</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[双重节日，双重优惠，栏目和软件秒杀 9.9 元起]]></title>
         <id>https://sspai.com/post/83295</id>
@@ -1099,46 +1119,6 @@
         <link href="https://sspai.com/post/82608"/>
         <updated>2023-09-01T00:33:10.000Z</updated>
         <summary type="html"><![CDATA[Google 将不再提供 Pixel Pass 综合订阅服务、佳明发布 Venu 3 系列智能手表查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 159｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/82575</id>
-        <link href="https://sspai.com/post/82575"/>
-        <updated>2023-08-31T09:35:41.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次省心的装修体验：我选择了宜家全屋设计服务]]></title>
-        <id>https://sspai.com/post/82584</id>
-        <link href="https://sspai.com/post/82584"/>
-        <updated>2023-08-31T07:03:31.000Z</updated>
-        <summary type="html"><![CDATA[收房后经过了各种驴唇不对马嘴的话术洗礼，亲眼见识花式恨错难返的全屋定制质量之后，我决定和「宜家」谈。查看全文]]></summary>
-        <author>
-            <name>Snow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[导出多年微信聊天记录，我用可视化分析了出自己的口头禅]]></title>
-        <id>https://sspai.com/post/82577</id>
-        <link href="https://sspai.com/post/82577"/>
-        <updated>2023-08-31T03:37:31.000Z</updated>
-        <summary type="html"><![CDATA[导出微信的聊天记录，你可以试着学会的聊天可视化分析。无论是词云、表情统计，还是聊天时间分析，又或是制作聊天频率热图，总有一种你用得上。查看全文]]></summary>
-        <author>
-            <name>JamesHopbourn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：SDC23 大会时间确认、PS Plus 上调订阅价等]]></title>
-        <id>https://sspai.com/post/82574</id>
-        <link href="https://sspai.com/post/82574"/>
-        <updated>2023-08-31T00:47:48.000Z</updated>
-        <summary type="html"><![CDATA[美图发布 AI 数字人生成工具 DreamAvatar、深港交通一卡通正式发行、Ayaneo 发布「鲲」Windows 掌机等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
