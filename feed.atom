@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T00:34:28.471Z</updated>
+    <updated>2023-10-01T00:40:47.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It's Okay To Cry——评《往日之影》及《赛博朋克 2077》]]></title>
+        <id>https://sspai.com/post/83309</id>
+        <link href="https://sspai.com/post/83309"/>
+        <updated>2023-09-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[感谢CDProjektRED的邀请，笔者提前约一周开始了《赛博朋克2077》（Cyberpunk2077，下文简称2077）2.0版本、资料片《往日之影》（PhantomLiberty）的游玩，中途经 ...查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
         <id>https://sspai.com/post/83307</id>
@@ -1060,67 +1070,6 @@
         <summary type="html"><![CDATA[这篇正式进入意式浓缩的制作教学，尽可能的将制作意式咖啡需要注意的各类细节讲到位。也提供一些遇到问题时，如何调整浓缩的思路。理解烘焙对萃取的帮助咖啡豆的性质，这里详细说一下烘焙度，这关系到后边研磨度调整 ...查看全文]]></summary>
         <author>
             <name>老林还年少</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Essential，一场探寻人机关系「本质」的无果之旅]]></title>
-        <id>https://sspai.com/prime/story/essential-phone</id>
-        <link href="https://sspai.com/prime/story/essential-phone"/>
-        <updated>2023-09-01T11:19:53.000Z</updated>
-        <summary type="html"><![CDATA[也许我们不太可能看到 Essential 再能有些什么新的动作，但当代人机关系的本质却仍然会困扰着所有人，直到下一个时代——由真正的「Essential」带来变化的时代到来。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>ZIYAN子颜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大瓶作品]]></title>
-        <id>https://sspai.com/post/82618</id>
-        <link href="https://sspai.com/post/82618"/>
-        <updated>2023-09-01T10:16:56.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]奥本海默、[电影]GT赛车：极速狂飙、[国产]鹊刀门传奇、[美剧]海贼王、[电影]本日公休、[电影]触底反弹、[动画]探险活宝：菲奥娜与蛋糕、[动画]飞出个未来第十 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲置音箱组环绕声系统，低成本大幅提升观影体验]]></title>
-        <id>https://sspai.com/post/82342</id>
-        <link href="https://sspai.com/post/82342"/>
-        <updated>2023-09-01T07:59:13.000Z</updated>
-        <summary type="html"><![CDATA[利用 PC 端虚拟声卡软件，你也将任意三个音频设备整合为虚拟 5.1 环绕声系统。查看全文]]></summary>
-        <author>
-            <name>蝉心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末前的「摸鱼」时刻，你也许需要这些轻松小游戏]]></title>
-        <id>https://sspai.com/post/82609</id>
-        <link href="https://sspai.com/post/82609"/>
-        <updated>2023-09-01T06:34:18.000Z</updated>
-        <summary type="html"><![CDATA[不要再卷自己了，该摸就摸。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派开箱 | 笔记本也有光明的未来：明基 LaptopBar 笔记本随行灯]]></title>
-        <id>https://sspai.com/post/82334</id>
-        <link href="https://sspai.com/post/82334"/>
-        <updated>2023-09-01T03:07:11.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Fairphone 5 手机正式发布、首批国产大模型获批面向用户开放]]></title>
-        <id>https://sspai.com/post/82608</id>
-        <link href="https://sspai.com/post/82608"/>
-        <updated>2023-09-01T00:33:10.000Z</updated>
-        <summary type="html"><![CDATA[Google 将不再提供 Pixel Pass 综合订阅服务、佳明发布 Venu 3 系列智能手表查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
