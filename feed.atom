@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-04T00:37:03.036Z</updated>
+    <updated>2023-10-05T00:35:29.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览]]></title>
+        <id>https://sspai.com/post/83366</id>
+        <link href="https://sspai.com/post/83366"/>
+        <updated>2023-10-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱]]></title>
+        <id>https://sspai.com/post/68227</id>
+        <link href="https://sspai.com/post/68227"/>
+        <updated>2023-10-04T05:29:22.000Z</updated>
+        <summary type="html"><![CDATA[学生党到底有哪些专享福利？看这一篇就对了。查看全文]]></summary>
+        <author>
+            <name>jijiali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARA中「项目」的魔力：用输出对抗信息焦虑]]></title>
+        <id>https://sspai.com/post/83271</id>
+        <link href="https://sspai.com/post/83271"/>
+        <updated>2023-10-04T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[后来，我在整个流程里做出了一点点改变，它撬动了我整个知识吸收体系的结构性变化，与它相比，其他所有的方法都变得不那么重要。查看全文]]></summary>
+        <author>
+            <name>孙彬</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🅷 Linux 再次尝试禁用微软的 RNDIS 驱动» 10.03 周二 #硬核观察# 1143 https://youtu.be/ZFsZepgsCec]]></title>
         <id>https://twitter.com/linux_cn/status/1709201724685131988</id>
@@ -1251,59 +1281,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/82722"/>
         <updated>2023-09-06T00:58:31.000Z</updated>
         <summary type="html"><![CDATA[微软将不再强制欧盟地区 Windows 11 用户使用 Edge 浏览器，WPS AI 正式面向社会开放等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何能免重新登录与配置之苦：浅谈 Android 自动备份机制]]></title>
-        <id>https://sspai.com/prime/story/android-data-backup-issues-tips</id>
-        <link href="https://sspai.com/prime/story/android-data-backup-issues-tips"/>
-        <updated>2023-09-05T12:07:04.000Z</updated>
-        <summary type="html"><![CDATA[从 Android 原生应用备份功能的发展出发，聊聊阻碍这项功能普及的因素，以及曲线救国的技巧。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏]]></title>
-        <id>https://sspai.com/post/82701</id>
-        <link href="https://sspai.com/post/82701"/>
-        <updated>2023-09-05T09:00:22.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法]]></title>
-        <id>https://sspai.com/post/82586</id>
-        <link href="https://sspai.com/post/82586"/>
-        <updated>2023-09-05T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[推荐系统可以被理解为一个加入了内容定制的「算法」，如果用生活场景类比一下的话，可以是一个了解你口味的高级专业服务员。
-
-服务员了解你的口味，他知道你以前点过什么菜，你对哪些菜评价比较高。当你去餐厅时，他会根据你的历史选择和偏好，为你推荐一些你可能喜欢的菜。而这就是推荐系统中的「协同过滤」部分，通过你的历史行为和其他类似你的人的行为，来推测你可能会喜欢什么。查看全文]]></summary>
-        <author>
-            <name>正弦定理</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字时代的自我旁观：对痛苦的重新审视]]></title>
-        <id>https://sspai.com/post/82553</id>
-        <link href="https://sspai.com/post/82553"/>
-        <updated>2023-09-05T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[我们不必去逃避痛苦，那会让我们麻木；也不要靠意志力抵抗，那会让我们精疲力尽。而是要「倚靠」在痛苦之上，让它变成锻炼自己的事物。查看全文]]></summary>
-        <author>
-            <name>孙彬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：X 将使用用户公开贴文训练 AI 模型等]]></title>
-        <id>https://sspai.com/post/82690</id>
-        <link href="https://sspai.com/post/82690"/>
-        <updated>2023-09-05T01:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Adobe 将关闭 Creative Cloud 文件同步服务，三星开启 One UI 6 Beta 国行内测等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>

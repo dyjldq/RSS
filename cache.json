@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83366",
+          "author": "克莱德",
+          "description": "你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文",
+          "link": "https://sspai.com/post/83366",
+          "publishedOn": "2023-10-04T23:00:00.000Z",
+          "wordCount": 1114,
+          "title": "内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览",
+          "imageUrl": "https://cdn.sspai.com/2023/10/5/article/390a2f58-ca8f-529a-e02c-a95a2a2ebde2.png"
+        },
+        {
+          "id": "https://sspai.com/post/68227",
+          "author": "jijiali",
+          "description": "学生党到底有哪些专享福利？看这一篇就对了。查看全文",
+          "link": "https://sspai.com/post/68227",
+          "publishedOn": "2023-10-04T05:29:22.000Z",
+          "wordCount": 1540,
+          "title": "开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱",
+          "imageUrl": "https://cdn.sspai.com/article/1d73fe41-cd1f-62b7-f452-3a0c023bcdc6.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83271",
+          "author": "孙彬",
+          "description": "后来，我在整个流程里做出了一点点改变，它撬动了我整个知识吸收体系的结构性变化，与它相比，其他所有的方法都变得不那么重要。查看全文",
+          "link": "https://sspai.com/post/83271",
+          "publishedOn": "2023-10-04T02:30:00.000Z",
+          "wordCount": 779,
+          "title": "PARA中「项目」的魔力：用输出对抗信息焦虑",
+          "imageUrl": "https://cdn.sspai.com/2023/09/27/18f3f85369b914d742fbaa1eca62ff20.jpg"
+        },
+        {
           "id": "https://sspai.com/prime/story/keyword-search-tools-and-selfhosting",
           "author": "PlatyHsu",
           "description": "但随着搜索引擎收藏积累的增多，将搜索入口页面存为书签过于繁琐。相比之下，一种更方便的做法是为常用搜索引擎各自分配一个「快捷短语」。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -984,56 +1014,6 @@
           "wordCount": 807,
           "title": "派早报：Android 启用新版品牌标识、微信支付将上线消费分期功能等",
           "imageUrl": "https://cdn.sspai.com/2023/9/6/article/be83bcac-32b7-9ad9-d7de-cb35b375b417.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/android-data-backup-issues-tips",
-          "author": "克莱德",
-          "description": "从 Android 原生应用备份功能的发展出发，聊聊阻碍这项功能普及的因素，以及曲线救国的技巧。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/android-data-backup-issues-tips",
-          "publishedOn": "2023-09-05T12:07:04.000Z",
-          "wordCount": 969,
-          "title": "如何能免重新登录与配置之苦：浅谈 Android 自动备份机制",
-          "imageUrl": "https://cdn.sspai.com/2023/9/5/article/efcd3ae1-a3bc-7958-73e9-2143e8c49370.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82701",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/82701",
-          "publishedOn": "2023-09-05T09:00:22.000Z",
-          "wordCount": 916,
-          "title": "社区速递 011 | 家庭服务器、作者的新玩意以及哭泣的折叠屏",
-          "imageUrl": "https://cdn.sspai.com/9/5/2023/article/45784e49-beb8-ab46-cd7d-d1d8dd4d953d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82586",
-          "author": "正弦定理",
-          "description": "推荐系统可以被理解为一个加入了内容定制的「算法」，如果用生活场景类比一下的话，可以是一个了解你口味的高级专业服务员。\n\n服务员了解你的口味，他知道你以前点过什么菜，你对哪些菜评价比较高。当你去餐厅时，他会根据你的历史选择和偏好，为你推荐一些你可能喜欢的菜。而这就是推荐系统中的「协同过滤」部分，通过你的历史行为和其他类似你的人的行为，来推测你可能会喜欢什么。查看全文",
-          "link": "https://sspai.com/post/82586",
-          "publishedOn": "2023-09-05T07:30:00.000Z",
-          "wordCount": 876,
-          "title": "你或许总不满意，但它不全是秘密：聊聊 Twitter 开源的时间线算法",
-          "imageUrl": "https://cdn.sspai.com/9/5/2023/article/b5b34dae-624a-d2bf-84c8-957d31342bc8.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82553",
-          "author": "孙彬",
-          "description": "我们不必去逃避痛苦，那会让我们麻木；也不要靠意志力抵抗，那会让我们精疲力尽。而是要「倚靠」在痛苦之上，让它变成锻炼自己的事物。查看全文",
-          "link": "https://sspai.com/post/82553",
-          "publishedOn": "2023-09-05T05:11:00.000Z",
-          "wordCount": 657,
-          "title": "数字时代的自我旁观：对痛苦的重新审视",
-          "imageUrl": "https://cdn.sspai.com/9/5/2023/article/70ead9cf-a7cd-8db5-4430-e97aabeb559b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82690",
-          "author": "少数派编辑部",
-          "description": "Adobe 将关闭 Creative Cloud 文件同步服务，三星开启 One UI 6 Beta 国行内测等查看全文",
-          "link": "https://sspai.com/post/82690",
-          "publishedOn": "2023-09-05T01:10:28.000Z",
-          "wordCount": 815,
-          "title": "派早报：X 将使用用户公开贴文训练 AI 模型等",
-          "imageUrl": "https://cdn.sspai.com/2023/9/5/article/27b38266-2f88-99ca-dcdd-775244df8697.png"
         }
       ]
     },
