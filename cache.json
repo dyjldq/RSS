@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83376",
+          "author": "北鸮",
+          "description": "先看看再决定要不要试，输入法可是个大坑。查看全文",
+          "link": "https://sspai.com/post/83376",
+          "publishedOn": "2023-10-06T07:00:00.000Z",
+          "wordCount": 736,
+          "title": "为了打字更爽，我学了一个追求极致性能的小众输入法",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/ckfge0tb34tep8v5aet0"
+        },
+        {
+          "id": "https://sspai.com/post/82961",
+          "author": "Sylvan_Wang",
+          "description": "我发自内心地敬佩每一个热爱生活，寻找自己平衡的朋友。查看全文",
+          "link": "https://sspai.com/post/82961",
+          "publishedOn": "2023-10-06T03:00:00.000Z",
+          "wordCount": 665,
+          "title": "生活的平衡",
+          "imageUrl": "https://cdn.sspai.com/2023/09/15/56ba9e42213b8d9ed2e356dfd3bd02af.jpg"
+        },
+        {
           "id": "https://sspai.com/post/83366",
           "author": "克莱德",
           "description": "你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文",
@@ -914,56 +934,6 @@
           "wordCount": 917,
           "title": "派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单",
           "imageUrl": "https://cdn.sspai.com/9/8/2023/article/3a28dc2c-bd5c-4ff6-61d9-2f7c4fcc1c3b.png"
-        },
-        {
-          "id": "https://sspai.com/post/82704",
-          "author": "凉糕",
-          "description": "前言坐在椅子上发呆时，忽然注意到桌面的台历还停留在上一个月。在这个数字时代，实体日历似乎跟不上我们匆匆的步伐，我们更多地依赖着手机和电脑，提醒着我们的会议、旅行和约会。我唯一钟爱的日历，是和她在雨夜跑 ...查看全文",
-          "link": "https://sspai.com/post/82704",
-          "publishedOn": "2023-09-07T09:12:48.000Z",
-          "wordCount": 1309,
-          "title": "我在数字时代做了一个电子日历，让油画和照片可以被装进去",
-          "imageUrl": "https://cdn.sspai.com/2023/09/06/d6de74e57f0b764fb37017ae866ef503.png"
-        },
-        {
-          "id": "https://sspai.com/post/82773",
-          "author": "福利派",
-          "description": "少数派一直在帮助用户发现和了解桌面/移动平台上的优质应用，并希望通过全面的介绍和深度的用法让这些实用工具真正为你所用。正值开学季，少数派软件商城为大家又特约了多款口碑、质量都非常优秀的相关应用的优惠活 ...查看全文",
-          "link": "https://sspai.com/post/82773",
-          "publishedOn": "2023-09-07T08:49:15.000Z",
-          "wordCount": 843,
-          "title": "开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle",
-          "imageUrl": "https://cdn.sspai.com/2023/9/7/article/595cf75b-94a9-c27d-5dbc-d0c816a4b67a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82738",
-          "author": "waychane",
-          "description": "近日，第八届移动应用创新赛在浙江杭州圆满落幕。移动应用创新赛是由 Apple 与浙江大学联合举办、面向高校学员、供应链员工、K12 组别学生推出的基于 iOS/iPadOS 平台开发应用的竞赛。\n\n本届移动应用创新赛，共有来自 891 所院校参赛，比去年提升 26%。Apple 也与浙江大学为参赛学员们提供了多达 77 场线上及线下的培训课程，帮助他们在设计、技术、产品方面获得进一步精进，这些课程的讲师包括了 Apple 布道师、国内知名开发者、企业投资人等等。\n\n与往年一样，学生们为我们贡献了一场相当精彩的赛事，参赛作品的丰富程度大幅提升，完成度也相当之高；截至决赛前，已有 22 支团队在准备作品正式上线 App Store 的相关工作，更是有 5 款 app 已经正式上线。查看全文",
-          "link": "https://sspai.com/post/82738",
-          "publishedOn": "2023-09-07T06:30:42.000Z",
-          "wordCount": 741,
-          "title": "人人可编程，人人能创造：第八届移动应用创新赛圆满落幕",
-          "imageUrl": "https://cdn.sspai.com/2023/9/7/article/3837d508-5b9f-d033-2598-246f227b3a02.png"
-        },
-        {
-          "id": "https://sspai.com/post/82657",
-          "author": "玉树芝兰",
-          "description": "检视你的笔记数据安全和由此引申出来的笔记工具选择问题。查看全文",
-          "link": "https://sspai.com/post/82657",
-          "publishedOn": "2023-09-07T02:52:05.000Z",
-          "wordCount": 853,
-          "title": "你的笔记数据安全吗？聊聊我的笔记工具选择思路",
-          "imageUrl": "https://cdn.sspai.com/2023/09/03/14eaec61edf417b34071c49a9c2a6c21.png"
-        },
-        {
-          "id": "https://sspai.com/post/82755",
-          "author": "少数派编辑部",
-          "description": "蔚来手机确认发布日、微信刷掌支付正式上线、国际奥委会成立电竞委员会等。查看全文",
-          "link": "https://sspai.com/post/82755",
-          "publishedOn": "2023-09-07T00:29:29.000Z",
-          "wordCount": 784,
-          "title": "派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等",
-          "imageUrl": "https://cdn.sspai.com/07/09/2023/article/1beeb737-4256-3717-b776-82f2f2d9f0e0.png"
         }
       ]
     },

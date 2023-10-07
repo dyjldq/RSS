@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:35:41.066Z</updated>
+    <updated>2023-10-07T00:35:23.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为了打字更爽，我学了一个追求极致性能的小众输入法]]></title>
+        <id>https://sspai.com/post/83376</id>
+        <link href="https://sspai.com/post/83376"/>
+        <updated>2023-10-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先看看再决定要不要试，输入法可是个大坑。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活的平衡]]></title>
+        <id>https://sspai.com/post/82961</id>
+        <link href="https://sspai.com/post/82961"/>
+        <updated>2023-10-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我发自内心地敬佩每一个热爱生活，寻找自己平衡的朋友。查看全文]]></summary>
+        <author>
+            <name>Sylvan_Wang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览]]></title>
         <id>https://sspai.com/post/83366</id>
@@ -1177,60 +1197,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/82782"/>
         <updated>2023-09-08T00:43:43.000Z</updated>
         <summary type="html"><![CDATA[英国将推迟实施《在线安全法案》中的部分条款，Google 正式推出隐私沙盒功能等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在数字时代做了一个电子日历，让油画和照片可以被装进去]]></title>
-        <id>https://sspai.com/post/82704</id>
-        <link href="https://sspai.com/post/82704"/>
-        <updated>2023-09-07T09:12:48.000Z</updated>
-        <summary type="html"><![CDATA[前言坐在椅子上发呆时，忽然注意到桌面的台历还停留在上一个月。在这个数字时代，实体日历似乎跟不上我们匆匆的步伐，我们更多地依赖着手机和电脑，提醒着我们的会议、旅行和约会。我唯一钟爱的日历，是和她在雨夜跑 ...查看全文]]></summary>
-        <author>
-            <name>凉糕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季 | 少数派正版软件促销 5 折起，还有限时特惠 Bundle]]></title>
-        <id>https://sspai.com/post/82773</id>
-        <link href="https://sspai.com/post/82773"/>
-        <updated>2023-09-07T08:49:15.000Z</updated>
-        <summary type="html"><![CDATA[少数派一直在帮助用户发现和了解桌面/移动平台上的优质应用，并希望通过全面的介绍和深度的用法让这些实用工具真正为你所用。正值开学季，少数派软件商城为大家又特约了多款口碑、质量都非常优秀的相关应用的优惠活 ...查看全文]]></summary>
-        <author>
-            <name>福利派</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人人可编程，人人能创造：第八届移动应用创新赛圆满落幕]]></title>
-        <id>https://sspai.com/post/82738</id>
-        <link href="https://sspai.com/post/82738"/>
-        <updated>2023-09-07T06:30:42.000Z</updated>
-        <summary type="html"><![CDATA[近日，第八届移动应用创新赛在浙江杭州圆满落幕。移动应用创新赛是由 Apple 与浙江大学联合举办、面向高校学员、供应链员工、K12 组别学生推出的基于 iOS/iPadOS 平台开发应用的竞赛。
-
-本届移动应用创新赛，共有来自 891 所院校参赛，比去年提升 26%。Apple 也与浙江大学为参赛学员们提供了多达 77 场线上及线下的培训课程，帮助他们在设计、技术、产品方面获得进一步精进，这些课程的讲师包括了 Apple 布道师、国内知名开发者、企业投资人等等。
-
-与往年一样，学生们为我们贡献了一场相当精彩的赛事，参赛作品的丰富程度大幅提升，完成度也相当之高；截至决赛前，已有 22 支团队在准备作品正式上线 App Store 的相关工作，更是有 5 款 app 已经正式上线。查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的笔记数据安全吗？聊聊我的笔记工具选择思路]]></title>
-        <id>https://sspai.com/post/82657</id>
-        <link href="https://sspai.com/post/82657"/>
-        <updated>2023-09-07T02:52:05.000Z</updated>
-        <summary type="html"><![CDATA[检视你的笔记数据安全和由此引申出来的笔记工具选择问题。查看全文]]></summary>
-        <author>
-            <name>玉树芝兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 收购 BIS Records、塞尔达王国之泪确认无 DLC 计划等]]></title>
-        <id>https://sspai.com/post/82755</id>
-        <link href="https://sspai.com/post/82755"/>
-        <updated>2023-09-07T00:29:29.000Z</updated>
-        <summary type="html"><![CDATA[蔚来手机确认发布日、微信刷掌支付正式上线、国际奥委会成立电竞委员会等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
