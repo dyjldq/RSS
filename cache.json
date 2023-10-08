@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83395",
+          "author": "少数派编辑部",
+          "description": "☕️TL;DR近期佳作推荐：[美剧]V世代、[美剧]洛基第二季、[韩剧]恶中之恶、[英剧]第六诫、[电影]自由之声、[电影]小镇幽浮、[短片]亨利·休格的神奇故事、[动画]葬送的芙莉莲、[动画]香格里 ...查看全文",
+          "link": "https://sspai.com/post/83395",
+          "publishedOn": "2023-10-07T10:09:01.000Z",
+          "wordCount": 1001,
+          "title": "本周看什么 | 最近值得一看的一大捧作品",
+          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/f27fd5d2-ff87-e665-3718-cb71808c8b7d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83017",
+          "author": "feverlife",
+          "description": "心怀热爱，脚踏实地。职场下半总有 punchline，不卷不躺，思考过后，不妨倾注些精力开启人生副本。查看全文",
+          "link": "https://sspai.com/post/83017",
+          "publishedOn": "2023-10-07T08:26:25.000Z",
+          "wordCount": 752,
+          "title": "不躺不卷，用热爱疗愈副业焦虑",
+          "imageUrl": "https://cdn.sspai.com/2023/09/27/0ad089b6fb8327e6da9f8d043b4ae0d7.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83373",
+          "author": "Vanilla",
+          "description": "经过这半个多月的更新，目前 App Store 中已经有不少 App 适配了 StandBy 功能，我从中挑选了一些比较实用的 App 和大家一起分享。查看全文",
+          "link": "https://sspai.com/post/83373",
+          "publishedOn": "2023-10-07T07:36:17.000Z",
+          "wordCount": 848,
+          "title": "让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件",
+          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/8d911d05-0226-ad88-9030-703ce973352c.png"
+        },
+        {
+          "id": "https://sspai.com/post/83196",
+          "author": "炜智能",
+          "description": "现代社会大部分工作都需要和电脑打交道，写代码其实并不是程序员的专利，掌握一些简单的编程技巧可以让某些工作变得相当简单，Python 就是一个不错的切入点。查看全文",
+          "link": "https://sspai.com/post/83196",
+          "publishedOn": "2023-10-07T03:00:00.000Z",
+          "wordCount": 1824,
+          "title": "Python 在办公自动化中的简单应用",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/ck8efgtb34tdafv47550"
+        },
+        {
+          "id": "https://sspai.com/post/83389",
+          "author": "少数派编辑部",
+          "description": "网页版 Photoshop 上线，华硕正式接管 intel NUC 产品线等。查看全文",
+          "link": "https://sspai.com/post/83389",
+          "publishedOn": "2023-10-07T00:00:00.000Z",
+          "wordCount": 1057,
+          "title": "派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等",
+          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/eae54d66-145e-9712-3448-1d83f3874229.png"
+        },
+        {
           "id": "https://sspai.com/post/83376",
           "author": "北鸮",
           "description": "先看看再决定要不要试，输入法可是个大坑。查看全文",
@@ -894,46 +944,6 @@
           "wordCount": 679,
           "title": "在《乐队的夏天》爆改甜歌，麻园诗人需要取得谁的授权？",
           "imageUrl": "https://cdn.sspai.com/2023/09/07/764eb42bd1d67ca8c443517af0ea508f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82797",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]红色天空、[国产]西出玉门、[英剧]光猪六壮士、[英剧]养育者第四季/最终季、[日剧]你是星期几出生的、[日剧]我早就死啦！、[电影]图腾、[动画]幻灭最终季、[纪 ...查看全文",
-          "link": "https://sspai.com/post/82797",
-          "publishedOn": "2023-09-08T10:09:43.000Z",
-          "wordCount": 954,
-          "title": "本周看什么 | 最近值得一看的一大盆作品",
-          "imageUrl": "https://cdn.sspai.com/2023/9/8/article/d44887a0-fed3-d800-69d8-0e56bb4211c9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82724",
-          "author": "有趣的牟辉",
-          "description": "时间统计并不是件容易的事。失败是正常的，成功才是罕见的。因为时间不会撒谎，时间统计的过程就是血淋淋直面自我的过程。查看全文",
-          "link": "https://sspai.com/post/82724",
-          "publishedOn": "2023-09-08T07:07:36.000Z",
-          "wordCount": 847,
-          "title": "7 句话与 4 个工具，帮时间管理菜鸟突破放弃循环",
-          "imageUrl": "https://cdn.sspai.com/2023/09/07/2b021e585cd9ad88b402e17d0973d4c3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82654",
-          "author": "EricYoung",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82654",
-          "publishedOn": "2023-09-08T03:36:09.000Z",
-          "wordCount": 697,
-          "title": "让写作变成一种生活方式，这是我的方法与心得",
-          "imageUrl": "https://cdn.sspai.com/2023/09/03/7f9af3f15c4554e771f59130b3b596d1.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/82782",
-          "author": "少数派编辑部",
-          "description": "英国将推迟实施《在线安全法案》中的部分条款，Google 正式推出隐私沙盒功能等查看全文",
-          "link": "https://sspai.com/post/82782",
-          "publishedOn": "2023-09-08T00:43:43.000Z",
-          "wordCount": 917,
-          "title": "派早报：欧盟委员会公布《数字市场法案》「看门人」企业名单",
-          "imageUrl": "https://cdn.sspai.com/9/8/2023/article/3a28dc2c-bd5c-4ff6-61d9-2f7c4fcc1c3b.png"
         }
       ]
     },
