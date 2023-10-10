@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T00:36:06.713Z</updated>
+    <updated>2023-10-10T00:35:31.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/83450</id>
+        <link href="https://sspai.com/post/83450"/>
+        <updated>2023-10-09T09:53:11.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万字详拆芯片：人类算力被锁死了吗？]]></title>
+        <id>https://sspai.com/post/83398</id>
+        <link href="https://sspai.com/post/83398"/>
+        <updated>2023-10-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人类的悲观、杞人忧天，才破解了每个时代的锁死。查看全文]]></summary>
+        <author>
+            <name>青工所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这些浏览器词典插件，让在线阅读更方便]]></title>
+        <id>https://sspai.com/post/83385</id>
+        <link href="https://sspai.com/post/83385"/>
+        <updated>2023-10-09T03:37:14.000Z</updated>
+        <summary type="html"><![CDATA[读得越多，越能感觉到在线词典有多重要。查看全文]]></summary>
+        <author>
+            <name>scillidan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报]]></title>
+        <id>https://sspai.com/post/83429</id>
+        <link href="https://sspai.com/post/83429"/>
+        <updated>2023-10-09T00:53:05.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事Pixel手机过去一年销量近千万台据商业研究机构IDC副总裁FranciscoJeronimo的X帖文，2016年至2023年间，GooglePixel手机的出货量为3790万部，且 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了]]></title>
         <id>https://sspai.com/post/83418</id>
@@ -1229,16 +1269,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[你可能错过的新鲜事知名手绘应用Procreate将推出动画版9月9日，知名手绘应用Procreate开发商宣布推出ProcreateDreams，旨在打造一款任何人都可以上手使用的动画工具。据介绍，P ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightning 或将步入历史舞台，下周的 Apple 发布会还有哪些看点？]]></title>
-        <id>https://sspai.com/post/82821</id>
-        <link href="https://sspai.com/post/82821"/>
-        <updated>2023-09-10T07:02:23.000Z</updated>
-        <summary type="html"><![CDATA[离发布会只有短短数日，根据往年的经验，各方面的爆料已经越来越接近真实。如果你想先睹为快，就一起来看看今年 Apple 可能会给我们带来什么样的惊喜吧。查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
         </author>
     </entry>
     <entry>
