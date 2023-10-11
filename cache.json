@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83475",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/83475",
+          "publishedOn": "2023-10-10T09:10:44.000Z",
+          "wordCount": 1076,
+          "title": "社区速递 015 | 自驾游、智能推窗器和博客搭建",
+          "imageUrl": "https://cdn.sspai.com/2023/10/10/article/cfcdaadf-6eeb-e0d9-38b6-da1de9061b16.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83445",
+          "author": "Matrix机器人",
+          "description": "分享成为跨平台用户的契机，以及弥补了哪些单平台没能提供的需求与体验。查看全文",
+          "link": "https://sspai.com/post/83445",
+          "publishedOn": "2023-10-10T07:00:00.000Z",
+          "wordCount": 1022,
+          "title": "Matrix Talk | 作为 iOS 用户，我为什么换到 / 新增 Android 设备？",
+          "imageUrl": "https://cdn.sspai.com/2023/10/10/article/2f89a0b7-fe7e-29f3-b0b3-3e5e3dbeff6a.JPG"
+        },
+        {
+          "id": "https://sspai.com/post/83315",
+          "author": "橙猫涉影",
+          "description": "All In One 类都有一个共同的特点，就是有插件系统，覆盖面广，很多日常的需求都覆盖到，同时还能接入其他软件工具，从而简化流程。查看全文",
+          "link": "https://sspai.com/post/83315",
+          "publishedOn": "2023-10-10T03:47:30.000Z",
+          "wordCount": 1011,
+          "title": "四个 All-in-One 工具，帮我优化工作与生活流程",
+          "imageUrl": "https://cdn.sspai.com/2023/10/01/87720d86512f9374052ed5914a84989c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83458",
+          "author": "少数派编辑部",
+          "description": "联想将推出采用 Android 系统的 ThinkCentre M70a 一体机，微软确认 Windows Copilot 目前未向所有地区开放等。查看全文",
+          "link": "https://sspai.com/post/83458",
+          "publishedOn": "2023-10-10T01:00:00.000Z",
+          "wordCount": 765,
+          "title": "派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等",
+          "imageUrl": "https://cdn.sspai.com/10/10/2023/article/b8a6c19d-5dc0-6806-8a6c-8799557df2c9.png"
+        },
+        {
           "id": "https://sspai.com/post/83450",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -954,56 +994,6 @@
           "wordCount": 818,
           "title": "派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等",
           "imageUrl": "https://cdn.sspai.com/2023/9/12/article/243f04f5-96c1-c1b4-be31-0f47d9282802.png"
-        },
-        {
-          "id": "https://sspai.com/post/82854",
-          "author": "数字工具组",
-          "description": "macOS平台上的效率工具可谓是「神仙打架」，简单询问下GPT，就能给你推荐出七八款各具特色的自动化应用。但只有KeyboardMaestro敢于在其官网喊出「顶级Mac自动化软件（ThePremie ...查看全文",
-          "link": "https://sspai.com/post/82854",
-          "publishedOn": "2023-09-11T10:42:35.000Z",
-          "wordCount": 720,
-          "title": "会员畅读 | 完全上手顶级 Mac 自动化工具，用 Keyboard Maestro 拯救效率",
-          "imageUrl": "https://cdn.sspai.com/2023/9/11/article/ddb0142d-a3d2-0f15-bd89-e5e74ab3f53e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82853",
-          "author": "少数派编辑部",
-          "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
-          "link": "https://sspai.com/post/82853",
-          "publishedOn": "2023-09-11T09:50:26.000Z",
-          "wordCount": 936,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/9/11/article/22a42794-96a8-7cec-498e-86559de7ca2c.png"
-        },
-        {
-          "id": "https://sspai.com/post/82842",
-          "author": "两颗皮蛋",
-          "description": "节目主要针对即将召开的 Apple 九月新品发布会展开了预测，并在一次次「缺德」发言中演变成了一场大型暴言表演。查看全文",
-          "link": "https://sspai.com/post/82842",
-          "publishedOn": "2023-09-11T07:00:00.000Z",
-          "wordCount": 661,
-          "title": "播客 | 劲爆、缺德大集合：漫谈 Apple 新品发布会",
-          "imageUrl": "https://cdn.sspai.com/11/09/2023/article/7f3cd142-29fd-c4f0-c404-0f9f5ca318c4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/82487",
-          "author": "一只波露",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/82487",
-          "publishedOn": "2023-09-11T03:00:00.000Z",
-          "wordCount": 646,
-          "title": "从「伪需求」到「离不开」：我的 Apple Watch 一年深体验",
-          "imageUrl": "https://cdn.sspai.com/2023/9/11/article/54546e22-b734-a3bb-eded-5767a0321f89.png"
-        },
-        {
-          "id": "https://sspai.com/post/82829",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事知名手绘应用Procreate将推出动画版9月9日，知名手绘应用Procreate开发商宣布推出ProcreateDreams，旨在打造一款任何人都可以上手使用的动画工具。据介绍，P ...查看全文",
-          "link": "https://sspai.com/post/82829",
-          "publishedOn": "2023-09-11T00:57:53.000Z",
-          "wordCount": 914,
-          "title": "派早报：Procreate 将推出动画版，PowerPoint 主要开发者逝世",
-          "imageUrl": "https://cdn.sspai.com/9/10/2023/article/5a132596-18ea-16b6-4f8f-b445550cf6e3.png"
         }
       ]
     },
