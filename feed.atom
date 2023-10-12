@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-11T00:35:39.727Z</updated>
+    <updated>2023-10-12T00:33:45.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[少数派健身类选题人气作者「举铁的马里奥」都装了啥？]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-231011</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-231011"/>
+        <updated>2023-10-11T09:55:20.000Z</updated>
+        <summary type="html"><![CDATA[「非常开心能在人生最动荡的日子里有一件能够让我静下心去做的事情。」查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | 喜欢 Android 14 的 14 个理由（少数派版本）]]></title>
+        <id>https://sspai.com/post/83501</id>
+        <link href="https://sspai.com/post/83501"/>
+        <updated>2023-10-11T09:36:58.000Z</updated>
+        <summary type="html"><![CDATA[和 Google 拿 Pixel 独占特性凑数不同，我们也给你找了 14 个理由——你可以拿去在手机厂商那里催更。查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[返璞归真，又迎一春：小评《刺客信条：幻景》]]></title>
+        <id>https://sspai.com/post/83488</id>
+        <link href="https://sspai.com/post/83488"/>
+        <updated>2023-10-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文首发于机核网，作者@雪豆，少数派经授权转载，仅对文章格式略作调整。《刺客信条：幻景》在今天已经正式发售，在一个月前我曾经前往上海育碧总部提前玩到了部分内容，感谢育碧的邀请，这次趁着十一长假，我完整 ...查看全文]]></summary>
+        <author>
+            <name>机核GCORES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用开源项目，你也能训练自己的 AI 语音模型]]></title>
+        <id>https://sspai.com/post/83487</id>
+        <link href="https://sspai.com/post/83487"/>
+        <updated>2023-10-11T03:50:50.000Z</updated>
+        <summary type="html"><![CDATA[你有没有想过练一个自己的 AI 声音模型？查看全文]]></summary>
+        <author>
+            <name>炜智能</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：PS5 新机型公布、Google 在与 Sonos 的专利纠纷中胜诉等]]></title>
+        <id>https://sspai.com/post/83484</id>
+        <link href="https://sspai.com/post/83484"/>
+        <updated>2023-10-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 移动版收入创下新高，Unity CEO 离职等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 015 | 自驾游、智能推窗器和博客搭建]]></title>
         <id>https://sspai.com/post/83475</id>
@@ -1207,56 +1258,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/82897"/>
         <updated>2023-09-12T21:20:06.000Z</updated>
         <summary type="html"><![CDATA[Apple 推出多款新品：iPhone 15 Pro 采用钛金属边框，iPhone 15 支持灵动岛，Apple Watch Series 9 及 Apple Watch Ultra 2 性能大升级等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[限时满赠 | 苹果发布会要来了，iOS 蓝皮书还会远吗]]></title>
-        <id>https://sspai.com/post/82880</id>
-        <link href="https://sspai.com/post/82880"/>
-        <updated>2023-09-12T09:52:55.000Z</updated>
-        <summary type="html"><![CDATA[📍省流总结：免费更新：《iOS蓝皮书》已开启年度更新，内容适配iOS17。已购买读者无须付费，享受免费更新。并且首发加入「会员畅读」权益，少数派年度会员可直接畅读；读者共创：《iOS蓝皮书》开启读者共 ...查看全文]]></summary>
-        <author>
-            <name>数字工具组</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 012 | 便宜好用的工具、付费的播客栏目以及新玩意]]></title>
-        <id>https://sspai.com/post/82869</id>
-        <link href="https://sspai.com/post/82869"/>
-        <updated>2023-09-12T08:52:17.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季 | iPad 手写笔记 app 横评，找出最适合自己的那款]]></title>
-        <id>https://sspai.com/post/82865</id>
-        <link href="https://sspai.com/post/82865"/>
-        <updated>2023-09-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我们帮你从价格、笔记管理方式、页面样式与管理、「文具盒」、非文本元素以及特色功能，对比了六款手写笔记 app，希望能帮你找到最适合的那款。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家庭服务器除了存储还能做什么？聊聊我的部署思路]]></title>
-        <id>https://sspai.com/post/82512</id>
-        <link href="https://sspai.com/post/82512"/>
-        <updated>2023-09-12T03:30:27.000Z</updated>
-        <summary type="html"><![CDATA[很多朋友入手 NAS 后，费了老大劲部署好一个服务，却发现体验一般，可能还不如互联网大厂提供的应用，最后折腾下来，也就用于备份、看剧了。因此，我斗胆以广而不深的方式介绍一下这些年来我在家庭服务器 Home Server 上的实践。查看全文]]></summary>
-        <author>
-            <name>凉糕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：红米 Note 13 将首发天玑 7200 Ultra，高通与 Apple 续约等]]></title>
-        <id>https://sspai.com/post/82862</id>
-        <link href="https://sspai.com/post/82862"/>
-        <updated>2023-09-12T01:11:14.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事联发科发布天玑7200-Ultra，红米Note13首发联发科于9月11日正式宣布推出天玑7200-Ultra移动芯片，该芯片采用台积电第二代4nm制程，八核CPU架构，包含2个主频 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
