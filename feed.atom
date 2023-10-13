@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T00:33:45.552Z</updated>
+    <updated>2023-10-13T00:36:46.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科普 | 高帧率、好画质的「光追」是如何实现的？]]></title>
+        <id>https://sspai.com/post/83522</id>
+        <link href="https://sspai.com/post/83522"/>
+        <updated>2023-10-12T08:37:34.000Z</updated>
+        <summary type="html"><![CDATA[光追、DLSS、帧生成等技术是如何提升游戏体验的？它的出现改变了什么，又解决了哪些问题？查看全文]]></summary>
+        <author>
+            <name>广陵止息</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大内密谈 | 口述深圳二十年少数派激荡浮沉录]]></title>
+        <id>https://sspai.com/post/83516</id>
+        <link href="https://sspai.com/post/83516"/>
+        <updated>2023-10-12T06:41:10.000Z</updated>
+        <summary type="html"><![CDATA[本期节目中，老麦做客《大内密谈》，和相征老师分享了自己的创业故事，以及对商业、创业及内容平台的思考。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[呼风唤雨于指尖拳心：巧用辅助功能单手操作 Apple Watch]]></title>
+        <id>https://sspai.com/prime/story/apple-watch-a11y</id>
+        <link href="https://sspai.com/prime/story/apple-watch-a11y"/>
+        <updated>2023-10-12T03:52:03.000Z</updated>
+        <summary type="html"><![CDATA[从初代 Apple Watch 一路用上来，我始终困惑于为什么操作手表始终需要用到两只手。即使是在双手空闲的情况下，这么操作也会显得窘迫，更不要提撑雨伞、提重物这种一只手被占据的情况了。这个问题终于在今年得到了解决。watchOS 8 中新增的「辅助触控」功能，给这个问题带来了一个颇具魔术效果的解决方案。
+[......]
+查看全文
+本文为会员文章，出自《科技漫游第1期》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：高通公布骁龙 X 芯片、网页版 Illustrator 开放公测等]]></title>
+        <id>https://sspai.com/post/83511</id>
+        <link href="https://sspai.com/post/83511"/>
+        <updated>2023-10-12T00:44:29.000Z</updated>
+        <summary type="html"><![CDATA[微软将结束多项服务支持、Valve 确认《反恐精英2》不支持 macOS 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少数派健身类选题人气作者「举铁的马里奥」都装了啥？]]></title>
         <id>https://sspai.com/prime/story/zhuanglesha-231011</id>
@@ -1197,67 +1240,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/82930"/>
         <updated>2023-09-14T00:52:57.000Z</updated>
         <summary type="html"><![CDATA[微软 Android 软硬件消息两则、高通骁龙将成为曼联队的球衣胸前广告赞助商等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将 VS Code 打造成跨平台 Markdown「草稿本」]]></title>
-        <id>https://sspai.com/prime/story/vscode-as-scratchpad</id>
-        <link href="https://sspai.com/prime/story/vscode-as-scratchpad"/>
-        <updated>2023-09-13T10:05:35.000Z</updated>
-        <summary type="html"><![CDATA[借助配置文件、任务、代码片段和快捷键映射等功能，就能把 VS Code 变成一个跨平台、全功能的 Markdown「草稿本」，同时不影响它发挥代码编辑器的本职功能。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你记忆中的磁带从何而来，大放异彩之后它又去了哪里？]]></title>
-        <id>https://sspai.com/post/82626</id>
-        <link href="https://sspai.com/post/82626"/>
-        <updated>2023-09-13T09:25:12.000Z</updated>
-        <summary type="html"><![CDATA[尽管磁带在商用存储领域大放异彩，但对民用领域而言，磁带的未来似乎正如同大多数存储设备一样，大展身手后被市场淘汰，最后沦为人们缅怀过去的谈资。查看全文]]></summary>
-        <author>
-            <name>SoraStar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飞书，见证 B 端陷阱]]></title>
-        <id>https://sspai.com/post/82238</id>
-        <link href="https://sspai.com/post/82238"/>
-        <updated>2023-09-13T07:07:40.000Z</updated>
-        <summary type="html"><![CDATA[飞书对我来说是一款好产品，但它可能要挣扎更久。查看全文]]></summary>
-        <author>
-            <name>养鳖大亨</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 推出 iPhone 15 系列手机等多款新品、华为发布新款问界 M7 等]]></title>
-        <id>https://sspai.com/post/82899</id>
-        <link href="https://sspai.com/post/82899"/>
-        <updated>2023-09-12T23:58:35.000Z</updated>
-        <summary type="html"><![CDATA[英特尔推出 Thunderbolt 5 连接标准，OPPO 将与索尼合作推出新款 LYTIA 图像传感器等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一图流 | 一张图带你看完 iPhone 15 发布会]]></title>
-        <id>https://sspai.com/post/82898</id>
-        <link href="https://sspai.com/post/82898"/>
-        <updated>2023-09-12T21:30:14.000Z</updated>
-        <summary type="html"><![CDATA[如果你没有熬夜看本次发布会，不用担心，少数派不仅整理了详细回顾文章，还连夜赶制了要点一图流，让你用最简单直观的方式迅速了解 Apple 新品的完整动态。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最轻 Pro 级 iPhone 亮相：Apple 发布会看点回顾]]></title>
-        <id>https://sspai.com/post/82897</id>
-        <link href="https://sspai.com/post/82897"/>
-        <updated>2023-09-12T21:20:06.000Z</updated>
-        <summary type="html"><![CDATA[Apple 推出多款新品：iPhone 15 Pro 采用钛金属边框，iPhone 15 支持灵动岛，Apple Watch Series 9 及 Apple Watch Ultra 2 性能大升级等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
