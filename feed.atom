@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-14T00:34:44.771Z</updated>
+    <updated>2023-10-15T00:38:33.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[告别电影荒：日本电影观看全指南]]></title>
+        <id>https://sspai.com/post/83412</id>
+        <link href="https://sspai.com/post/83412"/>
+        <updated>2023-10-14T10:46:25.000Z</updated>
+        <summary type="html"><![CDATA[在这篇文章中，我们深入聊聊日本电影的选片、找片和看片，希望可以帮你了解日本电影、辅助日语学习。查看全文]]></summary>
+        <author>
+            <name>知道分子吴先先</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远离喧嚣的自在，新西兰旅程片段]]></title>
+        <id>https://sspai.com/post/83411</id>
+        <link href="https://sspai.com/post/83411"/>
+        <updated>2023-10-14T06:31:26.000Z</updated>
+        <summary type="html"><![CDATA[如果在看文章的你还没有去过新西兰，我希望这篇内容可以引发你的兴趣，因为新西兰真的非常值得一去。不需要剧透太多，毕竟这些乐趣一定要亲身体验才行。查看全文]]></summary>
+        <author>
+            <name>johnbens</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
         <id>https://sspai.com/post/83550</id>
@@ -1182,56 +1202,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>熊猫别熬夜</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/82969</id>
-        <link href="https://sspai.com/post/82969"/>
-        <updated>2023-09-15T09:59:03.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]永安镇故事集、[国产]我有一个朋友、[美剧]行尸走肉：达里尔·迪克森第一季、[韩剧]2时15分、[韩剧]恋人、[日剧]她们的犯罪、[动画]火之鸟伊甸之宙、[纪录片] ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Talk | 你的新手机和它们更搭：少数派的作者们爱用哪些手机配件？]]></title>
-        <id>https://sspai.com/post/82916</id>
-        <link href="https://sspai.com/post/82916"/>
-        <updated>2023-09-15T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[正所谓人靠衣装，我们平时寸步不离的手机自然也离不开各种配件的装点。无论是简单的手机壳、充电器，还是看似「花里胡哨」的手机支架、外接设备，这些能够提升「幸福感」的手机配件，往往能让我们使用手机时感到更加 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 30 Pin 到 USB Type-C，细数 iPhone 接口的变化]]></title>
-        <id>https://sspai.com/post/82913</id>
-        <link href="https://sspai.com/post/82913"/>
-        <updated>2023-09-15T07:03:38.000Z</updated>
-        <summary type="html"><![CDATA[曾经那些出现在 iPhone 上「极为先进」的接口们，是怎样诞生、发展，再成为历史的。查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Obsidian 两年以后，聊聊我的同步和整理心得]]></title>
-        <id>https://sspai.com/post/82501</id>
-        <link href="https://sspai.com/post/82501"/>
-        <updated>2023-09-15T03:32:06.000Z</updated>
-        <summary type="html"><![CDATA[作者从早期使用多插件进行知识管理，到现在精简插件，强调搜索功能的重要性。作者现在的 Obsidian 使用方法更倾向于将一个问题或观念在一张文档内阐述清楚，而不是大量的整理归类。此外，作者也提到了如何在 Obsidian 中建立有效的索引，以便于管理和查找内容。查看全文]]></summary>
-        <author>
-            <name>Seyee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：网信办依法查处 QQ 危害未成年人身心健康违法案件等]]></title>
-        <id>https://sspai.com/post/82957</id>
-        <link href="https://sspai.com/post/82957"/>
-        <updated>2023-09-15T00:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Stability AI 推出 Stable Audio 工具，网件发布新款 Nighthawk Wi-Fi 6E Mesh 路由器等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
