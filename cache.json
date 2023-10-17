@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83631",
+          "author": "少数派编辑部",
+          "description": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
+          "link": "https://sspai.com/post/83631",
+          "publishedOn": "2023-10-16T10:26:03.000Z",
+          "wordCount": 878,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/10/16/article/7aed196e-d930-290a-b21a-cae4da223f2a.png"
+        },
+        {
+          "id": "https://sspai.com/post/83231",
+          "author": "EricYoung",
+          "description": "我们已经习惯性地依赖碎片化的知识和海量的信息涌入我们的大脑，除了写需求文档似乎再难静下心来完成另外一件事情。当有一天回过头，发现这危险的事态越来越严重时，就必要开始有所改变。查看全文",
+          "link": "https://sspai.com/post/83231",
+          "publishedOn": "2023-10-16T03:05:12.000Z",
+          "wordCount": 668,
+          "title": "于忙碌中重拾学习能力：我的知识金字塔是如何搭建的",
+          "imageUrl": "https://cdn.sspai.com/2023/09/26/847dc7734fa8d402ed4d9c916868d378.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83587",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事微软完成收购动视暴雪交易10月12日，微软历时21个月后，宣布完成其对动视暴雪价值750亿美元的收购交易。曾对该交易构成最后实质障碍的英国竞争与市场管理局（CMA）于当日表示，鉴于微 ...查看全文",
+          "link": "https://sspai.com/post/83587",
+          "publishedOn": "2023-10-16T00:53:34.000Z",
+          "wordCount": 869,
+          "title": "派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号",
+          "imageUrl": "https://cdn.sspai.com/10/15/2023/article/66bf28e5-43cf-7fc8-1ab5-1dcde005d233.png"
+        },
+        {
           "id": "https://sspai.com/post/83182",
           "author": "FavourHong",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -914,16 +944,6 @@
           "wordCount": 971,
           "title": "派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案",
           "imageUrl": "https://cdn.sspai.com/9/18/2023/article/3cb369e9-0751-86a5-2b37-359d8a397b54.png"
-        },
-        {
-          "id": "https://sspai.com/post/82996",
-          "author": "Noah_Choi",
-          "description": "比二手更可靠，比全新价更低。查看全文",
-          "link": "https://sspai.com/post/82996",
-          "publishedOn": "2023-09-17T03:00:00.000Z",
-          "wordCount": 1217,
-          "title": "开学季 | 值得关注的官翻渠道汇总 (2023)",
-          "imageUrl": "https://cdn.sspai.com/2023/9/17/article/6767b8b2-ab2d-b4f5-3e7c-359fe78c294e.png"
         }
       ]
     },
