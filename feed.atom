@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T00:36:12.187Z</updated>
+    <updated>2023-10-18T00:36:09.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐]]></title>
+        <id>https://sspai.com/prime/story/free-markdown-editor-2023</id>
+        <link href="https://sspai.com/prime/story/free-markdown-editor-2023"/>
+        <updated>2023-10-17T09:59:51.000Z</updated>
+        <summary type="html"><![CDATA[有的时候，我们需要的确只是一个能简单敲几段话、改几行字、能简单排版的输入框，或者只是想看看一个现成文件的预览效果、导出成其他格式分享出去。这篇是我们经过对比试用，找出目前各平台上最值得一试的免费方案。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意]]></title>
+        <id>https://sspai.com/post/83650</id>
+        <link href="https://sspai.com/post/83650"/>
+        <updated>2023-10-17T09:10:07.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验]]></title>
+        <id>https://sspai.com/post/83552</id>
+        <link href="https://sspai.com/post/83552"/>
+        <updated>2023-10-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在 Pro 级的 iPhone 中你总能找到打动你的那一点，比如更精致的外观、ProMotion 高刷屏幕、更长的续航等等，也许，这就是你最中意的 iPhone 形态。查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe 的老树开新花：生成式 AI 功能全面体验]]></title>
+        <id>https://sspai.com/post/83561</id>
+        <link href="https://sspai.com/post/83561"/>
+        <updated>2023-10-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章我们就来把 Adobe 的 AI 功能从头到尾体验一遍，看看 Adobe 和 AI 之间到底能碰撞出怎样的火花。查看全文]]></summary>
+        <author>
+            <name>Micoxx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[干掉手机多巴胺：我怎样用独立计时器重新掌控心流？]]></title>
+        <id>https://sspai.com/post/83531</id>
+        <link href="https://sspai.com/post/83531"/>
+        <updated>2023-10-17T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[每次把手机放到远离身边的地方，按下这个小东西的按钮，开启一段心流时间，对我来说还是挺有仪式感的。查看全文]]></summary>
+        <author>
+            <name>孙彬</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：腾讯待办将停运，淘宝回应微信扫码支付等]]></title>
+        <id>https://sspai.com/post/83640</id>
+        <link href="https://sspai.com/post/83640"/>
+        <updated>2023-10-17T01:08:11.000Z</updated>
+        <summary type="html"><![CDATA[拔下罗技 USB 接收器导致 Linux 内核崩溃的问题已修复，高盛内部称 Apple Card 合作是个错误等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/83631</id>
@@ -1167,46 +1228,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/83044"/>
         <updated>2023-09-19T01:05:37.000Z</updated>
         <summary type="html"><![CDATA[Unity 为收费政策发布致歉，大疆回应近期传言等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/83027</id>
-        <link href="https://sspai.com/post/83027"/>
-        <updated>2023-09-18T09:43:57.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 15 发布会上没有告诉你的那些事]]></title>
-        <id>https://sspai.com/post/82987</id>
-        <link href="https://sspai.com/post/82987"/>
-        <updated>2023-09-18T07:06:12.000Z</updated>
-        <summary type="html"><![CDATA[每年发布会 Apple 都会留下一些悬念，等待大家去发掘。iPhone 15 系列还没正式发货，我们整理了 Apple 发布会上没提到的事，一起看看有没有你感兴趣的。查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obsidian + Excalidraw：我的个人知识管理可视化方法论]]></title>
-        <id>https://sspai.com/post/82130</id>
-        <link href="https://sspai.com/post/82130"/>
-        <updated>2023-09-18T03:01:49.000Z</updated>
-        <summary type="html"><![CDATA[「可视化笔记」在 Obsidian 环境中的对比与应用。查看全文]]></summary>
-        <author>
-            <name>Echo_Nebula_PKM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：苹果更新 iPhone 12 软件以符合法国射频规定，最高检阐释人人影视案]]></title>
-        <id>https://sspai.com/post/83006</id>
-        <link href="https://sspai.com/post/83006"/>
-        <updated>2023-09-18T00:58:01.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事苹果更新iPhone12软件以符合法国射频规定据路透社等报道，9月15日，在法国以违反射频辐射限制为由停售iPhone12后，苹果承诺在法国更新该型号的软件，以符合当地规定。此前在上 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
