@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-18T00:36:09.105Z</updated>
+    <updated>2023-10-19T00:35:45.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[失望三年后恰好相见：闲话 iPhone 15 Pro]]></title>
+        <id>https://sspai.com/post/83577</id>
+        <link href="https://sspai.com/post/83577"/>
+        <updated>2023-10-18T09:19:29.000Z</updated>
+        <summary type="html"><![CDATA[三年，是一段很短的时间吗？一千多个日夜，两三万个小时，秒针默默嘀嗒了一亿下。三年，是一段很长的时间吗？只是眨眼之间，便匆匆逝去，留下一段似有似无而渐渐模糊的记忆。过去三年，对iPhone甚是失望。在1 ...查看全文]]></summary>
+        <author>
+            <name>YellowColr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验]]></title>
+        <id>https://sspai.com/post/83375</id>
+        <link href="https://sspai.com/post/83375"/>
+        <updated>2023-10-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我低头看向大叠，满眼都是 11 年前 Windows 8 2in1 的影子。查看全文]]></summary>
+        <author>
+            <name>SysErr0r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3]]></title>
+        <id>https://sspai.com/post/83657</id>
+        <link href="https://sspai.com/post/83657"/>
+        <updated>2023-10-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[飞书多维表格可以实现 Things 3 中我特别关注的几项功能，与组织架构和合作伙伴数据表的双向关联也更适配工作场景，并且可跨越 Windows 和 macOS 的鸿沟，在多平台上同步使用。查看全文]]></summary>
+        <author>
+            <name>中杯冰拿铁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等]]></title>
+        <id>https://sspai.com/post/83663</id>
+        <link href="https://sspai.com/post/83663"/>
+        <updated>2023-10-17T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[英特尔发布酷睿第 14 代桌面处理器，高通将与 Google 合作开发基于 RISC-V 的可穿戴平台等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐]]></title>
         <id>https://sspai.com/prime/story/free-markdown-editor-2023</id>
@@ -1169,67 +1209,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[随着新一代 iPhone 系列机型的亮相以及正式发售日期的临近，在拿到新设备前，相信不少人都对几款新 iPhone 有许多感兴趣的细节和疑问。在正式发售前夕，少数派也有机会获得了提前体验新款 iPhone 的机会，对于大家比较关心的配色、外观、重量、新功能等问题，我们在短暂体验之后也进行了整理，通过这篇文章与你分享。查看全文]]></summary>
         <author>
             <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一步步做个最适合自己的键盘固件：QMK 固件制作全解]]></title>
-        <id>https://sspai.com/prime/story/qmk-firmware-tutorial</id>
-        <link href="https://sspai.com/prime/story/qmk-firmware-tutorial"/>
-        <updated>2023-09-19T09:33:28.000Z</updated>
-        <summary type="html"><![CDATA[入坑客制化键盘早晚都会接触到 VIA 这个改键软件，本文将带你开启自己编写键盘固件的第一步。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>炜智能</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递013 | 浏览器书签的 99 条用法和漫画迷的数据库]]></title>
-        <id>https://sspai.com/post/83052</id>
-        <link href="https://sspai.com/post/83052"/>
-        <updated>2023-09-19T09:27:48.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 白板的信息关联、整理与查找，GUGA 是如何搞定的？]]></title>
-        <id>https://sspai.com/post/82826</id>
-        <link href="https://sspai.com/post/82826"/>
-        <updated>2023-09-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GUGA 就像班级中的全能学生，什么都能做、但什么都做不到最好——好在它的独特优势和风格，在一众缺乏新意的笔记市场中仍显难能可贵。查看全文]]></summary>
-        <author>
-            <name>Lars漫步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 17 正式版来了，升级后先试试这些新功能]]></title>
-        <id>https://sspai.com/post/83015</id>
-        <link href="https://sspai.com/post/83015"/>
-        <updated>2023-09-19T03:30:02.000Z</updated>
-        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 17 中值得关注的新功能和新特性，希望帮你进一步了解新版系统的方方面面。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派开箱 | 当轻巧与耐用兼得，Bellroy 又设计了怎样的好包]]></title>
-        <id>https://sspai.com/post/82906</id>
-        <link href="https://sspai.com/post/82906"/>
-        <updated>2023-09-19T02:06:58.000Z</updated>
-        <summary type="html"><![CDATA[九年前在别司工作时策划了几场「海外精品」主题的海淘活动，也是在那会儿初识Bellroy。彼时说「品牌」有些隆重，它更像是一个小小的「设计工作室」，秉承着「slimyourwallet」的理念销售着寥寥 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：iPhone 15 机型维修费用公布、iOS 17 等系统正式版发布等]]></title>
-        <id>https://sspai.com/post/83044</id>
-        <link href="https://sspai.com/post/83044"/>
-        <updated>2023-09-19T01:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Unity 为收费政策发布致歉，大疆回应近期传言等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
