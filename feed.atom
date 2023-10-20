@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T00:35:45.209Z</updated>
+    <updated>2023-10-20T00:35:41.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 162｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/83702</id>
+        <link href="https://sspai.com/post/83702"/>
+        <updated>2023-10-19T09:38:38.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装]]></title>
+        <id>https://sspai.com/post/83686</id>
+        <link href="https://sspai.com/post/83686"/>
+        <updated>2023-10-19T08:00:15.000Z</updated>
+        <summary type="html"><![CDATA[一位对生活有品质追求的旅行者，需要什么样的剃须刀？这是我们最新的作品：少数派与昔马（smasmall）联合推出的「旅行者便携剃须套装」。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精准转写：利用 Whisper 处理音视频转文字不完全指南]]></title>
+        <id>https://sspai.com/post/83644</id>
+        <link href="https://sspai.com/post/83644"/>
+        <updated>2023-10-19T06:47:18.000Z</updated>
+        <summary type="html"><![CDATA[背景前阵子女朋友去读研，授课是全英的，加之又有很多专业名词，有时就会出现理解能力跟不上讲课速度的情况。因此借助课堂回放/录音复习也变成了一项每周必做的工作，但是完全回看一个三小时长的课程显然是不现实的 ...查看全文]]></summary>
+        <author>
+            <name>张立行</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 给你的 Windows 系统打上 mod：Windhawk]]></title>
+        <id>https://sspai.com/post/83569</id>
+        <link href="https://sspai.com/post/83569"/>
+        <updated>2023-10-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[你的 Windows 也能打 mod，要不要来试试？查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等]]></title>
+        <id>https://sspai.com/post/83687</id>
+        <link href="https://sspai.com/post/83687"/>
+        <updated>2023-10-19T00:38:30.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA 将与富士康联合建立 AI 数据中心、AMD 更新驱动，撤回 Anti-Lag+ 功能、Netflix 订阅价格再度上涨等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[失望三年后恰好相见：闲话 iPhone 15 Pro]]></title>
         <id>https://sspai.com/post/83577</id>
@@ -1159,56 +1209,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[阿里影业宣布收购大麦、TCL 发布双子舱洗烘护集成机 T10、Netflix 公布《鬼武者》动画版预告片等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双轨歌词、动态封面：我是如何用 mpv 听歌的]]></title>
-        <id>https://sspai.com/post/82744</id>
-        <link href="https://sspai.com/post/82744"/>
-        <updated>2023-09-20T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[mpv 是一款媒体播放器——尽管在大多数读者的认知中，它作为视频播放器的存在感更强、用途也更常见一点。本文则另辟蹊径，教你利用 mpv 的字幕功能打造带封面展示和歌词的本地音乐播放器。查看全文]]></summary>
-        <author>
-            <name>scillidan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出行锦囊 | 如何买到一张价格合理的机票]]></title>
-        <id>https://sspai.com/post/83081</id>
-        <link href="https://sspai.com/post/83081"/>
-        <updated>2023-09-20T07:19:11.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文为「这个夏天我在这」特别活动延伸策划内容，通过行程规划、旅途好物、出行游记等一系列相关话题内容，希望能够帮助你策划一场更加「完美」的旅游。也欢迎你在微博参加我们的照片征集活动，告诉我们你在路 ...查看全文]]></summary>
-        <author>
-            <name>煎饼饼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更有本事， 更显你本色：iPadOS 17 中值得关注的新特性]]></title>
-        <id>https://sspai.com/post/83079</id>
-        <link href="https://sspai.com/post/83079"/>
-        <updated>2023-09-20T03:30:57.000Z</updated>
-        <summary type="html"><![CDATA[今年的 iPadOS 17 更新在补全一些基础功能之外还带来了不少新功能，在这篇文章中我们帮你整理出了 iPadOS 17 中这些值得关注的新特性查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：2024 款小鹏 G9 上市、Panos Panay 从微软离职等]]></title>
-        <id>https://sspai.com/post/83076</id>
-        <link href="https://sspai.com/post/83076"/>
-        <updated>2023-09-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Core Ultra 处理器将于 12 月 14 日发布，Windows 为画图应用加入图层功能。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手感更轻、性能更重：iPhone 15 Pro 快速上手体验]]></title>
-        <id>https://sspai.com/post/83066</id>
-        <link href="https://sspai.com/post/83066"/>
-        <updated>2023-09-19T13:01:08.000Z</updated>
-        <summary type="html"><![CDATA[随着新一代 iPhone 系列机型的亮相以及正式发售日期的临近，在拿到新设备前，相信不少人都对几款新 iPhone 有许多感兴趣的细节和疑问。在正式发售前夕，少数派也有机会获得了提前体验新款 iPhone 的机会，对于大家比较关心的配色、外观、重量、新功能等问题，我们在短暂体验之后也进行了整理，通过这篇文章与你分享。查看全文]]></summary>
-        <author>
-            <name>waychane</name>
         </author>
     </entry>
     <entry>
