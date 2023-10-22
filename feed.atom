@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:34:33.164Z</updated>
+    <updated>2023-10-22T00:38:28.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook]]></title>
+        <id>https://sspai.com/post/83728</id>
+        <link href="https://sspai.com/post/83728"/>
+        <updated>2023-10-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[将传统文化与现代科技相结合，腾讯互娱天美L1工作室引擎负责人凌飞认为《王者荣耀》无疑是当下连接年轻人之间最直接的渠道，这样的尝试也就更加显得弥足珍贵。日前，在成都太古里AppleStore零售店中，我 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大束作品]]></title>
         <id>https://sspai.com/post/83726</id>
@@ -1159,46 +1169,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[文献管理是个相当未雨绸缪的工作，拖得越晚越积重难返。这篇文章就是给还没有开始第一步的朋友准备的。查看全文]]></summary>
         <author>
             <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大匣作品]]></title>
-        <id>https://sspai.com/post/83155</id>
-        <link href="https://sspai.com/post/83155"/>
-        <updated>2023-09-22T10:11:28.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]性爱自修室第四季、[国产]异人之下、[美剧]早间新闻第三季、[日剧]落日、[日剧]潜入搜查官松下洸平、[韩剧]诱拐之日、[电影]宇航员、[电影]伯爵、[美剧]桃乐丝 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全盘改造，「表」现大不同：watchOS 10 值得关注的新特性]]></title>
-        <id>https://sspai.com/post/83143</id>
-        <link href="https://sspai.com/post/83143"/>
-        <updated>2023-09-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[史努比表盘真好看啊.png查看全文]]></summary>
-        <author>
-            <name>王百顺BS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好想大声说「AI」它：Adobe Firefly 使用体验与指南]]></title>
-        <id>https://sspai.com/post/83138</id>
-        <link href="https://sspai.com/post/83138"/>
-        <updated>2023-09-22T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[如果你最近和我一样也在高强度网上冲浪，相信你一定在各种平台看到过这样的内容：AI扩图功能给我们带来了一个观察世界的新角度。在AI的加持下，我们可以看到原本熟悉的专辑封面、视频截图等画面之外「藏」着什么 ...查看全文]]></summary>
-        <author>
-            <name>胖鱼要进步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：微软发布多款新品等]]></title>
-        <id>https://sspai.com/post/83137</id>
-        <link href="https://sspai.com/post/83137"/>
-        <updated>2023-09-22T01:00:55.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊推出生成式 AI 的 Alexa 助手以及硬件新品，OpenAI 发布 DALL-E 3 等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

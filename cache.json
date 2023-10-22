@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83728",
+          "author": "waychane",
+          "description": "将传统文化与现代科技相结合，腾讯互娱天美L1工作室引擎负责人凌飞认为《王者荣耀》无疑是当下连接年轻人之间最直接的渠道，这样的尝试也就更加显得弥足珍贵。日前，在成都太古里AppleStore零售店中，我 ...查看全文",
+          "link": "https://sspai.com/post/83728",
+          "publishedOn": "2023-10-21T07:00:00.000Z",
+          "wordCount": 691,
+          "title": "一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook",
+          "imageUrl": "https://cdn.sspai.com/2023/10/20/article/ddea23df-8137-bca5-6323-f27092b15efe.png"
+        },
+        {
           "id": "https://sspai.com/post/83726",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[国产]繁城之下、[国产]那些回不去的年少时光、[电影]坠楼死亡的剖析、[美剧]厄舍府的崩塌、[英剧]古宅老友记第五季、[电影]一个人的朝圣、[日剧]局中人第三季、[日剧] ...查看全文",
@@ -894,46 +904,6 @@
           "wordCount": 738,
           "title": "开学季 | 挑个趁手的工具，尽早学会文献管理",
           "imageUrl": "https://cdn.sspai.com/editor/u_/ck15rg5b34tdabkg8hb0"
-        },
-        {
-          "id": "https://sspai.com/post/83155",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[英剧]性爱自修室第四季、[国产]异人之下、[美剧]早间新闻第三季、[日剧]落日、[日剧]潜入搜查官松下洸平、[韩剧]诱拐之日、[电影]宇航员、[电影]伯爵、[美剧]桃乐丝 ...查看全文",
-          "link": "https://sspai.com/post/83155",
-          "publishedOn": "2023-09-22T10:11:28.000Z",
-          "wordCount": 992,
-          "title": "本周看什么 | 最近值得一看的一大匣作品",
-          "imageUrl": "https://cdn.sspai.com/2023/9/22/article/2b43d902-f944-6619-562b-d831cec09bab.png"
-        },
-        {
-          "id": "https://sspai.com/post/83143",
-          "author": "王百顺BS",
-          "description": "史努比表盘真好看啊.png查看全文",
-          "link": "https://sspai.com/post/83143",
-          "publishedOn": "2023-09-22T07:00:00.000Z",
-          "wordCount": 797,
-          "title": "全盘改造，「表」现大不同：watchOS 10 值得关注的新特性",
-          "imageUrl": "https://cdn.sspai.com/2023/9/22/article/24efc244-f6e6-431d-2268-f09c1bc32038.png"
-        },
-        {
-          "id": "https://sspai.com/post/83138",
-          "author": "胖鱼要进步",
-          "description": "如果你最近和我一样也在高强度网上冲浪，相信你一定在各种平台看到过这样的内容：AI扩图功能给我们带来了一个观察世界的新角度。在AI的加持下，我们可以看到原本熟悉的专辑封面、视频截图等画面之外「藏」着什么 ...查看全文",
-          "link": "https://sspai.com/post/83138",
-          "publishedOn": "2023-09-22T03:30:00.000Z",
-          "wordCount": 831,
-          "title": "好想大声说「AI」它：Adobe Firefly 使用体验与指南",
-          "imageUrl": "https://cdn.sspai.com/2023/09/22/e098231d215d4781ada5eeb471cf796f.png"
-        },
-        {
-          "id": "https://sspai.com/post/83137",
-          "author": "少数派编辑部",
-          "description": "亚马逊推出生成式 AI 的 Alexa 助手以及硬件新品，OpenAI 发布 DALL-E 3 等。查看全文",
-          "link": "https://sspai.com/post/83137",
-          "publishedOn": "2023-09-22T01:00:55.000Z",
-          "wordCount": 1280,
-          "title": "派早报：微软发布多款新品等",
-          "imageUrl": "https://cdn.sspai.com/9/22/2023/article/0f5b8048-75ac-38ce-f83c-5c22caf6223a.png"
         }
       ]
     },
