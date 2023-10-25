@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-24T00:35:51.683Z</updated>
+    <updated>2023-10-25T00:35:39.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意]]></title>
+        <id>https://sspai.com/post/83832</id>
+        <link href="https://sspai.com/post/83832"/>
+        <updated>2023-10-24T09:04:46.000Z</updated>
+        <summary type="html"><![CDATA[塞入完整版新玩意，一次看个够。查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从阅读到输出，我是如何用数字工具完成这一切的]]></title>
+        <id>https://sspai.com/post/83467</id>
+        <link href="https://sspai.com/post/83467"/>
+        <updated>2023-10-24T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[人无法欺骗自己，面对读完一本书后空空的头脑，只会引发更多的焦虑，于是机械重复地再去速读另一本书，毫无意义。查看全文]]></summary>
+        <author>
+            <name>Lars漫步</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[依然属于大众的 iPhone：iPhone 15 Plus 使用体验]]></title>
+        <id>https://sspai.com/post/83786</id>
+        <link href="https://sspai.com/post/83786"/>
+        <updated>2023-10-24T06:24:02.000Z</updated>
+        <summary type="html"><![CDATA[如果你需要购买一部新的 iPhone——即使你曾经是 Pro 系列的用户——我都会优先推荐你考虑今年的数字系列，它好看，好用，价格也没有那么贵，为什么不试试看呢？查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer]]></title>
+        <id>https://sspai.com/post/83754</id>
+        <link href="https://sspai.com/post/83754"/>
+        <updated>2023-10-24T03:00:48.000Z</updated>
+        <summary type="html"><![CDATA[资讯一览之于 Android，就像「实时活动」之于 iOS，而今天介绍这款 Smartspacer，则能让这个小组件变得更加实用。查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等]]></title>
+        <id>https://sspai.com/post/83813</id>
+        <link href="https://sspai.com/post/83813"/>
+        <updated>2023-10-24T00:28:29.000Z</updated>
+        <summary type="html"><![CDATA[欧洲刑警组织摧毁 Ragnar Locker 勒索软件基础设施，菲律宾政府遭数据勒索等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/83806</id>
@@ -1128,67 +1178,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <summary type="html"><![CDATA[抖音推出「闪电搜索」，Gmail 将于 2024 年 1 月停止基本 HTML 视图等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/83210</id>
-        <link href="https://sspai.com/post/83210"/>
-        <updated>2023-09-25T10:06:06.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅谈飞傲 M11S 与 BTR7]]></title>
-        <id>https://sspai.com/post/82472</id>
-        <link href="https://sspai.com/post/82472"/>
-        <updated>2023-09-25T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[BTR7 作为一种方向的尝试非常值得肯定，也希望在不久的将来看到飞傲推出改进后的新品。查看全文]]></summary>
-        <author>
-            <name>ROB1N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[窗口内容钉选、跨设备使用鼠标：新版 PowerToys 这些功能值得一试]]></title>
-        <id>https://sspai.com/post/83105</id>
-        <link href="https://sspai.com/post/83105"/>
-        <updated>2023-09-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PowerToys 已经内置了 21 种不同的系统工具，本文为你介绍最近新增的其中三款。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出行锦囊 | 找到假期应有的惬意：聊聊攻略规划与星级酒店]]></title>
-        <id>https://sspai.com/post/83199</id>
-        <link href="https://sspai.com/post/83199"/>
-        <updated>2023-09-25T03:30:06.000Z</updated>
-        <summary type="html"><![CDATA[在考量了有限的时间、精力以及预算经费的情况下，我们应该如何兼顾旅行中的体验与性价比。查看全文]]></summary>
-        <author>
-            <name>拐子狼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Unity 修订争议收费政策，全球智能手机品牌减少三分之二]]></title>
-        <id>https://sspai.com/post/83189</id>
-        <link href="https://sspai.com/post/83189"/>
-        <updated>2023-09-25T00:56:01.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Unity致歉并修订争议收费政策9月22日，Unity通过官方博客发布致歉信，宣布对之前备受争议的收费政策做出重大修订。根据Unity在9月12日宣布的政策，从2024年1月起，对于 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[点一下能解决的事就别长按：Android 应用快捷方式面面观]]></title>
-        <id>https://sspai.com/prime/story/android-intents-affordances</id>
-        <link href="https://sspai.com/prime/story/android-intents-affordances"/>
-        <updated>2023-09-24T13:18:17.000Z</updated>
-        <summary type="html"><![CDATA[替代应用图标、嵌入更多可见界面和提供索引甚至自动化接入，摆在应用快捷方式面前的解法其实有不少。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>克莱德</name>
         </author>
     </entry>
     <entry>
