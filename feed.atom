@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-25T00:35:39.519Z</updated>
+    <updated>2023-10-26T00:34:56.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bellroy 首席设计师 James Jeffrey 都装了啥？]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-231025</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-231025"/>
+        <updated>2023-10-25T09:36:48.000Z</updated>
+        <summary type="html"><![CDATA[[......]
+查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[集成百家所长的 matter，也是智能家居的未来（系列文章之一）]]></title>
+        <id>https://sspai.com/prime/story/matter-explained-01</id>
+        <link href="https://sspai.com/prime/story/matter-explained-01"/>
+        <updated>2023-10-25T09:03:37.000Z</updated>
+        <summary type="html"><![CDATA[在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。查看全文
+本文为会员文章，出自《Matter协议详解》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>EstrellaXD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC]]></title>
+        <id>https://sspai.com/post/83800</id>
+        <link href="https://sspai.com/post/83800"/>
+        <updated>2023-10-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[阳光柔暖，空气微凉，秋风舒爽，在这个「瞎逛爱好者」最喜欢的季节，我们去山里拍星星，在公园湖边喝一杯热茶，在通勤路上看树叶变幻色彩，无论是探索自然还是城市漫步，包里的东西似乎都随着季节产生了些许变化。我 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[规划库存、减少浪费：以 Grocy 为数据库的物品管理方案]]></title>
+        <id>https://sspai.com/post/83836</id>
+        <link href="https://sspai.com/post/83836"/>
+        <updated>2023-10-25T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[与以往仅通过手机与软件来管理库存的方法不同，我们设计了一个很简洁的硬件，来帮助我们打破数据和真实世界的这堵屏障，解放了用户这个「中间人」的角色。查看全文]]></summary>
+        <author>
+            <name>凉糕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等]]></title>
+        <id>https://sspai.com/post/83854</id>
+        <link href="https://sspai.com/post/83854"/>
+        <updated>2023-10-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple 将于 10 月 31 日举行特别活动，魅族完成统一推送标准适配等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意]]></title>
         <id>https://sspai.com/post/83832</id>
@@ -1136,46 +1189,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/83243"/>
         <updated>2023-09-27T01:00:37.000Z</updated>
         <summary type="html"><![CDATA[Google 播客将停用并迁移至 YouTube Music，Spotify 推出 Jam、AI 播客语音转译功能等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 014 |  交互式小组件、预制菜和派友的维修经历]]></title>
-        <id>https://sspai.com/post/83232</id>
-        <link href="https://sspai.com/post/83232"/>
-        <updated>2023-09-26T09:12:15.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……]]></title>
-        <id>https://sspai.com/post/83225</id>
-        <link href="https://sspai.com/post/83225"/>
-        <updated>2023-09-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[《2077》的新主线，除了本身包含多结局外，资料片中的特定抉择还能为主线解锁一个新结局；作为微软收购 ZeniMax 的重要原因之一，「真·十年磨一剑」的 Bethesda 新 IP《星空》没有想象得那么劲爆……查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？]]></title>
-        <id>https://sspai.com/post/83174</id>
-        <link href="https://sspai.com/post/83174"/>
-        <updated>2023-09-26T03:33:27.000Z</updated>
-        <summary type="html"><![CDATA[如果你和我一样使用多个音乐串流平台、有记录听歌的需求，希望这篇文章能给你一点点的启发。查看全文]]></summary>
-        <author>
-            <name>Humanitech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等]]></title>
-        <id>https://sspai.com/post/83219</id>
-        <link href="https://sspai.com/post/83219"/>
-        <updated>2023-09-26T00:58:30.000Z</updated>
-        <summary type="html"><![CDATA[抖音推出「闪电搜索」，Gmail 将于 2024 年 1 月停止基本 HTML 视图等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>

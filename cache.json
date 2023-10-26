@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/zhuanglesha-231025",
+          "author": "少数派编辑部",
+          "description": "[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/zhuanglesha-231025",
+          "publishedOn": "2023-10-25T09:36:48.000Z",
+          "wordCount": 2330,
+          "title": "Bellroy 首席设计师 James Jeffrey 都装了啥？",
+          "imageUrl": "https://cdn.sspai.com/2023/10/23/article/ddf5514f-b82f-5455-d0d4-f4cc47ce05a4.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/matter-explained-01",
+          "author": "EstrellaXD",
+          "description": "在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。查看全文\n本文为会员文章，出自《Matter协议详解》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/matter-explained-01",
+          "publishedOn": "2023-10-25T09:03:37.000Z",
+          "wordCount": 1293,
+          "title": "集成百家所长的 matter，也是智能家居的未来（系列文章之一）",
+          "imageUrl": "https://cdn.sspai.com/article/1f53593f-0359-3090-6ed1-d85e019c603f.png"
+        },
+        {
+          "id": "https://sspai.com/post/83800",
+          "author": "Matrix机器人",
+          "description": "阳光柔暖，空气微凉，秋风舒爽，在这个「瞎逛爱好者」最喜欢的季节，我们去山里拍星星，在公园湖边喝一杯热茶，在通勤路上看树叶变幻色彩，无论是探索自然还是城市漫步，包里的东西似乎都随着季节产生了些许变化。我 ...查看全文",
+          "link": "https://sspai.com/post/83800",
+          "publishedOn": "2023-10-25T07:00:00.000Z",
+          "wordCount": 844,
+          "title": "Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC",
+          "imageUrl": "https://cdn.sspai.com/2023/10/23/article/020de798-7015-829d-d946-95e459dfcd0e.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83836",
+          "author": "凉糕",
+          "description": "与以往仅通过手机与软件来管理库存的方法不同，我们设计了一个很简洁的硬件，来帮助我们打破数据和真实世界的这堵屏障，解放了用户这个「中间人」的角色。查看全文",
+          "link": "https://sspai.com/post/83836",
+          "publishedOn": "2023-10-25T03:30:00.000Z",
+          "wordCount": 842,
+          "title": "规划库存、减少浪费：以 Grocy 为数据库的物品管理方案",
+          "imageUrl": "https://cdn.sspai.com/2023/10/24/7a7d1f811a67b6221d4ce8d2de941156.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83854",
+          "author": "少数派编辑部",
+          "description": "Apple 将于 10 月 31 日举行特别活动，魅族完成统一推送标准适配等。查看全文",
+          "link": "https://sspai.com/post/83854",
+          "publishedOn": "2023-10-25T00:00:00.000Z",
+          "wordCount": 806,
+          "title": "派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等",
+          "imageUrl": "https://cdn.sspai.com/2023/10/25/article/7b545c77-1b97-ea93-00ca-91852957a7ae.png"
+        },
+        {
           "id": "https://sspai.com/post/83832",
           "author": "Matrix机器人",
           "description": "塞入完整版新玩意，一次看个够。查看全文",
@@ -874,46 +924,6 @@
           "wordCount": 937,
           "title": "派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等",
           "imageUrl": "https://cdn.sspai.com/2023/9/27/article/ccf68261-b610-b27c-64ec-b5a55df7e592.png"
-        },
-        {
-          "id": "https://sspai.com/post/83232",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/83232",
-          "publishedOn": "2023-09-26T09:12:15.000Z",
-          "wordCount": 943,
-          "title": "社区速递 014 |  交互式小组件、预制菜和派友的维修经历",
-          "imageUrl": "https://cdn.sspai.com/2023/9/26/article/627281cc-181d-c018-6c48-fc3d0c220623.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83225",
-          "author": "板斧",
-          "description": "《2077》的新主线，除了本身包含多结局外，资料片中的特定抉择还能为主线解锁一个新结局；作为微软收购 ZeniMax 的重要原因之一，「真·十年磨一剑」的 Bethesda 新 IP《星空》没有想象得那么劲爆……查看全文",
-          "link": "https://sspai.com/post/83225",
-          "publishedOn": "2023-09-26T07:00:00.000Z",
-          "wordCount": 927,
-          "title": "本月玩什么 | 往日之影、星空、巴别塔圣歌、「锈湖」新作……",
-          "imageUrl": "https://cdn.sspai.com/2023/09/26/dd30d8cb28da0c990eb006082a21f996.JPG"
-        },
-        {
-          "id": "https://sspai.com/post/83174",
-          "author": "Humanitech",
-          "description": "如果你和我一样使用多个音乐串流平台、有记录听歌的需求，希望这篇文章能给你一点点的启发。查看全文",
-          "link": "https://sspai.com/post/83174",
-          "publishedOn": "2023-09-26T03:33:27.000Z",
-          "wordCount": 747,
-          "title": "豆瓣、Notion 和 Last.fm，哪个更适合用来记录你听过的歌？",
-          "imageUrl": "https://cdn.sspai.com/2023/09/23/344207c7151d6846a14b59e632d0feb0.png"
-        },
-        {
-          "id": "https://sspai.com/post/83219",
-          "author": "少数派编辑部",
-          "description": "抖音推出「闪电搜索」，Gmail 将于 2024 年 1 月停止基本 HTML 视图等。查看全文",
-          "link": "https://sspai.com/post/83219",
-          "publishedOn": "2023-09-26T00:58:30.000Z",
-          "wordCount": 1072,
-          "title": "派早报：华为举办秋季全场景新品发布会，大疆发布 DJI Mini 4 Pro 无人机等",
-          "imageUrl": "https://cdn.sspai.com/2023/9/26/article/811c65fe-e240-47a7-82b1-02816fd07de4.png"
         }
       ]
     },
