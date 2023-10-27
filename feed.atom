@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-26T00:34:56.968Z</updated>
+    <updated>2023-10-27T00:35:04.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用命令行工具助力移动端自动化：以视频和图片下载为例]]></title>
+        <id>https://sspai.com/prime/story/cli-utils-in-mobile-automations</id>
+        <link href="https://sspai.com/prime/story/cli-utils-in-mobile-automations"/>
+        <updated>2023-10-26T10:08:04.000Z</updated>
+        <summary type="html"><![CDATA[命令行工具并不只是桌面端的专属。选对运行环境，理解调用方式，就能更省事地解决很多移动端的自动化需求。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双十一硬件推荐：值得关注的好键盘]]></title>
+        <id>https://sspai.com/post/80308</id>
+        <link href="https://sspai.com/post/80308"/>
+        <updated>2023-10-26T09:30:16.000Z</updated>
+        <summary type="html"><![CDATA[今年键盘市场内卷太严重了，以至于有些无趣，但还是有不少好东西的。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更好用的 Apple Music 和隔空投送，iOS 17.1 中值得关注的新特性]]></title>
+        <id>https://sspai.com/post/83879</id>
+        <link href="https://sspai.com/post/83879"/>
+        <updated>2023-10-26T07:01:09.000Z</updated>
+        <summary type="html"><![CDATA[10 月 26 日，Apple 推送了 iOS 17.1 更新。这次更新主要集中在音乐 app 上，AirDrop 也有较大变化，让我们一起来看看 iOS 17.1 都有哪些值得关注的更新内容吧。查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[先享体验计划正式启动，少数派和骁龙骁友会一起邀你来当先享体验官]]></title>
+        <id>https://sspai.com/post/83860</id>
+        <link href="https://sspai.com/post/83860"/>
+        <updated>2023-10-26T05:00:25.000Z</updated>
+        <summary type="html"><![CDATA[什么是「先享体验计划」少数派x骁龙骁友会四期众测，机会多多如何参与众测众测奖项>下载少数派客户端、关注少数派小红书，感受精彩数字生活🍁>特惠、好用的硬件产品，尽在少数派sspai官方店铺🛒查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关注「内在美」社交产品达到目标了吗？聊聊我的「犬岛」体验]]></title>
+        <id>https://sspai.com/post/83758</id>
+        <link href="https://sspai.com/post/83758"/>
+        <updated>2023-10-26T03:17:26.000Z</updated>
+        <summary type="html"><![CDATA[通过问题引导用户展示「内在美」和引发深度交流，犬岛提供了一种很独特的思路，然而它在社交和 App 存在的种种问题，还是让最终体验偏向了「微博式」社交。查看全文]]></summary>
+        <author>
+            <name>InsSheeran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等]]></title>
+        <id>https://sspai.com/post/83874</id>
+        <link href="https://sspai.com/post/83874"/>
+        <updated>2023-10-26T00:33:04.000Z</updated>
+        <summary type="html"><![CDATA[大上发布墨水屏平板 Not-eReader 133、Automattic 计划收购社交平台 Texts、YouTube Music 加入 AI 封面生成功能等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bellroy 首席设计师 James Jeffrey 都装了啥？]]></title>
         <id>https://sspai.com/prime/story/zhuanglesha-231025</id>
@@ -1149,46 +1210,6 @@ https://youtu.be/Dh1QjTGdiP4]]></summary>
         <link href="https://sspai.com/post/83277"/>
         <updated>2023-09-28T00:43:15.000Z</updated>
         <summary type="html"><![CDATA[亚马逊正式推出新版 Kindle App for Mac、互联网信息办公室公布首批应用程序分发平台备案编号等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出去玩 | 现在就去征服大自然吧：自驾南姐洛徒步小记]]></title>
-        <id>https://sspai.com/post/82818</id>
-        <link href="https://sspai.com/post/82818"/>
-        <updated>2023-09-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[轻松、散漫、走走停停，和李姐的浪漫旅行。查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被实力吸引， 被乐趣圈粉：macOS Sonoma 中值得关注的新特性]]></title>
-        <id>https://sspai.com/post/83228</id>
-        <link href="https://sspai.com/post/83228"/>
-        <updated>2023-09-27T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[macOS Sonoma 为我们带来了新的锁屏界面，改善了小组件、Safari 浏览器等一种内置应用，还为游戏打下了基础。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[除了出国，我们学习 GRE 还有什么用？]]></title>
-        <id>https://sspai.com/post/83125</id>
-        <link href="https://sspai.com/post/83125"/>
-        <updated>2023-09-27T03:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>乔淼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Nothing 子品牌 CMF 发布多款新品、Apple 推出全球开发者资源等]]></title>
-        <id>https://sspai.com/post/83243</id>
-        <link href="https://sspai.com/post/83243"/>
-        <updated>2023-09-27T01:00:37.000Z</updated>
-        <summary type="html"><![CDATA[Google 播客将停用并迁移至 YouTube Music，Spotify 推出 Jam、AI 播客语音转译功能等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
