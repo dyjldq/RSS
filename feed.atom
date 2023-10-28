@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-27T00:35:04.220Z</updated>
+    <updated>2023-10-28T00:34:35.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
+        <id>https://sspai.com/post/83906</id>
+        <link href="https://sspai.com/post/83906"/>
+        <updated>2023-10-27T09:39:36.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]河边的错误、[韩剧]恶人传记、[日剧]没有被炉的家、[电影]家庭负担、[电影]电锯惊魂10、[美剧]博斯：传承第二季、[动画]药师少女的独语、[动画]PLUTO冥王 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双十一硬件推荐：值得关注的鼠标]]></title>
+        <id>https://sspai.com/post/80329</id>
+        <link href="https://sspai.com/post/80329"/>
+        <updated>2023-10-27T07:57:06.000Z</updated>
+        <summary type="html"><![CDATA[双十一，只有雷蛇在认认真真降价。查看全文]]></summary>
+        <author>
+            <name>ROB1N</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验]]></title>
+        <id>https://sspai.com/post/83859</id>
+        <link href="https://sspai.com/post/83859"/>
+        <updated>2023-10-27T05:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Fibery 不会教你如何做数据分析，也不会告诉你什么样的模板最适合你，在深入了解它之后，Fibery 像一个杠杆，可以最大化地提高用户的效率。查看全文]]></summary>
+        <author>
+            <name>Miobowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案]]></title>
+        <id>https://sspai.com/post/83893</id>
+        <link href="https://sspai.com/post/83893"/>
+        <updated>2023-10-27T00:50:51.000Z</updated>
+        <summary type="html"><![CDATA[徕卡发布 M11-P 相机，Valve 正式发布 SteamVR 2.0 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用命令行工具助力移动端自动化：以视频和图片下载为例]]></title>
         <id>https://sspai.com/prime/story/cli-utils-in-mobile-automations</id>
@@ -1149,69 +1189,6 @@ Firefox 118 让用户更轻松地翻译网页。]]></summary>
 https://youtu.be/Dh1QjTGdiP4]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双重节日，双重优惠，栏目和软件秒杀 9.9 元起]]></title>
-        <id>https://sspai.com/post/83295</id>
-        <link href="https://sspai.com/post/83295"/>
-        <updated>2023-09-28T10:33:19.000Z</updated>
-        <summary type="html"><![CDATA[⏰活动时间：9月29日-10月6日🎁活动内容：每日秒杀：每天一款特价商品，先下单先赚到，每日0点更新；1+1=3：两种选择任你挑，都可以获赠《iOS蓝皮书》兑换链接：选择一：购买《Microsoft3 ...查看全文]]></summary>
-        <author>
-            <name>数字工具组</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「媒体老师」的大开箱：数码科技厂商中秋礼盒里都有啥？]]></title>
-        <id>https://sspai.com/post/83298</id>
-        <link href="https://sspai.com/post/83298"/>
-        <updated>2023-09-28T10:12:12.000Z</updated>
-        <summary type="html"><![CDATA[看看各数码科技品牌赠送的中秋礼盒里都有什么新鲜的好玩意。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 161｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/83297</id>
-        <link href="https://sspai.com/post/83297"/>
-        <updated>2023-09-28T09:27:22.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 iOS 找回你需要的「节假日闹钟」]]></title>
-        <id>https://sspai.com/prime/story/shortcuts-holiday-alarm</id>
-        <link href="https://sspai.com/prime/story/shortcuts-holiday-alarm"/>
-        <updated>2023-09-28T06:33:27.000Z</updated>
-        <summary type="html"><![CDATA[获得完全无缝的「节假日闹钟」体验，iOS 用户终于不用再羡慕 Android 用户的节假日闹钟了。
-[......]
-查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Tp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我理想中的 AI 笔记软件设计：从 Notion、Tana 与 Mem 谈起]]></title>
-        <id>https://sspai.com/post/83198</id>
-        <link href="https://sspai.com/post/83198"/>
-        <updated>2023-09-28T03:42:35.000Z</updated>
-        <summary type="html"><![CDATA[很多人觉得 AI 在笔记中作用不大，毕竟只有自己的思考才能把笔记内化成自己的知识。但是 AI 作为一个工具，如果能极大地提高我们管理、思考笔记的效率，那么它作为一个 copilot 还是很称职的。查看全文]]></summary>
-        <author>
-            <name>Miobowl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：索尼发布新款无线麦克风、VSCO 推出桌面版服务等]]></title>
-        <id>https://sspai.com/post/83277</id>
-        <link href="https://sspai.com/post/83277"/>
-        <updated>2023-09-28T00:43:15.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊正式推出新版 Kindle App for Mac、互联网信息办公室公布首批应用程序分发平台备案编号等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
