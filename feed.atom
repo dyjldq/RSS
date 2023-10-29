@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-28T00:34:35.612Z</updated>
+    <updated>2023-10-29T00:38:01.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[识图：在茫茫手机相册中精准定位想要照片]]></title>
+        <id>https://sspai.com/post/83441</id>
+        <link href="https://sspai.com/post/83441"/>
+        <updated>2023-10-28T05:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>Shobek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
         <id>https://sspai.com/post/83906</id>
@@ -1121,16 +1131,6 @@ https://youtu.be/ha1CRhDu8t8]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/83307</id>
-        <link href="https://sspai.com/post/83307"/>
-        <updated>2023-09-29T10:37:41.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[台剧]有生之年、[国产]九义人、[日剧]穴界风云、[美剧]大陆酒店、[电影]上帝在吗？我是玛格丽特、[日剧]派对浪客诸葛孔明、[英剧]上层男孩第五季/最终季、[动画]恶魔 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1139 Linux 基金会是世界上最大的“软件公司” https://linux.cn/article-16242-1.html 🅷 Linux 基金会是世界上最大的“软件公司” �...]]></title>
         <id>https://twitter.com/linux_cn/status/1707688776724594746</id>
         <link href="https://twitter.com/linux_cn/status/1707688776724594746"/>
@@ -1144,16 +1144,6 @@ https://linux.cn/article-16242-1.html
 »]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[留给 iPhone 的时间，还有三年：iPhone 15 系列深度解析]]></title>
-        <id>https://sspai.com/post/83300</id>
-        <link href="https://sspai.com/post/83300"/>
-        <updated>2023-09-29T04:33:37.000Z</updated>
-        <summary type="html"><![CDATA[质疑苹果，理解苹果，成为苹果。查看全文]]></summary>
-        <author>
-            <name>两颗皮蛋</name>
         </author>
     </entry>
     <entry>
