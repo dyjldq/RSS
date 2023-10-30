@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-29T00:38:01.035Z</updated>
+    <updated>2023-10-30T00:36:15.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何用 Make 自动化将即刻动态同步到 Notion]]></title>
+        <id>https://sspai.com/post/83490</id>
+        <link href="https://sspai.com/post/83490"/>
+        <updated>2023-10-29T06:24:53.000Z</updated>
+        <summary type="html"><![CDATA[断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文]]></summary>
+        <author>
+            <name>MrCoffeeTalker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[识图：在茫茫手机相册中精准定位想要照片]]></title>
         <id>https://sspai.com/post/83441</id>
@@ -1071,16 +1081,6 @@ https://linux.cn/article-16243-1.html
 »]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Okay To Cry——评《往日之影》及《赛博朋克 2077》]]></title>
-        <id>https://sspai.com/post/83309</id>
-        <link href="https://sspai.com/post/83309"/>
-        <updated>2023-09-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[感谢CDProjektRED的邀请，笔者提前约一周开始了《赛博朋克2077》（Cyberpunk2077，下文简称2077）2.0版本、资料片《往日之影》（PhantomLiberty）的游玩，中途经 ...查看全文]]></summary>
-        <author>
-            <name>板斧</name>
         </author>
     </entry>
     <entry>

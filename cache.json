@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83490",
+          "author": "MrCoffeeTalker",
+          "description": "断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文",
+          "link": "https://sspai.com/post/83490",
+          "publishedOn": "2023-10-29T06:24:53.000Z",
+          "wordCount": 816,
+          "title": "如何用 Make 自动化将即刻动态同步到 Notion",
+          "imageUrl": "https://cdn.sspai.com/2023/10/11/df3a25ed83eecddcdf30153b4b24ac96.png"
+        },
+        {
           "id": "https://sspai.com/post/83441",
           "author": "Shobek",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -904,16 +914,6 @@
           "wordCount": 916,
           "title": "一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档",
           "imageUrl": "https://cdn.sspai.com/2023/09/28/9bc6498adc5579736e0b0e9c8dcf2095.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83309",
-          "author": "板斧",
-          "description": "感谢CDProjektRED的邀请，笔者提前约一周开始了《赛博朋克2077》（Cyberpunk2077，下文简称2077）2.0版本、资料片《往日之影》（PhantomLiberty）的游玩，中途经 ...查看全文",
-          "link": "https://sspai.com/post/83309",
-          "publishedOn": "2023-09-30T07:00:00.000Z",
-          "wordCount": 854,
-          "title": "It's Okay To Cry——评《往日之影》及《赛博朋克 2077》",
-          "imageUrl": "https://cdn.sspai.com/2023/09/30/c3499e0260399788dd02dbcbb4862b99.JPG"
         }
       ]
     },
