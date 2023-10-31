@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T00:36:15.035Z</updated>
+    <updated>2023-10-31T00:36:24.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/83965</id>
+        <link href="https://sspai.com/post/83965"/>
+        <updated>2023-10-30T09:42:41.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyboard Maestro 11 更新，这些功能值得关注]]></title>
+        <id>https://sspai.com/post/83932</id>
+        <link href="https://sspai.com/post/83932"/>
+        <updated>2023-10-30T03:32:50.000Z</updated>
+        <summary type="html"><![CDATA[2023年10月24日，StairwaysSoftware发布了KeyboardMaestro的大版本更新——KeyboardMaestro11。经过一年多的打磨，除了修复常规的bug以外，Stair ...查看全文]]></summary>
+        <author>
+            <name>TomBen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例]]></title>
+        <id>https://sspai.com/post/83931</id>
+        <link href="https://sspai.com/post/83931"/>
+        <updated>2023-10-30T01:00:29.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事X新增两档订阅方案10月27日，X（原推特）正式公布了此前已被广泛报道的两档新增订阅方案。其中，Premium+每月收费16美元，相比于此前已有的Premium（每月8美元），主要增 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用 Make 自动化将即刻动态同步到 Notion]]></title>
         <id>https://sspai.com/post/83490</id>

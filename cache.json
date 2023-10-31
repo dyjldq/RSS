@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83965",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/83965",
+          "publishedOn": "2023-10-30T09:42:41.000Z",
+          "wordCount": 983,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/ckvnca5b34talt8k0h50"
+        },
+        {
+          "id": "https://sspai.com/post/83932",
+          "author": "TomBen",
+          "description": "2023年10月24日，StairwaysSoftware发布了KeyboardMaestro的大版本更新——KeyboardMaestro11。经过一年多的打磨，除了修复常规的bug以外，Stair ...查看全文",
+          "link": "https://sspai.com/post/83932",
+          "publishedOn": "2023-10-30T03:32:50.000Z",
+          "wordCount": 1305,
+          "title": "Keyboard Maestro 11 更新，这些功能值得关注",
+          "imageUrl": "https://cdn.sspai.com/10/30/2023/article/83488e1a-e0f4-9861-7e25-8a5f4b3f4765.png"
+        },
+        {
+          "id": "https://sspai.com/post/83931",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事X新增两档订阅方案10月27日，X（原推特）正式公布了此前已被广泛报道的两档新增订阅方案。其中，Premium+每月收费16美元，相比于此前已有的Premium（每月8美元），主要增 ...查看全文",
+          "link": "https://sspai.com/post/83931",
+          "publishedOn": "2023-10-30T01:00:29.000Z",
+          "wordCount": 751,
+          "title": "派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例",
+          "imageUrl": "https://cdn.sspai.com/10/29/2023/article/e5d4ff18-68a1-5e64-9a5c-5017ef0df17a.png"
+        },
+        {
           "id": "https://sspai.com/post/83490",
           "author": "MrCoffeeTalker",
           "description": "断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文",
