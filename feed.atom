@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T00:36:24.161Z</updated>
+    <updated>2023-11-01T00:38:19.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[共创 | 飞傲 HiFi 音乐机械键盘：音乐体验该升级了！]]></title>
+        <id>https://sspai.com/post/84005</id>
+        <link href="https://sspai.com/post/84005"/>
+        <updated>2023-10-31T12:30:44.000Z</updated>
+        <summary type="html"><![CDATA[音乐对我们有多重要？当你努力码字工作，身心疲惫之际，一首歌就能让你短暂逃离工作压力；当你在游戏世界驰骋沙场，和队友携手拿下胜利，一首歌就能表达你的振奋心情；当你独自在安静的深夜，用文字记录心情，一首歌 ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[双十一 | 给你的钱包「加点魔法」，来看看派商店的双十一大促]]></title>
+        <id>https://sspai.com/post/83933</id>
+        <link href="https://sspai.com/post/83933"/>
+        <updated>2023-10-31T10:01:05.000Z</updated>
+        <summary type="html"><![CDATA[双十一正好赶上万圣节，就让本獭给你表演一个「钱包消失术」！查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 018 | 秋日 EDC、自己做 App 和作者们的新玩意]]></title>
+        <id>https://sspai.com/post/83994</id>
+        <link href="https://sspai.com/post/83994"/>
+        <updated>2023-10-31T08:50:19.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家的日志 | 如何构建智能家居系统，这些是我的经验和思考]]></title>
+        <id>https://sspai.com/post/83936</id>
+        <link href="https://sspai.com/post/83936"/>
+        <updated>2023-10-31T07:11:53.000Z</updated>
+        <summary type="html"><![CDATA[聊完如何选择智能家居的平台和品牌之后，我想再聊聊关于智能家居产品方面的选购及规划。再多聊几句自动化虽然许多关于智能家居话题的内容都会先聊产品、再聊场景和自动化，我却想反其道而行之，先继续接着上篇内容的 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一图流 | Apple 十月新品发布会回顾]]></title>
+        <id>https://sspai.com/post/83978</id>
+        <link href="https://sspai.com/post/83978"/>
+        <updated>2023-10-31T01:48:36.000Z</updated>
+        <summary type="html"><![CDATA[M3 芯片性能再度提升，MacBook Pro 迎来深空灰配色。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 发布会回顾：M3 系列芯片亮相，Mac 推出新配色]]></title>
+        <id>https://sspai.com/post/83976</id>
+        <link href="https://sspai.com/post/83976"/>
+        <updated>2023-10-31T01:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Apple 发布 M3 系列芯片，并推出首批搭载该系列芯片的 14 英寸和 16 英寸 MacBook Pro 系列以及 iMac 系列机型，来看看发布会上都说了啥。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 举办 Mac 新品特别活动，Windows 11 发布补丁等]]></title>
+        <id>https://sspai.com/post/83975</id>
+        <link href="https://sspai.com/post/83975"/>
+        <updated>2023-10-31T01:16:36.000Z</updated>
+        <summary type="html"><![CDATA[育碧将于 2024 年 1 月关闭多款游戏的在线服务，ChatGPT 新版本允许用户使用所有 GPT-4 工具等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/83965</id>
@@ -999,17 +1069,6 @@ https://youtu.be/NmNOrVpfSOk]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面对危害性的网络谣言，我们就是父母最好的武器]]></title>
-        <id>https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos</id>
-        <link href="https://sspai.com/prime/story/protect-elder-parents-from-online-scams-how-tos"/>
-        <updated>2023-10-02T11:24:40.000Z</updated>
-        <summary type="html"><![CDATA[作为一代熟悉技术与网络的人，我们的责任就是以各种方式，帮助我们的父母掌握网络使用的「度」与「术」。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PostMeridy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1142 谷歌高管曾称其搜索广告利润“堪比非法企业” https://linux.cn/article-16248-1.html 🅷 谷歌高管曾称其搜索广告利润“堪比非法企...]]></title>
         <id>https://twitter.com/linux_cn/status/1708795970908033398</id>
         <link href="https://twitter.com/linux_cn/status/1708795970908033398"/>
@@ -1023,16 +1082,6 @@ https://linux.cn/article-16248-1.html
 »]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 巧用 Word 邮件合并，半自动生成活动照片记录文档]]></title>
-        <id>https://sspai.com/post/83276</id>
-        <link href="https://sspai.com/post/83276"/>
-        <updated>2023-10-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[高效完成重复性的工作任务，早日实现应摸🐟尽摸🐟。查看全文]]></summary>
-        <author>
-            <name>XavierWang</name>
         </author>
     </entry>
     <entry>
