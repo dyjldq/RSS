@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-02T00:36:02.292Z</updated>
+    <updated>2023-11-03T00:36:08.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金]]></title>
+        <id>https://sspai.com/post/84083</id>
+        <link href="https://sspai.com/post/84083"/>
+        <updated>2023-11-02T10:12:16.000Z</updated>
+        <summary type="html"><![CDATA[从博客到短视频时代，中国的科技内容创作者们一直面临一个看似两难的选择：坚持做好内容，还是趁早接商单变现？其实对于想以创作科技内容为一辈子事业的人来说，这不是从来都选择题，而是必答题，内容和商业，一个都 ...查看全文]]></summary>
+        <author>
+            <name>数字工具组</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新玩意 163｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/84088</id>
+        <link href="https://sspai.com/post/84088"/>
+        <updated>2023-11-02T09:30:15.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 给你不受语言限制、无需繁琐操作的冲浪体验：沉浸式翻译]]></title>
+        <id>https://sspai.com/post/83943</id>
+        <link href="https://sspai.com/post/83943"/>
+        <updated>2023-11-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[沉浸式翻译提供了非常丰富的功能，同时也借助多种翻译交互方式让让优秀的功能不被麻烦的调用方式所拖累。查看全文]]></summary>
+        <author>
+            <name>Vanilla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[车到用时不恨少：日本共享汽车服务观察]]></title>
+        <id>https://sspai.com/post/83639</id>
+        <link href="https://sspai.com/post/83639"/>
+        <updated>2023-11-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不是共享单车，而是共享汽车。查看全文]]></summary>
+        <author>
+            <name>GiraffeB1ues</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：vivo 召开 2023 年开发者大会、PubScholar 公益学术平台上线等]]></title>
+        <id>https://sspai.com/post/84068</id>
+        <link href="https://sspai.com/post/84068"/>
+        <updated>2023-11-02T00:43:45.000Z</updated>
+        <summary type="html"><![CDATA[YouTube 开始大规模屏蔽广告拦截器、Netflix 将调整廉价套餐的广告策略、iOS 版微信新增独立发送按钮等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[付费栏目的省钱饱和攻击：新作上架，全场满赠，买一送一，90 天保价]]></title>
         <id>https://sspai.com/post/84028</id>
@@ -1014,26 +1064,6 @@
         <summary type="html"><![CDATA[你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文]]></summary>
         <author>
             <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季 | 这些软件和服务的教育优惠，能帮你省下不少钱]]></title>
-        <id>https://sspai.com/post/68227</id>
-        <link href="https://sspai.com/post/68227"/>
-        <updated>2023-10-04T05:29:22.000Z</updated>
-        <summary type="html"><![CDATA[学生党到底有哪些专享福利？看这一篇就对了。查看全文]]></summary>
-        <author>
-            <name>jijiali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARA中「项目」的魔力：用输出对抗信息焦虑]]></title>
-        <id>https://sspai.com/post/83271</id>
-        <link href="https://sspai.com/post/83271"/>
-        <updated>2023-10-04T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[后来，我在整个流程里做出了一点点改变，它撬动了我整个知识吸收体系的结构性变化，与它相比，其他所有的方法都变得不那么重要。查看全文]]></summary>
-        <author>
-            <name>孙彬</name>
         </author>
     </entry>
     <entry>
