@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:36:08.278Z</updated>
+    <updated>2023-11-04T00:35:37.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大簇作品]]></title>
+        <id>https://sspai.com/post/84116</id>
+        <link href="https://sspai.com/post/84116"/>
+        <updated>2023-11-03T10:20:39.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]同路人、[美剧]化学课、[法剧]塔皮/千面人杰、[美剧]所有我们看不见的光、[日剧]我家的英雄、[电影]偶得回响、[电影]爱情万岁、[电影]BLUEGIANT蓝色巨 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的下一台 Android 机，记得挑字幕没那么亮的]]></title>
+        <id>https://sspai.com/prime/story/android-hdr-display-issue-explained</id>
+        <link href="https://sspai.com/prime/story/android-hdr-display-issue-explained"/>
+        <updated>2023-11-03T09:52:16.000Z</updated>
+        <summary type="html"><![CDATA[为什么 Android 设备播放 HDR 视频时，最「亮眼」的经常不是视频？查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | Timestripe：打破日程表樊篱，多视角规划目标]]></title>
+        <id>https://sspai.com/post/83944</id>
+        <link href="https://sspai.com/post/83944"/>
+        <updated>2023-11-03T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[有没有一种可能，把 Notion、Trello、OmniFocus 和 Google Calendar 合在一起？查看全文]]></summary>
+        <author>
+            <name>Miobowl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 如何只用软件实现显示器的输入源切换]]></title>
+        <id>https://sspai.com/post/83908</id>
+        <link href="https://sspai.com/post/83908"/>
+        <updated>2023-11-03T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在兼容 DDC/CI 协议的显示器上，不管你使用的是 Windows 还是 macOS 可以用软件甚至是快捷键来快速切换显示源。查看全文]]></summary>
+        <author>
+            <name>Levinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Microsoft 面向企业客户推出 365 Copilot]]></title>
+        <id>https://sspai.com/post/84098</id>
+        <link href="https://sspai.com/post/84098"/>
+        <updated>2023-11-03T00:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Apple 不再提供 Apple Music 声控方案，迪士尼将收购 Hulu 的全部股份等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初来温州问声好，Apple Store 新店抢先看]]></title>
+        <id>https://sspai.com/post/84084</id>
+        <link href="https://sspai.com/post/84084"/>
+        <updated>2023-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们很高兴通过Apple温州万象城零售店的开幕联结更多顾客。能与中国各地社区建立深厚而持久的关系我们深感自豪。Apple温州万象城开业在即，Apple零售业务高级副总裁DeirdreO'Brien也在 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[视频栏目 | 张哲学·科技博主的盈利课：体面地用爱好赚出第一桶金]]></title>
         <id>https://sspai.com/post/84083</id>
@@ -1054,16 +1115,6 @@
         <summary type="html"><![CDATA[我发自内心地敬佩每一个热爱生活，寻找自己平衡的朋友。查看全文]]></summary>
         <author>
             <name>Sylvan_Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览]]></title>
-        <id>https://sspai.com/post/83366</id>
-        <link href="https://sspai.com/post/83366"/>
-        <updated>2023-10-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
         </author>
     </entry>
     <entry>

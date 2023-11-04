@@ -6,6 +6,66 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84116",
+          "author": "少数派编辑部",
+          "description": "☕️TL;DR近期佳作推荐：[美剧]同路人、[美剧]化学课、[法剧]塔皮/千面人杰、[美剧]所有我们看不见的光、[日剧]我家的英雄、[电影]偶得回响、[电影]爱情万岁、[电影]BLUEGIANT蓝色巨 ...查看全文",
+          "link": "https://sspai.com/post/84116",
+          "publishedOn": "2023-11-03T10:20:39.000Z",
+          "wordCount": 982,
+          "title": "本周看什么 | 最近值得一看的一大簇作品",
+          "imageUrl": "https://cdn.sspai.com/2023/11/3/article/275424c1-6669-1381-3edc-1efbc57d5fda.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/android-hdr-display-issue-explained",
+          "author": "克莱德",
+          "description": "为什么 Android 设备播放 HDR 视频时，最「亮眼」的经常不是视频？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/android-hdr-display-issue-explained",
+          "publishedOn": "2023-11-03T09:52:16.000Z",
+          "wordCount": 995,
+          "title": "你的下一台 Android 机，记得挑字幕没那么亮的",
+          "imageUrl": "https://cdn.sspai.com/2023/11/3/article/5217d424-d744-a5ab-dda0-7192f2bc3cfb.png"
+        },
+        {
+          "id": "https://sspai.com/post/83944",
+          "author": "Miobowl",
+          "description": "有没有一种可能，把 Notion、Trello、OmniFocus 和 Google Calendar 合在一起？查看全文",
+          "link": "https://sspai.com/post/83944",
+          "publishedOn": "2023-11-03T07:30:00.000Z",
+          "wordCount": 760,
+          "title": "App+1 | Timestripe：打破日程表樊篱，多视角规划目标",
+          "imageUrl": "https://cdn.sspai.com/2023/10/30/a147450ed3d2aeff9900883a0c1c479d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83908",
+          "author": "Levinson",
+          "description": "在兼容 DDC/CI 协议的显示器上，不管你使用的是 Windows 还是 macOS 可以用软件甚至是快捷键来快速切换显示源。查看全文",
+          "link": "https://sspai.com/post/83908",
+          "publishedOn": "2023-11-03T03:30:00.000Z",
+          "wordCount": 865,
+          "title": "一日一技 | 如何只用软件实现显示器的输入源切换",
+          "imageUrl": "https://cdn.sspai.com/11/3/2023/article/a954bdbe-0af1-5e7b-8202-cad3ff61070c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84098",
+          "author": "少数派编辑部",
+          "description": "Apple 不再提供 Apple Music 声控方案，迪士尼将收购 Hulu 的全部股份等查看全文",
+          "link": "https://sspai.com/post/84098",
+          "publishedOn": "2023-11-03T00:31:39.000Z",
+          "wordCount": 859,
+          "title": "派早报：Microsoft 面向企业客户推出 365 Copilot",
+          "imageUrl": "https://cdn.sspai.com/11/3/2023/article/b9fa3068-f3d4-a254-d7b4-5d1049f9fa58.png"
+        },
+        {
+          "id": "https://sspai.com/post/84084",
+          "author": "waychane",
+          "description": "我们很高兴通过Apple温州万象城零售店的开幕联结更多顾客。能与中国各地社区建立深厚而持久的关系我们深感自豪。Apple温州万象城开业在即，Apple零售业务高级副总裁DeirdreO'Brien也在 ...查看全文",
+          "link": "https://sspai.com/post/84084",
+          "publishedOn": "2023-11-03T00:00:00.000Z",
+          "wordCount": 800,
+          "title": "初来温州问声好，Apple Store 新店抢先看",
+          "imageUrl": "https://cdn.sspai.com/2023/11/2/article/0fbbb31a-d662-76c3-0f64-8e3a7b39b8ba.png"
+        },
+        {
           "id": "https://sspai.com/post/84083",
           "author": "数字工具组",
           "description": "从博客到短视频时代，中国的科技内容创作者们一直面临一个看似两难的选择：坚持做好内容，还是趁早接商单变现？其实对于想以创作科技内容为一辈子事业的人来说，这不是从来都选择题，而是必答题，内容和商业，一个都 ...查看全文",
@@ -1044,16 +1104,6 @@
           "wordCount": 665,
           "title": "生活的平衡",
           "imageUrl": "https://cdn.sspai.com/2023/09/15/56ba9e42213b8d9ed2e356dfd3bd02af.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83366",
-          "author": "克莱德",
-          "description": "你已经知道的信息，Google 会用怎样的方式复述一遍，甚至有没有可能把它「包装」得更动听一点？查看全文",
-          "link": "https://sspai.com/post/83366",
-          "publishedOn": "2023-10-04T23:00:00.000Z",
-          "wordCount": 1114,
-          "title": "内置大模型、7 年系统更新：Google Pixel 8 系列发布会看点速览",
-          "imageUrl": "https://cdn.sspai.com/2023/10/5/article/390a2f58-ca8f-529a-e02c-a95a2a2ebde2.png"
         }
       ]
     },
