@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:35:37.896Z</updated>
+    <updated>2023-11-05T00:39:00.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」]]></title>
+        <id>https://sspai.com/post/83982</id>
+        <link href="https://sspai.com/post/83982"/>
+        <updated>2023-11-04T07:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Overleaf 已经成为了在线 Latex 编辑器的事实标准，但免费版本有很多限制。不过好在 Overleaf 开源了自家的编辑器供用户私有部署，希望本文可以让在毕业论文排版时「减减负」。查看全文]]></summary>
+        <author>
+            <name>正弦定理</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单]]></title>
+        <id>https://sspai.com/post/83991</id>
+        <link href="https://sspai.com/post/83991"/>
+        <updated>2023-11-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[又到了一年一度的双十一，虽然在平日里就有大大小小的各种购物节接踵而至，但双十一却依然是一年中相当热闹的购物节。无论你今年是持币观望，还是已经冲动付了好多笔定金，相信你或多或少都参与到了双十一活动中。于 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大簇作品]]></title>
         <id>https://sspai.com/post/84116</id>
@@ -1095,26 +1115,6 @@
         <summary type="html"><![CDATA[网页版 Photoshop 上线，华硕正式接管 intel NUC 产品线等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了打字更爽，我学了一个追求极致性能的小众输入法]]></title>
-        <id>https://sspai.com/post/83376</id>
-        <link href="https://sspai.com/post/83376"/>
-        <updated>2023-10-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[先看看再决定要不要试，输入法可是个大坑。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活的平衡]]></title>
-        <id>https://sspai.com/post/82961</id>
-        <link href="https://sspai.com/post/82961"/>
-        <updated>2023-10-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我发自内心地敬佩每一个热爱生活，寻找自己平衡的朋友。查看全文]]></summary>
-        <author>
-            <name>Sylvan_Wang</name>
         </author>
     </entry>
     <entry>

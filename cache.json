@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/83982",
+          "author": "正弦定理",
+          "description": "Overleaf 已经成为了在线 Latex 编辑器的事实标准，但免费版本有很多限制。不过好在 Overleaf 开源了自家的编辑器供用户私有部署，希望本文可以让在毕业论文排版时「减减负」。查看全文",
+          "link": "https://sspai.com/post/83982",
+          "publishedOn": "2023-11-04T07:00:23.000Z",
+          "wordCount": 1022,
+          "title": "App+1 |  搭建本地版 Latex 编辑器，为你的毕业论文排版「减减负」",
+          "imageUrl": "https://cdn.sspai.com/04/11/2023/article/f2854973-a695-62f0-7d66-4250a4d2d850.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83991",
+          "author": "Matrix机器人",
+          "description": "又到了一年一度的双十一，虽然在平日里就有大大小小的各种购物节接踵而至，但双十一却依然是一年中相当热闹的购物节。无论你今年是持币观望，还是已经冲动付了好多笔定金，相信你或多或少都参与到了双十一活动中。于 ...查看全文",
+          "link": "https://sspai.com/post/83991",
+          "publishedOn": "2023-11-04T03:00:00.000Z",
+          "wordCount": 759,
+          "title": "不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单",
+          "imageUrl": "https://cdn.sspai.com/2023/11/3/article/0bd2b8f0-8655-91c7-71ac-dd19034638af.png"
+        },
+        {
           "id": "https://sspai.com/post/84116",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[美剧]同路人、[美剧]化学课、[法剧]塔皮/千面人杰、[美剧]所有我们看不见的光、[日剧]我家的英雄、[电影]偶得回响、[电影]爱情万岁、[电影]BLUEGIANT蓝色巨 ...查看全文",
@@ -1084,26 +1104,6 @@
           "wordCount": 1057,
           "title": "派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等",
           "imageUrl": "https://cdn.sspai.com/2023/10/7/article/eae54d66-145e-9712-3448-1d83f3874229.png"
-        },
-        {
-          "id": "https://sspai.com/post/83376",
-          "author": "北鸮",
-          "description": "先看看再决定要不要试，输入法可是个大坑。查看全文",
-          "link": "https://sspai.com/post/83376",
-          "publishedOn": "2023-10-06T07:00:00.000Z",
-          "wordCount": 736,
-          "title": "为了打字更爽，我学了一个追求极致性能的小众输入法",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/ckfge0tb34tep8v5aet0"
-        },
-        {
-          "id": "https://sspai.com/post/82961",
-          "author": "Sylvan_Wang",
-          "description": "我发自内心地敬佩每一个热爱生活，寻找自己平衡的朋友。查看全文",
-          "link": "https://sspai.com/post/82961",
-          "publishedOn": "2023-10-06T03:00:00.000Z",
-          "wordCount": 665,
-          "title": "生活的平衡",
-          "imageUrl": "https://cdn.sspai.com/2023/09/15/56ba9e42213b8d9ed2e356dfd3bd02af.jpg"
         }
       ]
     },
