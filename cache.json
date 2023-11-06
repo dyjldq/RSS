@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84160",
+          "author": "PlatyHsu",
+          "description": "TL;DRTheGood:整洁有序、反内容农场、高度可定制的搜索结果草根引擎中少见可接受的中文结果完善而不招摇的AI功能TheBad:面对「生活日常」类检索的响应比较木讷定价过高TheUgly:搜索引 ...查看全文",
+          "link": "https://sspai.com/post/84160",
+          "publishedOn": "2023-11-05T13:00:04.000Z",
+          "wordCount": 919,
+          "title": "一把试探无解之锁的「钥匙」：评 Kagi 搜索",
+          "imageUrl": "https://cdn.sspai.com/11/5/2023/article/a5802b15-ec08-fe9f-f476-fd74c2d131c8.png"
+        },
+        {
           "id": "https://sspai.com/post/83982",
           "author": "正弦定理",
           "description": "Overleaf 已经成为了在线 Latex 编辑器的事实标准，但免费版本有很多限制。不过好在 Overleaf 开源了自家的编辑器供用户私有部署，希望本文可以让在毕业论文排版时「减减负」。查看全文",
@@ -1054,56 +1064,6 @@
           "wordCount": 807,
           "title": "派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等",
           "imageUrl": "https://cdn.sspai.com/08/10/2023/article/eeb8dd28-904d-a850-7e48-83c8d84e3fdc.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83395",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[美剧]V世代、[美剧]洛基第二季、[韩剧]恶中之恶、[英剧]第六诫、[电影]自由之声、[电影]小镇幽浮、[短片]亨利·休格的神奇故事、[动画]葬送的芙莉莲、[动画]香格里 ...查看全文",
-          "link": "https://sspai.com/post/83395",
-          "publishedOn": "2023-10-07T10:09:01.000Z",
-          "wordCount": 1001,
-          "title": "本周看什么 | 最近值得一看的一大捧作品",
-          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/f27fd5d2-ff87-e665-3718-cb71808c8b7d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83017",
-          "author": "feverlife",
-          "description": "心怀热爱，脚踏实地。职场下半总有 punchline，不卷不躺，思考过后，不妨倾注些精力开启人生副本。查看全文",
-          "link": "https://sspai.com/post/83017",
-          "publishedOn": "2023-10-07T08:26:25.000Z",
-          "wordCount": 752,
-          "title": "不躺不卷，用热爱疗愈副业焦虑",
-          "imageUrl": "https://cdn.sspai.com/2023/09/27/0ad089b6fb8327e6da9f8d043b4ae0d7.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83373",
-          "author": "Vanilla",
-          "description": "经过这半个多月的更新，目前 App Store 中已经有不少 App 适配了 StandBy 功能，我从中挑选了一些比较实用的 App 和大家一起分享。查看全文",
-          "link": "https://sspai.com/post/83373",
-          "publishedOn": "2023-10-07T07:36:17.000Z",
-          "wordCount": 848,
-          "title": "让 iPhone「随时待命」，快来试试这些 iOS 17 待机显示小组件",
-          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/8d911d05-0226-ad88-9030-703ce973352c.png"
-        },
-        {
-          "id": "https://sspai.com/post/83196",
-          "author": "炜智能",
-          "description": "现代社会大部分工作都需要和电脑打交道，写代码其实并不是程序员的专利，掌握一些简单的编程技巧可以让某些工作变得相当简单，Python 就是一个不错的切入点。查看全文",
-          "link": "https://sspai.com/post/83196",
-          "publishedOn": "2023-10-07T03:00:00.000Z",
-          "wordCount": 1824,
-          "title": "Python 在办公自动化中的简单应用",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/ck8efgtb34tdafv47550"
-        },
-        {
-          "id": "https://sspai.com/post/83389",
-          "author": "少数派编辑部",
-          "description": "网页版 Photoshop 上线，华硕正式接管 intel NUC 产品线等。查看全文",
-          "link": "https://sspai.com/post/83389",
-          "publishedOn": "2023-10-07T00:00:00.000Z",
-          "wordCount": 1057,
-          "title": "派早报：Google Pixel 8 系列发布、网页版 Photoshop 上线等",
-          "imageUrl": "https://cdn.sspai.com/2023/10/7/article/eae54d66-145e-9712-3448-1d83f3874229.png"
         }
       ]
     },
