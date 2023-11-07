@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-06T00:37:31.690Z</updated>
+    <updated>2023-11-07T00:37:01.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验]]></title>
+        <id>https://sspai.com/post/84212</id>
+        <link href="https://sspai.com/post/84212"/>
+        <updated>2023-11-06T14:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Pro 级 Mac 是值得每个人一试的选择，尤其是 MacBook Pro。在拿到新款设备体验之后，我也来聊聊感受和想法。查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[送码] 派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/84194</id>
+        <link href="https://sspai.com/post/84194"/>
+        <updated>2023-11-06T10:06:03.000Z</updated>
+        <summary type="html"><![CDATA[让新手机的操作按钮更好用的 ActionMate、给你 Pixel 资讯一览样式小组件的 Smartspacer，以及更多值得关注的 App 更新和速报资讯……查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[既要吃好也要健康，你可以从几件小事开始改变饮食习惯]]></title>
+        <id>https://sspai.com/post/84033</id>
+        <link href="https://sspai.com/post/84033"/>
+        <updated>2023-11-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[民以食为天，吃的重要性不言而喻。当我们不必再为吃饱担忧，就要考虑如何吃得更健康。市面上的营养学知识可谓汗牛充栋，但是我们还是难以做到健康饮食。问题不是信息太少，而是信息太多。营养基础知识众说纷纭，就连 ...查看全文]]></summary>
+        <author>
+            <name>阿帅的健康笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | Mac 版 Word 下图片乱码的临时处理方法]]></title>
+        <id>https://sspai.com/post/84017</id>
+        <link href="https://sspai.com/post/84017"/>
+        <updated>2023-11-06T03:32:30.000Z</updated>
+        <summary type="html"><![CDATA[微软总是忘记自己有 macOS 用户，这次就来聊聊如何绕过这个老 bug。查看全文]]></summary>
+        <author>
+            <name>GoodTheme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok]]></title>
+        <id>https://sspai.com/post/84163</id>
+        <link href="https://sspai.com/post/84163"/>
+        <updated>2023-11-06T00:46:10.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事广电总局要求年底前全国开机看直播、收费包压减50%据澎湃新闻报道，11月3日，广电总局联合有关单位，召开治理电视「套娃」收费和操作复杂试点工作总结暨全国推广工作部署推进会。会议通报了 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一把试探无解之锁的「钥匙」：评 Kagi 搜索]]></title>
         <id>https://sspai.com/post/84160</id>
@@ -1033,46 +1083,6 @@
         <link href="https://sspai.com/post/83429"/>
         <updated>2023-10-09T00:53:05.000Z</updated>
         <summary type="html"><![CDATA[你可能错过的新鲜事Pixel手机过去一年销量近千万台据商业研究机构IDC副总裁FranciscoJeronimo的X帖文，2016年至2023年间，GooglePixel手机的出货量为3790万部，且 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | Moment 4 更新详解：今年 Windows 11 的新功能，或许都在这里了]]></title>
-        <id>https://sspai.com/post/83418</id>
-        <link href="https://sspai.com/post/83418"/>
-        <updated>2023-10-08T10:28:32.000Z</updated>
-        <summary type="html"><![CDATA[虽然并非微软计划中每年一次的大更新，但 Moment 4 几乎就是 2023 年 Windows 11 功能更新的全部了。来看看它有哪些新功能。查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派开箱 | 当老牌电源厂商来做户外设备，Anker 车载冰箱用起来怎么样？]]></title>
-        <id>https://sspai.com/post/83348</id>
-        <link href="https://sspai.com/post/83348"/>
-        <updated>2023-10-08T07:19:32.000Z</updated>
-        <summary type="html"><![CDATA[单从产品自身的品质和使用体验来说，Anker是我最喜欢的充电外设品牌之一，而作为一个非常「积极」的品牌，我也喜闻乐见Anker不断地推陈出新，并蔓延到生活中大大小小诸多领域。无论是像洗地机这样的家居清 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[停止望山兴叹，从室内岩馆开始攀岩之路]]></title>
-        <id>https://sspai.com/post/82795</id>
-        <link href="https://sspai.com/post/82795"/>
-        <updated>2023-10-08T03:06:43.000Z</updated>
-        <summary type="html"><![CDATA[体验 17 次室内岩馆后，我想聊聊我对攀岩的感受。查看全文]]></summary>
-        <author>
-            <name>Mariposas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：三星推出 Exynos 2400 处理器、微软更新多项服务等]]></title>
-        <id>https://sspai.com/post/83403</id>
-        <link href="https://sspai.com/post/83403"/>
-        <updated>2023-10-08T00:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Epic 考虑改变虚幻引擎对非游戏开发者的收费模式、《赛博朋克 2077》将推出真人 IP 剧集等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
