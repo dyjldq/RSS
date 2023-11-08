@@ -6,6 +6,66 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84234",
+          "author": "Fairyex",
+          "description": "OpenAI 发布了新的模型 GPT-4 Turbo、支持可重现的输出、功能融合、JSON 模式和函数调用（Function Calling）优化、自定义模型和文档库、修改甚至完全定制模型、属于每个人的 GPTs 模型、版权盾并为所有功能都提供 API。\n查看全文",
+          "link": "https://sspai.com/post/84234",
+          "publishedOn": "2023-11-07T10:30:00.000Z",
+          "wordCount": 952,
+          "title": "GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾",
+          "imageUrl": "https://cdn.sspai.com/11/7/2023/article/5d05cd37-d6e1-2b00-2cf2-6ee575e7369b.jpg"
+        },
+        {
+          "id": "https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search",
+          "author": "JamesHopbourn",
+          "description": "前言Alfred是受Mac用户广泛喜爱的经典自动化工具，其付费功能Workflow更是提高效率的利器。不过，很多朋友或许主要都以下载别人的成品为主，一旦遇到没有现成方案、或者方案过时的情况，就只能遗憾 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search",
+          "publishedOn": "2023-11-07T09:58:38.000Z",
+          "wordCount": 1200,
+          "title": "Alfred Workflow 进阶指南：以少数派标签搜索为例",
+          "imageUrl": "https://cdn.sspai.com/2023/11/7/article/d9aeaf90-7051-956c-18cb-d0be2616d756.png"
+        },
+        {
+          "id": "https://sspai.com/post/84230",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/84230",
+          "publishedOn": "2023-11-07T09:03:36.000Z",
+          "wordCount": 968,
+          "title": "社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意",
+          "imageUrl": "https://cdn.sspai.com/2023/11/7/article/5409d66a-3248-5b74-5d92-c4854768b5a4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84119",
+          "author": "Sholmes",
+          "description": "「城市风光」是一个很广义的词，大部分时候它不仅指代某一个地点，更是我们经历过、熟悉的并留下深刻回忆的地方。它的妙不可言或许人尽皆知一目了然，亦或许是深藏心底只有自己知道的秘密。\n回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。\n查看全文",
+          "link": "https://sspai.com/post/84119",
+          "publishedOn": "2023-11-07T07:10:18.000Z",
+          "wordCount": 702,
+          "title": "城市漫步指南：夏末秋初，在慕尼黑漫步",
+          "imageUrl": "https://cdn.sspai.com/2023/11/03/529e81b143823d6300b8ac78dbf208f5.JPG"
+        },
+        {
+          "id": "https://sspai.com/post/84220",
+          "author": "张奕源Nick",
+          "description": "在本文中，我们就来聊聊 Apple 最新发布的 24 英寸版 iMac 的上手体验。在真正用上这台电脑之后，我还是感受到了不少小惊喜和小快乐。查看全文",
+          "link": "https://sspai.com/post/84220",
+          "publishedOn": "2023-11-07T03:43:53.000Z",
+          "wordCount": 896,
+          "title": "外观出色，性能不俗：2023 款 iMac 上手体验",
+          "imageUrl": "https://cdn.sspai.com/07/11/2023/article/106e7157-3a2d-f84a-ca73-5e1dd01f3afb.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84224",
+          "author": "少数派编辑部",
+          "description": "Discord 将于年底前改用临时文件链接，OpenELA 正式公开 Enterprise Linux 源代码等查看全文",
+          "link": "https://sspai.com/post/84224",
+          "publishedOn": "2023-11-07T01:07:17.000Z",
+          "wordCount": 856,
+          "title": "派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等",
+          "imageUrl": "https://cdn.sspai.com/2023/11/7/article/d6ee6420-dfeb-5241-d5c1-e19e1863624a.png"
+        },
+        {
           "id": "https://sspai.com/post/84212",
           "author": "waychane",
           "description": "Pro 级 Mac 是值得每个人一试的选择，尤其是 MacBook Pro。在拿到新款设备体验之后，我也来聊聊感受和想法。查看全文",
@@ -1034,46 +1094,6 @@
           "wordCount": 765,
           "title": "派早报：交通运输部发布《公路工程设施支持自动驾驶技术指南》等",
           "imageUrl": "https://cdn.sspai.com/10/10/2023/article/b8a6c19d-5dc0-6806-8a6c-8799557df2c9.png"
-        },
-        {
-          "id": "https://sspai.com/post/83450",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/83450",
-          "publishedOn": "2023-10-09T09:53:11.000Z",
-          "wordCount": 962,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/ckhsmulb34tditeq6pe0"
-        },
-        {
-          "id": "https://sspai.com/post/83398",
-          "author": "青工所",
-          "description": "人类的悲观、杞人忧天，才破解了每个时代的锁死。查看全文",
-          "link": "https://sspai.com/post/83398",
-          "publishedOn": "2023-10-09T07:00:00.000Z",
-          "wordCount": 924,
-          "title": "万字详拆芯片：人类算力被锁死了吗？",
-          "imageUrl": "https://cdn.sspai.com/2023/10/07/9cd7e8b9a45691fa1f2de5fa79d3ce3f.png"
-        },
-        {
-          "id": "https://sspai.com/post/83385",
-          "author": "scillidan",
-          "description": "读得越多，越能感觉到在线词典有多重要。查看全文",
-          "link": "https://sspai.com/post/83385",
-          "publishedOn": "2023-10-09T03:37:14.000Z",
-          "wordCount": 915,
-          "title": "这些浏览器词典插件，让在线阅读更方便",
-          "imageUrl": "https://cdn.sspai.com/2023/10/06/83adfef6724cd2002c28444ee28a8331.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83429",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事Pixel手机过去一年销量近千万台据商业研究机构IDC副总裁FranciscoJeronimo的X帖文，2016年至2023年间，GooglePixel手机的出货量为3790万部，且 ...查看全文",
-          "link": "https://sspai.com/post/83429",
-          "publishedOn": "2023-10-09T00:53:05.000Z",
-          "wordCount": 822,
-          "title": "派早报",
-          "imageUrl": "https://cdn.sspai.com/10/9/2023/article/f7023f99-5840-7f10-795d-046b1df6b960.png"
         }
       ]
     },

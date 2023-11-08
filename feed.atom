@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T00:37:01.046Z</updated>
+    <updated>2023-11-08T00:36:12.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-4 Turbo、功能融合：OpenAI 首个开发者大会回顾]]></title>
+        <id>https://sspai.com/post/84234</id>
+        <link href="https://sspai.com/post/84234"/>
+        <updated>2023-11-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 发布了新的模型 GPT-4 Turbo、支持可重现的输出、功能融合、JSON 模式和函数调用（Function Calling）优化、自定义模型和文档库、修改甚至完全定制模型、属于每个人的 GPTs 模型、版权盾并为所有功能都提供 API。
+查看全文]]></summary>
+        <author>
+            <name>Fairyex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alfred Workflow 进阶指南：以少数派标签搜索为例]]></title>
+        <id>https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search</id>
+        <link href="https://sspai.com/prime/story/advanced-alfred-workflow-sspai-tag-search"/>
+        <updated>2023-11-07T09:58:38.000Z</updated>
+        <summary type="html"><![CDATA[前言Alfred是受Mac用户广泛喜爱的经典自动化工具，其付费功能Workflow更是提高效率的利器。不过，很多朋友或许主要都以下载别人的成品为主，一旦遇到没有现成方案、或者方案过时的情况，就只能遗憾 ...查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>JamesHopbourn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 019 | 波导手机、Top5 应用以及作者们的新玩意]]></title>
+        <id>https://sspai.com/post/84230</id>
+        <link href="https://sspai.com/post/84230"/>
+        <updated>2023-11-07T09:03:36.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：夏末秋初，在慕尼黑漫步]]></title>
+        <id>https://sspai.com/post/84119</id>
+        <link href="https://sspai.com/post/84119"/>
+        <updated>2023-11-07T07:10:18.000Z</updated>
+        <summary type="html"><![CDATA[「城市风光」是一个很广义的词，大部分时候它不仅指代某一个地点，更是我们经历过、熟悉的并留下深刻回忆的地方。它的妙不可言或许人尽皆知一目了然，亦或许是深藏心底只有自己知道的秘密。
+回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。
+查看全文]]></summary>
+        <author>
+            <name>Sholmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外观出色，性能不俗：2023 款 iMac 上手体验]]></title>
+        <id>https://sspai.com/post/84220</id>
+        <link href="https://sspai.com/post/84220"/>
+        <updated>2023-11-07T03:43:53.000Z</updated>
+        <summary type="html"><![CDATA[在本文中，我们就来聊聊 Apple 最新发布的 24 英寸版 iMac 的上手体验。在真正用上这台电脑之后，我还是感受到了不少小惊喜和小快乐。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：联发科发布天玑 9300，斗鱼 CEO 陈少杰上月起失联等]]></title>
+        <id>https://sspai.com/post/84224</id>
+        <link href="https://sspai.com/post/84224"/>
+        <updated>2023-11-07T01:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Discord 将于年底前改用临时文件链接，OpenELA 正式公开 Enterprise Linux 源代码等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验]]></title>
         <id>https://sspai.com/post/84212</id>
@@ -1043,46 +1107,6 @@
         <link href="https://sspai.com/post/83458"/>
         <updated>2023-10-10T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[联想将推出采用 Android 系统的 ThinkCentre M70a 一体机，微软确认 Windows Copilot 目前未向所有地区开放等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/83450</id>
-        <link href="https://sspai.com/post/83450"/>
-        <updated>2023-10-09T09:53:11.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万字详拆芯片：人类算力被锁死了吗？]]></title>
-        <id>https://sspai.com/post/83398</id>
-        <link href="https://sspai.com/post/83398"/>
-        <updated>2023-10-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人类的悲观、杞人忧天，才破解了每个时代的锁死。查看全文]]></summary>
-        <author>
-            <name>青工所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些浏览器词典插件，让在线阅读更方便]]></title>
-        <id>https://sspai.com/post/83385</id>
-        <link href="https://sspai.com/post/83385"/>
-        <updated>2023-10-09T03:37:14.000Z</updated>
-        <summary type="html"><![CDATA[读得越多，越能感觉到在线词典有多重要。查看全文]]></summary>
-        <author>
-            <name>scillidan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报]]></title>
-        <id>https://sspai.com/post/83429</id>
-        <link href="https://sspai.com/post/83429"/>
-        <updated>2023-10-09T00:53:05.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Pixel手机过去一年销量近千万台据商业研究机构IDC副总裁FranciscoJeronimo的X帖文，2016年至2023年间，GooglePixel手机的出货量为3790万部，且 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
