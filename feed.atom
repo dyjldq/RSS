@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-11T00:35:59.695Z</updated>
+    <updated>2023-11-12T00:39:23.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[临时起意收获惊喜满满：我的新西兰 10 天自驾之旅]]></title>
+        <id>https://sspai.com/post/84239</id>
+        <link href="https://sspai.com/post/84239"/>
+        <updated>2023-11-11T07:24:07.000Z</updated>
+        <summary type="html"><![CDATA[在新西兰的十几天中，我每天最常问自己的问题是：「这一切都是真的吗？」查看全文]]></summary>
+        <author>
+            <name>一只索狗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
         <id>https://sspai.com/post/84326</id>
@@ -1102,36 +1112,6 @@
         <summary type="html"><![CDATA[如果在看文章的你还没有去过新西兰，我希望这篇内容可以引发你的兴趣，因为新西兰真的非常值得一去。不需要剧透太多，毕竟这些乐趣一定要亲身体验才行。查看全文]]></summary>
         <author>
             <name>johnbens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/83550</id>
-        <link href="https://sspai.com/post/83550"/>
-        <updated>2023-10-13T10:36:21.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产]特工任务、[国产]明日生存指南、[动画]间谍过家家第二季、[英剧]万物生灵第四季、[美剧]海盗旗升起第二季、[日剧]昨日的美食第二季、[电影]消失的情人节、[动画] ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 年、4 个库目录、100 万字：也谈我的 Obsidian 笔记工作流]]></title>
-        <id>https://sspai.com/post/83042</id>
-        <link href="https://sspai.com/post/83042"/>
-        <updated>2023-10-13T03:39:51.000Z</updated>
-        <summary type="html"><![CDATA[用 Obsidian 越久，我越无法同意它「第二大脑」的名号，它更像是一个「思维空间」，大脑的活还是自己才能做。查看全文]]></summary>
-        <author>
-            <name>EL_File4138</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：文石推出两款电子书新品、荣耀发布 Magic Vs2 折叠屏手机等]]></title>
-        <id>https://sspai.com/post/83533</id>
-        <link href="https://sspai.com/post/83533"/>
-        <updated>2023-10-13T01:01:41.000Z</updated>
-        <summary type="html"><![CDATA[掌阅推出多款电子书新品，声阔推出不入耳蓝牙耳机 AeroFit Pro 等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
