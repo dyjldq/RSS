@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84348",
+          "author": "waychane",
+          "description": "iPhone15系列的4款机型上市之后，不少人都发现今年在官方渠道买iPhone似乎变得比以前更为划算了：不仅年年焕新的折抵价格首次超过了购机价格的50%，就连AppleTradeIn换购计划也比往年 ...查看全文",
+          "link": "https://sspai.com/post/84348",
+          "publishedOn": "2023-11-12T06:35:04.000Z",
+          "wordCount": 780,
+          "title": "价格好、更省心：Apple 官方「以旧换新」更划算了",
+          "imageUrl": "https://cdn.sspai.com/2023/11/12/article/73a75c56-602d-5714-709e-fc40483dc4f4.png"
+        },
+        {
           "id": "https://sspai.com/post/84239",
           "author": "一只索狗",
           "description": "在新西兰的十几天中，我每天最常问自己的问题是：「这一切都是真的吗？」查看全文",
@@ -1074,26 +1084,6 @@
           "wordCount": 774,
           "title": "我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp",
           "imageUrl": "https://cdn.sspai.com/2023/09/24/71d47ec818aa28fbff1b88fb19ba8139.png"
-        },
-        {
-          "id": "https://sspai.com/post/83412",
-          "author": "知道分子吴先先",
-          "description": "在这篇文章中，我们深入聊聊日本电影的选片、找片和看片，希望可以帮你了解日本电影、辅助日语学习。查看全文",
-          "link": "https://sspai.com/post/83412",
-          "publishedOn": "2023-10-14T10:46:25.000Z",
-          "wordCount": 829,
-          "title": "告别电影荒：日本电影观看全指南",
-          "imageUrl": "https://cdn.sspai.com/14/10/2023/article/ad084e28-d1f8-0266-bcd7-5f83ccef20a1.png"
-        },
-        {
-          "id": "https://sspai.com/post/83411",
-          "author": "johnbens",
-          "description": "如果在看文章的你还没有去过新西兰，我希望这篇内容可以引发你的兴趣，因为新西兰真的非常值得一去。不需要剧透太多，毕竟这些乐趣一定要亲身体验才行。查看全文",
-          "link": "https://sspai.com/post/83411",
-          "publishedOn": "2023-10-14T06:31:26.000Z",
-          "wordCount": 837,
-          "title": "远离喧嚣的自在，新西兰旅程片段",
-          "imageUrl": "https://cdn.sspai.com/2023/10/11/18e14dc046dfcb0d180999a8ac92a5b6.jpg"
         }
       ]
     },

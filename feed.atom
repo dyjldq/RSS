@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-12T00:39:23.678Z</updated>
+    <updated>2023-11-13T00:37:31.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[价格好、更省心：Apple 官方「以旧换新」更划算了]]></title>
+        <id>https://sspai.com/post/84348</id>
+        <link href="https://sspai.com/post/84348"/>
+        <updated>2023-11-12T06:35:04.000Z</updated>
+        <summary type="html"><![CDATA[iPhone15系列的4款机型上市之后，不少人都发现今年在官方渠道买iPhone似乎变得比以前更为划算了：不仅年年焕新的折抵价格首次超过了购机价格的50%，就连AppleTradeIn换购计划也比往年 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[临时起意收获惊喜满满：我的新西兰 10 天自驾之旅]]></title>
         <id>https://sspai.com/post/84239</id>
@@ -1092,26 +1102,6 @@
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>FavourHong</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别电影荒：日本电影观看全指南]]></title>
-        <id>https://sspai.com/post/83412</id>
-        <link href="https://sspai.com/post/83412"/>
-        <updated>2023-10-14T10:46:25.000Z</updated>
-        <summary type="html"><![CDATA[在这篇文章中，我们深入聊聊日本电影的选片、找片和看片，希望可以帮你了解日本电影、辅助日语学习。查看全文]]></summary>
-        <author>
-            <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[远离喧嚣的自在，新西兰旅程片段]]></title>
-        <id>https://sspai.com/post/83411</id>
-        <link href="https://sspai.com/post/83411"/>
-        <updated>2023-10-14T06:31:26.000Z</updated>
-        <summary type="html"><![CDATA[如果在看文章的你还没有去过新西兰，我希望这篇内容可以引发你的兴趣，因为新西兰真的非常值得一去。不需要剧透太多，毕竟这些乐趣一定要亲身体验才行。查看全文]]></summary>
-        <author>
-            <name>johnbens</name>
         </author>
     </entry>
     <entry>
