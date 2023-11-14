@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84389",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。不容错过的App更新除了「新鲜」App，AppStore中的 ...查看全文",
+          "link": "https://sspai.com/post/84389",
+          "publishedOn": "2023-11-13T10:06:44.000Z",
+          "wordCount": 882,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/editor/u_/cl8v6t5b34t9jtpm7so0"
+        },
+        {
+          "id": "https://sspai.com/post/70676",
+          "author": "Hermanchannn",
+          "description": "关于是否要写这篇文章，我也有过一段纠结。一是觉得虽然在什切青住过一段时间，但其实并没有用相机留下什么满意的照片；另外，我在什切青的生活和我派其他老师的异国生活显得枯燥无味，只是一个可怜的学生更换了一个 ...查看全文",
+          "link": "https://sspai.com/post/70676",
+          "publishedOn": "2023-11-13T07:39:39.000Z",
+          "wordCount": 694,
+          "title": "城市漫步指南：寻找记忆中的什切青",
+          "imageUrl": "https://cdn.sspai.com/2023/11/12/4d86ac314ce045bc052c1022aa51ecbd.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84325",
+          "author": "玉树芝兰",
+          "description": "通过上传自己的已发布文章作为知识库，我真的只用了几分钟的时间和数个轮次的自然语言对话，就构造了自己的「知识分身」，还能帮助自己和学生、读者来解答问题。查看全文",
+          "link": "https://sspai.com/post/84325",
+          "publishedOn": "2023-11-13T03:31:02.000Z",
+          "wordCount": 823,
+          "title": "GPTs builder 上手体验：我花 5 分钟时间做了一个 GPT 机器人",
+          "imageUrl": "https://cdn.sspai.com/2023/11/10/d8e21148bad0df88bb24b9da696f2202.png"
+        },
+        {
+          "id": "https://sspai.com/post/84368",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事京东天猫未公布双十一销售额11月12日，京东和天猫分别发布双十一「战报」。和去年相同，两家平台均没有披露销售额的具体数据。其中，京东称其「成交额、订单量、用户数齐创新高」，天猫则称其 ...查看全文",
+          "link": "https://sspai.com/post/84368",
+          "publishedOn": "2023-11-13T00:52:13.000Z",
+          "wordCount": 928,
+          "title": "派早报",
+          "imageUrl": "https://cdn.sspai.com/11/13/2023/article/897b80a5-3a27-6fa2-248f-9ac98848e8ed.png"
+        },
+        {
           "id": "https://sspai.com/post/84348",
           "author": "waychane",
           "description": "iPhone15系列的4款机型上市之后，不少人都发现今年在官方渠道买iPhone似乎变得比以前更为划算了：不仅年年焕新的折抵价格首次超过了购机价格的50%，就连AppleTradeIn换购计划也比往年 ...查看全文",
@@ -1074,16 +1114,6 @@
           "wordCount": 869,
           "title": "派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号",
           "imageUrl": "https://cdn.sspai.com/10/15/2023/article/66bf28e5-43cf-7fc8-1ab5-1dcde005d233.png"
-        },
-        {
-          "id": "https://sspai.com/post/83182",
-          "author": "FavourHong",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/83182",
-          "publishedOn": "2023-10-15T04:13:47.000Z",
-          "wordCount": 774,
-          "title": "我开发了一套 Marp 主题，Markdown 直接转换的 PPT 也可以很好看：Awesome Marp",
-          "imageUrl": "https://cdn.sspai.com/2023/09/24/71d47ec818aa28fbff1b88fb19ba8139.png"
         }
       ]
     },
