@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/ppc-history-09",
+          "author": "MIG",
+          "description": "乔布斯鼓吹的 G3 受到了英特尔的奋起直追，摩托罗拉自身的财务困局则为 PowerPC 阵营增添了变数。局势紧张之际，IBM 取得铜互联工艺突破，让苹果扳回一局，更让 PowerPC 成功「破圈」飞向太空。查看全文\n本文为付费栏目文章，出自《处理器简史之 PowerPC》，订阅后可阅读全文。\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/ppc-history-09",
+          "publishedOn": "2023-11-14T09:44:25.000Z",
+          "wordCount": 1184,
+          "title": "处理器简史｜PowerPC 09：烽火连天 颓势初显（上）",
+          "imageUrl": "https://cdn.sspai.com/2023/11/14/article/4133886e-d5d7-6d3e-2b98-0a9a94bdba4c.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84408",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/84408",
+          "publishedOn": "2023-11-14T09:30:26.000Z",
+          "wordCount": 978,
+          "title": "社区速递 020 | 十年编程路、千元洗衣机以及作者们的新玩意",
+          "imageUrl": "https://cdn.sspai.com/11/14/2023/article/cf264e65-3beb-7e42-f3d9-176d23ef60b4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/81359",
+          "author": "阿东不要说话",
+          "description": "掌握 Steam 独立游戏发行技巧，让你的游戏新作不再被埋没。查看全文",
+          "link": "https://sspai.com/post/81359",
+          "publishedOn": "2023-11-14T07:00:00.000Z",
+          "wordCount": 738,
+          "title": "一款低预算 Steam 独立游戏，如何做好发行",
+          "imageUrl": "https://cdn.sspai.com/2023/11/03/7c4f00547b7990874d17ca695ade3ebc.png"
+        },
+        {
+          "id": "https://sspai.com/post/84362",
+          "author": "EricYoung",
+          "description": "探索生活的设备，和生活本身一样，并不需要完美。只需要，回到生活本身。查看全文",
+          "link": "https://sspai.com/post/84362",
+          "publishedOn": "2023-11-14T03:30:00.000Z",
+          "wordCount": 740,
+          "title": "探索生活的设备并不需要完美：iPhone 的四年使用思考",
+          "imageUrl": "https://cdn.sspai.com/2023/11/12/4662b8bcefefe1f05cfba1294fb4ec19.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/84399",
+          "author": "少数派编辑部",
+          "description": "SK 海力士推出 16GB LPDDR5T，Mozilla 推出 Fakespot Chat AI 模型等查看全文",
+          "link": "https://sspai.com/post/84399",
+          "publishedOn": "2023-11-14T00:27:49.000Z",
+          "wordCount": 896,
+          "title": "派早报：vivo X100 系列发布、长江存储在美起诉美光科技等",
+          "imageUrl": "https://cdn.sspai.com/2023/11/14/article/299475ae-4afd-5aed-bf3f-d2bf80c3ab92.png"
+        },
+        {
           "id": "https://sspai.com/post/84389",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。不容错过的App更新除了「新鲜」App，AppStore中的 ...查看全文",
@@ -1084,36 +1134,6 @@
           "wordCount": 761,
           "title": "派早报：腾讯待办将停运，淘宝回应微信扫码支付等",
           "imageUrl": "https://cdn.sspai.com/2023/10/17/article/8c5b0358-b318-26a2-d44f-76056017a63e.png"
-        },
-        {
-          "id": "https://sspai.com/post/83631",
-          "author": "少数派编辑部",
-          "description": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
-          "link": "https://sspai.com/post/83631",
-          "publishedOn": "2023-10-16T10:26:03.000Z",
-          "wordCount": 878,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/10/16/article/7aed196e-d930-290a-b21a-cae4da223f2a.png"
-        },
-        {
-          "id": "https://sspai.com/post/83231",
-          "author": "EricYoung",
-          "description": "我们已经习惯性地依赖碎片化的知识和海量的信息涌入我们的大脑，除了写需求文档似乎再难静下心来完成另外一件事情。当有一天回过头，发现这危险的事态越来越严重时，就必要开始有所改变。查看全文",
-          "link": "https://sspai.com/post/83231",
-          "publishedOn": "2023-10-16T03:05:12.000Z",
-          "wordCount": 668,
-          "title": "于忙碌中重拾学习能力：我的知识金字塔是如何搭建的",
-          "imageUrl": "https://cdn.sspai.com/2023/09/26/847dc7734fa8d402ed4d9c916868d378.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83587",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事微软完成收购动视暴雪交易10月12日，微软历时21个月后，宣布完成其对动视暴雪价值750亿美元的收购交易。曾对该交易构成最后实质障碍的英国竞争与市场管理局（CMA）于当日表示，鉴于微 ...查看全文",
-          "link": "https://sspai.com/post/83587",
-          "publishedOn": "2023-10-16T00:53:34.000Z",
-          "wordCount": 869,
-          "title": "派早报：微软完成收购动视暴雪交易，AMD 驱动更新导致 CS2 玩家被封号",
-          "imageUrl": "https://cdn.sspai.com/10/15/2023/article/66bf28e5-43cf-7fc8-1ab5-1dcde005d233.png"
         }
       ]
     },
