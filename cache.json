@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/82986",
+          "author": "soulteary",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/82986",
+          "publishedOn": "2023-11-15T09:31:38.000Z",
+          "wordCount": 940,
+          "title": "从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年",
+          "imageUrl": "https://cdn.sspai.com/2023/09/16/8fe941ad8ed97d573b6828a6381a7731.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/83923",
+          "author": "Konstantine",
+          "description": "最初开始计划国庆节假期的时候，已经是8月份。对于这个长假期，心里其实一直是有点矛盾的，一方面觉得这个假期这么长不出去玩似乎有些可惜，但另一方面全国游客都开始出动让整个旅行体验充满拥堵。出国是个不错的选 ...查看全文",
+          "link": "https://sspai.com/post/83923",
+          "publishedOn": "2023-11-15T06:53:18.000Z",
+          "wordCount": 675,
+          "title": "城市漫步指南：宁波，用桂花香开启一整个秋天",
+          "imageUrl": "https://cdn.sspai.com/2023/11/11/1351ac7141c3cfbf1d949af68cb6bedd.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84421",
+          "author": "吃派的水獭",
+          "description": "天气渐凉，何不用音乐来温暖生活？本周六（18号）下午3点-5点，我们将在少数派线下店举办「一起听歌吧！HiFi音乐键盘体验展」活动。这里将展出少数派共创的HiFi音乐键盘，各式各样的HiFi播放器、耳 ...查看全文",
+          "link": "https://sspai.com/post/84421",
+          "publishedOn": "2023-11-15T04:33:39.000Z",
+          "wordCount": 713,
+          "title": "现场活动 | 一起听歌吧！周六来少数派线下店享受 HiFi 音乐",
+          "imageUrl": "https://cdn.sspai.com/2023/11/15/article/6bd1174f-2ca9-0a3c-c55d-990670cac399.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84349",
+          "author": "ooops真糟糕",
+          "description": "本篇文章并非教程，而是借我自己的一些例子和思考过程，给各位一些快捷指令和自动化方面的参考、提供一些设置上的思路。查看全文",
+          "link": "https://sspai.com/post/84349",
+          "publishedOn": "2023-11-15T03:05:52.000Z",
+          "wordCount": 694,
+          "title": "从 HomePod「交响」到按需省电：我的自动化构建思路分享",
+          "imageUrl": "https://cdn.sspai.com/2023/11/14/07fb7524975813318d0b78a77f0326cc.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84419",
+          "author": "少数派编辑部",
+          "description": "IPv6 专网产业论坛将在北京召开，YouTube 将对 AI 生成内容进行管控。查看全文",
+          "link": "https://sspai.com/post/84419",
+          "publishedOn": "2023-11-15T00:00:00.000Z",
+          "wordCount": 731,
+          "title": "派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等",
+          "imageUrl": "https://cdn.sspai.com/2023/11/15/article/53807282-873c-6ff1-88ab-11962b39f01d.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/ppc-history-09",
           "author": "MIG",
           "description": "乔布斯鼓吹的 G3 受到了英特尔的奋起直追，摩托罗拉自身的财务困局则为 PowerPC 阵营增添了变数。局势紧张之际，IBM 取得铜互联工艺突破，让苹果扳回一局，更让 PowerPC 成功「破圈」飞向太空。查看全文\n本文为付费栏目文章，出自《处理器简史之 PowerPC》，订阅后可阅读全文。\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1074,66 +1124,6 @@
           "wordCount": 922,
           "title": "派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等",
           "imageUrl": "https://cdn.sspai.com/2023/10/18/article/2dc05de6-3710-9a62-bc90-d2fb10c61b0e.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/free-markdown-editor-2023",
-          "author": "PlatyHsu",
-          "description": "有的时候，我们需要的确只是一个能简单敲几段话、改几行字、能简单排版的输入框，或者只是想看看一个现成文件的预览效果、导出成其他格式分享出去。这篇是我们经过对比试用，找出目前各平台上最值得一试的免费方案。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/free-markdown-editor-2023",
-          "publishedOn": "2023-10-17T09:59:51.000Z",
-          "wordCount": 984,
-          "title": "在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐",
-          "imageUrl": "https://cdn.sspai.com/2023/10/17/article/9bdc4240-eb22-446f-ca68-9bf9167a3482.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83650",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/83650",
-          "publishedOn": "2023-10-17T09:10:07.000Z",
-          "wordCount": 1166,
-          "title": "社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意",
-          "imageUrl": "https://cdn.sspai.com/2023/10/17/article/d9bf1d06-9bcf-e988-195c-c7e1758f20dc.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83552",
-          "author": "waychane",
-          "description": "在 Pro 级的 iPhone 中你总能找到打动你的那一点，比如更精致的外观、ProMotion 高刷屏幕、更长的续航等等，也许，这就是你最中意的 iPhone 形态。查看全文",
-          "link": "https://sspai.com/post/83552",
-          "publishedOn": "2023-10-17T08:00:00.000Z",
-          "wordCount": 1016,
-          "title": "手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验",
-          "imageUrl": "https://cdn.sspai.com/2023/10/13/article/4004e27d-5f49-7520-f291-5f8c0ac87501.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83561",
-          "author": "Micoxx",
-          "description": "这篇文章我们就来把 Adobe 的 AI 功能从头到尾体验一遍，看看 Adobe 和 AI 之间到底能碰撞出怎样的火花。查看全文",
-          "link": "https://sspai.com/post/83561",
-          "publishedOn": "2023-10-17T07:00:00.000Z",
-          "wordCount": 906,
-          "title": "Adobe 的老树开新花：生成式 AI 功能全面体验",
-          "imageUrl": "https://cdn.sspai.com/2023/10/14/daafccdf05d8df68460d251df9457753.png"
-        },
-        {
-          "id": "https://sspai.com/post/83531",
-          "author": "孙彬",
-          "description": "每次把手机放到远离身边的地方，按下这个小东西的按钮，开启一段心流时间，对我来说还是挺有仪式感的。查看全文",
-          "link": "https://sspai.com/post/83531",
-          "publishedOn": "2023-10-17T03:30:00.000Z",
-          "wordCount": 693,
-          "title": "干掉手机多巴胺：我怎样用独立计时器重新掌控心流？",
-          "imageUrl": "https://cdn.sspai.com/2023/10/13/663e375425b0363e6b985a99b61d18e4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83640",
-          "author": "少数派编辑部",
-          "description": "拔下罗技 USB 接收器导致 Linux 内核崩溃的问题已修复，高盛内部称 Apple Card 合作是个错误等查看全文",
-          "link": "https://sspai.com/post/83640",
-          "publishedOn": "2023-10-17T01:08:11.000Z",
-          "wordCount": 761,
-          "title": "派早报：腾讯待办将停运，淘宝回应微信扫码支付等",
-          "imageUrl": "https://cdn.sspai.com/2023/10/17/article/8c5b0358-b318-26a2-d44f-76056017a63e.png"
         }
       ]
     },

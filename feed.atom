@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-15T00:37:20.009Z</updated>
+    <updated>2023-11-16T00:37:58.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年]]></title>
+        <id>https://sspai.com/post/82986</id>
+        <link href="https://sspai.com/post/82986"/>
+        <updated>2023-11-15T09:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>soulteary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：宁波，用桂花香开启一整个秋天]]></title>
+        <id>https://sspai.com/post/83923</id>
+        <link href="https://sspai.com/post/83923"/>
+        <updated>2023-11-15T06:53:18.000Z</updated>
+        <summary type="html"><![CDATA[最初开始计划国庆节假期的时候，已经是8月份。对于这个长假期，心里其实一直是有点矛盾的，一方面觉得这个假期这么长不出去玩似乎有些可惜，但另一方面全国游客都开始出动让整个旅行体验充满拥堵。出国是个不错的选 ...查看全文]]></summary>
+        <author>
+            <name>Konstantine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现场活动 | 一起听歌吧！周六来少数派线下店享受 HiFi 音乐]]></title>
+        <id>https://sspai.com/post/84421</id>
+        <link href="https://sspai.com/post/84421"/>
+        <updated>2023-11-15T04:33:39.000Z</updated>
+        <summary type="html"><![CDATA[天气渐凉，何不用音乐来温暖生活？本周六（18号）下午3点-5点，我们将在少数派线下店举办「一起听歌吧！HiFi音乐键盘体验展」活动。这里将展出少数派共创的HiFi音乐键盘，各式各样的HiFi播放器、耳 ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 HomePod「交响」到按需省电：我的自动化构建思路分享]]></title>
+        <id>https://sspai.com/post/84349</id>
+        <link href="https://sspai.com/post/84349"/>
+        <updated>2023-11-15T03:05:52.000Z</updated>
+        <summary type="html"><![CDATA[本篇文章并非教程，而是借我自己的一些例子和思考过程，给各位一些快捷指令和自动化方面的参考、提供一些设置上的思路。查看全文]]></summary>
+        <author>
+            <name>ooops真糟糕</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：2023 App Store Awards 入围者揭晓、闪迪固态硬盘故障系设计和制造缺陷等]]></title>
+        <id>https://sspai.com/post/84419</id>
+        <link href="https://sspai.com/post/84419"/>
+        <updated>2023-11-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IPv6 专网产业论坛将在北京召开，YouTube 将对 AI 生成内容进行管控。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[处理器简史｜PowerPC 09：烽火连天 颓势初显（上）]]></title>
         <id>https://sspai.com/prime/story/ppc-history-09</id>
@@ -1092,67 +1142,6 @@
         <link href="https://sspai.com/post/83663"/>
         <updated>2023-10-17T23:45:00.000Z</updated>
         <summary type="html"><![CDATA[英特尔发布酷睿第 14 代桌面处理器，高通将与 Google 合作开发基于 RISC-V 的可穿戴平台等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 2023 年找个免费 Markdown 编辑器：标准讨论与选择推荐]]></title>
-        <id>https://sspai.com/prime/story/free-markdown-editor-2023</id>
-        <link href="https://sspai.com/prime/story/free-markdown-editor-2023"/>
-        <updated>2023-10-17T09:59:51.000Z</updated>
-        <summary type="html"><![CDATA[有的时候，我们需要的确只是一个能简单敲几段话、改几行字、能简单排版的输入框，或者只是想看看一个现成文件的预览效果、导出成其他格式分享出去。这篇是我们经过对比试用，找出目前各平台上最值得一试的免费方案。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 016 | 命令行听歌、高效收听播客的方式以及作者们的新玩意]]></title>
-        <id>https://sspai.com/post/83650</id>
-        <link href="https://sspai.com/post/83650"/>
-        <updated>2023-10-17T09:10:07.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手感最好的 Pro 级 iPhone：聊聊我的 iPhone 15 Pro 上手体验]]></title>
-        <id>https://sspai.com/post/83552</id>
-        <link href="https://sspai.com/post/83552"/>
-        <updated>2023-10-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在 Pro 级的 iPhone 中你总能找到打动你的那一点，比如更精致的外观、ProMotion 高刷屏幕、更长的续航等等，也许，这就是你最中意的 iPhone 形态。查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe 的老树开新花：生成式 AI 功能全面体验]]></title>
-        <id>https://sspai.com/post/83561</id>
-        <link href="https://sspai.com/post/83561"/>
-        <updated>2023-10-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章我们就来把 Adobe 的 AI 功能从头到尾体验一遍，看看 Adobe 和 AI 之间到底能碰撞出怎样的火花。查看全文]]></summary>
-        <author>
-            <name>Micoxx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干掉手机多巴胺：我怎样用独立计时器重新掌控心流？]]></title>
-        <id>https://sspai.com/post/83531</id>
-        <link href="https://sspai.com/post/83531"/>
-        <updated>2023-10-17T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[每次把手机放到远离身边的地方，按下这个小东西的按钮，开启一段心流时间，对我来说还是挺有仪式感的。查看全文]]></summary>
-        <author>
-            <name>孙彬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：腾讯待办将停运，淘宝回应微信扫码支付等]]></title>
-        <id>https://sspai.com/post/83640</id>
-        <link href="https://sspai.com/post/83640"/>
-        <updated>2023-10-17T01:08:11.000Z</updated>
-        <summary type="html"><![CDATA[拔下罗技 USB 接收器导致 Linux 内核崩溃的问题已修复，高盛内部称 Apple Card 合作是个错误等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
