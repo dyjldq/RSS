@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/gen-ai-ipr-commitments",
+          "author": "PlatyHsu",
+          "description": "「知识产权承诺」政策成为了生成式 AI 服务商争相跟进的对象，但世界上没有无缘无故的爱。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/gen-ai-ipr-commitments",
+          "publishedOn": "2023-11-16T13:14:00.000Z",
+          "wordCount": 849,
+          "title": "大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」",
+          "imageUrl": "https://cdn.sspai.com/11/16/2023/article/87207ab7-311c-c364-9880-f04d10656041.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84457",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/84457",
+          "publishedOn": "2023-11-16T09:23:03.000Z",
+          "wordCount": 743,
+          "title": "新玩意 165｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdn.sspai.com/2023/11/16/article/3f2e85bb-b8cd-8992-c1c6-43c66d49489a.png"
+        },
+        {
+          "id": "https://sspai.com/post/84435",
+          "author": "少数派播客",
+          "description": "和外卖诗人王计兵谈谈他的身份、他的诗歌、他生活的变化和他对未来的看法。查看全文",
+          "link": "https://sspai.com/post/84435",
+          "publishedOn": "2023-11-16T08:26:28.000Z",
+          "wordCount": 622,
+          "title": "对话王计兵：生活给了我们多少积雪，就给了我们多少个春天",
+          "imageUrl": "https://cdn.sspai.com/15/11/2023/article/a9008bed-99c2-53db-2c0a-cea0cdade16b.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84373",
+          "author": "XNOM",
+          "description": "RIME 输入法的配置过程也许艰难、也许曲折、也许漫长、也许反复，但如果结果是令人欣喜、令人愉悦、令人满足、令人得意的话，未尝不是一种别样的人生体验。查看全文",
+          "link": "https://sspai.com/post/84373",
+          "publishedOn": "2023-11-16T03:00:00.000Z",
+          "wordCount": 1836,
+          "title": "自由输入法 RIME 简明配置指南（2023 版）",
+          "imageUrl": "https://cdn.sspai.com/2023/11/13/705a31055db384c256e6bbd0aa994c19.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84444",
+          "author": "少数派编辑部",
+          "description": "AMD 发布 Ryzen Embedded 7000 系列处理器、OpenAI 将暂停订阅 ChatGPT Plus 等。查看全文",
+          "link": "https://sspai.com/post/84444",
+          "publishedOn": "2023-11-16T00:22:55.000Z",
+          "wordCount": 853,
+          "title": "派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等",
+          "imageUrl": "https://cdn.sspai.com/16/11/2023/article/632ce4e8-0349-1b8b-c48b-c166d040934c.jpg"
+        },
+        {
           "id": "https://sspai.com/post/82986",
           "author": "soulteary",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
@@ -1084,46 +1134,6 @@
           "wordCount": 747,
           "title": "派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等",
           "imageUrl": "https://cdn.sspai.com/19/10/2023/article/c48f17c0-8f2b-4998-3649-7ecdf8ecab45.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83577",
-          "author": "YellowColr",
-          "description": "三年，是一段很短的时间吗？一千多个日夜，两三万个小时，秒针默默嘀嗒了一亿下。三年，是一段很长的时间吗？只是眨眼之间，便匆匆逝去，留下一段似有似无而渐渐模糊的记忆。过去三年，对iPhone甚是失望。在1 ...查看全文",
-          "link": "https://sspai.com/post/83577",
-          "publishedOn": "2023-10-18T09:19:29.000Z",
-          "wordCount": 920,
-          "title": "失望三年后恰好相见：闲话 iPhone 15 Pro",
-          "imageUrl": "https://cdn.sspai.com/2023/10/18/article/0dd82cf5-797f-062a-e777-4a55b3e6af49.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/83375",
-          "author": "SysErr0r",
-          "description": "我低头看向大叠，满眼都是 11 年前 Windows 8 2in1 的影子。查看全文",
-          "link": "https://sspai.com/post/83375",
-          "publishedOn": "2023-10-18T07:00:00.000Z",
-          "wordCount": 731,
-          "title": "既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验",
-          "imageUrl": "https://cdn.sspai.com/2023/10/15/0320361f7c9dca50918ce570b07b0f4f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83657",
-          "author": "中杯冰拿铁",
-          "description": "飞书多维表格可以实现 Things 3 中我特别关注的几项功能，与组织架构和合作伙伴数据表的双向关联也更适配工作场景，并且可跨越 Windows 和 macOS 的鸿沟，在多平台上同步使用。查看全文",
-          "link": "https://sspai.com/post/83657",
-          "publishedOn": "2023-10-18T03:00:00.000Z",
-          "wordCount": 704,
-          "title": "跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3",
-          "imageUrl": "https://cdn.sspai.com/2023/10/17/0e3e885f2a5ff648b26495dec321f19a.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/83663",
-          "author": "少数派编辑部",
-          "description": "英特尔发布酷睿第 14 代桌面处理器，高通将与 Google 合作开发基于 RISC-V 的可穿戴平台等。查看全文",
-          "link": "https://sspai.com/post/83663",
-          "publishedOn": "2023-10-17T23:45:00.000Z",
-          "wordCount": 922,
-          "title": "派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等",
-          "imageUrl": "https://cdn.sspai.com/2023/10/18/article/2dc05de6-3710-9a62-bc90-d2fb10c61b0e.png"
         }
       ]
     },

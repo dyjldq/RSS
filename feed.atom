@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T00:37:58.613Z</updated>
+    <updated>2023-11-17T00:37:43.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」]]></title>
+        <id>https://sspai.com/prime/story/gen-ai-ipr-commitments</id>
+        <link href="https://sspai.com/prime/story/gen-ai-ipr-commitments"/>
+        <updated>2023-11-16T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[「知识产权承诺」政策成为了生成式 AI 服务商争相跟进的对象，但世界上没有无缘无故的爱。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新玩意 165｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/84457</id>
+        <link href="https://sspai.com/post/84457"/>
+        <updated>2023-11-16T09:23:03.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话王计兵：生活给了我们多少积雪，就给了我们多少个春天]]></title>
+        <id>https://sspai.com/post/84435</id>
+        <link href="https://sspai.com/post/84435"/>
+        <updated>2023-11-16T08:26:28.000Z</updated>
+        <summary type="html"><![CDATA[和外卖诗人王计兵谈谈他的身份、他的诗歌、他生活的变化和他对未来的看法。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由输入法 RIME 简明配置指南（2023 版）]]></title>
+        <id>https://sspai.com/post/84373</id>
+        <link href="https://sspai.com/post/84373"/>
+        <updated>2023-11-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[RIME 输入法的配置过程也许艰难、也许曲折、也许漫长、也许反复，但如果结果是令人欣喜、令人愉悦、令人满足、令人得意的话，未尝不是一种别样的人生体验。查看全文]]></summary>
+        <author>
+            <name>XNOM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米汽车公示、CDPR 将推出《猎魔人 3》mod 编辑器等]]></title>
+        <id>https://sspai.com/post/84444</id>
+        <link href="https://sspai.com/post/84444"/>
+        <updated>2023-11-16T00:22:55.000Z</updated>
+        <summary type="html"><![CDATA[AMD 发布 Ryzen Embedded 7000 系列处理器、OpenAI 将暂停订阅 ChatGPT Plus 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从百元到千元磁盘的「消费升级」，聊聊我组装「固态 U 盘」的八年]]></title>
         <id>https://sspai.com/post/82986</id>
@@ -1102,46 +1153,6 @@
         <link href="https://sspai.com/post/83687"/>
         <updated>2023-10-19T00:38:30.000Z</updated>
         <summary type="html"><![CDATA[NVIDIA 将与富士康联合建立 AI 数据中心、AMD 更新驱动，撤回 Anti-Lag+ 功能、Netflix 订阅价格再度上涨等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失望三年后恰好相见：闲话 iPhone 15 Pro]]></title>
-        <id>https://sspai.com/post/83577</id>
-        <link href="https://sspai.com/post/83577"/>
-        <updated>2023-10-18T09:19:29.000Z</updated>
-        <summary type="html"><![CDATA[三年，是一段很短的时间吗？一千多个日夜，两三万个小时，秒针默默嘀嗒了一亿下。三年，是一段很长的时间吗？只是眨眼之间，便匆匆逝去，留下一段似有似无而渐渐模糊的记忆。过去三年，对iPhone甚是失望。在1 ...查看全文]]></summary>
-        <author>
-            <name>YellowColr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[既不便宜，也不好用：在 2023 年「展开聊聊」我的折叠屏体验]]></title>
-        <id>https://sspai.com/post/83375</id>
-        <link href="https://sspai.com/post/83375"/>
-        <updated>2023-10-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我低头看向大叠，满眼都是 11 年前 Windows 8 2in1 的影子。查看全文]]></summary>
-        <author>
-            <name>SysErr0r</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨越 GTD 的平台鸿沟：用飞书多维表格在 Windows 上复刻 Things 3]]></title>
-        <id>https://sspai.com/post/83657</id>
-        <link href="https://sspai.com/post/83657"/>
-        <updated>2023-10-18T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[飞书多维表格可以实现 Things 3 中我特别关注的几项功能，与组织架构和合作伙伴数据表的双向关联也更适配工作场景，并且可跨越 Windows 和 macOS 的鸿沟，在多平台上同步使用。查看全文]]></summary>
-        <author>
-            <name>中杯冰拿铁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：小米澎湃 OS 正式版完成封装、Apple 推出支持 eSIM 的新 iPad 等]]></title>
-        <id>https://sspai.com/post/83663</id>
-        <link href="https://sspai.com/post/83663"/>
-        <updated>2023-10-17T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[英特尔发布酷睿第 14 代桌面处理器，高通将与 Google 合作开发基于 RISC-V 的可穿戴平台等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
