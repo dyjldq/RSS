@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-17T00:37:43.989Z</updated>
+    <updated>2023-11-18T00:36:57.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大本作品]]></title>
+        <id>https://sspai.com/post/84477</id>
+        <link href="https://sspai.com/post/84477"/>
+        <updated>2023-11-17T10:26:37.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]王冠第六季/最终季、[韩剧]精神病房也会迎来清晨、[电影]入境时分、[美剧]世界尽头的一场谋杀、[美剧]诅咒、[电影]傻钱、[动画]歪小子斯科特：火力全开、[动画] ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 StressWatch 聊起：我们该如何看待 HRV 和压力监测硬件？]]></title>
+        <id>https://sspai.com/post/84456</id>
+        <link href="https://sspai.com/post/84456"/>
+        <updated>2023-11-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在描述我的使用感受中，我穿插了很多我对压力管理的价值观，比如先觉察压力，再在时间的基础上逐渐主动觉知，理解自己的压力，并慢慢养成给自己减压的习惯，贯彻为生活必备的技能。查看全文]]></summary>
+        <author>
+            <name>大兔</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记]]></title>
+        <id>https://sspai.com/post/84443</id>
+        <link href="https://sspai.com/post/84443"/>
+        <updated>2023-11-17T03:36:42.000Z</updated>
+        <summary type="html"><![CDATA[我至少找到了一个在不用放弃 MacBook 的基础上，能够正常运行、调试各种 Windows 应用程序方案。查看全文]]></summary>
+        <author>
+            <name>GoodTheme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 将在明年支持 RCS 协议、微软消息五则等]]></title>
+        <id>https://sspai.com/post/84467</id>
+        <link href="https://sspai.com/post/84467"/>
+        <updated>2023-11-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊将正式关闭漫画应用 Comixology，Google 开始测试搜索注释功能等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大厂背锅，版权无忧？——谈生成式 AI 服务的「知识产权承诺」]]></title>
         <id>https://sspai.com/prime/story/gen-ai-ipr-commitments</id>
@@ -1103,56 +1143,6 @@
         <link href="https://sspai.com/post/83708"/>
         <updated>2023-10-20T01:12:07.000Z</updated>
         <summary type="html"><![CDATA[AMD 发布 Threadripper Pro 7995WX，Google 开始在侧载安装应用时扫描恶意程序等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 162｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/83702</id>
-        <link href="https://sspai.com/post/83702"/>
-        <updated>2023-10-19T09:38:38.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共创精品 | 颜值与性能兼顾，少数派·旅行者便携剃须套装]]></title>
-        <id>https://sspai.com/post/83686</id>
-        <link href="https://sspai.com/post/83686"/>
-        <updated>2023-10-19T08:00:15.000Z</updated>
-        <summary type="html"><![CDATA[一位对生活有品质追求的旅行者，需要什么样的剃须刀？这是我们最新的作品：少数派与昔马（smasmall）联合推出的「旅行者便携剃须套装」。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精准转写：利用 Whisper 处理音视频转文字不完全指南]]></title>
-        <id>https://sspai.com/post/83644</id>
-        <link href="https://sspai.com/post/83644"/>
-        <updated>2023-10-19T06:47:18.000Z</updated>
-        <summary type="html"><![CDATA[背景前阵子女朋友去读研，授课是全英的，加之又有很多专业名词，有时就会出现理解能力跟不上讲课速度的情况。因此借助课堂回放/录音复习也变成了一项每周必做的工作，但是完全回看一个三小时长的课程显然是不现实的 ...查看全文]]></summary>
-        <author>
-            <name>张立行</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 给你的 Windows 系统打上 mod：Windhawk]]></title>
-        <id>https://sspai.com/post/83569</id>
-        <link href="https://sspai.com/post/83569"/>
-        <updated>2023-10-19T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[你的 Windows 也能打 mod，要不要来试试？查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：X 平台开始测试付费注册模式、拯救者掌机将推出国行版本等]]></title>
-        <id>https://sspai.com/post/83687</id>
-        <link href="https://sspai.com/post/83687"/>
-        <updated>2023-10-19T00:38:30.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA 将与富士康联合建立 AI 数据中心、AMD 更新驱动，撤回 Anti-Lag+ 功能、Netflix 订阅价格再度上涨等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
