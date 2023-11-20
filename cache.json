@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84498",
+          "author": "克莱德",
+          "description": "既然我们可以通过替换图标的方式来手动补全，为什么不能针对不同应用类别、提供相对通用的可替换图标并自动套用呢？查看全文",
+          "link": "https://sspai.com/post/84498",
+          "publishedOn": "2023-11-19T08:00:58.000Z",
+          "wordCount": 712,
+          "title": "Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」",
+          "imageUrl": "https://cdn.sspai.com/2023/11/19/article/6ba431eb-5ffb-ecfa-7ef3-abf1485f9d90.png"
+        },
+        {
           "id": "https://sspai.com/post/84473",
           "author": "北鸮",
           "description": "这一两个月，「支原体肺炎」屡屡成为热搜焦点，几乎成了困扰家长的第一大传染病——但你真的是第一次和它打交道吗？我们需要为这次季节性流行做什么准备吗？查看全文",
@@ -1094,16 +1104,6 @@
           "wordCount": 863,
           "title": "派早报：Excel 允许关闭日期自动转换，12315 公示平台上线",
           "imageUrl": "https://cdn.sspai.com/10/22/2023/article/d24a01c8-b615-0888-1edc-f7b7243f0f60.png"
-        },
-        {
-          "id": "https://sspai.com/post/83728",
-          "author": "waychane",
-          "description": "将传统文化与现代科技相结合，腾讯互娱天美L1工作室引擎负责人凌飞认为《王者荣耀》无疑是当下连接年轻人之间最直接的渠道，这样的尝试也就更加显得弥足珍贵。日前，在成都太古里AppleStore零售店中，我 ...查看全文",
-          "link": "https://sspai.com/post/83728",
-          "publishedOn": "2023-10-21T07:00:00.000Z",
-          "wordCount": 691,
-          "title": "一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook",
-          "imageUrl": "https://cdn.sspai.com/2023/10/20/article/ddea23df-8137-bca5-6323-f27092b15efe.png"
         }
       ]
     },

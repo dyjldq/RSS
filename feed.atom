@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T00:40:42.536Z</updated>
+    <updated>2023-11-20T00:38:44.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」]]></title>
+        <id>https://sspai.com/post/84498</id>
+        <link href="https://sspai.com/post/84498"/>
+        <updated>2023-11-19T08:00:58.000Z</updated>
+        <summary type="html"><![CDATA[既然我们可以通过替换图标的方式来手动补全，为什么不能针对不同应用类别、提供相对通用的可替换图标并自动套用呢？查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来势汹汹的支原体肺炎究竟是什么？我们又该如何应对？]]></title>
         <id>https://sspai.com/post/84473</id>
@@ -1115,16 +1125,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事Excel更新允许关闭日期自动识别转换10月19日，Microsoft365Insiders官方博客发表文章，表示已根据早期测试反馈，完善并正式推出了在Excel中自由关闭多种「自动 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场别开生面的 Today at Apple 活动，我们还见到了 Tim Cook]]></title>
-        <id>https://sspai.com/post/83728</id>
-        <link href="https://sspai.com/post/83728"/>
-        <updated>2023-10-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[将传统文化与现代科技相结合，腾讯互娱天美L1工作室引擎负责人凌飞认为《王者荣耀》无疑是当下连接年轻人之间最直接的渠道，这样的尝试也就更加显得弥足珍贵。日前，在成都太古里AppleStore零售店中，我 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
         </author>
     </entry>
     <entry>
