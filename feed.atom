@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T00:38:44.144Z</updated>
+    <updated>2023-11-21T00:38:27.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/84516</id>
+        <link href="https://sspai.com/post/84516"/>
+        <updated>2023-11-20T09:50:04.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 加入游戏，但 USB-C 的乱纪元还没有完结]]></title>
+        <id>https://sspai.com/post/84508</id>
+        <link href="https://sspai.com/post/84508"/>
+        <updated>2023-11-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[眼前的 Type-C 是哪种 USB-C？查看全文]]></summary>
+        <author>
+            <name>PostMeridy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？]]></title>
+        <id>https://sspai.com/post/84471</id>
+        <link href="https://sspai.com/post/84471"/>
+        <updated>2023-11-20T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[你都用到了哪些惊艳的GPTs应用呢？浪潮OpenAI开发者大会后，你不难发现创建定制化GPTs应用变得非常简单，致使众多创新者纷纷进入这一领域。我使用DALL・E3技术，在ChatGPT中绘制了一幅图 ...查看全文]]></summary>
+        <author>
+            <name>玉树芝兰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Sam Altman 被解职，正协商重返]]></title>
+        <id>https://sspai.com/post/84504</id>
+        <link href="https://sspai.com/post/84504"/>
+        <updated>2023-11-20T01:03:49.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事SamAltman被解职，正协商重返*本条资讯为正在继续发展的事件，以下信息为截至20日9点的信息，可能随时间推移而变化或过时。11月17日，OpenAI,Inc.董事会宣布，由于C ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Niagara Launcher：单手即可掌控的主屏，图标也能「一招鲜」]]></title>
         <id>https://sspai.com/post/84498</id>

@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84516",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
+          "link": "https://sspai.com/post/84516",
+          "publishedOn": "2023-11-20T09:50:04.000Z",
+          "wordCount": 847,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/11/20/article/eeae7e28-af63-1036-774b-5209c51bdb34.png"
+        },
+        {
+          "id": "https://sspai.com/post/84508",
+          "author": "PostMeridy",
+          "description": "眼前的 Type-C 是哪种 USB-C？查看全文",
+          "link": "https://sspai.com/post/84508",
+          "publishedOn": "2023-11-20T07:00:00.000Z",
+          "wordCount": 1511,
+          "title": "iPhone 加入游戏，但 USB-C 的乱纪元还没有完结",
+          "imageUrl": "https://cdn.sspai.com/11/20/2023/article/87ef3cfc-82b6-583d-ac9e-d895a3499ba3.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84471",
+          "author": "玉树芝兰",
+          "description": "你都用到了哪些惊艳的GPTs应用呢？浪潮OpenAI开发者大会后，你不难发现创建定制化GPTs应用变得非常简单，致使众多创新者纷纷进入这一领域。我使用DALL・E3技术，在ChatGPT中绘制了一幅图 ...查看全文",
+          "link": "https://sspai.com/post/84471",
+          "publishedOn": "2023-11-20T02:30:00.000Z",
+          "wordCount": 802,
+          "title": "哪些 GPTs 应用让我眼前一亮？你又该如何找到它们？",
+          "imageUrl": "https://cdn.sspai.com/2023/11/17/b227814f827a17ad6edd77161cffdba5.png"
+        },
+        {
+          "id": "https://sspai.com/post/84504",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事SamAltman被解职，正协商重返*本条资讯为正在继续发展的事件，以下信息为截至20日9点的信息，可能随时间推移而变化或过时。11月17日，OpenAI,Inc.董事会宣布，由于C ...查看全文",
+          "link": "https://sspai.com/post/84504",
+          "publishedOn": "2023-11-20T01:03:49.000Z",
+          "wordCount": 974,
+          "title": "派早报：Sam Altman 被解职，正协商重返",
+          "imageUrl": "https://cdn.sspai.com/11/19/2023/article/1a221124-2056-693a-3f35-f9d7366109e6.png"
+        },
+        {
           "id": "https://sspai.com/post/84498",
           "author": "克莱德",
           "description": "既然我们可以通过替换图标的方式来手动补全，为什么不能针对不同应用类别、提供相对通用的可替换图标并自动套用呢？查看全文",
