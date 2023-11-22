@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T00:38:27.876Z</updated>
+    <updated>2023-11-22T00:39:39.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典]]></title>
+        <id>https://sspai.com/post/84538</id>
+        <link href="https://sspai.com/post/84538"/>
+        <updated>2023-11-21T09:28:56.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排排坐，吃果果：趣谈 Apple Store 各色座椅]]></title>
+        <id>https://sspai.com/post/84523</id>
+        <link href="https://sspai.com/post/84523"/>
+        <updated>2023-11-21T07:00:22.000Z</updated>
+        <summary type="html"><![CDATA[如果 Apple 准备开展座椅定制业务的话，那 Hermin Miller 大概要开始担心了。查看全文]]></summary>
+        <author>
+            <name>果铺知道</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：在将秋未秋时，到访一次京都]]></title>
+        <id>https://sspai.com/post/84446</id>
+        <link href="https://sspai.com/post/84446"/>
+        <updated>2023-11-21T03:30:12.000Z</updated>
+        <summary type="html"><![CDATA[在将秋未秋时到访京都，错过了漫山遍野的红，这难免有些遗憾，但呈现在我眼前的京都，也有其独特的美。查看全文]]></summary>
+        <author>
+            <name>Wataru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等]]></title>
+        <id>https://sspai.com/post/84517</id>
+        <link href="https://sspai.com/post/84517"/>
+        <updated>2023-11-21T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[联发科发布两款 Wi-Fi 7 芯片，河南周口联通回应光猫强迫换新事件等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/84516</id>
@@ -1123,46 +1163,6 @@
         <link href="https://sspai.com/post/83813"/>
         <updated>2023-10-24T00:28:29.000Z</updated>
         <summary type="html"><![CDATA[欧洲刑警组织摧毁 Ragnar Locker 勒索软件基础设施，菲律宾政府遭数据勒索等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/83806</id>
-        <link href="https://sspai.com/post/83806"/>
-        <updated>2023-10-23T10:06:25.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App欢迎收看本期《派评》。你可以通过文章目录快 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么]]></title>
-        <id>https://sspai.com/post/83797</id>
-        <link href="https://sspai.com/post/83797"/>
-        <updated>2023-10-23T07:34:13.000Z</updated>
-        <summary type="html"><![CDATA[购物节要到了，买键盘时别叫低价吓到。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | Countdown Buddy：可能是最好看的倒数日 App]]></title>
-        <id>https://sspai.com/post/83729</id>
-        <link href="https://sspai.com/post/83729"/>
-        <updated>2023-10-23T03:21:54.000Z</updated>
-        <summary type="html"><![CDATA[《Countdown》的美好设计和简单易用在同类型产品里优势明显，买断价格也算不上贵。也许它能让你的手机和 Mac 桌面多一抹有趣色彩。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Excel 允许关闭日期自动转换，12315 公示平台上线]]></title>
-        <id>https://sspai.com/post/83764</id>
-        <link href="https://sspai.com/post/83764"/>
-        <updated>2023-10-23T00:58:04.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Excel更新允许关闭日期自动识别转换10月19日，Microsoft365Insiders官方博客发表文章，表示已根据早期测试反馈，完善并正式推出了在Excel中自由关闭多种「自动 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>

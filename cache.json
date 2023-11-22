@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84538",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/84538",
+          "publishedOn": "2023-11-21T09:28:56.000Z",
+          "wordCount": 884,
+          "title": "社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典",
+          "imageUrl": "https://cdn.sspai.com/11/21/2023/article/9eec9389-2db8-7a9c-4319-220c00afb7ee.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84523",
+          "author": "果铺知道",
+          "description": "如果 Apple 准备开展座椅定制业务的话，那 Hermin Miller 大概要开始担心了。查看全文",
+          "link": "https://sspai.com/post/84523",
+          "publishedOn": "2023-11-21T07:00:22.000Z",
+          "wordCount": 944,
+          "title": "排排坐，吃果果：趣谈 Apple Store 各色座椅",
+          "imageUrl": "https://cdn.sspai.com/2023/11/20/b6ac7afabe651c882531d842aed8e847.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84446",
+          "author": "Wataru",
+          "description": "在将秋未秋时到访京都，错过了漫山遍野的红，这难免有些遗憾，但呈现在我眼前的京都，也有其独特的美。查看全文",
+          "link": "https://sspai.com/post/84446",
+          "publishedOn": "2023-11-21T03:30:12.000Z",
+          "wordCount": 637,
+          "title": "城市漫步指南：在将秋未秋时，到访一次京都",
+          "imageUrl": "https://cdn.sspai.com/2023/11/16/66604dbb40b8f6eba0841f99d84b9fa5.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/84517",
+          "author": "少数派编辑部",
+          "description": "联发科发布两款 Wi-Fi 7 芯片，河南周口联通回应光猫强迫换新事件等查看全文",
+          "link": "https://sspai.com/post/84517",
+          "publishedOn": "2023-11-21T00:15:00.000Z",
+          "wordCount": 781,
+          "title": "派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等",
+          "imageUrl": "https://cdn.sspai.com/2023/11/20/article/74e7f8e4-a4a8-f342-25b7-d9d6dfb5e8f0.png"
+        },
+        {
           "id": "https://sspai.com/post/84516",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
@@ -1104,46 +1144,6 @@
           "wordCount": 790,
           "title": "派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等",
           "imageUrl": "https://cdn.sspai.com/2023/10/23/article/041e7681-76f4-73d7-ec5a-2859732b4bcb.png"
-        },
-        {
-          "id": "https://sspai.com/post/83806",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App欢迎收看本期《派评》。你可以通过文章目录快 ...查看全文",
-          "link": "https://sspai.com/post/83806",
-          "publishedOn": "2023-10-23T10:06:25.000Z",
-          "wordCount": 938,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/10/23/article/febc9567-6c9f-813d-d841-3b4900ef6b44.png"
-        },
-        {
-          "id": "https://sspai.com/post/83797",
-          "author": "北鸮",
-          "description": "购物节要到了，买键盘时别叫低价吓到。查看全文",
-          "link": "https://sspai.com/post/83797",
-          "publishedOn": "2023-10-23T07:34:13.000Z",
-          "wordCount": 757,
-          "title": "别被「卷王」牵着走：给键盘减预算时，你究竟减掉了什么",
-          "imageUrl": "https://cdn.sspai.com/2023/10/23/f55450e3c0e7b59ea9a69903f0510fb2.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83729",
-          "author": "张奕源Nick",
-          "description": "《Countdown》的美好设计和简单易用在同类型产品里优势明显，买断价格也算不上贵。也许它能让你的手机和 Mac 桌面多一抹有趣色彩。查看全文",
-          "link": "https://sspai.com/post/83729",
-          "publishedOn": "2023-10-23T03:21:54.000Z",
-          "wordCount": 703,
-          "title": "App+1 | Countdown Buddy：可能是最好看的倒数日 App",
-          "imageUrl": "https://cdn.sspai.com/20/10/2023/article/a41b519a-a85f-3e12-cf89-d6225ec0daf4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83764",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事Excel更新允许关闭日期自动识别转换10月19日，Microsoft365Insiders官方博客发表文章，表示已根据早期测试反馈，完善并正式推出了在Excel中自由关闭多种「自动 ...查看全文",
-          "link": "https://sspai.com/post/83764",
-          "publishedOn": "2023-10-23T00:58:04.000Z",
-          "wordCount": 863,
-          "title": "派早报：Excel 允许关闭日期自动转换，12315 公示平台上线",
-          "imageUrl": "https://cdn.sspai.com/10/22/2023/article/d24a01c8-b615-0888-1edc-f7b7243f0f60.png"
         }
       ]
     },
