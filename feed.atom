@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-22T00:39:39.120Z</updated>
+    <updated>2023-11-23T00:37:40.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-231122</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-231122"/>
+        <updated>2023-11-22T10:00:40.000Z</updated>
+        <summary type="html"><![CDATA[理想的周六是早上睡醒去练 CrossFit ，酣畅淋漓之后洗个澡骑车回家，路过牛排店买一块，晚上在家做饭看电影。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[满怀希望、认真生活：我对人生与价值的看法]]></title>
+        <id>https://sspai.com/post/83743</id>
+        <link href="https://sspai.com/post/83743"/>
+        <updated>2023-11-22T07:01:48.000Z</updated>
+        <summary type="html"><![CDATA[越是事事都想做到最好越是达不到完整，人生就变成了空洞的碎片，恍然之间的荒谬感才自觉生命形态已经不完整了。只要认真活过，那一切就都足够了。祝屏幕前的你也可以满怀希望的、认真度过这一生。查看全文]]></summary>
+        <author>
+            <name>Airing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立小团队如何在开发时省钱省事？这是我们选择的技术架构]]></title>
+        <id>https://sspai.com/post/83468</id>
+        <link href="https://sspai.com/post/83468"/>
+        <updated>2023-11-22T03:34:23.000Z</updated>
+        <summary type="html"><![CDATA[我们公开了「及游册」现行的客户端和服务端架构方案供大家参考，如果你也在思考技术架构，不嫌弃的话可以看看我们的方法，或许对你有一点点用。查看全文]]></summary>
+        <author>
+            <name>whunting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等]]></title>
+        <id>https://sspai.com/post/84551</id>
+        <link href="https://sspai.com/post/84551"/>
+        <updated>2023-11-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunbird 宣布暂时关闭服务，新版 Chrome 应用商店上线等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典]]></title>
         <id>https://sspai.com/post/84538</id>
@@ -1113,56 +1154,6 @@
         <link href="https://sspai.com/post/83854"/>
         <updated>2023-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apple 将于 10 月 31 日举行特别活动，魅族完成统一推送标准适配等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 017 | 性价比SSD、宠物用品分享以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/83832</id>
-        <link href="https://sspai.com/post/83832"/>
-        <updated>2023-10-24T09:04:46.000Z</updated>
-        <summary type="html"><![CDATA[塞入完整版新玩意，一次看个够。查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从阅读到输出，我是如何用数字工具完成这一切的]]></title>
-        <id>https://sspai.com/post/83467</id>
-        <link href="https://sspai.com/post/83467"/>
-        <updated>2023-10-24T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[人无法欺骗自己，面对读完一本书后空空的头脑，只会引发更多的焦虑，于是机械重复地再去速读另一本书，毫无意义。查看全文]]></summary>
-        <author>
-            <name>Lars漫步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[依然属于大众的 iPhone：iPhone 15 Plus 使用体验]]></title>
-        <id>https://sspai.com/post/83786</id>
-        <link href="https://sspai.com/post/83786"/>
-        <updated>2023-10-24T06:24:02.000Z</updated>
-        <summary type="html"><![CDATA[如果你需要购买一部新的 iPhone——即使你曾经是 Pro 系列的用户——我都会优先推荐你考虑今年的数字系列，它好看，好用，价格也没有那么贵，为什么不试试看呢？查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不接地气的 Android 版「实时活动」，要好用还得看三方：Smartspacer]]></title>
-        <id>https://sspai.com/post/83754</id>
-        <link href="https://sspai.com/post/83754"/>
-        <updated>2023-10-24T03:00:48.000Z</updated>
-        <summary type="html"><![CDATA[资讯一览之于 Android，就像「实时活动」之于 iOS，而今天介绍这款 Smartspacer，则能让这个小组件变得更加实用。查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Amazfit Active 发布，Google 承认在 Pixel 8 屏蔽跑分等]]></title>
-        <id>https://sspai.com/post/83813</id>
-        <link href="https://sspai.com/post/83813"/>
-        <updated>2023-10-24T00:28:29.000Z</updated>
-        <summary type="html"><![CDATA[欧洲刑警组织摧毁 Ragnar Locker 勒索软件基础设施，菲律宾政府遭数据勒索等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
