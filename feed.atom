@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:37:40.315Z</updated>
+    <updated>2023-11-24T00:36:44.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[咖啡地图 | 中国咖啡的小透明：海南]]></title>
+        <id>https://sspai.com/post/84361</id>
+        <link href="https://sspai.com/post/84361"/>
+        <updated>2023-11-23T09:18:21.000Z</updated>
+        <summary type="html"><![CDATA[距离《咖啡地图》系列的完结已经有一年多了。重新翻阅了一下之前的文章，虽然写了云南，但中国的咖啡产地除了云南还有一个地方，不过它在咖啡产业中更像个小透明，可我觉得挺有意思，所以决定简单的梳理一下，这就是 ...查看全文]]></summary>
+        <author>
+            <name>老林还年少</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac 迁移指南：换新机后的任务清单]]></title>
+        <id>https://sspai.com/post/64301</id>
+        <link href="https://sspai.com/post/64301"/>
+        <updated>2023-11-23T07:00:30.000Z</updated>
+        <summary type="html"><![CDATA[苹果今年为 Mac 产品线带来了不少有意义的更新。适逢年末，不少人可能已经有了升级换新的计划。但在享受新机带来的喜悦同时，还有一件不得不做的麻烦事——数据迁移。查看全文]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态]]></title>
+        <id>https://sspai.com/post/84552</id>
+        <link href="https://sspai.com/post/84552"/>
+        <updated>2023-11-23T03:00:25.000Z</updated>
+        <summary type="html"><![CDATA[我不免感叹 Apple 已经不是当年的 Apple 了，更高效的办事效率和成本更低的行事逻辑共同造就了这部「存有人文温度的冰冷效率机器」——这就是我对现在的 iPhone 下的定义。查看全文]]></summary>
+        <author>
+            <name>囧瑟夫的图文避难所</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Sam Altman 将返回 OpenAI 担任 CEO 等]]></title>
+        <id>https://sspai.com/post/84575</id>
+        <link href="https://sspai.com/post/84575"/>
+        <updated>2023-11-23T00:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic 发布 Claude 2.1、Stability AI 推出 Stable Video Diffusion、微软将在中国大陆推出 Windows Copilot 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少数派作者、爱 CrossFit 也爱吃甜食的克莱尔都装了啥]]></title>
         <id>https://sspai.com/prime/story/zhuanglesha-231122</id>
@@ -1101,59 +1141,6 @@
         <link href="https://sspai.com/post/83874"/>
         <updated>2023-10-26T00:33:04.000Z</updated>
         <summary type="html"><![CDATA[大上发布墨水屏平板 Not-eReader 133、Automattic 计划收购社交平台 Texts、YouTube Music 加入 AI 封面生成功能等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bellroy 首席设计师 James Jeffrey 都装了啥？]]></title>
-        <id>https://sspai.com/prime/story/zhuanglesha-231025</id>
-        <link href="https://sspai.com/prime/story/zhuanglesha-231025"/>
-        <updated>2023-10-25T09:36:48.000Z</updated>
-        <summary type="html"><![CDATA[[......]
-查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[集成百家所长的 matter，也是智能家居的未来（系列文章之一）]]></title>
-        <id>https://sspai.com/prime/story/matter-explained-01</id>
-        <link href="https://sspai.com/prime/story/matter-explained-01"/>
-        <updated>2023-10-25T09:03:37.000Z</updated>
-        <summary type="html"><![CDATA[在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。查看全文
-本文为会员文章，出自《Matter协议详解》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>EstrellaXD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC]]></title>
-        <id>https://sspai.com/post/83800</id>
-        <link href="https://sspai.com/post/83800"/>
-        <updated>2023-10-25T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[阳光柔暖，空气微凉，秋风舒爽，在这个「瞎逛爱好者」最喜欢的季节，我们去山里拍星星，在公园湖边喝一杯热茶，在通勤路上看树叶变幻色彩，无论是探索自然还是城市漫步，包里的东西似乎都随着季节产生了些许变化。我 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[规划库存、减少浪费：以 Grocy 为数据库的物品管理方案]]></title>
-        <id>https://sspai.com/post/83836</id>
-        <link href="https://sspai.com/post/83836"/>
-        <updated>2023-10-25T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[与以往仅通过手机与软件来管理库存的方法不同，我们设计了一个很简洁的硬件，来帮助我们打破数据和真实世界的这堵屏障，解放了用户这个「中间人」的角色。查看全文]]></summary>
-        <author>
-            <name>凉糕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等]]></title>
-        <id>https://sspai.com/post/83854</id>
-        <link href="https://sspai.com/post/83854"/>
-        <updated>2023-10-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple 将于 10 月 31 日举行特别活动，魅族完成统一推送标准适配等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>

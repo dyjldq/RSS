@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84361",
+          "author": "老林还年少",
+          "description": "距离《咖啡地图》系列的完结已经有一年多了。重新翻阅了一下之前的文章，虽然写了云南，但中国的咖啡产地除了云南还有一个地方，不过它在咖啡产业中更像个小透明，可我觉得挺有意思，所以决定简单的梳理一下，这就是 ...查看全文",
+          "link": "https://sspai.com/post/84361",
+          "publishedOn": "2023-11-23T09:18:21.000Z",
+          "wordCount": 796,
+          "title": "咖啡地图 | 中国咖啡的小透明：海南",
+          "imageUrl": "https://cdn.sspai.com/2023/11/23/article/e6d88fbc-0410-dcb1-813f-9a8ceab4d7cf.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/64301",
+          "author": "PlatyHsu",
+          "description": "苹果今年为 Mac 产品线带来了不少有意义的更新。适逢年末，不少人可能已经有了升级换新的计划。但在享受新机带来的喜悦同时，还有一件不得不做的麻烦事——数据迁移。查看全文",
+          "link": "https://sspai.com/post/64301",
+          "publishedOn": "2023-11-23T07:00:30.000Z",
+          "wordCount": 1064,
+          "title": "Mac 迁移指南：换新机后的任务清单",
+          "imageUrl": "https://cdn.sspai.com/11/23/2023/article/66d97372-d409-89b9-71f3-fc23702a1c6b.png"
+        },
+        {
+          "id": "https://sspai.com/post/84552",
+          "author": "囧瑟夫的图文避难所",
+          "description": "我不免感叹 Apple 已经不是当年的 Apple 了，更高效的办事效率和成本更低的行事逻辑共同造就了这部「存有人文温度的冰冷效率机器」——这就是我对现在的 iPhone 下的定义。查看全文",
+          "link": "https://sspai.com/post/84552",
+          "publishedOn": "2023-11-23T03:00:25.000Z",
+          "wordCount": 1134,
+          "title": "从 iPhone 15 Pro 谈起，聊聊 Apple 产品的体验、周边和生态",
+          "imageUrl": "https://cdn.sspai.com/2023/11/22/47dabb57c42be402adea88a45b0c9396.JPG"
+        },
+        {
+          "id": "https://sspai.com/post/84575",
+          "author": "少数派编辑部",
+          "description": "Anthropic 发布 Claude 2.1、Stability AI 推出 Stable Video Diffusion、微软将在中国大陆推出 Windows Copilot 等。查看全文",
+          "link": "https://sspai.com/post/84575",
+          "publishedOn": "2023-11-23T00:31:48.000Z",
+          "wordCount": 821,
+          "title": "派早报：Sam Altman 将返回 OpenAI 担任 CEO 等",
+          "imageUrl": "https://cdn.sspai.com/23/11/2023/article/ca659cee-a850-9250-2ac0-9392b74b3ddf.jpg"
+        },
+        {
           "id": "https://sspai.com/prime/story/zhuanglesha-231122",
           "author": "少数派编辑部",
           "description": "理想的周六是早上睡醒去练 CrossFit ，酣畅淋漓之后洗个澡骑车回家，路过牛排店买一块，晚上在家做饭看电影。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1084,56 +1124,6 @@
           "wordCount": 855,
           "title": "派早报：高通发布骁龙 X Elite 处理器、Steam 调整低价区定价策略等",
           "imageUrl": "https://cdn.sspai.com/26/10/2023/article/b542a100-42b8-71ea-9cc6-62381c3aaf86.jpeg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zhuanglesha-231025",
-          "author": "少数派编辑部",
-          "description": "[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zhuanglesha-231025",
-          "publishedOn": "2023-10-25T09:36:48.000Z",
-          "wordCount": 2330,
-          "title": "Bellroy 首席设计师 James Jeffrey 都装了啥？",
-          "imageUrl": "https://cdn.sspai.com/2023/10/23/article/ddf5514f-b82f-5455-d0d4-f4cc47ce05a4.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/matter-explained-01",
-          "author": "EstrellaXD",
-          "description": "在这组新的连载文章中，我们将会与大家一起探究 matter 这个协议的前世今生以及其核心的技术优势，希望帮助大家更好地认识这个协议、更有针对性地选购智能家居产品。查看全文\n本文为会员文章，出自《Matter协议详解》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/matter-explained-01",
-          "publishedOn": "2023-10-25T09:03:37.000Z",
-          "wordCount": 1293,
-          "title": "集成百家所长的 matter，也是智能家居的未来（系列文章之一）",
-          "imageUrl": "https://cdn.sspai.com/article/1f53593f-0359-3090-6ed1-d85e019c603f.png"
-        },
-        {
-          "id": "https://sspai.com/post/83800",
-          "author": "Matrix机器人",
-          "description": "阳光柔暖，空气微凉，秋风舒爽，在这个「瞎逛爱好者」最喜欢的季节，我们去山里拍星星，在公园湖边喝一杯热茶，在通勤路上看树叶变幻色彩，无论是探索自然还是城市漫步，包里的东西似乎都随着季节产生了些许变化。我 ...查看全文",
-          "link": "https://sspai.com/post/83800",
-          "publishedOn": "2023-10-25T07:00:00.000Z",
-          "wordCount": 844,
-          "title": "Matrix Talk | 在「瞎逛爱好者」最喜欢的季节，来聊聊我们的秋日 EDC",
-          "imageUrl": "https://cdn.sspai.com/2023/10/23/article/020de798-7015-829d-d946-95e459dfcd0e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83836",
-          "author": "凉糕",
-          "description": "与以往仅通过手机与软件来管理库存的方法不同，我们设计了一个很简洁的硬件，来帮助我们打破数据和真实世界的这堵屏障，解放了用户这个「中间人」的角色。查看全文",
-          "link": "https://sspai.com/post/83836",
-          "publishedOn": "2023-10-25T03:30:00.000Z",
-          "wordCount": 842,
-          "title": "规划库存、减少浪费：以 Grocy 为数据库的物品管理方案",
-          "imageUrl": "https://cdn.sspai.com/2023/10/24/7a7d1f811a67b6221d4ce8d2de941156.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83854",
-          "author": "少数派编辑部",
-          "description": "Apple 将于 10 月 31 日举行特别活动，魅族完成统一推送标准适配等。查看全文",
-          "link": "https://sspai.com/post/83854",
-          "publishedOn": "2023-10-25T00:00:00.000Z",
-          "wordCount": 806,
-          "title": "派早报：小鹏公布多项新技术及产品、PS5 轻薄版国行版发布等",
-          "imageUrl": "https://cdn.sspai.com/2023/10/25/article/7b545c77-1b97-ea93-00ca-91852957a7ae.png"
         }
       ]
     },
