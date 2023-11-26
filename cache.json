@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
+          "author": "Vio",
+          "description": "Apple Log 用在整个视频创作的流程中是什么样的体验？它适合谁来用？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
+          "publishedOn": "2023-11-25T10:19:17.000Z",
+          "wordCount": 869,
+          "title": "Apple Log 个人创作者拍摄指南",
+          "imageUrl": "https://cdn.sspai.com/2023/11/14/85e377e2b5a313d9bdf8cd62743980b5.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84616",
+          "author": "waychane",
+          "description": "11月21日，国内青年女歌手刘柏辛发布个人新单曲《delulu》。据刘柏辛介绍，《delulu》的创作灵感来自一则迷因(meme)「Mayyourdelulucometruelulu」，作品表现的是一 ...查看全文",
+          "link": "https://sspai.com/post/84616",
+          "publishedOn": "2023-11-25T06:30:00.000Z",
+          "wordCount": 746,
+          "title": "一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队",
+          "imageUrl": "https://cdn.sspai.com/2023/11/24/article/27cfeca6-01d3-5b3d-2564-bf9071d3af74.png"
+        },
+        {
           "id": "https://sspai.com/post/84612",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[港剧]新闻女王、[日剧]东京贫困女子、[电影]星愿、[电影]留校联盟、[韩剧]运气好的日子、[美剧]冰血暴第五季、[美剧]镀金时代第二季、[美剧]帝王计划：怪兽遗产、[电 ...查看全文",
@@ -1064,46 +1084,6 @@
           "wordCount": 687,
           "title": "识图：在茫茫手机相册中精准定位想要照片",
           "imageUrl": "https://cdn.sspai.com/2023/10/28/article/40c2fb40-6a06-fcff-7dbc-0d6397847f15.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83906",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]河边的错误、[韩剧]恶人传记、[日剧]没有被炉的家、[电影]家庭负担、[电影]电锯惊魂10、[美剧]博斯：传承第二季、[动画]药师少女的独语、[动画]PLUTO冥王 ...查看全文",
-          "link": "https://sspai.com/post/83906",
-          "publishedOn": "2023-10-27T09:39:36.000Z",
-          "wordCount": 1022,
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "imageUrl": "https://cdn.sspai.com/2023/10/27/article/454b2d7e-9027-02fc-e9a6-ee367cd8804e.png"
-        },
-        {
-          "id": "https://sspai.com/post/80329",
-          "author": "ROB1N",
-          "description": "双十一，只有雷蛇在认认真真降价。查看全文",
-          "link": "https://sspai.com/post/80329",
-          "publishedOn": "2023-10-27T07:57:06.000Z",
-          "wordCount": 1034,
-          "title": "双十一硬件推荐：值得关注的鼠标",
-          "imageUrl": "https://cdn.sspai.com/2023/6/15/article/1562e081-4942-c922-e427-fadc6a59aab6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83859",
-          "author": "Miobowl",
-          "description": "Fibery 不会教你如何做数据分析，也不会告诉你什么样的模板最适合你，在深入了解它之后，Fibery 像一个杠杆，可以最大化地提高用户的效率。查看全文",
-          "link": "https://sspai.com/post/83859",
-          "publishedOn": "2023-10-27T05:19:15.000Z",
-          "wordCount": 977,
-          "title": "自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验",
-          "imageUrl": "https://cdn.sspai.com/2023/10/25/f9a5ec3a474ea12f2e20168c760e97cb.png"
-        },
-        {
-          "id": "https://sspai.com/post/83893",
-          "author": "少数派编辑部",
-          "description": "徕卡发布 M11-P 相机，Valve 正式发布 SteamVR 2.0 等。查看全文",
-          "link": "https://sspai.com/post/83893",
-          "publishedOn": "2023-10-27T00:50:51.000Z",
-          "wordCount": 966,
-          "title": "派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案",
-          "imageUrl": "https://cdn.sspai.com/10/27/2023/article/2b65dd1e-e4ab-61b7-a182-d2418f2889b3.png"
         }
       ]
     },

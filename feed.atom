@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-25T00:36:07.028Z</updated>
+    <updated>2023-11-26T00:40:14.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Log 个人创作者拍摄指南]]></title>
+        <id>https://sspai.com/prime/story/log-color-encoding-for-individual-creators</id>
+        <link href="https://sspai.com/prime/story/log-color-encoding-for-individual-creators"/>
+        <updated>2023-11-25T10:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Apple Log 用在整个视频创作的流程中是什么样的体验？它适合谁来用？查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Vio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队]]></title>
+        <id>https://sspai.com/post/84616</id>
+        <link href="https://sspai.com/post/84616"/>
+        <updated>2023-11-25T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[11月21日，国内青年女歌手刘柏辛发布个人新单曲《delulu》。据刘柏辛介绍，《delulu》的创作灵感来自一则迷因(meme)「Mayyourdelulucometruelulu」，作品表现的是一 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大套作品]]></title>
         <id>https://sspai.com/post/84612</id>
@@ -1082,46 +1103,6 @@
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>Shobek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/83906</id>
-        <link href="https://sspai.com/post/83906"/>
-        <updated>2023-10-27T09:39:36.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]河边的错误、[韩剧]恶人传记、[日剧]没有被炉的家、[电影]家庭负担、[电影]电锯惊魂10、[美剧]博斯：传承第二季、[动画]药师少女的独语、[动画]PLUTO冥王 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双十一硬件推荐：值得关注的鼠标]]></title>
-        <id>https://sspai.com/post/80329</id>
-        <link href="https://sspai.com/post/80329"/>
-        <updated>2023-10-27T07:57:06.000Z</updated>
-        <summary type="html"><![CDATA[双十一，只有雷蛇在认认真真降价。查看全文]]></summary>
-        <author>
-            <name>ROB1N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自嘲「万金油但平平无奇」的有趣知识管理工具：Fibery 体验]]></title>
-        <id>https://sspai.com/post/83859</id>
-        <link href="https://sspai.com/post/83859"/>
-        <updated>2023-10-27T05:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Fibery 不会教你如何做数据分析，也不会告诉你什么样的模板最适合你，在深入了解它之后，Fibery 像一个杠杆，可以最大化地提高用户的效率。查看全文]]></summary>
-        <author>
-            <name>Miobowl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：小米 14 系列发布、微软宣布 Surface 整合 Secured core PCs 方案]]></title>
-        <id>https://sspai.com/post/83893</id>
-        <link href="https://sspai.com/post/83893"/>
-        <updated>2023-10-27T00:50:51.000Z</updated>
-        <summary type="html"><![CDATA[徕卡发布 M11-P 相机，Valve 正式发布 SteamVR 2.0 等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
