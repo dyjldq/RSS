@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-26T00:40:14.207Z</updated>
+    <updated>2023-11-27T00:38:21.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[发展了十几年，为什么智能手表的血压检测还像个摆设？]]></title>
+        <id>https://sspai.com/post/84622</id>
+        <link href="https://sspai.com/post/84622"/>
+        <updated>2023-11-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[量血压这种小事放在手腕上，就成了麻烦。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Log 个人创作者拍摄指南]]></title>
         <id>https://sspai.com/prime/story/log-color-encoding-for-individual-creators</id>
@@ -1093,16 +1103,6 @@
         <summary type="html"><![CDATA[断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文]]></summary>
         <author>
             <name>MrCoffeeTalker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[识图：在茫茫手机相册中精准定位想要照片]]></title>
-        <id>https://sspai.com/post/83441</id>
-        <link href="https://sspai.com/post/83441"/>
-        <updated>2023-10-28T05:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>Shobek</name>
         </author>
     </entry>
     <entry>
