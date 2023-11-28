@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-27T00:38:21.779Z</updated>
+    <updated>2023-11-28T00:38:29.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/84665</id>
+        <link href="https://sspai.com/post/84665"/>
+        <updated>2023-11-27T09:33:43.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家]]></title>
+        <id>https://sspai.com/post/82813</id>
+        <link href="https://sspai.com/post/82813"/>
+        <updated>2023-11-27T07:18:23.000Z</updated>
+        <summary type="html"><![CDATA[编者注：当你将客人们请进自己的屋子时，你想让他们看看你是怎样的人。通常而言，将你的一切告诉他们的不是你的长沙发；而是你奇怪的乡村挤奶凳，它就放在一张复古风格的人物画下面，画上是一个或许开心或许喝醉了的 ...查看全文]]></summary>
+        <author>
+            <name>Konstantine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与知识库对话、用嘴找笔记：Notion AI 对话模式体验]]></title>
+        <id>https://sspai.com/post/84597</id>
+        <link href="https://sspai.com/post/84597"/>
+        <updated>2023-11-27T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Notion 的 AI 对话模式虽不能说超出我的预期，但确实在我想象的方向上让 Notion 走得更远了，也让我更想把笔记放在 Notion 里了。查看全文]]></summary>
+        <author>
+            <name>MrCoffeeTalker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：淘宝将双 12 改名「年终好价节」]]></title>
+        <id>https://sspai.com/post/84648</id>
+        <link href="https://sspai.com/post/84648"/>
+        <updated>2023-11-27T00:50:45.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事淘宝将双12改名「年终好价节」11月24日，淘宝在「商家服务大厅」发布通知，称今年12月会举办平台大型活动「淘宝年终好价节」，预计11月底开始招商。淘宝曾于今年618期间使用过「好价 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发展了十几年，为什么智能手表的血压检测还像个摆设？]]></title>
         <id>https://sspai.com/post/84622</id>
@@ -1093,16 +1133,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事X新增两档订阅方案10月27日，X（原推特）正式公布了此前已被广泛报道的两档新增订阅方案。其中，Premium+每月收费16美元，相比于此前已有的Premium（每月8美元），主要增 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用 Make 自动化将即刻动态同步到 Notion]]></title>
-        <id>https://sspai.com/post/83490</id>
-        <link href="https://sspai.com/post/83490"/>
-        <updated>2023-10-29T06:24:53.000Z</updated>
-        <summary type="html"><![CDATA[断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文]]></summary>
-        <author>
-            <name>MrCoffeeTalker</name>
         </author>
     </entry>
     <entry>

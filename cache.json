@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84665",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
+          "link": "https://sspai.com/post/84665",
+          "publishedOn": "2023-11-27T09:33:43.000Z",
+          "wordCount": 831,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/11/27/article/ad87e703-fe1c-8c68-92f3-b29279605914.png"
+        },
+        {
+          "id": "https://sspai.com/post/82813",
+          "author": "Konstantine",
+          "description": "编者注：当你将客人们请进自己的屋子时，你想让他们看看你是怎样的人。通常而言，将你的一切告诉他们的不是你的长沙发；而是你奇怪的乡村挤奶凳，它就放在一张复古风格的人物画下面，画上是一个或许开心或许喝醉了的 ...查看全文",
+          "link": "https://sspai.com/post/82813",
+          "publishedOn": "2023-11-27T07:18:23.000Z",
+          "wordCount": 689,
+          "title": "家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家",
+          "imageUrl": "https://cdn.sspai.com/2023/11/20/6ed483118fe4593b3f3cb746dc0181f3.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84597",
+          "author": "MrCoffeeTalker",
+          "description": "Notion 的 AI 对话模式虽不能说超出我的预期，但确实在我想象的方向上让 Notion 走得更远了，也让我更想把笔记放在 Notion 里了。查看全文",
+          "link": "https://sspai.com/post/84597",
+          "publishedOn": "2023-11-27T03:30:00.000Z",
+          "wordCount": 1217,
+          "title": "与知识库对话、用嘴找笔记：Notion AI 对话模式体验",
+          "imageUrl": "https://cdn.sspai.com/2023/11/24/1e4d09019a95ad75c16dc1c023f3fc24.png"
+        },
+        {
+          "id": "https://sspai.com/post/84648",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事淘宝将双12改名「年终好价节」11月24日，淘宝在「商家服务大厅」发布通知，称今年12月会举办平台大型活动「淘宝年终好价节」，预计11月底开始招商。淘宝曾于今年618期间使用过「好价 ...查看全文",
+          "link": "https://sspai.com/post/84648",
+          "publishedOn": "2023-11-27T00:50:45.000Z",
+          "wordCount": 824,
+          "title": "派早报：淘宝将双 12 改名「年终好价节」",
+          "imageUrl": "https://cdn.sspai.com/11/27/2023/article/55243596-7140-cf69-59fa-7869034e7892.png"
+        },
+        {
           "id": "https://sspai.com/post/84622",
           "author": "北鸮",
           "description": "量血压这种小事放在手腕上，就成了麻烦。查看全文",
@@ -1074,16 +1114,6 @@
           "wordCount": 751,
           "title": "派早报：X 新增两档订阅方案，多部门负责人解读未成年人网络保护条例",
           "imageUrl": "https://cdn.sspai.com/10/29/2023/article/e5d4ff18-68a1-5e64-9a5c-5017ef0df17a.png"
-        },
-        {
-          "id": "https://sspai.com/post/83490",
-          "author": "MrCoffeeTalker",
-          "description": "断断续续摸索一个月，我终于实现了一套还算满意的方案，能定期将我在即刻创作的内容同步到我的 Notion，云端自动运行，启动后就可以持续收录。查看全文",
-          "link": "https://sspai.com/post/83490",
-          "publishedOn": "2023-10-29T06:24:53.000Z",
-          "wordCount": 816,
-          "title": "如何用 Make 自动化将即刻动态同步到 Notion",
-          "imageUrl": "https://cdn.sspai.com/2023/10/11/df3a25ed83eecddcdf30153b4b24ac96.png"
         }
       ]
     },
