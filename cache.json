@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84574",
+          "author": "EurekaLab",
+          "description": "感冒，这个看似微不足道的小病，似乎却成了人类和疾病斗争的缩影。查看全文",
+          "link": "https://sspai.com/post/84574",
+          "publishedOn": "2023-12-02T07:00:00.000Z",
+          "wordCount": 764,
+          "title": "入门到精通：从今天开始成为感冒专家",
+          "imageUrl": "https://cdn.sspai.com/2023/11/28/c5949e0212d6fd3501d1d0dc1724b051.jpg"
+        },
+        {
           "id": "https://sspai.com/post/84770",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[英剧]流人第三季、[美剧]为了全人类第四季、[国产]故乡，别来无恙、[韩剧]少年时代、[电影]璀璨的灰烬、[电影]墨西哥万岁！、[电影]你们所有人的脸、[美剧]执法者：巴 ...查看全文",
@@ -1014,66 +1024,6 @@
           "wordCount": 759,
           "title": "不到 400 元能买哪些好物，这是少数派作者的「双十一」购物清单",
           "imageUrl": "https://cdn.sspai.com/2023/11/3/article/0bd2b8f0-8655-91c7-71ac-dd19034638af.png"
-        },
-        {
-          "id": "https://sspai.com/post/84116",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[美剧]同路人、[美剧]化学课、[法剧]塔皮/千面人杰、[美剧]所有我们看不见的光、[日剧]我家的英雄、[电影]偶得回响、[电影]爱情万岁、[电影]BLUEGIANT蓝色巨 ...查看全文",
-          "link": "https://sspai.com/post/84116",
-          "publishedOn": "2023-11-03T10:20:39.000Z",
-          "wordCount": 982,
-          "title": "本周看什么 | 最近值得一看的一大簇作品",
-          "imageUrl": "https://cdn.sspai.com/2023/11/3/article/275424c1-6669-1381-3edc-1efbc57d5fda.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/android-hdr-display-issue-explained",
-          "author": "克莱德",
-          "description": "为什么 Android 设备播放 HDR 视频时，最「亮眼」的经常不是视频？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/android-hdr-display-issue-explained",
-          "publishedOn": "2023-11-03T09:52:16.000Z",
-          "wordCount": 995,
-          "title": "你的下一台 Android 机，记得挑字幕没那么亮的",
-          "imageUrl": "https://cdn.sspai.com/2023/11/3/article/5217d424-d744-a5ab-dda0-7192f2bc3cfb.png"
-        },
-        {
-          "id": "https://sspai.com/post/83944",
-          "author": "Miobowl",
-          "description": "有没有一种可能，把 Notion、Trello、OmniFocus 和 Google Calendar 合在一起？查看全文",
-          "link": "https://sspai.com/post/83944",
-          "publishedOn": "2023-11-03T07:30:00.000Z",
-          "wordCount": 760,
-          "title": "App+1 | Timestripe：打破日程表樊篱，多视角规划目标",
-          "imageUrl": "https://cdn.sspai.com/2023/10/30/a147450ed3d2aeff9900883a0c1c479d.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83908",
-          "author": "Levinson",
-          "description": "在兼容 DDC/CI 协议的显示器上，不管你使用的是 Windows 还是 macOS 可以用软件甚至是快捷键来快速切换显示源。查看全文",
-          "link": "https://sspai.com/post/83908",
-          "publishedOn": "2023-11-03T03:30:00.000Z",
-          "wordCount": 865,
-          "title": "一日一技 | 如何只用软件实现显示器的输入源切换",
-          "imageUrl": "https://cdn.sspai.com/11/3/2023/article/a954bdbe-0af1-5e7b-8202-cad3ff61070c.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84098",
-          "author": "少数派编辑部",
-          "description": "Apple 不再提供 Apple Music 声控方案，迪士尼将收购 Hulu 的全部股份等查看全文",
-          "link": "https://sspai.com/post/84098",
-          "publishedOn": "2023-11-03T00:31:39.000Z",
-          "wordCount": 859,
-          "title": "派早报：Microsoft 面向企业客户推出 365 Copilot",
-          "imageUrl": "https://cdn.sspai.com/11/3/2023/article/b9fa3068-f3d4-a254-d7b4-5d1049f9fa58.png"
-        },
-        {
-          "id": "https://sspai.com/post/84084",
-          "author": "waychane",
-          "description": "我们很高兴通过Apple温州万象城零售店的开幕联结更多顾客。能与中国各地社区建立深厚而持久的关系我们深感自豪。Apple温州万象城开业在即，Apple零售业务高级副总裁DeirdreO'Brien也在 ...查看全文",
-          "link": "https://sspai.com/post/84084",
-          "publishedOn": "2023-11-03T00:00:00.000Z",
-          "wordCount": 800,
-          "title": "初来温州问声好，Apple Store 新店抢先看",
-          "imageUrl": "https://cdn.sspai.com/2023/11/2/article/0fbbb31a-d662-76c3-0f64-8e3a7b39b8ba.png"
         }
       ]
     },
@@ -1082,6 +1032,156 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1730980117776924828",
+          "author": "ahhhhfs",
+          "description": "AI的30 种用法让工作 效率提升数倍\n👉https://www.ahhhhfs.com/51318/",
+          "link": "https://twitter.com/abskoop/status/1730980117776924828",
+          "publishedOn": "2023-12-02T15:59:54.000Z",
+          "wordCount": 1637,
+          "title": "AI的30 种用法让工作 效率提升数倍 👉https://www.ahhhhfs.com/51318/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730973597521383579",
+          "author": "ahhhhfs",
+          "description": "职场生存指南：深度拆解困住1000万人的52个职场难题\n👉https://www.ahhhhfs.com/51287/",
+          "link": "https://twitter.com/abskoop/status/1730973597521383579",
+          "publishedOn": "2023-12-02T15:34:00.000Z",
+          "wordCount": 1635,
+          "title": "职场生存指南：深度拆解困住1000万人的52个职场难题 👉https://www.ahhhhfs.com/51287/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730965544914899083",
+          "author": "ahhhhfs",
+          "description": "在线开源PDF转扫描效果工具：Look Scanned\n👉https://www.ahhhhfs.com/51291/",
+          "link": "https://twitter.com/abskoop/status/1730965544914899083",
+          "publishedOn": "2023-12-02T15:02:00.000Z",
+          "wordCount": 1635,
+          "title": "在线开源PDF转扫描效果工具：Look Scanned 👉https://www.ahhhhfs.com/51291/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730957743144550854",
+          "author": "ahhhhfs",
+          "description": "被某国屏蔽的1119个学习网站🙊\n👉https://www.ahhhhfs.com/51272/",
+          "link": "https://twitter.com/abskoop/status/1730957743144550854",
+          "publishedOn": "2023-12-02T14:31:00.000Z",
+          "wordCount": 1635,
+          "title": "被某国屏蔽的1119个学习网站🙊 👉https://www.ahhhhfs.com/51272/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730946525092786388",
+          "author": "ahhhhfs",
+          "description": "资本主义听完都摇摇头🐒🐒",
+          "link": "https://twitter.com/abskoop/status/1730946525092786388",
+          "publishedOn": "2023-12-02T13:46:25.000Z",
+          "wordCount": 1635,
+          "title": "资本主义听完都摇摇头🐒🐒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730941888692355411",
+          "author": "ahhhhfs",
+          "description": "Devv：最懂程序员的新一代 AI 搜索引擎\n👉https://www.ahhhhfs.com/51303/",
+          "link": "https://twitter.com/abskoop/status/1730941888692355411",
+          "publishedOn": "2023-12-02T13:28:00.000Z",
+          "wordCount": 1637,
+          "title": "Devv：最懂程序员的新一代 AI 搜索引擎 👉https://www.ahhhhfs.com/51303/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730926537401139565",
+          "author": "ahhhhfs",
+          "description": "百乐米：在线全网音乐播放平台 \n专注于分享好听稀有音乐\n👉https://www.ahhhhfs.com/51310/",
+          "link": "https://twitter.com/abskoop/status/1730926537401139565",
+          "publishedOn": "2023-12-02T12:27:00.000Z",
+          "wordCount": 1635,
+          "title": "百乐米：在线全网音乐播放平台 专注于分享好听稀有音乐 👉https://www.ahhhhfs.com/51310/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730910835726569814",
+          "author": "ahhhhfs",
+          "description": "🦉🦉🦉\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/",
+          "link": "https://twitter.com/abskoop/status/1730910835726569814",
+          "publishedOn": "2023-12-02T11:24:36.000Z",
+          "wordCount": 1637,
+          "title": "🦉🦉🦉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730894531128860859",
+          "author": "ahhhhfs",
+          "description": "学霸状元名师课堂笔记资料\n👉https://www.ahhhhfs.com/51247/",
+          "link": "https://twitter.com/abskoop/status/1730894531128860859",
+          "publishedOn": "2023-12-02T10:19:49.000Z",
+          "wordCount": 1637,
+          "title": "学霸状元名师课堂笔记资料 👉https://www.ahhhhfs.com/51247/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730868245731934653",
+          "author": "ahhhhfs",
+          "description": "Re @zaprobest 我tg什么都没有🥺",
+          "link": "https://twitter.com/abskoop/status/1730868245731934653",
+          "publishedOn": "2023-12-02T09:11:48.000Z",
+          "wordCount": 1626,
+          "title": "Re @zaprobest 我tg什么都没有🥺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730865016373711004",
+          "author": "ahhhhfs",
+          "description": "在线随机小姐姐视频学习网站\n👉https://www.ahhhhfs.com/51278/",
+          "link": "https://twitter.com/abskoop/status/1730865016373711004",
+          "publishedOn": "2023-12-02T08:22:32.000Z",
+          "wordCount": 1637,
+          "title": "在线随机小姐姐视频学习网站 👉https://www.ahhhhfs.com/51278/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730833979417251952",
+          "author": "ahhhhfs",
+          "description": "Re @wangyushi_009 太大了 搬不过去🥹",
+          "link": "https://twitter.com/abskoop/status/1730833979417251952",
+          "publishedOn": "2023-12-02T06:58:26.000Z",
+          "wordCount": 1635,
+          "title": "Re @wangyushi_009 太大了 搬不过去🥹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730833979417251952",
+          "author": "ahhhhfs",
+          "description": "Re @singehom2020 更新了🤤有了",
+          "link": "https://twitter.com/abskoop/status/1730833979417251952",
+          "publishedOn": "2023-12-02T06:58:05.000Z",
+          "wordCount": 1635,
+          "title": "Re @singehom2020 更新了🤤有了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730833979417251952",
+          "author": "ahhhhfs",
+          "description": "80套PS付费课程资料合集\n👉https://www.ahhhhfs.com/36672/",
+          "link": "https://twitter.com/abskoop/status/1730833979417251952",
+          "publishedOn": "2023-12-02T06:19:12.000Z",
+          "wordCount": 1637,
+          "title": "80套PS付费课程资料合集 👉https://www.ahhhhfs.com/36672/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1730812693525962832",
+          "author": "ahhhhfs",
+          "description": "好像有点道理耶🥹",
+          "link": "https://twitter.com/abskoop/status/1730812693525962832",
+          "publishedOn": "2023-12-02T04:54:37.000Z",
+          "wordCount": 1637,
+          "title": "好像有点道理耶🥹",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1730636299038846984",
           "author": "ahhhhfs",
@@ -1223,13 +1323,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://twitter.com/abskoop/status/1720088693468528671",
+          "id": "https://twitter.com/abskoop/status/1722262375171293652",
           "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n某海外上网软件删库停更最后一版 V0.20.39\n👉https://www.ahhhhfs.com/11163/",
-          "link": "https://twitter.com/abskoop/status/1720088693468528671",
-          "publishedOn": "2023-11-02T14:41:16.000Z",
-          "wordCount": 1625,
-          "title": "RT ahhhhfs: 某海外上网软件删库停更最后一版 V0.20.39 👉https://www.ahhhhfs.com/11163/",
+          "description": "RT ahhhhfs\n在线匿名性高潮声音资源库学习网站：OXASM\n收集网友上传的各种高潮声音🤤\n👉https://www.ahhhhfs.com/50234/",
+          "link": "https://twitter.com/abskoop/status/1722262375171293652",
+          "publishedOn": "2023-11-08T14:38:42.000Z",
+          "wordCount": 1626,
+          "title": "RT ahhhhfs: 在线匿名性高潮声音资源库学习网站：OXASM 收集网友上传的各种高潮声音🤤 👉https://www.ahhhhfs.com/50234/",
           "imageUrl": null
         }
       ]
@@ -13797,6 +13897,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1730959522103959990",
+          "author": "Linux中国",
+          "description": "新闻 | 开源网页邮箱服务 Roundcube 加入 Nextcloud \nhttps://linux.cn/article-16437-1.html \nRoundcube 现在正与 Nextcloud 合作以迎接未来。",
+          "link": "https://twitter.com/linux_cn/status/1730959522103959990",
+          "publishedOn": "2023-12-02T14:38:04.000Z",
+          "wordCount": 1635,
+          "title": "新闻 | 开源网页邮箱服务 Roundcube 加入 Nextcloud https://linux.cn/article-16437-1.html Roundcube 现在正与 Nextcloud 合作以迎接未来。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1730948452832493890",
+          "author": "Linux中国",
+          "description": "软件开发 | 人工智能教程（三）：更多有用的 Python 库 \nhttps://linux.cn/article-16436-1.html \n在本系列的第三篇文章中，我们将了解更多的矩阵操作，同时再介绍几个人工智能 Python 库。",
+          "link": "https://twitter.com/linux_cn/status/1730948452832493890",
+          "publishedOn": "2023-12-02T13:54:05.000Z",
+          "wordCount": 1637,
+          "title": "软件开发 | 人工智能教程（三）：更多有用的 Python 库 https://linux.cn/article-16436-1.html 在本系列的第三篇文章中，我们将了解更多的矩阵操作，同时再介绍...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1730938665029779515",
+          "author": "Linux中国",
+          "description": "🅷 巴西城市颁布由 ChatGPT 编写的法令» 12.02 周六 #硬核观察# 1203 \nhttps://youtu.be/xFH5apdku6Q",
+          "link": "https://twitter.com/linux_cn/status/1730938665029779515",
+          "publishedOn": "2023-12-02T13:15:11.000Z",
+          "wordCount": 1637,
+          "title": "🅷 巴西城市颁布由 ChatGPT 编写的法令» 12.02 周六 #硬核观察# 1203 https://youtu.be/xFH5apdku6Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1730881754037211306",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1203 巴西城市颁布由 ChatGPT 编写的法令 \nhttps://linux.cn/article-16435-1.html \n🅷 巴西城市颁布由 ChatGPT 编写的法令\n🄸 研究人员量化生成人工智能图像的碳足迹\n🄸 Servo 浏览器引擎继续走嵌入式友好之路\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1730881754037211306",
+          "publishedOn": "2023-12-02T09:29:03.000Z",
+          "wordCount": 1635,
+          "title": "硬核观察 | 硬核观察 #1203 巴西城市颁布由 ChatGPT 编写的法令 https://linux.cn/article-16435-1.html 🅷 巴西城市颁布由 ChatGPT 编写的法令 🄸 研究人员...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1730800877835866606",
+          "author": "Linux中国",
+          "description": "观点 | 如何为举办开源活动设定目标并衡量它们 \nhttps://linux.cn/article-16434-1.html \n通过定义目标并创建指标，衡量你的社区活动的成效。",
+          "link": "https://twitter.com/linux_cn/status/1730800877835866606",
+          "publishedOn": "2023-12-02T04:07:40.000Z",
+          "wordCount": 1626,
+          "title": "观点 | 如何为举办开源活动设定目标并衡量它们 https://linux.cn/article-16434-1.html 通过定义目标并创建指标，衡量你的社区活动的成效。",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1730599936356467030",
           "author": "Linux中国",
