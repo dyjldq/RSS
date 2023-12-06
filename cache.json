@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/84866",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/84866",
+          "publishedOn": "2023-12-05T09:17:56.000Z",
+          "wordCount": 858,
+          "title": "社区速递 023 | 妙控键盘平替、本周趣闻以及各种联名款",
+          "imageUrl": "https://cdn.sspai.com/12/5/2023/article/97f17234-ffce-6e71-9adf-a6b777d36320.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84828",
+          "author": "waychane",
+          "description": "一踏入「三顿半」办公室的大门，就看到了2013年WBC世界咖啡师大赛中国区冠军阿莲在咖啡机前忙碌的身影，我的眼光也很快被吧台上的BH高速布粉器所吸引。不得不说，眼前的景象确实与我想象中做「速溶咖啡」的 ...查看全文",
+          "link": "https://sspai.com/post/84828",
+          "publishedOn": "2023-12-05T07:27:07.000Z",
+          "wordCount": 733,
+          "title": "爱咖啡，也爱苹果：听「三顿半」讲述风味故事",
+          "imageUrl": "https://cdn.sspai.com/2023/12/5/article/e82fd355-c2c3-2370-5e58-b85b153c5ab0.png"
+        },
+        {
+          "id": "https://sspai.com/post/84621",
+          "author": "谢週五",
+          "description": "减少重复操作，无需额外付费，让短信自动在跨设备同步。查看全文",
+          "link": "https://sspai.com/post/84621",
+          "publishedOn": "2023-12-05T03:29:34.000Z",
+          "wordCount": null,
+          "title": "巧用开源软件，零成本实现跨平台短信同步功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sspai.com/post/84851",
+          "author": "少数派编辑部",
+          "description": "腾讯将关停 MOO 音乐，全球智能手表市场持续回暖等查看全文",
+          "link": "https://sspai.com/post/84851",
+          "publishedOn": "2023-12-05T00:30:00.000Z",
+          "wordCount": 882,
+          "title": "派早报：深圳消费者权益保护条例公布，平衡球将登陆 Steam 等",
+          "imageUrl": "https://cdn.sspai.com/2023/12/4/article/f03787b2-60be-cffe-7605-d123cb78d541.png"
+        },
+        {
           "id": "https://sspai.com/post/84841",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
@@ -1014,56 +1054,6 @@
           "wordCount": 1020,
           "title": "一次预期之内的升级，也有意料之外的惊喜：新款 MacBook Pro 首发体验",
           "imageUrl": "https://cdn.sspai.com/2023/11/6/article/bb27aa8e-b797-d0af-d49d-1d1bbb64d28e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84194",
-          "author": "少数派编辑部",
-          "description": "让新手机的操作按钮更好用的 ActionMate、给你 Pixel 资讯一览样式小组件的 Smartspacer，以及更多值得关注的 App 更新和速报资讯……查看全文",
-          "link": "https://sspai.com/post/84194",
-          "publishedOn": "2023-11-06T10:06:03.000Z",
-          "wordCount": 841,
-          "title": "[送码] 派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/editor/u_/cl4bhftb34tbc8ing7i0"
-        },
-        {
-          "id": "https://sspai.com/post/84033",
-          "author": "阿帅的健康笔记",
-          "description": "民以食为天，吃的重要性不言而喻。当我们不必再为吃饱担忧，就要考虑如何吃得更健康。市面上的营养学知识可谓汗牛充栋，但是我们还是难以做到健康饮食。问题不是信息太少，而是信息太多。营养基础知识众说纷纭，就连 ...查看全文",
-          "link": "https://sspai.com/post/84033",
-          "publishedOn": "2023-11-06T07:00:00.000Z",
-          "wordCount": 796,
-          "title": "既要吃好也要健康，你可以从几件小事开始改变饮食习惯",
-          "imageUrl": "https://cdn.sspai.com/2023/11/1/article/55c7eeb4-1b71-f1da-63ec-9dd98a27ce04.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/84017",
-          "author": "GoodTheme",
-          "description": "微软总是忘记自己有 macOS 用户，这次就来聊聊如何绕过这个老 bug。查看全文",
-          "link": "https://sspai.com/post/84017",
-          "publishedOn": "2023-11-06T03:32:30.000Z",
-          "wordCount": 796,
-          "title": "一日一技 | Mac 版 Word 下图片乱码的临时处理方法",
-          "imageUrl": "https://cdn.sspai.com/2023/11/6/article/980da0be-4fea-d32b-985b-f1ff374ff5e9.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84163",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事广电总局要求年底前全国开机看直播、收费包压减50%据澎湃新闻报道，11月3日，广电总局联合有关单位，召开治理电视「套娃」收费和操作复杂试点工作总结暨全国推广工作部署推进会。会议通报了 ...查看全文",
-          "link": "https://sspai.com/post/84163",
-          "publishedOn": "2023-11-06T00:46:10.000Z",
-          "wordCount": 907,
-          "title": "派早报：年底前全国开机看直播、收费包压减 50%，xAI 公布聊天工具 Grok",
-          "imageUrl": "https://cdn.sspai.com/11/6/2023/article/e1ef8bb3-2e90-824e-72ca-19ce991e6e17.png"
-        },
-        {
-          "id": "https://sspai.com/post/84160",
-          "author": "PlatyHsu",
-          "description": "TL;DRTheGood:整洁有序、反内容农场、高度可定制的搜索结果草根引擎中少见可接受的中文结果完善而不招摇的AI功能TheBad:面对「生活日常」类检索的响应比较木讷定价过高TheUgly:搜索引 ...查看全文",
-          "link": "https://sspai.com/post/84160",
-          "publishedOn": "2023-11-05T13:00:04.000Z",
-          "wordCount": 919,
-          "title": "一把试探无解之锁的「钥匙」：评 Kagi 搜索",
-          "imageUrl": "https://cdn.sspai.com/11/5/2023/article/a5802b15-ec08-fe9f-f476-fd74c2d131c8.png"
         }
       ]
     },
@@ -1072,6 +1062,136 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1732173454898770405",
+          "author": "ahhhhfs",
+          "description": "花月杀手 (2023) 中文字幕 4K 2160p 🐒上线了",
+          "link": "https://twitter.com/abskoop/status/1732173454898770405",
+          "publishedOn": "2023-12-05T23:01:48.000Z",
+          "wordCount": 1637,
+          "title": "花月杀手 (2023) 中文字幕 4K 2160p 🐒上线了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732089299313754489",
+          "author": "ahhhhfs",
+          "description": "不要为了别人委屈自己 🫡🫡\n也不要为了给别人撑伞淋湿了自己",
+          "link": "https://twitter.com/abskoop/status/1732089299313754489",
+          "publishedOn": "2023-12-05T17:27:24.000Z",
+          "wordCount": 1637,
+          "title": "不要为了别人委屈自己 🫡🫡 也不要为了给别人撑伞淋湿了自己",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732066504638910881",
+          "author": "ahhhhfs",
+          "description": "某博主  某密 圈学习资料 1-15期\n👉https://www.ahhhhfs.com/51444/",
+          "link": "https://twitter.com/abskoop/status/1732066504638910881",
+          "publishedOn": "2023-12-05T15:56:49.000Z",
+          "wordCount": 1637,
+          "title": "某博主 某密 圈学习资料 1-15期 👉https://www.ahhhhfs.com/51444/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732061090387988688",
+          "author": "ahhhhfs",
+          "description": "Tiktok+独 立站0基础入门到精通 \n跨境电商独立站新手必学课\n👉https://www.ahhhhfs.com/51397/",
+          "link": "https://twitter.com/abskoop/status/1732061090387988688",
+          "publishedOn": "2023-12-05T15:35:18.000Z",
+          "wordCount": 1628,
+          "title": "Tiktok+独 立站0基础入门到精通 跨境电商独立站新手必学课 👉https://www.ahhhhfs.com/51397/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732055287765651555",
+          "author": "ahhhhfs",
+          "description": "装修避坑指南：装修经验教训总结\n收集了各种装修避坑小知识\n从选择装修公司、设计师回扣/返点等方面介绍\n总结了一些装修踩过典型的坑\n👉https://www.ahhhhfs.com/51438/",
+          "link": "https://twitter.com/abskoop/status/1732055287765651555",
+          "publishedOn": "2023-12-05T15:12:15.000Z",
+          "wordCount": 1637,
+          "title": "装修避坑指南：装修经验教训总结 收集了各种装修避坑小知识 从选择装修公司、设计师回扣/返点等方面介绍 总结了一些装修踩过典型的坑 👉https://www.ahhhhfs.c...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732039499927212476",
+          "author": "ahhhhfs",
+          "description": "小红书专业数据分析竞品账号监控、涨粉工具：薯狗狗\n支持竞品账号监控、笔记监控、笔记评论监控、\n数据分析、笔记评论导出、关键词监控笔记数据等操作\n👉https://www.ahhhhfs.com/51415/",
+          "link": "https://twitter.com/abskoop/status/1732039499927212476",
+          "publishedOn": "2023-12-05T14:09:31.000Z",
+          "wordCount": 1628,
+          "title": "小红书专业数据分析竞品账号监控、涨粉工具：薯狗狗 支持竞品账号监控、笔记监控、笔记评论监控、 数据分析、笔记评论导出、关键词监控笔记数据等操作 👉https...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1732022881205498269",
+          "author": "ahhhhfs",
+          "description": "皮肤管理保养课程：管理 皮肤 这么做才科学\n👉https://www.ahhhhfs.com/51390/",
+          "link": "https://twitter.com/abskoop/status/1732022881205498269",
+          "publishedOn": "2023-12-05T13:03:28.000Z",
+          "wordCount": 1628,
+          "title": "皮肤管理保养课程：管理 皮肤 这么做才科学 👉https://www.ahhhhfs.com/51390/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731990873624174938",
+          "author": "ahhhhfs",
+          "description": "Construct101：DIY手工爱好者胜地 收集各种DIY 项目\n提供了丰富的家居手工DIY制作教程\n涵盖了室内和室外的各个领域\n每一个DIY方案都配有详细的材料清单、\n图纸、制作步骤以及制作视频等相关资源\n👉https://www.ahhhhfs.com/51409/",
+          "link": "https://twitter.com/abskoop/status/1731990873624174938",
+          "publishedOn": "2023-12-05T10:56:17.000Z",
+          "wordCount": 1628,
+          "title": "Construct101：DIY手工爱好者胜地 收集各种DIY 项目 提供了丰富的家居手工DIY制作教程 涵盖了室内和室外的各个领域 每一个DIY方案都配有详细的材料清单、 图纸、...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731971351462707678",
+          "author": "ahhhhfs",
+          "description": "Re @Tracyliu01 😮‍💨",
+          "link": "https://twitter.com/abskoop/status/1731971351462707678",
+          "publishedOn": "2023-12-05T09:44:13.000Z",
+          "wordCount": 1637,
+          "title": "Re @Tracyliu01 😮‍💨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731971351462707678",
+          "author": "ahhhhfs",
+          "description": "Re @happyday517 🤤看评论好像是",
+          "link": "https://twitter.com/abskoop/status/1731971351462707678",
+          "publishedOn": "2023-12-05T09:44:03.000Z",
+          "wordCount": 1637,
+          "title": "Re @happyday517 🤤看评论好像是",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731966299020886174",
+          "author": "ahhhhfs",
+          "description": "推特：学习",
+          "link": "https://twitter.com/abskoop/status/1731966299020886174",
+          "publishedOn": "2023-12-05T09:18:38.000Z",
+          "wordCount": 1639,
+          "title": "推特：学习",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731948139211259929",
+          "author": "ahhhhfs",
+          "description": "计算 机黑 皮 书 (191本)\n👉https://www.ahhhhfs.com/51405/",
+          "link": "https://twitter.com/abskoop/status/1731948139211259929",
+          "publishedOn": "2023-12-05T08:06:29.000Z",
+          "wordCount": 1628,
+          "title": "计算 机黑 皮 书 (191本) 👉https://www.ahhhhfs.com/51405/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1731939264198582719",
+          "author": "ahhhhfs",
+          "description": "嗯 好 主意👌",
+          "link": "https://twitter.com/abskoop/status/1731939264198582719",
+          "publishedOn": "2023-12-05T07:31:13.000Z",
+          "wordCount": 1639,
+          "title": "嗯 好 主意👌",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1731719387567251679",
           "author": "ahhhhfs",
@@ -14177,6 +14297,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1732165215733575966",
+          "author": "Linux中国",
+          "description": "分享 | 注重隐私的五大网络浏览器 \nhttps://linux.cn/article-16445-1.html \n这是你可以试用的一些最佳的隐私友好型网络浏览器！",
+          "link": "https://twitter.com/linux_cn/status/1732165215733575966",
+          "publishedOn": "2023-12-05T22:29:04.000Z",
+          "wordCount": 1637,
+          "title": "分享 | 注重隐私的五大网络浏览器 https://linux.cn/article-16445-1.html 这是你可以试用的一些最佳的隐私友好型网络浏览器！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1732034301238141124",
+          "author": "Linux中国",
+          "description": "🅷 Linus Torvalds 为假期季做准备» 12.05 周二 #硬核观察# 1206 \nhttps://youtu.be/oz3QRHcTK6Q",
+          "link": "https://twitter.com/linux_cn/status/1732034301238141124",
+          "publishedOn": "2023-12-05T13:48:51.000Z",
+          "wordCount": 1639,
+          "title": "🅷 Linus Torvalds 为假期季做准备» 12.05 周二 #硬核观察# 1206 https://youtu.be/oz3QRHcTK6Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1731999118212346193",
+          "author": "Linux中国",
+          "description": "观点 | Turbo Pascal 的 40 年，改变了整个 IDE 的编程恐龙 \nhttps://linux.cn/article-16444-1.html \n它的影响至今仍能感受到。",
+          "link": "https://twitter.com/linux_cn/status/1731999118212346193",
+          "publishedOn": "2023-12-05T11:29:03.000Z",
+          "wordCount": 1637,
+          "title": "观点 | Turbo Pascal 的 40 年，改变了整个 IDE 的编程恐龙 https://linux.cn/article-16444-1.html 它的影响至今仍能感受到。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1731973853574729832",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1206 Linus Torvalds 为假期季做准备 \nhttps://linux.cn/article-16443-1.html \n🅷 Linus Torvalds 为假期季做准备\n🄸 IBM 发布了 “实用规模” Heron 量子处理器\n🄸 Hugging Face 泄露的 API 令牌可以完全访问 LLaMA 2 仓库\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1731973853574729832",
+          "publishedOn": "2023-12-05T09:48:39.000Z",
+          "wordCount": 1628,
+          "title": "硬核观察 | 硬核观察 #1206 Linus Torvalds 为假期季做准备 https://linux.cn/article-16443-1.html 🅷 Linus Torvalds 为假期季做准备 🄸 IBM 发布了 “实...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1731948421735469463",
+          "author": "Linux中国",
+          "description": "技术 | 在 Ubuntu 中更改键盘布局 \nhttps://linux.cn/article-16442-1.html \n在 Ubuntu 中拥有多个键盘布局并在它们之间切换非常简单。下面就教你怎么做。",
+          "link": "https://twitter.com/linux_cn/status/1731948421735469463",
+          "publishedOn": "2023-12-05T08:07:36.000Z",
+          "wordCount": 1628,
+          "title": "技术 | 在 Ubuntu 中更改键盘布局 https://linux.cn/article-16442-1.html 在 Ubuntu 中拥有多个键盘布局并在它们之间切换非常简单。下面就教你怎么做。",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1731672302280962346",
           "author": "Linux中国",
