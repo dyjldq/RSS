@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-10T00:40:59.618Z</updated>
+    <updated>2023-12-11T00:38:48.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[观点 | Linus Torvalds：Linux 内核中的 Rust、AI 和疲劳的维护者 https://linux.cn/article-16459-1.html 在日本开源峰会中，Linux 和 Git 的创始人 Linus Torv...]]></title>
+        <id>https://twitter.com/linux_cn/status/1733892760338338178</id>
+        <link href="https://twitter.com/linux_cn/status/1733892760338338178"/>
+        <updated>2023-12-10T16:53:42.000Z</updated>
+        <summary type="html"><![CDATA[观点 | Linus Torvalds：Linux 内核中的 Rust、AI 和疲劳的维护者 
+https://linux.cn/article-16459-1.html 
+在日本开源峰会中，Linux 和 Git 的创始人 Linus Torvalds 深入探讨了 Rust 在 Linux 中的应用、Linux 维护者压力问题，以及 AI 对 Linux 和开源开发未来的影响。]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🅷 Linus Torvalds 谈 Rust 和 AI 编程» 12.10 周日 #硬核观察# 1211 https://youtu.be/xFGLg_bmIts]]></title>
+        <id>https://twitter.com/linux_cn/status/1733859075916435707</id>
+        <link href="https://twitter.com/linux_cn/status/1733859075916435707"/>
+        <updated>2023-12-10T14:39:51.000Z</updated>
+        <summary type="html"><![CDATA[🅷 Linus Torvalds 谈 Rust 和 AI 编程» 12.10 周日 #硬核观察# 1211 
+https://youtu.be/xFGLg_bmIts]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私域顶层商业模式总裁视频课 👉https://www.ahhhhfs.com/51631/]]></title>
+        <id>https://twitter.com/abskoop/status/1733832848023675342</id>
+        <link href="https://twitter.com/abskoop/status/1733832848023675342"/>
+        <updated>2023-12-10T12:55:38.000Z</updated>
+        <summary type="html"><![CDATA[私域顶层商业模式总裁视频课
+👉https://www.ahhhhfs.com/51631/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬核观察 | 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程 https://linux.cn/article-16458-1.html 🅷 Linus Torvalds 谈 Rust 和 AI 编程 🄸 Meta 用 ...]]></title>
+        <id>https://twitter.com/linux_cn/status/1733820127215288758</id>
+        <link href="https://twitter.com/linux_cn/status/1733820127215288758"/>
+        <updated>2023-12-10T12:05:05.000Z</updated>
+        <summary type="html"><![CDATA[硬核观察 | 硬核观察 #1211 Linus Torvalds 谈 Rust 和 AI 编程 
+https://linux.cn/article-16458-1.html 
+🅷 Linus Torvalds 谈 Rust 和 AI 编程
+🄸 Meta 用 11 亿张用户照片训练其人工智能图像生成器
+🄸 微软 DHCP 服务器软件被滥用来欺骗 DNS 记录
+» 
+»]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TTKMusicPlayer：免费开源无损音乐下载和播放软件 支持某狗、某我等等三大著名音乐平台音乐 免费播放和下载全网无损音乐资源 👉https://www.ahhhhfs.com/51622...]]></title>
+        <id>https://twitter.com/abskoop/status/1733802152081166709</id>
+        <link href="https://twitter.com/abskoop/status/1733802152081166709"/>
+        <updated>2023-12-10T10:53:40.000Z</updated>
+        <summary type="html"><![CDATA[TTKMusicPlayer：免费开源无损音乐下载和播放软件
+支持某狗、某我等等三大著名音乐平台音乐
+ 免费播放和下载全网无损音乐资源
+👉https://www.ahhhhfs.com/51622/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享 | 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（12 月） https://linux.cn/article-16457-1.html 本文介绍了 Flathub 中可用的项目以及安装说明。]]></title>
+        <id>https://twitter.com/linux_cn/status/1733787111159939250</id>
+        <link href="https://twitter.com/linux_cn/status/1733787111159939250"/>
+        <updated>2023-12-10T09:53:54.000Z</updated>
+        <summary type="html"><![CDATA[分享 | 在 Fedora Linux 上值得尝试的酷炫 Flatpak 应用（12 月） 
+https://linux.cn/article-16457-1.html 
+本文介绍了 Flathub 中可用的项目以及安装说明。]]></summary>
+        <author>
+            <name>Linux中国</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吓得我不敢发x了🤤]]></title>
+        <id>https://twitter.com/abskoop/status/1733752613017940345</id>
+        <link href="https://twitter.com/abskoop/status/1733752613017940345"/>
+        <updated>2023-12-10T07:36:49.000Z</updated>
+        <summary type="html"><![CDATA[吓得我不敢发x了🤤]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuoDB：英文影视台词搜索引擎、电影台词数据库 目前收录了超过20万部影片信息和上亿条字幕 可以通过搜索引擎查找喜欢的电影台词 👉https://www.ahhhhfs.com/51...]]></title>
+        <id>https://twitter.com/abskoop/status/1733744623976398947</id>
+        <link href="https://twitter.com/abskoop/status/1733744623976398947"/>
+        <updated>2023-12-10T07:05:04.000Z</updated>
+        <summary type="html"><![CDATA[QuoDB：英文影视台词搜索引擎、电影台词数据库
+目前收录了超过20万部影片信息和上亿条字幕
+可以通过搜索引擎查找喜欢的电影台词
+👉https://www.ahhhhfs.com/51579/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么意思呀 😯海底捞的弟弟咋啦]]></title>
         <id>https://twitter.com/abskoop/status/1733546042589892917</id>
@@ -2295,6 +2393,19 @@ https://linux.cn/article-16419-1.html
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT ahhhhfs: 36个小 而美 的 赚钱 金点子 告别死工资，轻松月入x万🤑🤑 👉https://www.ahhhhfs.com/51005/]]></title>
+        <id>https://twitter.com/abskoop/status/1728443027537236361</id>
+        <link href="https://twitter.com/abskoop/status/1728443027537236361"/>
+        <updated>2023-11-25T15:58:25.000Z</updated>
+        <summary type="html"><![CDATA[RT ahhhhfs
+36个小 而美 的 赚钱 金点子
+告别死工资，轻松月入x万🤑🤑
+👉https://www.ahhhhfs.com/51005/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Log 个人创作者拍摄指南]]></title>
         <id>https://sspai.com/prime/story/log-color-encoding-for-individual-creators</id>
         <link href="https://sspai.com/prime/story/log-color-encoding-for-individual-creators"/>
@@ -2778,28 +2889,6 @@ https://linux.cn/article-16419-1.html
         <summary type="html"><![CDATA[iPhone15系列的4款机型上市之后，不少人都发现今年在官方渠道买iPhone似乎变得比以前更为划算了：不仅年年焕新的折抵价格首次超过了购机价格的50%，就连AppleTradeIn换购计划也比往年 ...查看全文]]></summary>
         <author>
             <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[临时起意收获惊喜满满：我的新西兰 10 天自驾之旅]]></title>
-        <id>https://sspai.com/post/84239</id>
-        <link href="https://sspai.com/post/84239"/>
-        <updated>2023-11-11T07:24:07.000Z</updated>
-        <summary type="html"><![CDATA[在新西兰的十几天中，我每天最常问自己的问题是：「这一切都是真的吗？」查看全文]]></summary>
-        <author>
-            <name>一只索狗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT ahhhhfs: 某乎盐 选付费文章集合3700+ 👉https://www.ahhhhfs.com/50349/]]></title>
-        <id>https://twitter.com/abskoop/status/1723005068956291481</id>
-        <link href="https://twitter.com/abskoop/status/1723005068956291481"/>
-        <updated>2023-11-10T15:49:54.000Z</updated>
-        <summary type="html"><![CDATA[RT ahhhhfs
-某乎盐 选付费文章集合3700+
-👉https://www.ahhhhfs.com/50349/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
