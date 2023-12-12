@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/ppc-history-10",
+          "author": "MIG",
+          "description": "PowerPC 在嵌入式、超算等领域再次崭露头角，面对英特尔的多媒体指令集 SSE 也力压一筹。只可惜，这大概是 PowerPC 阵营的最后一次大胜了，随着 500MHz G4 的交付事故，属于它的黄金时代已然快走到尽头。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/ppc-history-10",
+          "publishedOn": "2023-12-11T11:46:46.000Z",
+          "wordCount": 1277,
+          "title": "处理器简史｜PowerPC 10：烽火连天 颓势初显（下）",
+          "imageUrl": "https://cdn.sspai.com/12/11/2023/article/91710d58-b17e-987b-d638-eaf5ca45f7da.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84981",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
+          "link": "https://sspai.com/post/84981",
+          "publishedOn": "2023-12-11T09:54:57.000Z",
+          "wordCount": 919,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/12/11/article/fa60913a-695f-4275-c9b5-2f61e6eb13c3.png"
+        },
+        {
+          "id": "https://sspai.com/post/84628",
+          "author": "Micoxx",
+          "description": "Bento 式布局怎么就这么适配生产力工具网页设计？总不见得大家都是跟风——这就是本文真正想要探讨的议题。查看全文",
+          "link": "https://sspai.com/post/84628",
+          "publishedOn": "2023-12-11T07:35:39.000Z",
+          "wordCount": 1073,
+          "title": "何为 Bento 式布局，怎么生产力工具网站都在用？",
+          "imageUrl": "https://cdn.sspai.com/2023/12/04/e77f1c5ad03c818bc7be4dc5dfa8be1c.png"
+        },
+        {
+          "id": "https://sspai.com/post/84938",
+          "author": "闲者时间_王掌柜",
+          "description": "当我们尽可能地利用工具原本被赋予的功能时，我们的大脑就能从琐碎事物中解放出来，专注于更重要的事情。查看全文",
+          "link": "https://sspai.com/post/84938",
+          "publishedOn": "2023-12-11T03:00:00.000Z",
+          "wordCount": 966,
+          "title": "告别折腾，获得稳定生产力：我的效率工具观",
+          "imageUrl": "https://cdn.sspai.com/editor/u_5b3wva6y/17021055305082.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/84962",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事苹果封杀iMessage兼容应用BeeperMini据TheVerge报道，12月10日，苹果向媒体发表声明，确认已采取措施封杀上周发布的iMessage兼容应用BeeperMini ...查看全文",
+          "link": "https://sspai.com/post/84962",
+          "publishedOn": "2023-12-11T00:51:30.000Z",
+          "wordCount": 851,
+          "title": "派早报：苹果封杀 iMessage 兼容应用 Beeper Mini",
+          "imageUrl": "https://cdn.sspai.com/12/11/2023/article/8b332537-1b26-431a-e491-57f243a24c04.png"
+        },
+        {
           "id": "https://sspai.com/post/84926",
           "author": "吃派的水獭",
           "description": "双十二为你带来了一款适合送礼，主打创意的移动电源产品。查看全文",
@@ -984,16 +1034,6 @@
           "wordCount": 928,
           "title": "派早报",
           "imageUrl": "https://cdn.sspai.com/11/13/2023/article/897b80a5-3a27-6fa2-248f-9ac98848e8ed.png"
-        },
-        {
-          "id": "https://sspai.com/post/84348",
-          "author": "waychane",
-          "description": "iPhone15系列的4款机型上市之后，不少人都发现今年在官方渠道买iPhone似乎变得比以前更为划算了：不仅年年焕新的折抵价格首次超过了购机价格的50%，就连AppleTradeIn换购计划也比往年 ...查看全文",
-          "link": "https://sspai.com/post/84348",
-          "publishedOn": "2023-11-12T06:35:04.000Z",
-          "wordCount": 780,
-          "title": "价格好、更省心：Apple 官方「以旧换新」更划算了",
-          "imageUrl": "https://cdn.sspai.com/2023/11/12/article/73a75c56-602d-5714-709e-fc40483dc4f4.png"
         }
       ]
     },
@@ -1002,6 +1042,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1734259434304741738",
+          "author": "ahhhhfs",
+          "description": "员工离岗监测系统🤤现在都这样的了么",
+          "link": "https://twitter.com/abskoop/status/1734259434304741738",
+          "publishedOn": "2023-12-11T17:10:44.000Z",
+          "wordCount": 951,
+          "title": "员工离岗监测系统🤤现在都这样的了么",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734244671185117680",
+          "author": "ahhhhfs",
+          "description": "惊奇队长2  (2023) 中文字幕🙊 易和谐",
+          "link": "https://twitter.com/abskoop/status/1734244671185117680",
+          "publishedOn": "2023-12-11T16:12:04.000Z",
+          "wordCount": 951,
+          "title": "惊奇队长2 (2023) 中文字幕🙊 易和谐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734241191452168245",
+          "author": "ahhhhfs",
+          "description": "网络安全课程：零基础系统学习网络安全教程100讲\n👉https://www.ahhhhfs.com/51659/",
+          "link": "https://twitter.com/abskoop/status/1734241191452168245",
+          "publishedOn": "2023-12-11T15:58:15.000Z",
+          "wordCount": 951,
+          "title": "网络安全课程：零基础系统学习网络安全教程100讲 👉https://www.ahhhhfs.com/51659/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734229639571374391",
+          "author": "ahhhhfs",
+          "description": "900+知乎赚钱案例大合集\n👉https://www.ahhhhfs.com/51667/",
+          "link": "https://twitter.com/abskoop/status/1734229639571374391",
+          "publishedOn": "2023-12-11T15:12:21.000Z",
+          "wordCount": 951,
+          "title": "900+知乎赚钱案例大合集 👉https://www.ahhhhfs.com/51667/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734221472972112200",
+          "author": "ahhhhfs",
+          "description": "国外抖音视频学习网站 大人版：xf\n👉https://www.ahhhhfs.com/51589/",
+          "link": "https://twitter.com/abskoop/status/1734221472972112200",
+          "publishedOn": "2023-12-11T14:39:54.000Z",
+          "wordCount": 951,
+          "title": "国外抖音视频学习网站 大人版：xf 👉https://www.ahhhhfs.com/51589/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734199101103956344",
+          "author": "ahhhhfs",
+          "description": "Just Laws：简洁便捷的中华人民共和国法律文库\n收录平常网民可能用到比较多的法律知识\n👉https://www.ahhhhfs.com/24623/",
+          "link": "https://twitter.com/abskoop/status/1734199101103956344",
+          "publishedOn": "2023-12-11T13:11:00.000Z",
+          "wordCount": 951,
+          "title": "Just Laws：简洁便捷的中华人民共和国法律文库 收录平常网民可能用到比较多的法律知识 👉https://www.ahhhhfs.com/24623/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734168147207258346",
+          "author": "ahhhhfs",
+          "description": "本地微信数据库读取解密脚工具（取证工具）：PyWxDump\n能够获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid等)\n支持微信聊天记录导出和查看（包含语音图片)\n支持多账户信息获取，支持所有微信版本\n👉https://www.ahhhhfs.com/51639/",
+          "link": "https://twitter.com/abskoop/status/1734168147207258346",
+          "publishedOn": "2023-12-11T11:08:00.000Z",
+          "wordCount": 951,
+          "title": "本地微信数据库读取解密脚工具（取证工具）：PyWxDump 能够获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid等) 支持微信聊天记录导出和查看（包含语音图...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734154355312648382",
+          "author": "ahhhhfs",
+          "description": "？配图是认真的吗🤤",
+          "link": "https://twitter.com/abskoop/status/1734154355312648382",
+          "publishedOn": "2023-12-11T10:13:11.000Z",
+          "wordCount": 951,
+          "title": "？配图是认真的吗🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734137380142277094",
+          "author": "ahhhhfs",
+          "description": "Meta 推出AI图像生成器 根据文字生成图片：Imagine with Meta AI\n👉https://www.ahhhhfs.com/51648/",
+          "link": "https://twitter.com/abskoop/status/1734137380142277094",
+          "publishedOn": "2023-12-11T09:05:44.000Z",
+          "wordCount": 951,
+          "title": "Meta 推出AI图像生成器 根据文字生成图片：Imagine with Meta AI 👉https://www.ahhhhfs.com/51648/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734122053505270143",
+          "author": "ahhhhfs",
+          "description": "你喜欢的人  一般放在哪里的🤝",
+          "link": "https://twitter.com/abskoop/status/1734122053505270143",
+          "publishedOn": "2023-12-11T08:04:50.000Z",
+          "wordCount": 951,
+          "title": "你喜欢的人 一般放在哪里的🤝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1734101006836019453",
+          "author": "ahhhhfs",
+          "description": "Oracle数据库工程师入门培训实战\n👉https://www.ahhhhfs.com/51635/",
+          "link": "https://twitter.com/abskoop/status/1734101006836019453",
+          "publishedOn": "2023-12-11T06:41:12.000Z",
+          "wordCount": 951,
+          "title": "Oracle数据库工程师入门培训实战 👉https://www.ahhhhfs.com/51635/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1733832848023675342",
           "author": "ahhhhfs",
@@ -14667,6 +14817,36 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1734198681681735768",
+          "author": "Linux中国",
+          "description": "🅷 Go 程序员大多使用 Linux 或 MacOS» 12.11 周一 #硬核观察# 1212 \nhttps://youtu.be/NG0xn9oTYu4",
+          "link": "https://twitter.com/linux_cn/status/1734198681681735768",
+          "publishedOn": "2023-12-11T13:09:20.000Z",
+          "wordCount": 960,
+          "title": "🅷 Go 程序员大多使用 Linux 或 MacOS» 12.11 周一 #硬核观察# 1212 https://youtu.be/NG0xn9oTYu4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1734158768504529314",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS \nhttps://linux.cn/article-16461-1.html \n🅷 Go 程序员大多使用 Linux 或 MacOS\n🄸 欧盟就《人工智能法》的推出达成共识\n🄸 让网速感觉更快的新标准 L4S\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1734158768504529314",
+          "publishedOn": "2023-12-11T10:30:44.000Z",
+          "wordCount": 951,
+          "title": "硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS https://linux.cn/article-16461-1.html 🅷 Go 程序员大多使用 Linux 或 MacOS 🄸 欧盟就《人...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1734128087493693794",
+          "author": "Linux中国",
+          "description": "新闻 | PeerTube 发布第 6 版，获得比 YouTube 更好的功能 \nhttps://linux.cn/article-16460-1.html \n去中心化开源平台 PeerTube 大升级，这是一个很好的 YouTube 替代品。",
+          "link": "https://twitter.com/linux_cn/status/1734128087493693794",
+          "publishedOn": "2023-12-11T08:28:49.000Z",
+          "wordCount": 951,
+          "title": "新闻 | PeerTube 发布第 6 版，获得比 YouTube 更好的功能 https://linux.cn/article-16460-1.html 去中心化开源平台 PeerTube 大升级，这是一个很好的 YouTube ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1733892760338338178",
           "author": "Linux中国",
