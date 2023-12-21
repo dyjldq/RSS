@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85156",
+          "author": "少数派编辑部",
+          "description": "🎄MerryChristmas!随着商业街和社交平台的圣诞气氛越来越浓，虽然像家居博主一样把房间里布置成圣诞风格没那么容易，但在周末的晚上看一部与圣诞节有关的电影，似乎也是不错的选择。本期「看什么·特 ...查看全文",
+          "link": "https://sspai.com/post/85156",
+          "publishedOn": "2023-12-20T09:30:00.000Z",
+          "wordCount": 734,
+          "title": "敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年",
+          "imageUrl": "https://cdn.sspai.com/2023/12/18/article/122be944-56a8-7fb1-fb8a-bcd858e81d95.png"
+        },
+        {
+          "id": "https://sspai.com/post/85159",
+          "author": "Lars漫步",
+          "description": "编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。想了解如何参与本次征文、赢取奖品，可以点此查看活动规则。李小龙曾说：「不要思考，去感受。就好像手指指向月亮 ...查看全文",
+          "link": "https://sspai.com/post/85159",
+          "publishedOn": "2023-12-20T07:00:00.000Z",
+          "wordCount": 668,
+          "title": "放轻松 | 用放松，重夺生活的掌控感",
+          "imageUrl": "https://cdn.sspai.com/2023/12/18/2de556401480586fd0e58fe5797d117f.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85136",
+          "author": "PaulLeon",
+          "description": "macOS 中删除应用以后，启动台中依然残留着图标？不妨试试用终端解决这个问题。查看全文",
+          "link": "https://sspai.com/post/85136",
+          "publishedOn": "2023-12-20T03:30:47.000Z",
+          "wordCount": 716,
+          "title": "一日一技 | 妙用终端清理 macOS 启动台顽固图标",
+          "imageUrl": "https://cdn.sspai.com/2023/12/17/d56bd1fdbe27adda707ff893965cb1aa.png"
+        },
+        {
           "id": "https://sspai.com/post/85200",
           "author": "少数派编辑部",
           "description": "欧盟将对 X 展开非法内容传播调查，Beeper 将通过 Mac 设备绕过 iMessage 使用限制。查看全文",
@@ -1014,46 +1044,6 @@
           "wordCount": 866,
           "title": "派早报：联发科天玑 8300 发布、「e 路畅通」小程序上线等",
           "imageUrl": "https://cdn.sspai.com/2023/11/22/article/511b54c3-7bd0-1624-1473-659756359c4a.png"
-        },
-        {
-          "id": "https://sspai.com/post/84538",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/84538",
-          "publishedOn": "2023-11-21T09:28:56.000Z",
-          "wordCount": 884,
-          "title": "社区速递 021｜失业、调酒、后摇音乐节以及冷冬取暖宝典",
-          "imageUrl": "https://cdn.sspai.com/11/21/2023/article/9eec9389-2db8-7a9c-4319-220c00afb7ee.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84523",
-          "author": "果铺知道",
-          "description": "如果 Apple 准备开展座椅定制业务的话，那 Hermin Miller 大概要开始担心了。查看全文",
-          "link": "https://sspai.com/post/84523",
-          "publishedOn": "2023-11-21T07:00:22.000Z",
-          "wordCount": 944,
-          "title": "排排坐，吃果果：趣谈 Apple Store 各色座椅",
-          "imageUrl": "https://cdn.sspai.com/2023/11/20/b6ac7afabe651c882531d842aed8e847.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84446",
-          "author": "Wataru",
-          "description": "在将秋未秋时到访京都，错过了漫山遍野的红，这难免有些遗憾，但呈现在我眼前的京都，也有其独特的美。查看全文",
-          "link": "https://sspai.com/post/84446",
-          "publishedOn": "2023-11-21T03:30:12.000Z",
-          "wordCount": 637,
-          "title": "城市漫步指南：在将秋未秋时，到访一次京都",
-          "imageUrl": "https://cdn.sspai.com/2023/11/16/66604dbb40b8f6eba0841f99d84b9fa5.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/84517",
-          "author": "少数派编辑部",
-          "description": "联发科发布两款 Wi-Fi 7 芯片，河南周口联通回应光猫强迫换新事件等查看全文",
-          "link": "https://sspai.com/post/84517",
-          "publishedOn": "2023-11-21T00:15:00.000Z",
-          "wordCount": 781,
-          "title": "派早报：Sam Altman 复职谈判破裂，三大运营商公布 10 月数据等",
-          "imageUrl": "https://cdn.sspai.com/2023/11/20/article/74e7f8e4-a4a8-f342-25b7-d9d6dfb5e8f0.png"
         }
       ]
     },
@@ -1062,6 +1052,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1737501832283562225",
+          "author": "ahhhhfs",
+          "description": "400套付费套装书籍\n👉https://www.ahhhhfs.com/52013/",
+          "link": "https://twitter.com/abskoop/status/1737501832283562225",
+          "publishedOn": "2023-12-20T15:54:52.000Z",
+          "wordCount": null,
+          "title": "400套付费套装书籍 👉https://www.ahhhhfs.com/52013/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737496898960015623",
+          "author": "ahhhhfs",
+          "description": "即学即用的高 情 商 聊天私 房课\n👉https://www.ahhhhfs.com/51975/",
+          "link": "https://twitter.com/abskoop/status/1737496898960015623",
+          "publishedOn": "2023-12-20T15:35:16.000Z",
+          "wordCount": null,
+          "title": "即学即用的高 情 商 聊天私 房课 👉https://www.ahhhhfs.com/51975/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737491144773181544",
+          "author": "ahhhhfs",
+          "description": "SaveTwitter：Twitter视频下载器 \n在线下载 Twitter 视频\n👉https://www.ahhhhfs.com/51997/",
+          "link": "https://twitter.com/abskoop/status/1737491144773181544",
+          "publishedOn": "2023-12-20T15:12:24.000Z",
+          "wordCount": null,
+          "title": "SaveTwitter：Twitter视频下载器 在线下载 Twitter 视频 👉https://www.ahhhhfs.com/51997/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737483473990902071",
+          "author": "ahhhhfs",
+          "description": "某音直播技术性走guang学习视频集合 690V\n👉https://www.ahhhhfs.com/51978/",
+          "link": "https://twitter.com/abskoop/status/1737483473990902071",
+          "publishedOn": "2023-12-20T14:41:55.000Z",
+          "wordCount": null,
+          "title": "某音直播技术性走guang学习视频集合 690V 👉https://www.ahhhhfs.com/51978/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737467988704653337",
+          "author": "ahhhhfs",
+          "description": "Outfit Anyone：阿里开发的AI虚拟试穿技术 \n使用户能够在不真实试穿衣物的情况下\n尝试不同的时尚款式 上传衣服即可试穿\n👉https://www.ahhhhfs.com/51938/",
+          "link": "https://twitter.com/abskoop/status/1737467988704653337",
+          "publishedOn": "2023-12-20T13:40:23.000Z",
+          "wordCount": null,
+          "title": "Outfit Anyone：阿里开发的AI虚拟试穿技术 使用户能够在不真实试穿衣物的情况下 尝试不同的时尚款式 上传衣服即可试穿 👉https://www.ahhhhfs.com/51938/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737447130808393875",
+          "author": "ahhhhfs",
+          "description": "🎁🎁🎁\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/",
+          "link": "https://twitter.com/abskoop/status/1737447130808393875",
+          "publishedOn": "2023-12-20T12:17:30.000Z",
+          "wordCount": null,
+          "title": "🎁🎁🎁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737414538440392797",
+          "author": "ahhhhfs",
+          "description": "Lobe Chat：开源的高性能聊天机器人框架 \n支持语音合成、绘画、爬虫、联网等等\n👉https://www.ahhhhfs.com/51904/",
+          "link": "https://twitter.com/abskoop/status/1737414538440392797",
+          "publishedOn": "2023-12-20T10:08:00.000Z",
+          "wordCount": null,
+          "title": "Lobe Chat：开源的高性能聊天机器人框架 支持语音合成、绘画、爬虫、联网等等 👉https://www.ahhhhfs.com/51904/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1737378517065884106",
+          "author": "ahhhhfs",
+          "description": "CiLiGeGeP：非常全面的磁 力资源搜索工具\n👉https://www.ahhhhfs.com/51944/",
+          "link": "https://twitter.com/abskoop/status/1737378517065884106",
+          "publishedOn": "2023-12-20T07:44:52.000Z",
+          "wordCount": null,
+          "title": "CiLiGeGeP：非常全面的磁 力资源搜索工具 👉https://www.ahhhhfs.com/51944/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1737072488042160292",
           "author": "ahhhhfs",
@@ -3040,6 +3110,16 @@
           "publishedOn": "2023-11-25T15:58:25.000Z",
           "wordCount": 951,
           "title": "RT ahhhhfs: 36个小 而美 的 赚钱 金点子 告别死工资，轻松月入x万🤑🤑 👉https://www.ahhhhfs.com/51005/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1726997116277678108",
+          "author": "ahhhhfs",
+          "description": "RT ahhhhfs\nAI 智能绘 画培训班课程：Midjourney 从入门到精通\n👉https://www.ahhhhfs.com/50845/",
+          "link": "https://twitter.com/abskoop/status/1726997116277678108",
+          "publishedOn": "2023-11-21T16:12:53.000Z",
+          "wordCount": null,
+          "title": "RT ahhhhfs: AI 智能绘 画培训班课程：Midjourney 从入门到精通 👉https://www.ahhhhfs.com/50845/",
           "imageUrl": null
         }
       ]
@@ -15607,6 +15687,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1737621300456108123",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1222 支持苹果芯片的 Fedora Asahi Remix 发布 \nhttps://linux.cn/article-16494-1.html \n🅷 支持苹果芯片的 Fedora Asahi Remix 发布\n🄸 英国司法部计划将 1 亿份历史遗嘱数字化然后销毁\n🄸 谷歌 Play 商店准备推出远程卸载应用程序功能\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1737621300456108123",
+          "publishedOn": "2023-12-20T23:49:36.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1222 支持苹果芯片的 Fedora Asahi Remix 发布 https://linux.cn/article-16494-1.html 🅷 支持苹果芯片的 Fedora Asahi Remix 发布 �...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1737466291286396947",
+          "author": "Linux中国",
+          "description": "观点 | 博通在收购 VMware 后重击客户 \nhttps://linux.cn/article-16493-1.html \nVMware 的客户可能对背后的改变意图感到不快。",
+          "link": "https://twitter.com/linux_cn/status/1737466291286396947",
+          "publishedOn": "2023-12-20T13:33:39.000Z",
+          "wordCount": null,
+          "title": "观点 | 博通在收购 VMware 后重击客户 https://linux.cn/article-16493-1.html VMware 的客户可能对背后的改变意图感到不快。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1737462702753153055",
+          "author": "Linux中国",
+          "description": "分享 | Celeste：Rust 开发的多云端开源 GUI 文件同步客户端 \nhttps://linux.cn/article-16492-1.html \n一个简单而优雅的 GUI 同步客户端，提供双向同步。",
+          "link": "https://twitter.com/linux_cn/status/1737462702753153055",
+          "publishedOn": "2023-12-20T13:19:23.000Z",
+          "wordCount": null,
+          "title": "分享 | Celeste：Rust 开发的多云端开源 GUI 文件同步客户端 https://linux.cn/article-16492-1.html 一个简单而优雅的 GUI 同步客户端，提供双向同步。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1737454044958847482",
+          "author": "Linux中国",
+          "description": "🅷 Debian 将停止支持 32 位 x86» 12.20 周三 #硬核观察# 1221 \nhttps://youtu.be/42RuBgZ0FTI",
+          "link": "https://twitter.com/linux_cn/status/1737454044958847482",
+          "publishedOn": "2023-12-20T12:44:59.000Z",
+          "wordCount": null,
+          "title": "🅷 Debian 将停止支持 32 位 x86» 12.20 周三 #硬核观察# 1221 https://youtu.be/42RuBgZ0FTI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1737372094403387774",
+          "author": "Linux中国",
+          "description": "观点 | 云端翱翔：龙蜥在构建 AI 与云的融合中的关键角色 \nhttps://linux.cn/article-16491-1.html \n龙蜥操作系统在中国信息技术生态领域产生了重大影响，正在引领中国操作系统的全新篇章。",
+          "link": "https://twitter.com/linux_cn/status/1737372094403387774",
+          "publishedOn": "2023-12-20T07:19:20.000Z",
+          "wordCount": null,
+          "title": "观点 | 云端翱翔：龙蜥在构建 AI 与云的融合中的关键角色 https://linux.cn/article-16491-1.html 龙蜥操作系统在中国信息技术生态领域产生了重大影响，正在引领...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1737266237753774438",
           "author": "Linux中国",
