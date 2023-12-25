@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85193",
+          "author": "万千十一",
+          "description": "引言4月份时，我曾借LLaMA开源之机，尝试梳理了大语言模型（LLM）平民化运动以及频频在开源项目命名中露面的「羊驼」家族，包括扮演了重要角色的llama.cpp项目。彼时羊驼一族在开源大模型领域初露 ...查看全文",
+          "link": "https://sspai.com/post/85193",
+          "publishedOn": "2023-12-24T06:05:47.000Z",
+          "wordCount": 1044,
+          "title": "用 Ollama 轻松玩转本地大模型",
+          "imageUrl": "https://cdn.sspai.com/12/24/2023/article/22f29e23-5274-4a71-f57f-6fb6b0648ef4.png"
+        },
+        {
           "id": "https://sspai.com/post/84660",
           "author": "Wataru",
           "description": "现在，北半球的大部分地区已经进入了凛冽的冬季，望不到头的低温天气让人失去了出门走走看看的欲望。十一月的日本之旅，其中一天的行程，就安排在镰仓。在冬天回忆秋天，虽然我与镰仓的交集也仅是发生在一个多月前， ...查看全文",
@@ -1014,26 +1024,6 @@
           "wordCount": 710,
           "title": "发展了十几年，为什么智能手表的血压检测还像个摆设？",
           "imageUrl": "https://cdn.sspai.com/2023/11/24/article/819f039d-b830-363b-b0ac-4c44d5ff4b85.jpg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
-          "author": "Vio",
-          "description": "Apple Log 用在整个视频创作的流程中是什么样的体验？它适合谁来用？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/log-color-encoding-for-individual-creators",
-          "publishedOn": "2023-11-25T10:19:17.000Z",
-          "wordCount": 869,
-          "title": "Apple Log 个人创作者拍摄指南",
-          "imageUrl": "https://cdn.sspai.com/2023/11/14/85e377e2b5a313d9bdf8cd62743980b5.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84616",
-          "author": "waychane",
-          "description": "11月21日，国内青年女歌手刘柏辛发布个人新单曲《delulu》。据刘柏辛介绍，《delulu》的创作灵感来自一则迷因(meme)「Mayyourdelulucometruelulu」，作品表现的是一 ...查看全文",
-          "link": "https://sspai.com/post/84616",
-          "publishedOn": "2023-11-25T06:30:00.000Z",
-          "wordCount": 746,
-          "title": "一部 Shot on iPhone 的「少女幻想」：专访《delulu》创作团队",
-          "imageUrl": "https://cdn.sspai.com/2023/11/24/article/27cfeca6-01d3-5b3d-2564-bf9071d3af74.png"
         }
       ]
     },
@@ -1042,6 +1032,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1738958788563177777",
+          "author": "ahhhhfs",
+          "description": "Re @jinrongvip 🤤🤤",
+          "link": "https://twitter.com/abskoop/status/1738958788563177777",
+          "publishedOn": "2023-12-24T16:25:59.000Z",
+          "wordCount": null,
+          "title": "Re @jinrongvip 🤤🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738958788563177777",
+          "author": "ahhhhfs",
+          "description": "大家今晚都怎么过的💓🥹",
+          "link": "https://twitter.com/abskoop/status/1738958788563177777",
+          "publishedOn": "2023-12-24T16:24:18.000Z",
+          "wordCount": null,
+          "title": "大家今晚都怎么过的💓🥹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738950934502551694",
+          "author": "ahhhhfs",
+          "description": "上百套圣诞节PPT模版\n👉https://www.ahhhhfs.com/52192/",
+          "link": "https://twitter.com/abskoop/status/1738950934502551694",
+          "publishedOn": "2023-12-24T15:53:05.000Z",
+          "wordCount": null,
+          "title": "上百套圣诞节PPT模版 👉https://www.ahhhhfs.com/52192/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738945868307595724",
+          "author": "ahhhhfs",
+          "description": "Python分布式爬虫课程\n👉https://www.ahhhhfs.com/52163/",
+          "link": "https://twitter.com/abskoop/status/1738945868307595724",
+          "publishedOn": "2023-12-24T15:32:57.000Z",
+          "wordCount": null,
+          "title": "Python分布式爬虫课程 👉https://www.ahhhhfs.com/52163/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738939806145732721",
+          "author": "ahhhhfs",
+          "description": "润拉拉：华人海外求职招聘站 \n移民找工作、远程工作\n👉https://www.ahhhhfs.com/52158/",
+          "link": "https://twitter.com/abskoop/status/1738939806145732721",
+          "publishedOn": "2023-12-24T15:08:52.000Z",
+          "wordCount": null,
+          "title": "润拉拉：华人海外求职招聘站 移民找工作、远程工作 👉https://www.ahhhhfs.com/52158/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738931534529200255",
+          "author": "ahhhhfs",
+          "description": "读 懂男  人看  清女 人\n👉https://www.ahhhhfs.com/52186/",
+          "link": "https://twitter.com/abskoop/status/1738931534529200255",
+          "publishedOn": "2023-12-24T14:36:00.000Z",
+          "wordCount": null,
+          "title": "读 懂男 人看 清女 人 👉https://www.ahhhhfs.com/52186/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738914421710422302",
+          "author": "ahhhhfs",
+          "description": "发现优秀的播客/播客推荐：Listen To Something Wonderful\n自动选出播客有价值的部分提供收听 带字幕\n👉https://www.ahhhhfs.com/52132/",
+          "link": "https://twitter.com/abskoop/status/1738914421710422302",
+          "publishedOn": "2023-12-24T13:28:00.000Z",
+          "wordCount": null,
+          "title": "发现优秀的播客/播客推荐：Listen To Something Wonderful 自动选出播客有价值的部分提供收听 带字幕 👉https://www.ahhhhfs.com/52132/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738897770369687992",
+          "author": "ahhhhfs",
+          "description": "中国历朝代历史视频讲解：Chines History Video\n汇聚了B站上综合数据最高的一个/几个视频\n包含时间线（3800年-前1920年）- （1912年-1949年）\n👉https://www.ahhhhfs.com/52137/",
+          "link": "https://twitter.com/abskoop/status/1738897770369687992",
+          "publishedOn": "2023-12-24T12:21:50.000Z",
+          "wordCount": null,
+          "title": "中国历朝代历史视频讲解：Chines History Video 汇聚了B站上综合数据最高的一个/几个视频 包含时间线（3800年-前1920年）- （1912年-1949年） 👉https://www.a...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738864140461252859",
+          "author": "ahhhhfs",
+          "description": "全国IPTV分享 内网 外网全部秒杀：IPTV M3U 分享\n网友整理的IPTV分享系统\n 7X24小时系统自动检查\n且用且珍惜\n👉https://www.ahhhhfs.com/52171/",
+          "link": "https://twitter.com/abskoop/status/1738864140461252859",
+          "publishedOn": "2023-12-24T10:08:12.000Z",
+          "wordCount": null,
+          "title": "全国IPTV分享 内网 外网全部秒杀：IPTV M3U 分享 网友整理的IPTV分享系统 7X24小时系统自动检查 且用且珍惜 👉https://www.ahhhhfs.com/52171/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738845524693008527",
+          "author": "ahhhhfs",
+          "description": "🧑‍🎄这车放这么久 也不知道还能不能骑",
+          "link": "https://twitter.com/abskoop/status/1738845524693008527",
+          "publishedOn": "2023-12-24T08:54:13.000Z",
+          "wordCount": null,
+          "title": "🧑‍🎄这车放这么久 也不知道还能不能骑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1738823718166790154",
+          "author": "ahhhhfs",
+          "description": "如何让你的产 品疯 狂自增长 课程\n👉https://www.ahhhhfs.com/52166/",
+          "link": "https://twitter.com/abskoop/status/1738823718166790154",
+          "publishedOn": "2023-12-24T07:27:34.000Z",
+          "wordCount": null,
+          "title": "如何让你的产 品疯 狂自增长 课程 👉https://www.ahhhhfs.com/52166/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1738587769251811418",
           "author": "ahhhhfs",
@@ -3410,16 +3510,6 @@
           "publishedOn": "2023-11-25T15:58:25.000Z",
           "wordCount": 951,
           "title": "RT ahhhhfs: 36个小 而美 的 赚钱 金点子 告别死工资，轻松月入x万🤑🤑 👉https://www.ahhhhfs.com/51005/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1728072013913473505",
-          "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n某角 社 区解锁版脚本 \n免登录免费看付费视频\n低调学习\n👉https://www.ahhhhfs.com/50951/",
-          "link": "https://twitter.com/abskoop/status/1728072013913473505",
-          "publishedOn": "2023-11-24T15:24:08.000Z",
-          "wordCount": null,
-          "title": "RT ahhhhfs: 某角 社 区解锁版脚本 免登录免费看付费视频 低调学习 👉https://www.ahhhhfs.com/50951/",
           "imageUrl": null
         }
       ]
@@ -15987,6 +16077,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1738928315388289146",
+          "author": "Linux中国",
+          "description": "🅷 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾» 12.24 周日 #硬核观察# 1225 \nhttps://youtu.be/7ehlFsV-VLU",
+          "link": "https://twitter.com/linux_cn/status/1738928315388289146",
+          "publishedOn": "2023-12-24T14:23:12.000Z",
+          "wordCount": null,
+          "title": "🅷 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾» 12.24 周日 #硬核观察# 1225 https://youtu.be/7ehlFsV-VLU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1738897947075453167",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1225 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾 \nhttps://linux.cn/article-16502-1.html \n🅷 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾\n🄸 将钱存到银行相当于增加了碳排放\n🄸 开机闪屏 Plymouth 两年来首次更新\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1738897947075453167",
+          "publishedOn": "2023-12-24T12:22:32.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1225 微软终止支持 Windows 10 将带来 4.8 亿公斤电子垃圾 https://linux.cn/article-16502-1.html 🅷 微软终止支持 Windows 10 将带来 ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1738578458920308946",
           "author": "Linux中国",
