@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85340",
+          "author": "少数派编辑部",
+          "description": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
+          "link": "https://sspai.com/post/85340",
+          "publishedOn": "2023-12-25T10:18:36.000Z",
+          "wordCount": 940,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2023/12/25/f96ff1f8ab77a4e395e50872914a1fe2.png"
+        },
+        {
+          "id": "https://sspai.com/post/85315",
+          "author": "板斧",
+          "description": "从行业重大事件，到从业者、玩家的真实处境，再到给予我们看待行业、作品新鲜视角的深度报道——在这些内容中回顾游戏行业这格外坎坷的一年。查看全文",
+          "link": "https://sspai.com/post/85315",
+          "publishedOn": "2023-12-25T07:00:00.000Z",
+          "wordCount": 1734,
+          "title": "玩乐之外读什么：30 篇优秀报道，回顾游戏行业的 2023",
+          "imageUrl": "https://cdn.sspai.com/2023/12/25/21931ec96b42b007b0f370e3d8033d5d.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/85247",
+          "author": "Tp",
+          "description": "编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。想了解如何参与本次征文、赢取奖品，可以点此查看活动规则。笑一个吧，功成名就不是目的，让自己快乐快乐这才叫做 ...查看全文",
+          "link": "https://sspai.com/post/85247",
+          "publishedOn": "2023-12-25T03:30:00.000Z",
+          "wordCount": 690,
+          "title": "放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙",
+          "imageUrl": "https://cdn.sspai.com/2023/12/21/20bf500b20fe6647afd287312200ff65.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/85316",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事新闻出版署称将研究修改完善网游新规据《中国新闻出版广电报》报道，12月22日，国家新闻出版署起草的《网络游戏管理办法》（征求意见稿）向社会公开征求意见。国家新闻出版署有关负责人表示， ...查看全文",
+          "link": "https://sspai.com/post/85316",
+          "publishedOn": "2023-12-25T00:59:50.000Z",
+          "wordCount": 879,
+          "title": "派早报",
+          "imageUrl": "https://cdn.sspai.com/12/25/2023/article/7cec4d12-2e89-5905-d082-7c87e65570e4.png"
+        },
+        {
           "id": "https://sspai.com/post/85193",
           "author": "万千十一",
           "description": "引言4月份时，我曾借LLaMA开源之机，尝试梳理了大语言模型（LLM）平民化运动以及频频在开源项目命名中露面的「羊驼」家族，包括扮演了重要角色的llama.cpp项目。彼时羊驼一族在开源大模型领域初露 ...查看全文",
@@ -1014,16 +1054,6 @@
           "wordCount": 824,
           "title": "派早报：淘宝将双 12 改名「年终好价节」",
           "imageUrl": "https://cdn.sspai.com/11/27/2023/article/55243596-7140-cf69-59fa-7869034e7892.png"
-        },
-        {
-          "id": "https://sspai.com/post/84622",
-          "author": "北鸮",
-          "description": "量血压这种小事放在手腕上，就成了麻烦。查看全文",
-          "link": "https://sspai.com/post/84622",
-          "publishedOn": "2023-11-26T07:00:00.000Z",
-          "wordCount": 710,
-          "title": "发展了十几年，为什么智能手表的血压检测还像个摆设？",
-          "imageUrl": "https://cdn.sspai.com/2023/11/24/article/819f039d-b830-363b-b0ac-4c44d5ff4b85.jpg"
         }
       ]
     },
@@ -1032,6 +1062,116 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1739312001292406824",
+          "author": "ahhhhfs",
+          "description": "某瓣2023年度最佳图书资源整理\n👉https://www.ahhhhfs.com/52249/",
+          "link": "https://twitter.com/abskoop/status/1739312001292406824",
+          "publishedOn": "2023-12-25T15:47:50.000Z",
+          "wordCount": null,
+          "title": "某瓣2023年度最佳图书资源整理 👉https://www.ahhhhfs.com/52249/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739306301744980053",
+          "author": "ahhhhfs",
+          "description": "润去新加坡\n👉https://www.ahhhhfs.com/52198/",
+          "link": "https://twitter.com/abskoop/status/1739306301744980053",
+          "publishedOn": "2023-12-25T15:25:11.000Z",
+          "wordCount": null,
+          "title": "润去新加坡 👉https://www.ahhhhfs.com/52198/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739300930426945585",
+          "author": "ahhhhfs",
+          "description": "经典香港电影合集未删减版本\n👉https://www.ahhhhfs.com/52221/",
+          "link": "https://twitter.com/abskoop/status/1739300930426945585",
+          "publishedOn": "2023-12-25T15:03:51.000Z",
+          "wordCount": null,
+          "title": "经典香港电影合集未删减版本 👉https://www.ahhhhfs.com/52221/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739282849201635582",
+          "author": "ahhhhfs",
+          "description": "波尼音乐：开源音乐播放器APP 类网易云音乐\n支持登录网易云、同步网易云歌单、\n每日推荐、歌单广场、排行榜、搜索等等功能\n👉https://www.ahhhhfs.com/52170/",
+          "link": "https://twitter.com/abskoop/status/1739282849201635582",
+          "publishedOn": "2023-12-25T13:52:00.000Z",
+          "wordCount": null,
+          "title": "波尼音乐：开源音乐播放器APP 类网易云音乐 支持登录网易云、同步网易云歌单、 每日推荐、歌单广场、排行榜、搜索等等功能 👉https://www.ahhhhfs.com/52170/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739267600574767510",
+          "author": "ahhhhfs",
+          "description": "ComfyUI Portrait Master 肖像大师 简体中文版\n能够根据用户需求生成各种肖像的提示词\n包括镜头类型、性别、国籍、面部表情、发型等多项参数\n👉https://www.ahhhhfs.com/52225/",
+          "link": "https://twitter.com/abskoop/status/1739267600574767510",
+          "publishedOn": "2023-12-25T12:51:24.000Z",
+          "wordCount": null,
+          "title": "ComfyUI Portrait Master 肖像大师 简体中文版 能够根据用户需求生成各种肖像的提示词 包括镜头类型、性别、国籍、面部表情、发型等多项参数 👉https://www.ah...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739244623833485474",
+          "author": "ahhhhfs",
+          "description": "零域色彩头像：在线矢量风格头像生成器\n可以个性化定制脸蛋、眼睛、头发、耳朵等等\n👉https://www.ahhhhfs.com/52212/",
+          "link": "https://twitter.com/abskoop/status/1739244623833485474",
+          "publishedOn": "2023-12-25T11:20:06.000Z",
+          "wordCount": null,
+          "title": "零域色彩头像：在线矢量风格头像生成器 可以个性化定制脸蛋、眼睛、头发、耳朵等等 👉https://www.ahhhhfs.com/52212/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739224265835360736",
+          "author": "ahhhhfs",
+          "description": "啊？😧",
+          "link": "https://twitter.com/abskoop/status/1739224265835360736",
+          "publishedOn": "2023-12-25T09:59:12.000Z",
+          "wordCount": null,
+          "title": "啊？😧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739215645458538918",
+          "author": "ahhhhfs",
+          "description": "fak exy：在线虚拟美国地址生成器\n可以随机生成多国地址、安全码、\n个人信息、信用卡信息等等\n👉https://www.ahhhhfs.com/52203/",
+          "link": "https://twitter.com/abskoop/status/1739215645458538918",
+          "publishedOn": "2023-12-25T09:24:57.000Z",
+          "wordCount": null,
+          "title": "fak exy：在线虚拟美国地址生成器 可以随机生成多国地址、安全码、 个人信息、信用卡信息等等 👉https://www.ahhhhfs.com/52203/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739181873342144874",
+          "author": "ahhhhfs",
+          "description": "Re @Inmmintyd 圣诞🎄🧑‍🎄快乐🎉呀💓",
+          "link": "https://twitter.com/abskoop/status/1739181873342144874",
+          "publishedOn": "2023-12-25T07:13:04.000Z",
+          "wordCount": null,
+          "title": "Re @Inmmintyd 圣诞🎄🧑‍🎄快乐🎉呀💓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739181873342144874",
+          "author": "ahhhhfs",
+          "description": "修图 变现课 10秒修出高点赞照片\n👉https://www.ahhhhfs.com/52217/",
+          "link": "https://twitter.com/abskoop/status/1739181873342144874",
+          "publishedOn": "2023-12-25T07:10:45.000Z",
+          "wordCount": null,
+          "title": "修图 变现课 10秒修出高点赞照片 👉https://www.ahhhhfs.com/52217/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739165831152669042",
+          "author": "ahhhhfs",
+          "description": "钓友走火入魔了啊🤤",
+          "link": "https://twitter.com/abskoop/status/1739165831152669042",
+          "publishedOn": "2023-12-25T06:07:00.000Z",
+          "wordCount": null,
+          "title": "钓友走火入魔了啊🤤",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1738958788563177777",
           "author": "ahhhhfs",
@@ -3500,16 +3640,6 @@
           "publishedOn": "2023-11-28T15:47:33.000Z",
           "wordCount": null,
           "title": "RT ahhhhfs: 某 老师英 语课 堂核 心 VI P会 员 课程 👉https://www.ahhhhfs.com/51107/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1728443027537236361",
-          "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n36个小 而美 的 赚钱 金点子\n告别死工资，轻松月入x万🤑🤑\n👉https://www.ahhhhfs.com/51005/",
-          "link": "https://twitter.com/abskoop/status/1728443027537236361",
-          "publishedOn": "2023-11-25T15:58:25.000Z",
-          "wordCount": 951,
-          "title": "RT ahhhhfs: 36个小 而美 的 赚钱 金点子 告别死工资，轻松月入x万🤑🤑 👉https://www.ahhhhfs.com/51005/",
           "imageUrl": null
         }
       ]
@@ -16077,6 +16207,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/linux_cn",
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
+        {
+          "id": "https://twitter.com/linux_cn/status/1739292110459715904",
+          "author": "Linux中国",
+          "description": "🅷 Fedora 40 计划统一 /usr/bin 和 /usr/sbin» 12.25 周一 #硬核观察# 1226 \nhttps://youtu.be/AZDfbTW9_9Q",
+          "link": "https://twitter.com/linux_cn/status/1739292110459715904",
+          "publishedOn": "2023-12-25T14:28:48.000Z",
+          "wordCount": null,
+          "title": "🅷 Fedora 40 计划统一 /usr/bin 和 /usr/sbin» 12.25 周一 #硬核观察# 1226 https://youtu.be/AZDfbTW9_9Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739273012799525020",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1226 Fedora 40 计划统一 /usr/bin 和 /usr/sbin \nhttps://linux.cn/article-16505-1.html \n🅷 Fedora 40 计划统一 /usr/bin 和 /usr/sbin\n🄸 Linus Torvalds 给内核开发者们放了年终假期\n🄸 时隔两年，Enlightenment 0.26 发布\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1739273012799525020",
+          "publishedOn": "2023-12-25T13:12:55.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1226 Fedora 40 计划统一 /usr/bin 和 /usr/sbin https://linux.cn/article-16505-1.html 🅷 Fedora 40 计划统一 /usr/bin 和 /usr/sbin...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739232773410283587",
+          "author": "Linux中国",
+          "description": "技术 | 让 Fish Shell 比 Bash 更好的 11 大特性 \nhttps://linux.cn/article-16504-1.html \n就算你是素食主义者或对海鲜有过敏反应，也值得试试 Fish 😛",
+          "link": "https://twitter.com/linux_cn/status/1739232773410283587",
+          "publishedOn": "2023-12-25T10:33:01.000Z",
+          "wordCount": null,
+          "title": "技术 | 让 Fish Shell 比 Bash 更好的 11 大特性 https://linux.cn/article-16504-1.html 就算你是素食主义者或对海鲜有过敏反应，也值得试试 Fish 😛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739225220978741400",
+          "author": "Linux中国",
+          "description": "新闻 | Qubes OS 4.2 发布，支持 PipeWire 并更新了核心应用 \nhttps://linux.cn/article-16503-1.html \nQubes OS 4.2 更新改进了核心应用，还有更多好东西！",
+          "link": "https://twitter.com/linux_cn/status/1739225220978741400",
+          "publishedOn": "2023-12-25T10:03:00.000Z",
+          "wordCount": null,
+          "title": "新闻 | Qubes OS 4.2 发布，支持 PipeWire 并更新了核心应用 https://linux.cn/article-16503-1.html Qubes OS 4.2 更新改进了核心应用，还有更多好东西！",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/linux_cn/status/1738928315388289146",
           "author": "Linux中国",
