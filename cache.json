@@ -6,6 +6,76 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85383",
+          "author": "少数派编辑部",
+          "description": "夸克推出健康大模型应用，微软推出 Copilot 独立应用。查看全文",
+          "link": "https://sspai.com/post/85383",
+          "publishedOn": "2023-12-26T23:00:00.000Z",
+          "wordCount": 783,
+          "title": "派早报：华为 nova 12 系列发布、新款 Apple Watch 在美遭到禁售等",
+          "imageUrl": "https://cdn.sspai.com/2023/12/27/article/da33d7f4-4380-81a1-2391-f19bf5b870b4.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder",
+          "author": "举铁的马里奥",
+          "description": "谁说大人就不能蹦蹦跳跳？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/training-guide-plometric-box-agility-ladder",
+          "publishedOn": "2023-12-26T09:49:03.000Z",
+          "wordCount": 901,
+          "title": "陌生而有趣的训练伙伴——跳箱和敏捷梯使用指南",
+          "imageUrl": "https://cdn.sspai.com/12/26/2023/article/c89e76db-120d-acbf-ec2a-447e168e8508.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85362",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/85362",
+          "publishedOn": "2023-12-26T09:20:19.000Z",
+          "wordCount": 1046,
+          "title": "社区速递 026 | 通讯回忆录、变频两季扇和新玩意",
+          "imageUrl": "https://cdn.sspai.com/12/26/2023/article/192038ee-f4d2-f127-192f-8c7ca8da8ba9.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85328",
+          "author": "挨石",
+          "description": "为了迎接2024，少数派与新朋友「响AHEM」将在秦皇岛阿那亚联合呈现一次独特的跨年演出。@老麦也将以此次演出的举办地——秦皇岛——为目的地，开启筹备已久的东部自驾游，迎接2000公里以外的新年第一缕 ...查看全文",
+          "link": "https://sspai.com/post/85328",
+          "publishedOn": "2023-12-26T08:45:20.000Z",
+          "wordCount": 647,
+          "title": "评论有奖 | 奔向阿那亚，共赴 2024，老麦的东部自驾游现在启程",
+          "imageUrl": "https://cdn.sspai.com/2023/12/25/b81a1797381ab3c9dcb523c129979f79.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85256",
+          "author": "嚣张",
+          "description": "AME Wizard 通过使用 YAML 语言的 Playbook 文件，就可以实现自定义 Windows OS 的操作。查看全文",
+          "link": "https://sspai.com/post/85256",
+          "publishedOn": "2023-12-26T06:30:00.000Z",
+          "wordCount": 794,
+          "title": "一日一技 | 无需重装，利用 AME Wizard 让你的 Windows PC 焕然一新",
+          "imageUrl": "https://cdn.sspai.com/2023/12/21/386329617ffe9daa5554d6ca5482c82a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85339",
+          "author": "Benature",
+          "description": "说到底，Obsidian 这类双链笔记只是脑中各种信息连接的具现罢了，最重要的还是自己对每一个概念的理解，才能有机会产生更多的连接。查看全文",
+          "link": "https://sspai.com/post/85339",
+          "publishedOn": "2023-12-26T03:30:33.000Z",
+          "wordCount": 866,
+          "title": "研究生尾声之际，回顾我与 Obsidian 的四年",
+          "imageUrl": "https://cdn.sspai.com/12/26/2023/article/7a7b4d64-2385-0623-5a8c-4034514bad57.png"
+        },
+        {
+          "id": "https://sspai.com/post/85354",
+          "author": "少数派编辑部",
+          "description": "Rockstar 源代码泄漏，国家新闻出版署公布 2023 年 12 月国产网游审批信息等查看全文",
+          "link": "https://sspai.com/post/85354",
+          "publishedOn": "2023-12-26T00:30:00.000Z",
+          "wordCount": 746,
+          "title": "派早报：字节跳动推出线下养车服务、美光科技与福建晋华达成和解等",
+          "imageUrl": "https://cdn.sspai.com/2023/12/26/article/1c144f12-1548-a880-0703-8e01e465f1a6.png"
+        },
+        {
           "id": "https://sspai.com/post/85340",
           "author": "少数派编辑部",
           "description": "如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
@@ -1014,46 +1084,6 @@
           "wordCount": 779,
           "title": "派早报：国家广播电视总局发布三项广播电视和网络视听行业标准等",
           "imageUrl": "https://cdn.sspai.com/2023/11/28/article/ed85f31d-8759-03b0-5f3d-ca8c56944076.png"
-        },
-        {
-          "id": "https://sspai.com/post/84665",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
-          "link": "https://sspai.com/post/84665",
-          "publishedOn": "2023-11-27T09:33:43.000Z",
-          "wordCount": 831,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/11/27/article/ad87e703-fe1c-8c68-92f3-b29279605914.png"
-        },
-        {
-          "id": "https://sspai.com/post/82813",
-          "author": "Konstantine",
-          "description": "编者注：当你将客人们请进自己的屋子时，你想让他们看看你是怎样的人。通常而言，将你的一切告诉他们的不是你的长沙发；而是你奇怪的乡村挤奶凳，它就放在一张复古风格的人物画下面，画上是一个或许开心或许喝醉了的 ...查看全文",
-          "link": "https://sspai.com/post/82813",
-          "publishedOn": "2023-11-27T07:18:23.000Z",
-          "wordCount": 689,
-          "title": "家的风格｜精准狙击台面设计，我把「日咖夜酒」搬回了家",
-          "imageUrl": "https://cdn.sspai.com/2023/11/20/6ed483118fe4593b3f3cb746dc0181f3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84597",
-          "author": "MrCoffeeTalker",
-          "description": "Notion 的 AI 对话模式虽不能说超出我的预期，但确实在我想象的方向上让 Notion 走得更远了，也让我更想把笔记放在 Notion 里了。查看全文",
-          "link": "https://sspai.com/post/84597",
-          "publishedOn": "2023-11-27T03:30:00.000Z",
-          "wordCount": 1217,
-          "title": "与知识库对话、用嘴找笔记：Notion AI 对话模式体验",
-          "imageUrl": "https://cdn.sspai.com/2023/11/24/1e4d09019a95ad75c16dc1c023f3fc24.png"
-        },
-        {
-          "id": "https://sspai.com/post/84648",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事淘宝将双12改名「年终好价节」11月24日，淘宝在「商家服务大厅」发布通知，称今年12月会举办平台大型活动「淘宝年终好价节」，预计11月底开始招商。淘宝曾于今年618期间使用过「好价 ...查看全文",
-          "link": "https://sspai.com/post/84648",
-          "publishedOn": "2023-11-27T00:50:45.000Z",
-          "wordCount": 824,
-          "title": "派早报：淘宝将双 12 改名「年终好价节」",
-          "imageUrl": "https://cdn.sspai.com/11/27/2023/article/55243596-7140-cf69-59fa-7869034e7892.png"
         }
       ]
     },
@@ -1062,6 +1092,96 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1739675821676388490",
+          "author": "ahhhhfs",
+          "description": "零基础美妆教学课：古妆汉服仙服\n👉https://www.ahhhhfs.com/52253/",
+          "link": "https://twitter.com/abskoop/status/1739675821676388490",
+          "publishedOn": "2023-12-26T15:53:32.000Z",
+          "wordCount": null,
+          "title": "零基础美妆教学课：古妆汉服仙服 👉https://www.ahhhhfs.com/52253/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739669753290219843",
+          "author": "ahhhhfs",
+          "description": "营销的第三种范式 小红书种草方法论\n深入的内外部访谈和案例挖掘\n对于“种草”这一营销概念进行了独到的剖析和提炼\n👉https://www.ahhhhfs.com/52279/",
+          "link": "https://twitter.com/abskoop/status/1739669753290219843",
+          "publishedOn": "2023-12-26T15:29:25.000Z",
+          "wordCount": null,
+          "title": "营销的第三种范式 小红书种草方法论 深入的内外部访谈和案例挖掘 对于“种草”这一营销概念进行了独到的剖析和提炼 👉https://www.ahhhhfs.com/52279/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739663731788009936",
+          "author": "ahhhhfs",
+          "description": "PJourney：在线AI照片生成器 AI衣服修复工具\n👉https://www.ahhhhfs.com/52242/",
+          "link": "https://twitter.com/abskoop/status/1739663731788009936",
+          "publishedOn": "2023-12-26T15:05:29.000Z",
+          "wordCount": null,
+          "title": "PJourney：在线AI照片生成器 AI衣服修复工具 👉https://www.ahhhhfs.com/52242/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739636916612714546",
+          "author": "ahhhhfs",
+          "description": "2023.12 阿里云盘福利码   \n200GB 兑完即止  💓💓\n👉http://ahhhhfs.com/13334/",
+          "link": "https://twitter.com/abskoop/status/1739636916612714546",
+          "publishedOn": "2023-12-26T13:18:56.000Z",
+          "wordCount": null,
+          "title": "2023.12 阿里云盘福利码 200GB 兑完即止 💓💓 👉http://ahhhhfs.com/13334/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739604476888330385",
+          "author": "ahhhhfs",
+          "description": "Re @EoyklM 具体哪方面的🤤",
+          "link": "https://twitter.com/abskoop/status/1739604476888330385",
+          "publishedOn": "2023-12-26T11:15:03.000Z",
+          "wordCount": null,
+          "title": "Re @EoyklM 具体哪方面的🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739605564832010750",
+          "author": "ahhhhfs",
+          "description": "亚马逊买工具🛠️的🤤",
+          "link": "https://twitter.com/abskoop/status/1739605564832010750",
+          "publishedOn": "2023-12-26T11:14:21.000Z",
+          "wordCount": null,
+          "title": "亚马逊买工具🛠️的🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739604476888330385",
+          "author": "ahhhhfs",
+          "description": "IconKitchen：快速为任何平台制作应用程序图标\n能快速生成适用于 Android、iOS、Web、macOS、\nwatchOS、tvOS、Android TV 等的应用程序图标\n👉https://www.ahhhhfs.com/19381/",
+          "link": "https://twitter.com/abskoop/status/1739604476888330385",
+          "publishedOn": "2023-12-26T11:10:02.000Z",
+          "wordCount": null,
+          "title": "IconKitchen：快速为任何平台制作应用程序图标 能快速生成适用于 Android、iOS、Web、macOS、 watchOS、tvOS、Android TV 等的应用程序图标 👉https://www.ahh...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739580175342506254",
+          "author": "ahhhhfs",
+          "description": "都吃吗🤤",
+          "link": "https://twitter.com/abskoop/status/1739580175342506254",
+          "publishedOn": "2023-12-26T09:33:28.000Z",
+          "wordCount": null,
+          "title": "都吃吗🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1739571981362856234",
+          "author": "ahhhhfs",
+          "description": "新年必修课程：职场酒局饭桌人情世故🤤\n👉https://www.ahhhhfs.com/52268/",
+          "link": "https://twitter.com/abskoop/status/1739571981362856234",
+          "publishedOn": "2023-12-26T09:00:54.000Z",
+          "wordCount": null,
+          "title": "新年必修课程：职场酒局饭桌人情世故🤤 👉https://www.ahhhhfs.com/52268/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1739312001292406824",
           "author": "ahhhhfs",
@@ -16208,6 +16328,56 @@
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
         {
+          "id": "https://twitter.com/linux_cn/status/1739678318444658881",
+          "author": "Linux中国",
+          "description": "观点 | Svelte：TypeScript 并“不值得”用来开发库 \nhttps://linux.cn/article-16509-1.html \nSvelte 的开发者 Rich Harris 解释了为什么反其道而行，从 TypeScript 切换到 JavaScript 和 JSDoc。",
+          "link": "https://twitter.com/linux_cn/status/1739678318444658881",
+          "publishedOn": "2023-12-26T16:03:27.000Z",
+          "wordCount": null,
+          "title": "观点 | Svelte：TypeScript 并“不值得”用来开发库 https://linux.cn/article-16509-1.html Svelte 的开发者 Rich Harris 解释了为什么反其道而行，从 TypeScri...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739635538657780181",
+          "author": "Linux中国",
+          "description": "🅷 谷歌因影响营收拒绝改变 Play 商店收费模式» 12.26 周二 #硬核观察# 1227 \nhttps://youtu.be/dDarf1Wg-4E",
+          "link": "https://twitter.com/linux_cn/status/1739635538657780181",
+          "publishedOn": "2023-12-26T13:13:27.000Z",
+          "wordCount": null,
+          "title": "🅷 谷歌因影响营收拒绝改变 Play 商店收费模式» 12.26 周二 #硬核观察# 1227 https://youtu.be/dDarf1Wg-4E",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739593874438283462",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1227 谷歌因影响营收拒绝改变 Play 商店收费模式 \nhttps://linux.cn/article-16508-1.html \n🅷 谷歌因影响营收拒绝改变 Play 商店收费模式\n🄸 《GTA 5》源代码在网上泄露\n🄸 美国新法案要求 AI 公司披露受版权保护的训练数据\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1739593874438283462",
+          "publishedOn": "2023-12-26T10:27:54.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1227 谷歌因影响营收拒绝改变 Play 商店收费模式 https://linux.cn/article-16508-1.html 🅷 谷歌因影响营收拒绝改变 Play 商店收费模式...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739559906246635871",
+          "author": "Linux中国",
+          "description": "观点 | 微软 Visual Basic 之兴衰 \nhttps://linux.cn/article-16507-1.html \n微软仍努力追寻着 VB 对于现称为 “群众开发者” 的人群所展现出的简洁与高效，尽管有很多尝试，一直难以复制成功。",
+          "link": "https://twitter.com/linux_cn/status/1739559906246635871",
+          "publishedOn": "2023-12-26T08:12:55.000Z",
+          "wordCount": null,
+          "title": "观点 | 微软 Visual Basic 之兴衰 https://linux.cn/article-16507-1.html 微软仍努力追寻着 VB 对于现称为 “群众开发者” 的人群所展现出的简洁与高效，尽管有...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1739542313049767973",
+          "author": "Linux中国",
+          "description": "新闻 | darktable 4.6 发布：提高了性能并添加了一些漂亮的新功能 \nhttps://linux.cn/article-16506-1.html \ndarktable 4.6 更新看起来是一个出色的改进。",
+          "link": "https://twitter.com/linux_cn/status/1739542313049767973",
+          "publishedOn": "2023-12-26T07:03:01.000Z",
+          "wordCount": null,
+          "title": "新闻 | darktable 4.6 发布：提高了性能并添加了一些漂亮的新功能 https://linux.cn/article-16506-1.html darktable 4.6 更新看起来是一个出色的改进。",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/linux_cn/status/1739292110459715904",
           "author": "Linux中国",
           "description": "🅷 Fedora 40 计划统一 /usr/bin 和 /usr/sbin» 12.25 周一 #硬核观察# 1226 \nhttps://youtu.be/AZDfbTW9_9Q",
@@ -17285,16 +17455,6 @@
           "publishedOn": "2023-11-27T13:37:15.000Z",
           "wordCount": 1625,
           "title": "硬核观察 | 硬核观察 #1198 Ubuntu Budgie 准备转而采用 Xfce https://linux.cn/article-16420-1.html 🅷 Ubuntu Budgie 准备转而采用 Xfce 🄸 KDE Plasma ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1728805350852215053",
-          "author": "Linux中国",
-          "description": "技术 | 修复 Arch Linux 中的 “target not found” 错误 \nhttps://linux.cn/article-16419-1.html \n如果在 Arch Linux 中安装软件包时遇到 “target not found” 错误，您可以采取以下措施。",
-          "link": "https://twitter.com/linux_cn/status/1728805350852215053",
-          "publishedOn": "2023-11-26T15:58:09.000Z",
-          "wordCount": 1634,
-          "title": "技术 | 修复 Arch Linux 中的 “target not found” 错误 https://linux.cn/article-16419-1.html 如果在 Arch Linux 中安装软件包时遇到 “target not found” ...",
           "imageUrl": null
         }
       ]
