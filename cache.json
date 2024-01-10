@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/85689",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/85689",
+          "publishedOn": "2024-01-09T09:39:59.000Z",
+          "wordCount": 947,
+          "title": "社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意",
+          "imageUrl": "https://cdn.sspai.com/1/9/2024/article/e80bb710-be9b-8667-e75e-022a482ec76f.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85420",
+          "author": "Suri",
+          "description": "编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。想了解如何参与本次征文、赢取奖品，可以点此查看活动规则。Whatareyoudoing?Justrelax ...查看全文",
+          "link": "https://sspai.com/post/85420",
+          "publishedOn": "2024-01-09T07:00:00.000Z",
+          "wordCount": 706,
+          "title": "放轻松 | 治愈「被互联网影响的心智」",
+          "imageUrl": "https://cdn.sspai.com/2024/01/01/d8ec4921871e33351744920720fc21ad.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85481",
+          "author": "ryoma1836",
+          "description": "今天我就换个方向，不再讨论规划和安装 Unifi 网络设备，来研究研究如何了解家里的 Unifi 设备状况。查看全文",
+          "link": "https://sspai.com/post/85481",
+          "publishedOn": "2024-01-09T03:40:24.000Z",
+          "wordCount": 1697,
+          "title": "自建 UniFi 内网监控面板，家庭网络动态尽在掌握",
+          "imageUrl": "https://cdn.sspai.com/2024/1/9/article/ff0567b1-96ab-ce90-3536-b2959008825d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85670",
+          "author": "少数派编辑部",
+          "description": "Apple Vision Pro 定档 2 月 2 日美国发售，红帽宣布 CentOS 7 和 RHEL 7 将在 6 月 30 日结束支持等。查看全文",
+          "link": "https://sspai.com/post/85670",
+          "publishedOn": "2024-01-09T00:10:00.000Z",
+          "wordCount": 1175,
+          "title": "派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等",
+          "imageUrl": "https://cdn.sspai.com/2024/1/9/article/cc1e1cf4-142a-c9e4-176a-4c521a536fdd.png"
+        },
+        {
           "id": "https://sspai.com/post/85663",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。不容错过的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -974,56 +1014,6 @@
           "wordCount": 903,
           "title": "派早报：外卖 App 个人信息收集情况测试报告出炉等",
           "imageUrl": "https://cdn.sspai.com/2023/12/12/article/12776120-4aea-b698-1fa8-6eaed7f09f81.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/ppc-history-10",
-          "author": "MIG",
-          "description": "PowerPC 在嵌入式、超算等领域再次崭露头角，面对英特尔的多媒体指令集 SSE 也力压一筹。只可惜，这大概是 PowerPC 阵营的最后一次大胜了，随着 500MHz G4 的交付事故，属于它的黄金时代已然快走到尽头。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/ppc-history-10",
-          "publishedOn": "2023-12-11T11:46:46.000Z",
-          "wordCount": 1277,
-          "title": "处理器简史｜PowerPC 10：烽火连天 颓势初显（下）",
-          "imageUrl": "https://cdn.sspai.com/12/11/2023/article/91710d58-b17e-987b-d638-eaf5ca45f7da.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84981",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的App虽然少数派一直在为大家发现和介绍各平台上的优 ...查看全文",
-          "link": "https://sspai.com/post/84981",
-          "publishedOn": "2023-12-11T09:54:57.000Z",
-          "wordCount": 919,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2023/12/11/article/fa60913a-695f-4275-c9b5-2f61e6eb13c3.png"
-        },
-        {
-          "id": "https://sspai.com/post/84628",
-          "author": "Micoxx",
-          "description": "Bento 式布局怎么就这么适配生产力工具网页设计？总不见得大家都是跟风——这就是本文真正想要探讨的议题。查看全文",
-          "link": "https://sspai.com/post/84628",
-          "publishedOn": "2023-12-11T07:35:39.000Z",
-          "wordCount": 1073,
-          "title": "何为 Bento 式布局，怎么生产力工具网站都在用？",
-          "imageUrl": "https://cdn.sspai.com/2023/12/04/e77f1c5ad03c818bc7be4dc5dfa8be1c.png"
-        },
-        {
-          "id": "https://sspai.com/post/84938",
-          "author": "闲者时间_王掌柜",
-          "description": "当我们尽可能地利用工具原本被赋予的功能时，我们的大脑就能从琐碎事物中解放出来，专注于更重要的事情。查看全文",
-          "link": "https://sspai.com/post/84938",
-          "publishedOn": "2023-12-11T03:00:00.000Z",
-          "wordCount": 966,
-          "title": "告别折腾，获得稳定生产力：我的效率工具观",
-          "imageUrl": "https://cdn.sspai.com/editor/u_5b3wva6y/17021055305082.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/84962",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事苹果封杀iMessage兼容应用BeeperMini据TheVerge报道，12月10日，苹果向媒体发表声明，确认已采取措施封杀上周发布的iMessage兼容应用BeeperMini ...查看全文",
-          "link": "https://sspai.com/post/84962",
-          "publishedOn": "2023-12-11T00:51:30.000Z",
-          "wordCount": 851,
-          "title": "派早报：苹果封杀 iMessage 兼容应用 Beeper Mini",
-          "imageUrl": "https://cdn.sspai.com/12/11/2023/article/8b332537-1b26-431a-e491-57f243a24c04.png"
         }
       ]
     },
@@ -1032,6 +1022,146 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1744774521763315814",
+          "author": "ahhhhfs",
+          "description": "🤝🤝",
+          "link": "https://twitter.com/abskoop/status/1744774521763315814",
+          "publishedOn": "2024-01-09T17:33:56.000Z",
+          "wordCount": null,
+          "title": "🤝🤝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744763563288531090",
+          "author": "ahhhhfs",
+          "description": "拿破仑 Napoleon (2023) 中字 4K 2160p🙊",
+          "link": "https://twitter.com/abskoop/status/1744763563288531090",
+          "publishedOn": "2024-01-09T16:50:24.000Z",
+          "wordCount": null,
+          "title": "拿破仑 Napoleon (2023) 中字 4K 2160p🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744748221145178363",
+          "author": "ahhhhfs",
+          "description": "一些建房类风 水 学 课程\n👉https://www.ahhhhfs.com/52793/",
+          "link": "https://twitter.com/abskoop/status/1744748221145178363",
+          "publishedOn": "2024-01-09T15:49:26.000Z",
+          "wordCount": null,
+          "title": "一些建房类风 水 学 课程 👉https://www.ahhhhfs.com/52793/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744743022896746757",
+          "author": "ahhhhfs",
+          "description": "精选AI套壳网站 API资源 运营策略：Awesome gptlike shellsite\n为初学者和经验丰富的运营者提供一站式指南\n涵盖常见问题解答和基础攻略\n助你迈向套壳站副业成功之路\n👉https://www.ahhhhfs.com/52763/",
+          "link": "https://twitter.com/abskoop/status/1744743022896746757",
+          "publishedOn": "2024-01-09T15:28:47.000Z",
+          "wordCount": null,
+          "title": "精选AI套壳网站 API资源 运营策略：Awesome gptlike shellsite 为初学者和经验丰富的运营者提供一站式指南 涵盖常见问题解答和基础攻略 助你迈向套壳站副业成功...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744734442793607647",
+          "author": "ahhhhfs",
+          "description": "Re @Zhiyuan5198 要哈 这种资源防止河蟹 一般都压缩一下哈",
+          "link": "https://twitter.com/abskoop/status/1744734442793607647",
+          "publishedOn": "2024-01-09T15:00:21.000Z",
+          "wordCount": null,
+          "title": "Re @Zhiyuan5198 要哈 这种资源防止河蟹 一般都压缩一下哈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744734442793607647",
+          "author": "ahhhhfs",
+          "description": "一本书：某X情学 学习资料\n👉https://www.ahhhhfs.com/52839/",
+          "link": "https://twitter.com/abskoop/status/1744734442793607647",
+          "publishedOn": "2024-01-09T14:54:41.000Z",
+          "wordCount": null,
+          "title": "一本书：某X情学 学习资料 👉https://www.ahhhhfs.com/52839/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744729293463400841",
+          "author": "ahhhhfs",
+          "description": "百度？😧",
+          "link": "https://twitter.com/abskoop/status/1744729293463400841",
+          "publishedOn": "2024-01-09T14:34:13.000Z",
+          "wordCount": null,
+          "title": "百度？😧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744726962009170176",
+          "author": "ahhhhfs",
+          "description": "补档更新啦🤤\n\nahhhhfs: 1900套计算机专业毕设项目源码资料大合集\n👉https://www.ahhhhfs.com/47593/",
+          "link": "https://twitter.com/abskoop/status/1744726962009170176",
+          "publishedOn": "2024-01-09T14:24:57.000Z",
+          "wordCount": null,
+          "title": "补档更新啦🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744653354301820946",
+          "author": "ahhhhfs",
+          "description": "Re @zaprobest 帽子🧢咋样的😧",
+          "link": "https://twitter.com/abskoop/status/1744653354301820946",
+          "publishedOn": "2024-01-09T14:10:19.000Z",
+          "wordCount": null,
+          "title": "Re @zaprobest 帽子🧢咋样的😧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744707766491676677",
+          "author": "ahhhhfs",
+          "description": "Onsites Fyi：著名公司面试经验和面试流程\n面试经验都是来自真实用户提交\n每个面试经验流程都非常详细\n👉https://www.ahhhhfs.com/52721/",
+          "link": "https://twitter.com/abskoop/status/1744707766491676677",
+          "publishedOn": "2024-01-09T13:08:41.000Z",
+          "wordCount": null,
+          "title": "Onsites Fyi：著名公司面试经验和面试流程 面试经验都是来自真实用户提交 每个面试经验流程都非常详细 👉https://www.ahhhhfs.com/52721/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744696460350988333",
+          "author": "ahhhhfs",
+          "description": "4k 30全集 完结 上线了🙊\n\nahhhhfs: 繁 花 (2023)国语+沪语 4K 2160p 🙊",
+          "link": "https://twitter.com/abskoop/status/1744696460350988333",
+          "publishedOn": "2024-01-09T12:23:45.000Z",
+          "wordCount": null,
+          "title": "4k 30全集 完结 上线了🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744686859354341554",
+          "author": "ahhhhfs",
+          "description": "过年回家 高铁火车抢票软件🙊\n12306Bypass分流抢票 v1.15.40\n👉https://www.ahhhhfs.com/9750/",
+          "link": "https://twitter.com/abskoop/status/1744686859354341554",
+          "publishedOn": "2024-01-09T11:45:36.000Z",
+          "wordCount": null,
+          "title": "过年回家 高铁火车抢票软件🙊 12306Bypass分流抢票 v1.15.40 👉https://www.ahhhhfs.com/9750/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744653354301820946",
+          "author": "ahhhhfs",
+          "description": "设计师？🤤",
+          "link": "https://twitter.com/abskoop/status/1744653354301820946",
+          "publishedOn": "2024-01-09T09:32:28.000Z",
+          "wordCount": null,
+          "title": "设计师？🤤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1744649407709253936",
+          "author": "ahhhhfs",
+          "description": "Python全栈开发教程 入门到XX 🙊\n👉https://www.ahhhhfs.com/52797/",
+          "link": "https://twitter.com/abskoop/status/1744649407709253936",
+          "publishedOn": "2024-01-09T09:16:47.000Z",
+          "wordCount": null,
+          "title": "Python全栈开发教程 入门到XX 🙊 👉https://www.ahhhhfs.com/52797/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1744407182807093379",
           "author": "ahhhhfs",
@@ -3780,66 +3910,6 @@
           "publishedOn": "2023-12-11T13:11:00.000Z",
           "wordCount": 951,
           "title": "Just Laws：简洁便捷的中华人民共和国法律文库 收录平常网民可能用到比较多的法律知识 👉https://www.ahhhhfs.com/24623/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1734168147207258346",
-          "author": "ahhhhfs",
-          "description": "本地微信数据库读取解密脚工具（取证工具）：PyWxDump\n能够获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid等)\n支持微信聊天记录导出和查看（包含语音图片)\n支持多账户信息获取，支持所有微信版本\n👉https://www.ahhhhfs.com/51639/",
-          "link": "https://twitter.com/abskoop/status/1734168147207258346",
-          "publishedOn": "2023-12-11T11:08:00.000Z",
-          "wordCount": 951,
-          "title": "本地微信数据库读取解密脚工具（取证工具）：PyWxDump 能够获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid等) 支持微信聊天记录导出和查看（包含语音图...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1734154355312648382",
-          "author": "ahhhhfs",
-          "description": "？配图是认真的吗🤤",
-          "link": "https://twitter.com/abskoop/status/1734154355312648382",
-          "publishedOn": "2023-12-11T10:13:11.000Z",
-          "wordCount": 951,
-          "title": "？配图是认真的吗🤤",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1734137380142277094",
-          "author": "ahhhhfs",
-          "description": "Meta 推出AI图像生成器 根据文字生成图片：Imagine with Meta AI\n👉https://www.ahhhhfs.com/51648/",
-          "link": "https://twitter.com/abskoop/status/1734137380142277094",
-          "publishedOn": "2023-12-11T09:05:44.000Z",
-          "wordCount": 951,
-          "title": "Meta 推出AI图像生成器 根据文字生成图片：Imagine with Meta AI 👉https://www.ahhhhfs.com/51648/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1734122053505270143",
-          "author": "ahhhhfs",
-          "description": "你喜欢的人  一般放在哪里的🤝",
-          "link": "https://twitter.com/abskoop/status/1734122053505270143",
-          "publishedOn": "2023-12-11T08:04:50.000Z",
-          "wordCount": 951,
-          "title": "你喜欢的人 一般放在哪里的🤝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1734101006836019453",
-          "author": "ahhhhfs",
-          "description": "Oracle数据库工程师入门培训实战\n👉https://www.ahhhhfs.com/51635/",
-          "link": "https://twitter.com/abskoop/status/1734101006836019453",
-          "publishedOn": "2023-12-11T06:41:12.000Z",
-          "wordCount": 951,
-          "title": "Oracle数据库工程师入门培训实战 👉https://www.ahhhhfs.com/51635/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1733832848023675342",
-          "author": "ahhhhfs",
-          "description": "私域顶层商业模式总裁视频课\n👉https://www.ahhhhfs.com/51631/",
-          "link": "https://twitter.com/abskoop/status/1733832848023675342",
-          "publishedOn": "2023-12-10T12:55:38.000Z",
-          "wordCount": 951,
-          "title": "私域顶层商业模式总裁视频课 👉https://www.ahhhhfs.com/51631/",
           "imageUrl": null
         }
       ]
@@ -16408,6 +16478,26 @@
       "siteUrl": "https://twitter.com/linux_cn",
       "articles": [
         {
+          "id": "https://twitter.com/linux_cn/status/1744710330712813732",
+          "author": "Linux中国",
+          "description": "🅷 OpenAI 称不用版权材料训练不出来 ChatGPT» 01.09 周二 #硬核观察# 1241 \nhttps://youtu.be/fszOEO_qIAE",
+          "link": "https://twitter.com/linux_cn/status/1744710330712813732",
+          "publishedOn": "2024-01-09T13:18:52.000Z",
+          "wordCount": null,
+          "title": "🅷 OpenAI 称不用版权材料训练不出来 ChatGPT» 01.09 周二 #硬核观察# 1241 https://youtu.be/fszOEO_qIAE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/linux_cn/status/1744654672936186252",
+          "author": "Linux中国",
+          "description": "硬核观察 | 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT \nhttps://linux.cn/article-16545-1.html \n🅷 OpenAI 称不用版权材料训练不出来 ChatGPT\n🄸 美国去年仅净增长 700 个 IT 工作岗位\n🄸 确保 AI 安全的理论仍未就绪\n» \n»",
+          "link": "https://twitter.com/linux_cn/status/1744654672936186252",
+          "publishedOn": "2024-01-09T09:37:42.000Z",
+          "wordCount": null,
+          "title": "硬核观察 | 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT https://linux.cn/article-16545-1.html 🅷 OpenAI 称不用版权材料训练不出来 ChatGPT ...",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/linux_cn/status/1744506263122174233",
           "author": "Linux中国",
           "description": "观点 | 2024 年 Linux 和开源的六大趋势预测 \nhttps://linux.cn/article-16544-1.html \n让我们尝试预测未来吧！",
@@ -17465,46 +17555,6 @@
           "publishedOn": "2023-12-11T13:09:20.000Z",
           "wordCount": 960,
           "title": "🅷 Go 程序员大多使用 Linux 或 MacOS» 12.11 周一 #硬核观察# 1212 https://youtu.be/NG0xn9oTYu4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1734158768504529314",
-          "author": "Linux中国",
-          "description": "硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS \nhttps://linux.cn/article-16461-1.html \n🅷 Go 程序员大多使用 Linux 或 MacOS\n🄸 欧盟就《人工智能法》的推出达成共识\n🄸 让网速感觉更快的新标准 L4S\n» \n»",
-          "link": "https://twitter.com/linux_cn/status/1734158768504529314",
-          "publishedOn": "2023-12-11T10:30:44.000Z",
-          "wordCount": 951,
-          "title": "硬核观察 | 硬核观察 #1212 Go 程序员大多使用 Linux 或 MacOS https://linux.cn/article-16461-1.html 🅷 Go 程序员大多使用 Linux 或 MacOS 🄸 欧盟就《人...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1734128087493693794",
-          "author": "Linux中国",
-          "description": "新闻 | PeerTube 发布第 6 版，获得比 YouTube 更好的功能 \nhttps://linux.cn/article-16460-1.html \n去中心化开源平台 PeerTube 大升级，这是一个很好的 YouTube 替代品。",
-          "link": "https://twitter.com/linux_cn/status/1734128087493693794",
-          "publishedOn": "2023-12-11T08:28:49.000Z",
-          "wordCount": 951,
-          "title": "新闻 | PeerTube 发布第 6 版，获得比 YouTube 更好的功能 https://linux.cn/article-16460-1.html 去中心化开源平台 PeerTube 大升级，这是一个很好的 YouTube ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1733892760338338178",
-          "author": "Linux中国",
-          "description": "观点 | Linus Torvalds：Linux 内核中的 Rust、AI 和疲劳的维护者 \nhttps://linux.cn/article-16459-1.html \n在日本开源峰会中，Linux 和 Git 的创始人 Linus Torvalds 深入探讨了 Rust 在 Linux 中的应用、Linux 维护者压力问题，以及 AI 对 Linux 和开源开发未来的影响。",
-          "link": "https://twitter.com/linux_cn/status/1733892760338338178",
-          "publishedOn": "2023-12-10T16:53:42.000Z",
-          "wordCount": 951,
-          "title": "观点 | Linus Torvalds：Linux 内核中的 Rust、AI 和疲劳的维护者 https://linux.cn/article-16459-1.html 在日本开源峰会中，Linux 和 Git 的创始人 Linus Torv...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/linux_cn/status/1733859075916435707",
-          "author": "Linux中国",
-          "description": "🅷 Linus Torvalds 谈 Rust 和 AI 编程» 12.10 周日 #硬核观察# 1211 \nhttps://youtu.be/xFGLg_bmIts",
-          "link": "https://twitter.com/linux_cn/status/1733859075916435707",
-          "publishedOn": "2023-12-10T14:39:51.000Z",
-          "wordCount": 960,
-          "title": "🅷 Linus Torvalds 谈 Rust 和 AI 编程» 12.10 周日 #硬核观察# 1211 https://youtu.be/xFGLg_bmIts",
           "imageUrl": null
         }
       ]
