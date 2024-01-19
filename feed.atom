@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T00:38:10.266Z</updated>
+    <updated>2024-01-19T00:38:48.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
@@ -5365,16 +5365,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[敲响圣诞「叮叮当」，让这 8 部圣诞影片陪你迎接新年]]></title>
-        <id>https://sspai.com/post/85156</id>
-        <link href="https://sspai.com/post/85156"/>
-        <updated>2023-12-20T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[🎄MerryChristmas!随着商业街和社交平台的圣诞气氛越来越浓，虽然像家居博主一样把房间里布置成圣诞风格没那么容易，但在周末的晚上看一部与圣诞节有关的电影，似乎也是不错的选择。本期「看什么·特 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CiLiGeGeP：非常全面的磁 力资源搜索工具 👉https://www.ahhhhfs.com/51944/]]></title>
         <id>https://twitter.com/abskoop/status/1737378517065884106</id>
         <link href="https://twitter.com/abskoop/status/1737378517065884106"/>
@@ -5398,26 +5388,6 @@ https://linux.cn/article-16491-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[放轻松 | 用放松，重夺生活的掌控感]]></title>
-        <id>https://sspai.com/post/85159</id>
-        <link href="https://sspai.com/post/85159"/>
-        <updated>2023-12-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。想了解如何参与本次征文、赢取奖品，可以点此查看活动规则。李小龙曾说：「不要思考，去感受。就好像手指指向月亮 ...查看全文]]></summary>
-        <author>
-            <name>Lars漫步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 妙用终端清理 macOS 启动台顽固图标]]></title>
-        <id>https://sspai.com/post/85136</id>
-        <link href="https://sspai.com/post/85136"/>
-        <updated>2023-12-20T03:30:47.000Z</updated>
-        <summary type="html"><![CDATA[macOS 中删除应用以后，启动台中依然残留着图标？不妨试试用终端解决这个问题。查看全文]]></summary>
-        <author>
-            <name>PaulLeon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1221 Debian 将停止支持 32 位 x86 https://linux.cn/article-16490-1.html 🅷 Debian 将停止支持 32 位 x86 🄸 互联网档案馆称数字借...]]></title>
         <id>https://twitter.com/linux_cn/status/1737266237753774438</id>
         <link href="https://twitter.com/linux_cn/status/1737266237753774438"/>
@@ -5434,16 +5404,6 @@ https://linux.cn/article-16490-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派早报：努比亚 Z60 Ultra 发布、Google 公布针对 反垄断诉讼的和解措施等]]></title>
-        <id>https://sspai.com/post/85200</id>
-        <link href="https://sspai.com/post/85200"/>
-        <updated>2023-12-19T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[欧盟将对 X 展开非法内容传播调查，Beeper 将通过 Mac 设备绕过 iMessage 使用限制。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新闻 | 哇！微软的 Windows AI Studio 需要依赖 Linux 才能运行 https://linux.cn/article-16489-1.html 没有办法，微软热爱 Linux。]]></title>
         <id>https://twitter.com/linux_cn/status/1737128871764615318</id>
         <link href="https://twitter.com/linux_cn/status/1737128871764615318"/>
@@ -5453,17 +5413,6 @@ https://linux.cn/article-16489-1.html
 没有办法，微软热爱 Linux。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 玩机社区正在走向消亡]]></title>
-        <id>https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community</id>
-        <link href="https://sspai.com/prime/story/play-integrity-and-the-demise-of-the-android-mod-community"/>
-        <updated>2023-12-19T13:12:01.000Z</updated>
-        <summary type="html"><![CDATA[你知道 Android 什么时候开始变得无聊吗？大家都开始接受「不合理」的时候。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>克莱德</name>
         </author>
     </entry>
     <entry>
