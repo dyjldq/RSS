@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86185",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/86185",
+          "publishedOn": "2024-01-30T09:00:56.000Z",
+          "wordCount": 883,
+          "title": "社区速递 030 | 年度作者、能量小食和新玩意",
+          "imageUrl": "https://cdn.sspai.com/1/30/2024/article/8f88912c-c1ef-1db7-63da-c3b158eb060f.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85975",
+          "author": "Miobowl",
+          "description": "此刻正值寒冬，这么一篇夏日的北欧游记显得有一些不合时宜，但是结合做旅行计划、办签证、提前订机酒等等诸多事项，如果你也对北欧的夏天感兴趣的话，从现在开始规划起明年夏日的旅程也不算早。相比于更久远的去土耳 ...查看全文",
+          "link": "https://sspai.com/post/85975",
+          "publishedOn": "2024-01-30T07:00:15.000Z",
+          "wordCount": 764,
+          "title": "城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了",
+          "imageUrl": "https://cdn.sspai.com/2024/01/22/79dbdd98ac1faa2d9f0720e47288793b.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86155",
+          "author": "Voyager_1",
+          "description": "距离上次更新已经过去了快一个半月，早该到来的17.3正式版在经历了beta2撤回风波后，最终还是来到了我们面前。本次更新中，苹果新增了失窃设备保护功能、WWDC提到的AppleMusic协作播放列表也 ...查看全文",
+          "link": "https://sspai.com/post/86155",
+          "publishedOn": "2024-01-30T03:31:59.000Z",
+          "wordCount": 799,
+          "title": "失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性",
+          "imageUrl": "https://cdn.sspai.com/2024/1/30/article/06983a7b-d553-66c1-c5ed-07c5807a3e5b.png"
+        },
+        {
+          "id": "https://sspai.com/post/86177",
+          "author": "少数派编辑部",
+          "description": "Fossil 宣布退出智能手表市场，微软宣布将在下一版 Windows 11 中移除 WMIC 管理工具等查看全文",
+          "link": "https://sspai.com/post/86177",
+          "publishedOn": "2024-01-30T00:00:00.000Z",
+          "wordCount": 814,
+          "title": "派早报：小红书上线「风险地点」举报专线的公告，森海塞尔 ACCENTUM Plus 发布等",
+          "imageUrl": "https://cdn.sspai.com/2024/1/29/article/02da214e-89c5-3b90-e1d1-ce6abaeb32f5.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/mechanic-keyboard-structures-01",
           "author": "车不能快",
           "description": "梳理和探讨键盘结构的历史与发展，深入理解名词背后的原理与特点查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -764,16 +804,6 @@
           "wordCount": 883,
           "title": "派早报：微信发布 2023 年度朋友圈十大谣言等",
           "imageUrl": "https://cdn.sspai.com/2024/1/2/article/8f855248-69f1-3bb0-e570-8e11cb2923b7.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/opensource-password-managers-compared",
-          "author": "PlatyHsu",
-          "description": "开源和闭源并没有必然的高下，免费和收费也都只是综合成本的一个考量因素。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/opensource-password-managers-compared",
-          "publishedOn": "2023-12-31T13:24:22.000Z",
-          "wordCount": 1124,
-          "title": "不只为了省钱：开源密码管理器可用性报告",
-          "imageUrl": "https://cdn.sspai.com/12/31/2023/article/dbe25f15-79f4-475b-7610-13b2c78135d7.png"
         }
       ]
     },
@@ -782,6 +812,96 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://twitter.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1752380983461195813",
+          "author": "ahhhhfs",
+          "description": "投资自己最好的方式",
+          "link": "https://twitter.com/abskoop/status/1752380983461195813",
+          "publishedOn": "2024-01-30T17:19:18.000Z",
+          "wordCount": null,
+          "title": "投资自己最好的方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752359432728830379",
+          "author": "ahhhhfs",
+          "description": "高 效 人士的 Excel必修课程\n👉https://www.ahhhhfs.com/53578/",
+          "link": "https://twitter.com/abskoop/status/1752359432728830379",
+          "publishedOn": "2024-01-30T15:53:40.000Z",
+          "wordCount": null,
+          "title": "高 效 人士的 Excel必修课程 👉https://www.ahhhhfs.com/53578/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752353092233052461",
+          "author": "ahhhhfs",
+          "description": "一些19类型的有声小说\n👉https://www.ahhhhfs.com/20333/",
+          "link": "https://twitter.com/abskoop/status/1752353092233052461",
+          "publishedOn": "2024-01-30T15:28:28.000Z",
+          "wordCount": null,
+          "title": "一些19类型的有声小说 👉https://www.ahhhhfs.com/20333/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752346625224442222",
+          "author": "ahhhhfs",
+          "description": "实用良心开源安卓软件集合：oh my foss android\n👉https://www.ahhhhfs.com/53610/",
+          "link": "https://twitter.com/abskoop/status/1752346625224442222",
+          "publishedOn": "2024-01-30T15:02:47.000Z",
+          "wordCount": null,
+          "title": "实用良心开源安卓软件集合：oh my foss android 👉https://www.ahhhhfs.com/53610/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752329069059010958",
+          "author": "ahhhhfs",
+          "description": "AI Cover：开源AI 微信红包封面生成器🤤\n👉https://www.ahhhhfs.com/53638/",
+          "link": "https://twitter.com/abskoop/status/1752329069059010958",
+          "publishedOn": "2024-01-30T13:53:01.000Z",
+          "wordCount": null,
+          "title": "AI Cover：开源AI 微信红包封面生成器🤤 👉https://www.ahhhhfs.com/53638/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752311190645039534",
+          "author": "ahhhhfs",
+          "description": "2024.01 阿里云盘福利码   \n200GB 兑完即止  💓💓\n👉http://ahhhhfs.com/13334/",
+          "link": "https://twitter.com/abskoop/status/1752311190645039534",
+          "publishedOn": "2024-01-30T12:41:58.000Z",
+          "wordCount": null,
+          "title": "2024.01 阿里云盘福利码 200GB 兑完即止 💓💓 👉http://ahhhhfs.com/13334/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752277740949299285",
+          "author": "ahhhhfs",
+          "description": "VDC PUB：免费英文电子书资源\n提供数十万本免费电子书和文档\n包括技术、历史、数学、语言学、心理学、经济等等\n👉https://www.ahhhhfs.com/53558/",
+          "link": "https://twitter.com/abskoop/status/1752277740949299285",
+          "publishedOn": "2024-01-30T10:29:03.000Z",
+          "wordCount": null,
+          "title": "VDC PUB：免费英文电子书资源 提供数十万本免费电子书和文档 包括技术、历史、数学、语言学、心理学、经济等等 👉https://www.ahhhhfs.com/53558/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752261685891756415",
+          "author": "ahhhhfs",
+          "description": "程序员对联🥹",
+          "link": "https://twitter.com/abskoop/status/1752261685891756415",
+          "publishedOn": "2024-01-30T09:25:16.000Z",
+          "wordCount": null,
+          "title": "程序员对联🥹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1752228086035476950",
+          "author": "ahhhhfs",
+          "description": "某学 霸 高 效阅读方法\n👉https://www.ahhhhfs.com/53586/",
+          "link": "https://twitter.com/abskoop/status/1752228086035476950",
+          "publishedOn": "2024-01-30T07:11:45.000Z",
+          "wordCount": null,
+          "title": "某学 霸 高 效阅读方法 👉https://www.ahhhhfs.com/53586/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1751994358641934441",
           "author": "ahhhhfs",
@@ -3323,6 +3443,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://twitter.com/abskoop/status/1752377691561685098",
+          "author": "ahhhhfs",
+          "description": "RT ahhhhfs\n一本书：教你怎 样不 受 气\n👉https://www.ahhhhfs.com/52650/",
+          "link": "https://twitter.com/abskoop/status/1752377691561685098",
+          "publishedOn": "2024-01-05T12:06:00.000Z",
+          "wordCount": null,
+          "title": "RT ahhhhfs: 一本书：教你怎 样不 受 气 👉https://www.ahhhhfs.com/52650/",
+          "imageUrl": null
+        },
+        {
           "id": "https://twitter.com/abskoop/status/1743242440071393760",
           "author": "ahhhhfs",
           "description": "一本书：教你怎 样不 受 气\n👉https://www.ahhhhfs.com/52650/",
@@ -3640,126 +3770,6 @@
           "publishedOn": "2024-01-01T13:40:00.000Z",
           "wordCount": null,
           "title": "shuyuan：香色闺阁 、阅读3.0书源 、IPTV直播源 IPA巨魔应用 集合 ，自动更新 👉https://www.ahhhhfs.com/52490/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741799934976720938",
-          "author": "ahhhhfs",
-          "description": "Inbox Zero：开源AI电子邮件管理分析工具 \n可以分析统计Gmail邮件情况\n还可以一键取消营销邮件订阅等功能\n👉https://www.ahhhhfs.com/52438/",
-          "link": "https://twitter.com/abskoop/status/1741799934976720938",
-          "publishedOn": "2024-01-01T12:34:00.000Z",
-          "wordCount": null,
-          "title": "Inbox Zero：开源AI电子邮件管理分析工具 可以分析统计Gmail邮件情况 还可以一键取消营销邮件订阅等功能 👉https://www.ahhhhfs.com/52438/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741783829432705251",
-          "author": "ahhhhfs",
-          "description": "花月喵梦：在线资源丰富的私人网盘 \n包括黄 油游戏、系统激活、某全家桶等等\n👉https://www.ahhhhfs.com/52496/",
-          "link": "https://twitter.com/abskoop/status/1741783829432705251",
-          "publishedOn": "2024-01-01T11:30:00.000Z",
-          "wordCount": null,
-          "title": "花月喵梦：在线资源丰富的私人网盘 包括黄 油游戏、系统激活、某全家桶等等 👉https://www.ahhhhfs.com/52496/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741753260468474129",
-          "author": "ahhhhfs",
-          "description": "Disk Prices：硬盘和 SSD比价工具\n收集亚马逊上所有硬盘和 SSD 的数据\n包括价格、容量、技术等等\n数据每4小时更新\n👉https://www.ahhhhfs.com/52434/",
-          "link": "https://twitter.com/abskoop/status/1741753260468474129",
-          "publishedOn": "2024-01-01T09:28:32.000Z",
-          "wordCount": null,
-          "title": "Disk Prices：硬盘和 SSD比价工具 收集亚马逊上所有硬盘和 SSD 的数据 包括价格、容量、技术等等 数据每4小时更新 👉https://www.ahhhhfs.com/52434/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741710259365048814",
-          "author": "ahhhhfs",
-          "description": "某瓣2023评分最高韩 国剧 集\n👉https://www.ahhhhfs.com/52478/",
-          "link": "https://twitter.com/abskoop/status/1741710259365048814",
-          "publishedOn": "2024-01-01T06:37:39.000Z",
-          "wordCount": null,
-          "title": "某瓣2023评分最高韩 国剧 集 👉https://www.ahhhhfs.com/52478/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741506062237544754",
-          "author": "ahhhhfs",
-          "description": "💓💓💓\n\nahhhhfs: 服务器🪜流量订阅地址 用完即止🦢\n👉 http://ahhhhfs.com/32616/",
-          "link": "https://twitter.com/abskoop/status/1741506062237544754",
-          "publishedOn": "2023-12-31T17:06:15.000Z",
-          "wordCount": null,
-          "title": "💓💓💓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741489637867286591",
-          "author": "ahhhhfs",
-          "description": "2024祝㊗️X友们\n有钱 有时间 有性生活\n梦想成真🫡 #HappyNewYear",
-          "link": "https://twitter.com/abskoop/status/1741489637867286591",
-          "publishedOn": "2023-12-31T16:00:59.000Z",
-          "wordCount": null,
-          "title": "2024祝㊗️X友们 有钱 有时间 有性生活 梦想成真🫡 #HappyNewYear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741483600602886596",
-          "author": "ahhhhfs",
-          "description": "托福 冲110 高端 旗舰版全套课程\n包括真题、讲义、基础、语法、\n阅读、听力、写作等等课程\n👉https://www.ahhhhfs.com/52451/",
-          "link": "https://twitter.com/abskoop/status/1741483600602886596",
-          "publishedOn": "2023-12-31T15:37:00.000Z",
-          "wordCount": null,
-          "title": "托福 冲110 高端 旗舰版全套课程 包括真题、讲义、基础、语法、 阅读、听力、写作等等课程 👉https://www.ahhhhfs.com/52451/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741476805868126289",
-          "author": "ahhhhfs",
-          "description": "Z-Lib 最新地址（回家路）、动态信息、软件下载等等\n👉https://www.ahhhhfs.com/19317/",
-          "link": "https://twitter.com/abskoop/status/1741476805868126289",
-          "publishedOn": "2023-12-31T15:10:00.000Z",
-          "wordCount": null,
-          "title": "Z-Lib 最新地址（回家路）、动态信息、软件下载等等 👉https://www.ahhhhfs.com/19317/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741471520973828576",
-          "author": "ahhhhfs",
-          "description": "韩国某车展 XX 秀学习资源 4K\n👉https://www.ahhhhfs.com/52443/",
-          "link": "https://twitter.com/abskoop/status/1741471520973828576",
-          "publishedOn": "2023-12-31T14:49:00.000Z",
-          "wordCount": null,
-          "title": "韩国某车展 XX 秀学习资源 4K 👉https://www.ahhhhfs.com/52443/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741464942648205450",
-          "author": "ahhhhfs",
-          "description": "💓 #HappyNewYear",
-          "link": "https://twitter.com/abskoop/status/1741464942648205450",
-          "publishedOn": "2023-12-31T14:22:51.000Z",
-          "wordCount": null,
-          "title": "💓 #HappyNewYear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741455918095905074",
-          "author": "ahhhhfs",
-          "description": "Best Similar：电影推荐引擎 （剧荒追剧）\n查找最佳类似电影工具\n电影推荐引擎系统会考虑了多个电影参数\n并结合提示和专家评估进行电影选择推荐\n👉https://www.ahhhhfs.com/52430/",
-          "link": "https://twitter.com/abskoop/status/1741455918095905074",
-          "publishedOn": "2023-12-31T13:47:00.000Z",
-          "wordCount": null,
-          "title": "Best Similar：电影推荐引擎 （剧荒追剧） 查找最佳类似电影工具 电影推荐引擎系统会考虑了多个电影参数 并结合提示和专家评估进行电影选择推荐 👉https://www...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1741440063542526445",
-          "author": "ahhhhfs",
-          "description": "Danswer：开源AI企业问答工具 \n支持GPT-4等多种大型模型\n👉https://www.ahhhhfs.com/52413/\n集成了直接问答和生成式AI模型支持的聊天\n允许用户针对内部文档提出自然语言问题\n并获得由源材料中的引用和参考文献支持的可靠答案\n支持连接到Slack、GitHub、Confluence 等",
-          "link": "https://twitter.com/abskoop/status/1741440063542526445",
-          "publishedOn": "2023-12-31T12:44:00.000Z",
-          "wordCount": null,
-          "title": "Danswer：开源AI企业问答工具 支持GPT-4等多种大型模型 👉https://www.ahhhhfs.com/52413/ 集成了直接问答和生成式AI模型支持的聊天 允许用户针对内部文档提出...",
           "imageUrl": null
         }
       ]
