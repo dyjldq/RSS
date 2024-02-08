@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-07T00:34:37.021Z</updated>
+    <updated>2024-02-08T00:35:45.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[轻便长焦我都要，聊聊「演唱会神机」的个人体验与选购建议]]></title>
+        <id>https://sspai.com/post/84545</id>
+        <link href="https://sspai.com/post/84545"/>
+        <updated>2024-02-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[编注：视频首发于2023年10月13日，本文为视频的文字版本。文中部分内容可能与当下有所差异，请以官方发布的最新消息为准。刚过去的2023年可以说是演唱会之年。我在社交平台上，不是刷到大家在晒演唱会现 ...查看全文]]></summary>
+        <author>
+            <name>一只波露</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[春节将至，送你 5 份清单，助你过好平安吉祥年]]></title>
+        <id>https://sspai.com/post/86229</id>
+        <link href="https://sspai.com/post/86229"/>
+        <updated>2024-02-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有准备、不无聊，返乡前可以看看的春运小贴士。查看全文]]></summary>
+        <author>
+            <name>桌沿奇思</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 助力计算摄影：荣耀Magic6 Pro 体验]]></title>
+        <id>https://sspai.com/post/86371</id>
+        <link href="https://sspai.com/post/86371"/>
+        <updated>2024-02-07T06:31:06.000Z</updated>
+        <summary type="html"><![CDATA[借着这次的活动，我希望侧重于影像体验，来讲述我与搭载第三代骁龙 8 移动平台的荣耀Magic6 Pro 的故事。查看全文]]></summary>
+        <author>
+            <name>缝纫机动队</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac 视觉史 vol.2.5：山中俊治的「手绘板」]]></title>
+        <id>https://sspai.com/post/86124</id>
+        <link href="https://sspai.com/post/86124"/>
+        <updated>2024-02-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DrawingBoard 确实有点特殊——相比于同时代的其他尝试，它在视觉追求和体验层面上距离 Mac OS X 更近。查看全文]]></summary>
+        <author>
+            <name>陈子木</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：2025 款保时捷 Taycan 发布、OpenAI 引入 C2PA 标准水印等]]></title>
+        <id>https://sspai.com/post/86366</id>
+        <link href="https://sspai.com/post/86366"/>
+        <updated>2024-02-07T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple 开启 2024 年 Swift 学生挑战赛，阿里云盘将对超限容量账户进行限制。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幸福撩男同学术 正确姿势课程 👉https://www.ahhhhfs.com/53931/]]></title>
         <id>https://twitter.com/abskoop/status/1754894758336676089</id>
@@ -5077,16 +5127,6 @@ ahhhhfs: 繁 花 (2023)国语+沪语 4K 2160p 🙊]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 028 | 2023 年度照片、给娃 AI 起名以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/85689</id>
-        <link href="https://sspai.com/post/85689"/>
-        <updated>2024-01-09T09:39:59.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1241 OpenAI 称不用版权材料训练不出来 ChatGPT https://linux.cn/article-16545-1.html 🅷 OpenAI 称不用版权材料训练不出来 ChatGPT ...]]></title>
         <id>https://twitter.com/linux_cn/status/1744654672936186252</id>
         <link href="https://twitter.com/linux_cn/status/1744654672936186252"/>
@@ -5121,36 +5161,6 @@ https://linux.cn/article-16545-1.html
 👉https://www.ahhhhfs.com/52797/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放轻松 | 治愈「被互联网影响的心智」]]></title>
-        <id>https://sspai.com/post/85420</id>
-        <link href="https://sspai.com/post/85420"/>
-        <updated>2024-01-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。想了解如何参与本次征文、赢取奖品，可以点此查看活动规则。Whatareyoudoing?Justrelax ...查看全文]]></summary>
-        <author>
-            <name>Suri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自建 UniFi 内网监控面板，家庭网络动态尽在掌握]]></title>
-        <id>https://sspai.com/post/85481</id>
-        <link href="https://sspai.com/post/85481"/>
-        <updated>2024-01-09T03:40:24.000Z</updated>
-        <summary type="html"><![CDATA[今天我就换个方向，不再讨论规划和安装 Unifi 网络设备，来研究研究如何了解家里的 Unifi 设备状况。查看全文]]></summary>
-        <author>
-            <name>ryoma1836</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：OPPO 发布 Find X7 系列，CES 2024 周一发布了什么等]]></title>
-        <id>https://sspai.com/post/85670</id>
-        <link href="https://sspai.com/post/85670"/>
-        <updated>2024-01-09T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Vision Pro 定档 2 月 2 日美国发售，红帽宣布 CentOS 7 和 RHEL 7 将在 6 月 30 日结束支持等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
