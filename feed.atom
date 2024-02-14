@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-13T00:36:31.664Z</updated>
+    <updated>2024-02-14T00:36:30.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[做好新年计划，你可以先从制定年度预算开始]]></title>
+        <id>https://sspai.com/post/86327</id>
+        <link href="https://sspai.com/post/86327"/>
+        <updated>2024-02-13T06:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>ErMuss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真情侣，不记账：用支付宝荷包 + 飞书多维表格建立消费记录与分析系统]]></title>
+        <id>https://sspai.com/post/86274</id>
+        <link href="https://sspai.com/post/86274"/>
+        <updated>2024-02-13T04:30:11.000Z</updated>
+        <summary type="html"><![CDATA[本文适用于有以下消费习惯的情侣：对于情侣间的共同支出，采用AA制或AB制。AA制，就是在一起消费时，每个人都是A角，所有费用共同平均负担，每个人支付一样多；AB制，将共同消费的人员如演员角色分配一样分 ...查看全文]]></summary>
+        <author>
+            <name>中杯冰拿铁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[后会有「7」：下一代 Wi-Fi 技术解读]]></title>
         <id>https://sspai.com/prime/story/wifi-7-explained</id>
