@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T00:36:30.095Z</updated>
+    <updated>2024-02-15T00:36:16.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南 | 非典型的福州之旅，看见这座城市的 B 面]]></title>
+        <id>https://sspai.com/post/86245</id>
+        <link href="https://sspai.com/post/86245"/>
+        <updated>2024-02-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[于是，在春节前乍暖还寒的这段时间，我开启了一次非典型的福州之旅，去看见这座城市的 B 面。查看全文]]></summary>
+        <author>
+            <name>Wataru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仰卧起坐脖子疼？聊聊如何找对健身发力感]]></title>
+        <id>https://sspai.com/post/86361</id>
+        <link href="https://sspai.com/post/86361"/>
+        <updated>2024-02-14T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新年伊始，不知道你有没有立下健身的目标？在健身时，不知道你有没有遇到以下的困惑：练腹部，腹部没感觉，脖子酸得不行；练肩，肩膀没感觉，斜方肌累得不行；练臀，臀部没感觉，大腿累得撑不住。出现上面的问题，主 ...查看全文]]></summary>
+        <author>
+            <name>阿帅的健康笔记</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[做好新年计划，你可以先从制定年度预算开始]]></title>
         <id>https://sspai.com/post/86327</id>
