@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T00:36:16.218Z</updated>
+    <updated>2024-02-16T00:35:40.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」]]></title>
+        <id>https://sspai.com/post/86457</id>
+        <link href="https://sspai.com/post/86457"/>
+        <updated>2024-02-15T06:59:15.000Z</updated>
+        <summary type="html"><![CDATA[每到年末大家的传统艺能都是总结上一年的所见所得，少数派也不意外；而除了站内的已发布内容，我们同样也会对前一年市面上流行的数码科技产品作出总结和推荐。但我们也自知少数派并非专业评测媒体，无法基于产品参数 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：去墨尔本躲避北半球的冬天]]></title>
+        <id>https://sspai.com/post/85649</id>
+        <link href="https://sspai.com/post/85649"/>
+        <updated>2024-02-15T03:50:57.000Z</updated>
+        <summary type="html"><![CDATA[写下这篇文字的此刻，我正坐在维多利亚州立图书馆（StateLibraryofVictoria）的阅读室里，享受着或许不属于「游客」的悠闲时光。这次南半球之行，从信心满满的要把整个澳大利亚东南沿海城市逛 ...查看全文]]></summary>
+        <author>
+            <name>Konstantine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[城市漫步指南 | 非典型的福州之旅，看见这座城市的 B 面]]></title>
         <id>https://sspai.com/post/86245</id>
@@ -4161,17 +4181,6 @@ https://linux.cn/article-16563-1.html
 👉https://www.ahhhhfs.com/53067/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原理、对策与产品：聊聊牙齿美白两三事]]></title>
-        <id>https://sspai.com/prime/story/teeth-whitening</id>
-        <link href="https://sspai.com/prime/story/teeth-whitening"/>
-        <updated>2024-01-16T14:39:52.000Z</updated>
-        <summary type="html"><![CDATA[多白的牙才算白？你为牙齿美白花掉的那些钱，有多少是智商税，多少是真东西？查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>EurekaLab</name>
         </author>
     </entry>
     <entry>
