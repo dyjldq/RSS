@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86538",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/86538",
+          "publishedOn": "2024-02-20T09:05:11.000Z",
+          "wordCount": 772,
+          "title": "社区速递 032 | 写小说利器、被盗版以及春节照片后的故事",
+          "imageUrl": "https://cdn.sspai.com/2/20/2024/article/be028d58-0f54-10f0-8e5a-268f26b58603.jpg"
+        },
+        {
+          "id": "https://sspai.com/prime/story/lighting-design-for-rented-properties",
+          "author": "宛潼",
+          "description": "白色长条的日光灯是不少人童年中的记忆。而随着经济发展和审美水平的普遍提高，我们对于光的期许，也从单纯的照亮夜晚变成了营造氛围，单一、无法调节的白色照明已经无法满足我们的需求。\n但灯光配置对许多人来说也是一个难题。如果是自己购置的新房，还可以根据自己的喜好和家装设计师的方案来动态选择，但并非人人都有这样的前置条件。面对几乎无法改动硬装的租房，就必须忍受无法改变的「一片死白」了吗？\n并不是如此。我这几年一直在租房环境下探索「无主灯」式的布置思路，一路上积攒了不少经验。事实表明，即便是有主灯的设计，也可以通过一些小巧思转变为无主灯的效果，而且不用涉及到硬装改造，或者能够还原。\n如果你也想给自己打造一个合适好用的环境光，不妨跟着我的思路一起探索，或许会对你有所启发。\n\n    刚搬进来时候的样子\n\n\n文中提及的灯具汇总\n这里整理了我家里目前用的一些灯具，以偏黑白灰 + 木纹的中古简约风为主。仅供参考，你可以直接「抄作业」，也可以根据自己的审美和需求来调整。\n分类\n                产品\n                说明\n            \n可换灯泡\n                \n                    \n宜家索尔克林台灯\n宜家安卡派落地灯\n一个后续会换掉的奶油风吊灯\n淘宝随便买的一个台灯灯罩\n均搭配 Nanoleaf Essentials E27（Thread 版）灯泡使用\n            \n智能灯具\n                \n                    \nAqara 幻彩吸顶灯 T1；\nAqara 吸顶灯 T1；\nYeeLight Pro 屏幕挂灯；\nYeeLight 灯带；\n自己 DIY 的偏置照明灯条；\n飞利浦智睿球泡灯；\n均接入 HA 并桥接到 HomeKit 控制\n            \n非智能灯具\n                \n                    \n轨道灯\n双头射灯\n通过 Aqara S1E 开关接入智能控制。\n具体型号不做推荐，可以根据个人需要选择灯的数量和轨道长度等，但也别忘了重点关注频闪、Ra 值和色温\n「好灯光」是什么？\n目前的租房市场里，绝大部分的照明系统还秉承着「有了且能用就行」的原则，依旧被日光灯、单色白光吸顶灯占据主流。一旦它们开始工作，就会完全不考虑你的感受，毫不客气地、硬生生地把刺眼的白光塞满整个房间。\n所以，与之相对的，就是我对「租房好灯光」的定义：\n只照亮该照亮的位置，既能覆盖全屋，也能只点亮几个角落；\n拒绝纯粹的白光，给自己更多的颜色、亮度和色温选择权；\n灯光的显色指数达到 Ra90 以上，无可见频闪，视觉上观感舒服不刺眼。\n是不是有点熟悉？其实这也是无主灯照明的核心要义。但在租房环境下，由于无法做一些破坏性的装修，房屋的硬装、电网布局和灯具孔位都受到了严格限制，还要考虑搬家的带走和复原的需要，传统方案里常用的壁灯、轨道灯、联排射灯和吊顶灯条就毫无用武之地。\n不过让我们换一种解决的思路和角度 —— 既然上墙和入顶的灯无法使用，那么灵活可移动的落地灯、台灯乃至工作灯，都可以成为照亮环境的选择。这一方案的核心方法论非常简单粗暴：如果不能改变主灯的位置，那么就改变它的「地位」。而具体的实行方法也很简单：\n用更多的可移动的、灵活的灯光（甚至是蜡烛的光也可以）来替代主灯，或者冲淡它的存在感；\n在日常的使用中，更多地开启这些氛围灯具来代替主灯对空间的「无差别照明」。\n基于这些原则，租房的无主灯方案便有了落点。不过在改造开始前，理清自己的需求是先行步骤。千万不要脑子一热买些好看却无法优雅使用的灯具，还是要根据自己的实际环境与照明需求来思考如何安排。\n我家的照明方案\n我租下的房子为将近百平的房一厅布局，为旧村改造的回迁房。选择这个房子相比精装房有更大的好处，一是更加现代且没有「广东省省屋」的内部设计，符合我对房屋的审美，留给我改造的余地较大；二是有较好的弱电布局，方便我能为智能灯具准备好良好的无线网络。\n下面，我将根据我在家里生活的几个空间，来向你介绍我的无主灯照明方案。\n起居室：保留主灯的无主灯设计\n起居室占据的空间约在 25 平左右，开发商给的原始布局是两个白色的吸顶灯，一个位于沙发上方，一个位于餐桌上方。作为会见朋友、生活起居和猫主子的主要活动空间，我的改造目标主要有这些点：\n[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/lighting-design-for-rented-properties",
+          "publishedOn": "2024-02-20T06:52:00.000Z",
+          "wordCount": 1064,
+          "title": "在租来的房子里，我这样搭建怡人的光照",
+          "imageUrl": "https://cdn.sspai.com/2023/11/29/article/77b8f1ae-2510-7dbe-4145-43bc5cac0c8b.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86288",
+          "author": "化学心情下2",
+          "description": "走在「钢丝」上的 Lok Board 能多大程度上带来桌面端的使用体验？查看全文",
+          "link": "https://sspai.com/post/86288",
+          "publishedOn": "2024-02-20T04:19:38.000Z",
+          "wordCount": 982,
+          "title": "用浏览器思路，为 iPad 带来桌面级体验：Lok Board",
+          "imageUrl": "https://cdn.sspai.com/2/20/2024/article/7fd43e6d-9340-9aca-15e0-1e7fee6f7c69.png"
+        },
+        {
+          "id": "https://sspai.com/post/86522",
+          "author": "少数派编辑部",
+          "description": "加拿大航空因聊天机器人错误回复支付旅客退款，网易停运《三国诛将录》等查看全文",
+          "link": "https://sspai.com/post/86522",
+          "publishedOn": "2024-02-20T00:00:00.000Z",
+          "wordCount": 742,
+          "title": "派早报：Intel 被指控夸大 CPU 测试结果，英国芯片制造商 Graphcore 寻求出售等",
+          "imageUrl": "https://cdn.sspai.com/2024/2/19/article/20282843-ae03-9b89-e1d1-cfb155eacdff.png"
+        },
+        {
           "id": "https://sspai.com/post/86521",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -864,56 +904,6 @@
           "wordCount": 829,
           "title": "派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版",
           "imageUrl": "https://cdn.sspai.com/1/23/2024/article/0d134081-5a89-6bda-6a37-8072d5a7bcca.png"
-        },
-        {
-          "id": "https://sspai.com/post/85988",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。不容错过的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/85988",
-          "publishedOn": "2024-01-22T10:04:56.000Z",
-          "wordCount": 860,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/1/22/article/dc893097-b652-0ab8-6e69-ab4b4ad2c42a.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi",
-          "author": "炜智能",
-          "description": "组件选购、硬件安装、软件配置，从零起步打造你的墨水屏相框查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/tutorial-diy-eink-photoframe-with-rpi",
-          "publishedOn": "2024-01-22T09:06:22.000Z",
-          "wordCount": 1136,
-          "title": "树莓派 DIY 墨水屏相框完全指南",
-          "imageUrl": "https://cdn.sspai.com/1/22/2024/article/dfebc80d-ece2-1569-e4a4-dbedff1210b7.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85941",
-          "author": "二一的笔记",
-          "description": "本文介绍了 Notion 的新产品 Notion Calendar，这是继 Notion 收购日历应用 Cron 后的一次重要更新。Notion Calendar 提升了 Notion 本体与日历功能的融合，支持多平台但暂不支持中文和部分系统。用户需通过谷歌账号登录，可以实现 Notion 数据库和 Notion Calendar 的双向同步。文章还详细讲解了如何关联 Notion 数据库，以及Notion Calendar 的基本和重要特性，包括订阅多个数据库日历、创建日程时调用模板等。同时，也提供了操作效率技巧，但也指出了 Notion Calendar 存在的问题和限制。最后，作者建议重度 Notion 用户下载试用，而对于非日历工具用户，建议等待进一步优化。\n想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》\n[......]\n查看全文\n本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。",
-          "link": "https://sspai.com/post/85941",
-          "publishedOn": "2024-01-22T07:17:58.000Z",
-          "wordCount": 1039,
-          "title": "Notion Calendar 上线简评：终于打通 Notion 与日历，却难说完美",
-          "imageUrl": "https://cdn.sspai.com/2024/1/19/article/e618226d-1111-695f-9060-891753bba6f6.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/85883",
-          "author": "果铺知道",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/85883",
-          "publishedOn": "2024-01-22T03:22:03.000Z",
-          "wordCount": 952,
-          "title": "无限循环：最独特的 Apple Store 上周永久停业，但它的故事不会就此了结",
-          "imageUrl": "https://cdn.sspai.com/2024/01/17/9c5a7001acee04605903aeb850bdae6e.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85973",
-          "author": "少数派编辑部",
-          "description": "VisionPro上架资讯汇总1月19日，苹果开放了首款空间计算设备VisionPro的预定，暂时仅限美国用户购买，将于2月2日（周五）发货。据分析师郭明錤此前说法，首发备货仅有8万台。开放预订数小时 ...查看全文",
-          "link": "https://sspai.com/post/85973",
-          "publishedOn": "2024-01-22T01:03:35.000Z",
-          "wordCount": 993,
-          "title": "派早报：Vision Pro 上架资讯汇总",
-          "imageUrl": "https://cdn.sspai.com/1/22/2024/article/57e48b8f-9983-81d8-9f31-8d37f8534c32.png"
         }
       ]
     },
