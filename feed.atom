@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T00:36:13.746Z</updated>
+    <updated>2024-02-22T00:35:46.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[善用命名法，让「搜索」成为最简单的本地文件管理方案]]></title>
+        <id>https://sspai.com/post/86393</id>
+        <link href="https://sspai.com/post/86393"/>
+        <updated>2024-02-21T09:31:44.000Z</updated>
+        <summary type="html"><![CDATA[或许表面上的不分类，是为了真正用起来的时候，可以用得更快更好。我的这套管理方法，或许你也可以尝试看看。查看全文]]></summary>
+        <author>
+            <name>_东东_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 用快捷指令一键切换 Mac 音频输出设备]]></title>
+        <id>https://sspai.com/post/86520</id>
+        <link href="https://sspai.com/post/86520"/>
+        <updated>2024-02-21T07:00:26.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是NowScott。原因之前在使用Windows电脑时，由于经常需要把声音输出在音箱和耳机之间频繁切换，就找到了一个软件来实现一键切换（鼠标侧键映射到快捷键上）音频输出设备，但是换到Mac上 ...查看全文]]></summary>
+        <author>
+            <name>NowScott</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文｜在波折失业的 2023 中，我学到了这些]]></title>
+        <id>https://sspai.com/post/86509</id>
+        <link href="https://sspai.com/post/86509"/>
+        <updated>2024-02-21T03:12:19.000Z</updated>
+        <summary type="html"><![CDATA[时间总是抽身质疑的药剂，几个月过去再回头看这些经历，反倒觉得是一堂宝贵的人生课，让我停下忙碌的步伐，回归常识，回归自我。查看全文]]></summary>
+        <author>
+            <name>家屹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等]]></title>
+        <id>https://sspai.com/post/86555</id>
+        <link href="https://sspai.com/post/86555"/>
+        <updated>2024-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[微软 Xbox 无线控制器「幻境风暴特别版」国行开售，Apple Music 新增播放列表迁移功能等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 032 | 写小说利器、被盗版以及春节照片后的故事]]></title>
         <id>https://sspai.com/post/86538</id>
@@ -3265,16 +3305,6 @@ https://youtu.be/ekK_4DYorIg]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意]]></title>
-        <id>https://sspai.com/post/86008</id>
-        <link href="https://sspai.com/post/86008"/>
-        <updated>2024-01-23T09:17:58.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1255 惠普称病毒能通过墨盒传播而禁止使用第三方墨盒 https://linux.cn/article-16578-1.html 🅷 惠普称病毒能通过墨盒传播而禁止使用第...]]></title>
         <id>https://twitter.com/linux_cn/status/1749713081435910204</id>
         <link href="https://twitter.com/linux_cn/status/1749713081435910204"/>
@@ -3301,16 +3331,6 @@ https://linux.cn/article-16578-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[放轻松 | 摆脱碎片化，让放松触手可及]]></title>
-        <id>https://sspai.com/post/85763</id>
-        <link href="https://sspai.com/post/85763"/>
-        <updated>2024-01-23T07:09:25.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。如何放轻松，可能是现在令我们最头痛，也是最关注的一个话题。轻松成为一种状态容易，成为一种常态很难。每个人都 ...查看全文]]></summary>
-        <author>
-            <name>EricYoung</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[最全年终工作神器（年终奖、考核、调薪、评优、总结） 👉https://www.ahhhhfs.com/53266/]]></title>
         <id>https://twitter.com/abskoop/status/1749687500363436370</id>
         <link href="https://twitter.com/abskoop/status/1749687500363436370"/>
@@ -3332,16 +3352,6 @@ https://linux.cn/article-16578-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容]]></title>
-        <id>https://sspai.com/post/85816</id>
-        <link href="https://sspai.com/post/85816"/>
-        <updated>2024-01-23T03:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Keyboard Maestro 的可玩性与实用性可能远超你的想象，配合 Apple Script，它能完成很多省时省力的操作。查看全文]]></summary>
-        <author>
-            <name>MarvinCui</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[桌面应用 | 使用 GDM 设置来自定义 GNOME 中的登录屏幕 https://linux.cn/article-16577-1.html 没错，即使是 GNOME 登录屏幕也可以自定义。这里有一个方便的实...]]></title>
         <id>https://twitter.com/linux_cn/status/1749634907465265518</id>
         <link href="https://twitter.com/linux_cn/status/1749634907465265518"/>
@@ -3351,16 +3361,6 @@ https://linux.cn/article-16577-1.html
 没错，即使是 GNOME 登录屏幕也可以自定义。这里有一个方便的实用工具，可以让事情变得更简单。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版]]></title>
-        <id>https://sspai.com/post/85997</id>
-        <link href="https://sspai.com/post/85997"/>
-        <updated>2024-01-23T00:42:18.000Z</updated>
-        <summary type="html"><![CDATA[飞傲推出 CP13 便携磁带播放器，芝加哥大学教授发布 AI「投毒」工具 Nightshade 等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

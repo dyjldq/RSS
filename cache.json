@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86393",
+          "author": "_东东_",
+          "description": "或许表面上的不分类，是为了真正用起来的时候，可以用得更快更好。我的这套管理方法，或许你也可以尝试看看。查看全文",
+          "link": "https://sspai.com/post/86393",
+          "publishedOn": "2024-02-21T09:31:44.000Z",
+          "wordCount": 764,
+          "title": "善用命名法，让「搜索」成为最简单的本地文件管理方案",
+          "imageUrl": "https://cdn.sspai.com/2024/02/08/6a18c852ff9d37efc9f9e234dab1acb0.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86520",
+          "author": "NowScott",
+          "description": "大家好，我是NowScott。原因之前在使用Windows电脑时，由于经常需要把声音输出在音箱和耳机之间频繁切换，就找到了一个软件来实现一键切换（鼠标侧键映射到快捷键上）音频输出设备，但是换到Mac上 ...查看全文",
+          "link": "https://sspai.com/post/86520",
+          "publishedOn": "2024-02-21T07:00:26.000Z",
+          "wordCount": 790,
+          "title": "一日一技 | 用快捷指令一键切换 Mac 音频输出设备",
+          "imageUrl": "https://cdn.sspai.com/2024/02/19/8d4301e9be64a77e8ae74f781498196a.png"
+        },
+        {
+          "id": "https://sspai.com/post/86509",
+          "author": "家屹",
+          "description": "时间总是抽身质疑的药剂，几个月过去再回头看这些经历，反倒觉得是一堂宝贵的人生课，让我停下忙碌的步伐，回归常识，回归自我。查看全文",
+          "link": "https://sspai.com/post/86509",
+          "publishedOn": "2024-02-21T03:12:19.000Z",
+          "wordCount": 699,
+          "title": "年度征文｜在波折失业的 2023 中，我学到了这些",
+          "imageUrl": "https://cdn.sspai.com/2024/02/19/442ab0d817c3d3faf06e0f22fabd7328.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86555",
+          "author": "少数派编辑部",
+          "description": "微软 Xbox 无线控制器「幻境风暴特别版」国行开售，Apple Music 新增播放列表迁移功能等。查看全文",
+          "link": "https://sspai.com/post/86555",
+          "publishedOn": "2024-02-21T00:00:00.000Z",
+          "wordCount": 811,
+          "title": "派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等",
+          "imageUrl": "https://cdn.sspai.com/2024/2/21/article/4220da44-5f33-ffa1-77b0-663faec92911.png"
+        },
+        {
           "id": "https://sspai.com/post/86538",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
@@ -864,46 +904,6 @@
           "wordCount": 769,
           "title": "派早报：Apple 将为空间音频内容创作者提供版税补贴等",
           "imageUrl": "https://cdn.sspai.com/2024/1/24/article/42c594a6-992b-2e13-58c8-0e91dc60dbd5.png"
-        },
-        {
-          "id": "https://sspai.com/post/86008",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/86008",
-          "publishedOn": "2024-01-23T09:17:58.000Z",
-          "wordCount": 1012,
-          "title": "社区速递 029 | 投影仪折腾、在看的书以及作者们的新玩意",
-          "imageUrl": "https://cdn.sspai.com/1/23/2024/article/1a05483b-a3c4-79f1-8f42-27449affdceb.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/85763",
-          "author": "EricYoung",
-          "description": "编注：本文是「放轻松」征文活动的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。如何放轻松，可能是现在令我们最头痛，也是最关注的一个话题。轻松成为一种状态容易，成为一种常态很难。每个人都 ...查看全文",
-          "link": "https://sspai.com/post/85763",
-          "publishedOn": "2024-01-23T07:09:25.000Z",
-          "wordCount": 708,
-          "title": "放轻松 | 摆脱碎片化，让放松触手可及",
-          "imageUrl": "https://cdn.sspai.com/2024/01/11/e0ae5f7083d5458d5308db534a151573.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/85816",
-          "author": "MarvinCui",
-          "description": "Keyboard Maestro 的可玩性与实用性可能远超你的想象，配合 Apple Script，它能完成很多省时省力的操作。查看全文",
-          "link": "https://sspai.com/post/85816",
-          "publishedOn": "2024-01-23T03:30:44.000Z",
-          "wordCount": 867,
-          "title": "一日一技｜巧用 Keyboard Maestro，快速在备忘录中记录窗口的选中内容",
-          "imageUrl": "https://cdn.sspai.com/2024/01/14/0877af6f575b33f98bd81f3dc3419cfa.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/85997",
-          "author": "少数派编辑部",
-          "description": "飞傲推出 CP13 便携磁带播放器，芝加哥大学教授发布 AI「投毒」工具 Nightshade 等查看全文",
-          "link": "https://sspai.com/post/85997",
-          "publishedOn": "2024-01-23T00:42:18.000Z",
-          "wordCount": 829,
-          "title": "派早报：Apple 发布 iOS/iPadOS 17.3 与 macOS 14.3 等正式版",
-          "imageUrl": "https://cdn.sspai.com/1/23/2024/article/0d134081-5a89-6bda-6a37-8072d5a7bcca.png"
         }
       ]
     },
