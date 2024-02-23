@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:35:46.186Z</updated>
+    <updated>2024-02-23T00:35:42.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[时间都去哪儿了：我的 Obsidian 间歇日志实践方案]]></title>
+        <id>https://sspai.com/post/86518</id>
+        <link href="https://sspai.com/post/86518"/>
+        <updated>2024-02-22T09:42:41.000Z</updated>
+        <summary type="html"><![CDATA[认真撰写自己的每一笔时间日志，享受当下，享受过程，享受成果。查看全文]]></summary>
+        <author>
+            <name>致九</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随时收听、更省流量，用 HLS 搭建私有音乐电台]]></title>
+        <id>https://sspai.com/post/86398</id>
+        <link href="https://sspai.com/post/86398"/>
+        <updated>2024-02-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[借助 HLS 流媒体传输协议，你也可以搭建一个属于自己的私有音乐电台。查看全文]]></summary>
+        <author>
+            <name>Soundtrack9407</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#起源、用法和趣闻：关于井号的补充史#]]></title>
+        <id>https://sspai.com/post/86471</id>
+        <link href="https://sspai.com/post/86471"/>
+        <updated>2024-02-22T03:15:10.000Z</updated>
+        <summary type="html"><![CDATA[「一言以蔽之，这个词是某个人出于好玩发明的，只是因为他喜欢它。」查看全文]]></summary>
+        <author>
+            <name>SUNTRISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等]]></title>
+        <id>https://sspai.com/post/86581</id>
+        <link href="https://sspai.com/post/86581"/>
+        <updated>2024-02-22T00:36:31.000Z</updated>
+        <summary type="html"><![CDATA[华硕公开 Zenfone 11 Ultra 手机、LG 推出 27 英寸便携式随行屏 StanbyME Go 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[善用命名法，让「搜索」成为最简单的本地文件管理方案]]></title>
         <id>https://sspai.com/post/86393</id>
@@ -3069,16 +3109,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Macintosh：40 年之前的故事]]></title>
-        <id>https://sspai.com/post/73310</id>
-        <link href="https://sspai.com/post/73310"/>
-        <updated>2024-01-24T09:08:22.000Z</updated>
-        <summary type="html"><![CDATA[每一个创造者的名字都理应被铭记，因为，在很大程度上，他们确实改变了世界。查看全文]]></summary>
-        <author>
-            <name>阿斯巴盐</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[硬核观察 | 硬核观察 #1256 研究发现人类仍比人工智能便宜 https://linux.cn/article-16581-1.html 🅷 研究发现人类仍比人工智能便宜 🄸 Chrome 将内置人工...]]></title>
         <id>https://twitter.com/linux_cn/status/1750079021218439673</id>
         <link href="https://twitter.com/linux_cn/status/1750079021218439673"/>
@@ -3092,16 +3122,6 @@ https://linux.cn/article-16581-1.html
 »]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Music Classical 评测：为什么古典音乐应该被「区别对待」？]]></title>
-        <id>https://sspai.com/post/79079</id>
-        <link href="https://sspai.com/post/79079"/>
-        <updated>2024-01-24T07:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music Classical 已经有了和 Apple Music 足够多的区别，但它依然是那个 Apple Music。查看全文]]></summary>
-        <author>
-            <name>SCHOENBERG</name>
         </author>
     </entry>
     <entry>
@@ -3148,16 +3168,6 @@ https://linux.cn/article-16580-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[看完 Sam Altman 的斯坦福创业课，我学到了什么？]]></title>
-        <id>https://sspai.com/post/84988</id>
-        <link href="https://sspai.com/post/84988"/>
-        <updated>2024-01-24T03:21:26.000Z</updated>
-        <summary type="html"><![CDATA[创业课的内容并非鸡汤，而是经历过创业踩过坑的肺腑之言，对想要了解创业、正在创业的小伙伴都会有所启发，想要了解公司运转的员工也同样可以了解。查看全文]]></summary>
-        <author>
-            <name>Bay的设计奥德赛</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[软件开发 | 人工智能教程（六）：Keras 和第一个数据集 https://linux.cn/article-16579-1.html 在本文中我们将继续学习概率论的知识。]]></title>
         <id>https://twitter.com/linux_cn/status/1749972179234554216</id>
         <link href="https://twitter.com/linux_cn/status/1749972179234554216"/>
@@ -3167,16 +3177,6 @@ https://linux.cn/article-16579-1.html
 在本文中我们将继续学习概率论的知识。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 将为空间音频内容创作者提供版税补贴等]]></title>
-        <id>https://sspai.com/post/86018</id>
-        <link href="https://sspai.com/post/86018"/>
-        <updated>2024-01-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[闲鱼首家线下商店即将开业，索尼发布 SRS-XV500 蓝牙音箱等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
