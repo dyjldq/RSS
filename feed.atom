@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T00:35:42.638Z</updated>
+    <updated>2024-02-24T00:34:02.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用广告拦截器隐藏干扰元素：常用思路和语法介绍]]></title>
+        <id>https://sspai.com/prime/story/adblock-annoyances-intro</id>
+        <link href="https://sspai.com/prime/story/adblock-annoyances-intro"/>
+        <updated>2024-02-23T11:27:39.000Z</updated>
+        <summary type="html"><![CDATA[针对屏蔽网页上干扰元素的需求，本文介绍了广告拦截器中「修饰规则」的基本原理，以及其中元素选择器部分的常用制作思路。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
+        <id>https://sspai.com/post/86623</id>
+        <link href="https://sspai.com/post/86623"/>
+        <updated>2024-02-23T09:52:06.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]东京罪恶第二季、[电影]机器人之梦、[电影]琳达想吃鸡肉、[美剧]小谢尔顿第七季（最终季）、[英剧]贝茨先生诉邮局、[美剧]新风貌、[美剧]史密斯夫妇、[电影]美国 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 古典、现代与未来：史学写作与科技的跨界]]></title>
+        <id>https://sspai.com/post/86552</id>
+        <link href="https://sspai.com/post/86552"/>
+        <updated>2024-02-23T07:02:14.000Z</updated>
+        <summary type="html"><![CDATA[时代在发展，技术在进步，历史学的研究者也在跟随这步伐。查看全文]]></summary>
+        <author>
+            <name>海拉鲁的林克</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[磁带，可不止三十年前的老歌]]></title>
+        <id>https://sspai.com/post/86559</id>
+        <link href="https://sspai.com/post/86559"/>
+        <updated>2024-02-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[梦醒之后发现不管世界变成什么样，自己还能坐在音乐前，拿出最老的磁带聊着最新款的磁带播放器，转头一看桌上放着的正是自己刚做好的新磁带，又何尝不是一种「年少时射出的子弹正中眉心」。查看全文]]></summary>
+        <author>
+            <name>挨石</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：小米发布小米 14 Ultra 手机、三星发布 Galaxy Fit 3 健身手环等]]></title>
+        <id>https://sspai.com/post/86608</id>
+        <link href="https://sspai.com/post/86608"/>
+        <updated>2024-02-23T00:49:38.000Z</updated>
+        <summary type="html"><![CDATA[华为发布 Pocket 2 竖向折叠屏手机，Apple 宣布为 iMessage 推出后量子加密协议 PQ3 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[时间都去哪儿了：我的 Obsidian 间歇日志实践方案]]></title>
         <id>https://sspai.com/post/86518</id>
@@ -2908,26 +2959,6 @@ https://linux.cn/article-16584-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[遇见皆是好风景：我们影像里的 2024 少数派泰国团建]]></title>
-        <id>https://sspai.com/post/86088</id>
-        <link href="https://sspai.com/post/86088"/>
-        <updated>2024-01-25T09:45:52.000Z</updated>
-        <summary type="html"><![CDATA[在本文中，我派成员用每人一些影像的方式回顾了自己在团建之旅中经历或看到的有趣片段。我们想用这样的方式和你分享旅行途中的美好风景，以及旅行本身的快乐。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 170｜少数派的编辑们最近买了啥？（泰国特别篇）]]></title>
-        <id>https://sspai.com/post/86083</id>
-        <link href="https://sspai.com/post/86083"/>
-        <updated>2024-01-25T08:36:18.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某爷万词班 22000词汇速记营课程 👉https://www.ahhhhfs.com/53424/]]></title>
         <id>https://twitter.com/abskoop/status/1750437162942943716</id>
         <link href="https://twitter.com/abskoop/status/1750437162942943716"/>
@@ -2951,16 +2982,6 @@ https://linux.cn/article-16583-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何为 Apple ID 和 iCloud 资料「搬家」：我的迁移经历以及经验分享]]></title>
-        <id>https://sspai.com/post/85912</id>
-        <link href="https://sspai.com/post/85912"/>
-        <updated>2024-01-25T07:20:39.000Z</updated>
-        <summary type="html"><![CDATA[更换 Apple ID 并迁移原账户 iCloud 内容与数据的过程中，我碰到了一些随时间推移、系统更新产生的新的问题，特以此篇文章作为记录。查看全文]]></summary>
-        <author>
-            <name>宴息</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[分享 | Floorp 浏览器：这是最先进的跨平台 Firefox 衍生品吗？ https://linux.cn/article-16582-1.html 让我们探究一下这款有趣的 Firefox 分支产品 - Floorp。]]></title>
         <id>https://twitter.com/linux_cn/status/1750417627652993476</id>
         <link href="https://twitter.com/linux_cn/status/1750417627652993476"/>
@@ -2970,26 +2991,6 @@ https://linux.cn/article-16582-1.html
 让我们探究一下这款有趣的 Firefox 分支产品 - Floorp。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学点复式记账，让个人理财更有逻辑]]></title>
-        <id>https://sspai.com/post/85033</id>
-        <link href="https://sspai.com/post/85033"/>
-        <updated>2024-01-25T03:31:56.000Z</updated>
-        <summary type="html"><![CDATA[复式记账是目前企业通行的一套方法，因此个人掌握了复式记账的原理，理论就可以记录任何的账目。查看全文]]></summary>
-        <author>
-            <name>accelee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Chrome 引入 AI 功能、Apple 开启 2024 Swift 学生挑战赛等]]></title>
-        <id>https://sspai.com/post/86068</id>
-        <link href="https://sspai.com/post/86068"/>
-        <updated>2024-01-25T00:38:33.000Z</updated>
-        <summary type="html"><![CDATA[三星推出 990 EVO SSD、3DS 及 Wii U 在线功能服务即将正式结束等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
