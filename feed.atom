@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-24T00:34:02.077Z</updated>
+    <updated>2024-02-25T00:39:09.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[我的注意力去哪儿了？聊聊 ADHD 和背后的故事]]></title>
+        <id>https://sspai.com/post/86560</id>
+        <link href="https://sspai.com/post/86560"/>
+        <updated>2024-02-24T03:30:30.000Z</updated>
+        <summary type="html"><![CDATA[分心不是你的错，正确理解 ADHD 摆正心态，才能找到最适合自己的位置。查看全文]]></summary>
+        <author>
+            <name>LOSSES</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用广告拦截器隐藏干扰元素：常用思路和语法介绍]]></title>
         <id>https://sspai.com/prime/story/adblock-annoyances-intro</id>
@@ -2713,16 +2723,6 @@ https://youtu.be/CD6JlE-Atr4]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/86118</id>
-        <link href="https://sspai.com/post/86118"/>
-        <updated>2024-01-26T10:14:15.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[韩剧]杀人者的购物中心、[日剧]追踪者游戏W职权骚扰的上司是我的前女友、[澳大利亚]吞下宇宙的男孩、[美剧]海上密室谋杀案、[电影]你好，妈妈、[电影]12年级的失败、[ ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BewlyBewly：开源Bilibili 美化插件 简约个性化页面 流畅不卡顿 👉https://www.ahhhhfs.com/53332/]]></title>
         <id>https://twitter.com/abskoop/status/1750817413560746451</id>
         <link href="https://twitter.com/abskoop/status/1750817413560746451"/>
@@ -2800,36 +2800,6 @@ https://linux.cn/article-16585-1.html
 Linux 现在有了 Mozilla Firefox 的新原生包。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为 Steam Deck 装载更多可能性：Decky Loader 插件推荐]]></title>
-        <id>https://sspai.com/post/85809</id>
-        <link href="https://sspai.com/post/85809"/>
-        <updated>2024-01-26T07:00:52.000Z</updated>
-        <summary type="html"><![CDATA[想让 Steam Deck 玩起来更上手？你可能需要了解一下插件商店 Decky Loader。查看全文]]></summary>
-        <author>
-            <name>eaglu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[播客 | 创业就是如果你对你的工作不满意，那就永远不退休]]></title>
-        <id>https://sspai.com/post/86101</id>
-        <link href="https://sspai.com/post/86101"/>
-        <updated>2024-01-26T02:52:47.000Z</updated>
-        <summary type="html"><![CDATA[老麦和猫王音响创始人曾德钧进行了一场关于创业的对话。两人在自己的创业历程中都经历了坎坷，也都曾面对过公司即将倒闭的危机时刻。在这场对谈中，他们各自总结和展望了自己不想停止的创业历程。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：OPPO 与诺基亚达成专利交叉许可协议，微软游戏部门裁员 1900 人等]]></title>
-        <id>https://sspai.com/post/86095</id>
-        <link href="https://sspai.com/post/86095"/>
-        <updated>2024-01-26T00:07:00.000Z</updated>
-        <summary type="html"><![CDATA[中国移动和家亲相册服务停服下线，三星 Galaxy S24 系列国行售价发布等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
