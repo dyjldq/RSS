@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-25T00:39:09.312Z</updated>
+    <updated>2024-02-26T00:37:41.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年度征文｜数字无业游民的自我「和解」]]></title>
+        <id>https://sspai.com/post/86421</id>
+        <link href="https://sspai.com/post/86421"/>
+        <updated>2024-02-25T07:00:31.000Z</updated>
+        <summary type="html"><![CDATA[2023 年，我给自己放了一年的假。查看全文]]></summary>
+        <author>
+            <name>朴步成</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的注意力去哪儿了？聊聊 ADHD 和背后的故事]]></title>
         <id>https://sspai.com/post/86560</id>
@@ -2556,16 +2566,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/53450/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[概念、趋势、产品推荐：近期大模型应用方向解析]]></title>
-        <id>https://sspai.com/post/86005</id>
-        <link href="https://sspai.com/post/86005"/>
-        <updated>2024-01-27T07:53:02.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章会从 GPTs、大模型中间层、大火的虚拟社交聊到 AI Agent、大模型的多模态能力、产品推荐，涵盖了 2023 年下半年至今大模型应用领域的最新进展。查看全文]]></summary>
-        <author>
-            <name>Bay的设计奥德赛</name>
         </author>
     </entry>
     <entry>

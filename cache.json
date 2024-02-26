@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86421",
+          "author": "朴步成",
+          "description": "2023 年，我给自己放了一年的假。查看全文",
+          "link": "https://sspai.com/post/86421",
+          "publishedOn": "2024-02-25T07:00:31.000Z",
+          "wordCount": 720,
+          "title": "年度征文｜数字无业游民的自我「和解」",
+          "imageUrl": "https://cdn.sspai.com/2024/02/21/e594b0a6d747b887eb35ea6d7fb294f0.jpg"
+        },
+        {
           "id": "https://sspai.com/post/86560",
           "author": "LOSSES",
           "description": "分心不是你的错，正确理解 ADHD 摆正心态，才能找到最适合自己的位置。查看全文",
@@ -864,16 +874,6 @@
           "wordCount": 677,
           "title": "一日一技 | 达玛卡亚冥想法入门指南",
           "imageUrl": "https://cdn.sspai.com/23/01/2024/article/6e09a01e-0aa7-3541-6798-e664b2004bb4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86005",
-          "author": "Bay的设计奥德赛",
-          "description": "这篇文章会从 GPTs、大模型中间层、大火的虚拟社交聊到 AI Agent、大模型的多模态能力、产品推荐，涵盖了 2023 年下半年至今大模型应用领域的最新进展。查看全文",
-          "link": "https://sspai.com/post/86005",
-          "publishedOn": "2024-01-27T07:53:02.000Z",
-          "wordCount": 1191,
-          "title": "概念、趋势、产品推荐：近期大模型应用方向解析",
-          "imageUrl": "https://cdn.sspai.com/2024/01/23/8a6746248d176778e64444fbe41a57dd.png"
         }
       ]
     },
