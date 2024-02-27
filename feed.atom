@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-26T00:37:41.158Z</updated>
+    <updated>2024-02-27T00:35:37.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/86685</id>
+        <link href="https://sspai.com/post/86685"/>
+        <updated>2024-02-26T09:52:07.000Z</updated>
+        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文｜新手家庭财务初探]]></title>
+        <id>https://sspai.com/post/86627</id>
+        <link href="https://sspai.com/post/86627"/>
+        <updated>2024-02-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[搭伙过日子，就要通过协商和更多方面的考虑来构建合伙模式。本文仅以一个小例子作为阐述，也是对 2023 年身份转变后，个人对家庭财务思考的总结。查看全文]]></summary>
+        <author>
+            <name>斯利普固</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？]]></title>
+        <id>https://sspai.com/post/86677</id>
+        <link href="https://sspai.com/post/86677"/>
+        <updated>2024-02-26T03:41:23.000Z</updated>
+        <summary type="html"><![CDATA[能，但 Office 里的 Copilot 还有很大的提升空间。查看全文]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元]]></title>
+        <id>https://sspai.com/post/86668</id>
+        <link href="https://sspai.com/post/86668"/>
+        <updated>2024-02-26T00:49:57.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事Reddit申请上市2月22日，美国访问量最大的网站之一、在线论坛服务Reddit向美国证券交易委员会（SEC）递交上市申请，计划三月在纽交所上市，代码为RDDT。这将是今年美国大型 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度征文｜数字无业游民的自我「和解」]]></title>
         <id>https://sspai.com/post/86421</id>
@@ -2418,16 +2458,6 @@ ahhhhfs: @luke_smith2579 有的有的 发过哈
         <summary type="html"><![CDATA[Re @zaprobest 换谁家了 贵么🥹]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 达玛卡亚冥想法入门指南]]></title>
-        <id>https://sspai.com/post/86003</id>
-        <link href="https://sspai.com/post/86003"/>
-        <updated>2024-01-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果你曾想尝试冥想，却觉得其它方法太过麻烦，那你或许可以试试通过这个方法快速进入冥想的世界。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
         </author>
     </entry>
     <entry>
