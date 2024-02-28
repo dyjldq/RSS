@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-27T00:35:37.048Z</updated>
+    <updated>2024-02-28T00:35:16.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账]]></title>
+        <id>https://sspai.com/post/86718</id>
+        <link href="https://sspai.com/post/86718"/>
+        <updated>2024-02-27T09:09:51.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药]]></title>
+        <id>https://sspai.com/post/86625</id>
+        <link href="https://sspai.com/post/86625"/>
+        <updated>2024-02-27T06:43:25.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的第6篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「兴趣使然」。前言相信大家 ...查看全文]]></summary>
+        <author>
+            <name>_东东_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 大话题、24 本书：我的 2023 年年度书单]]></title>
+        <id>https://sspai.com/post/85733</id>
+        <link href="https://sspai.com/post/85733"/>
+        <updated>2024-02-27T03:37:45.000Z</updated>
+        <summary type="html"><![CDATA[读过的每一本书都是我脚下坚实的路，那就明年见吧，看看我会走到哪里。查看全文]]></summary>
+        <author>
+            <name>啊桂酱AGuiJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等]]></title>
+        <id>https://sspai.com/post/86693</id>
+        <link href="https://sspai.com/post/86693"/>
+        <updated>2024-02-27T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/86685</id>
@@ -2148,17 +2188,6 @@ https://youtu.be/WHM2zAaiq_s]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新机械键盘结构漫谈（上）]]></title>
-        <id>https://sspai.com/prime/story/mechanic-keyboard-structures-01</id>
-        <link href="https://sspai.com/prime/story/mechanic-keyboard-structures-01"/>
-        <updated>2024-01-29T11:27:58.000Z</updated>
-        <summary type="html"><![CDATA[梳理和探讨键盘结构的历史与发展，深入理解名词背后的原理与特点查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>车不能快</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EPUB to Audiobook Converter：EPUB转有声读物工具 使用 Microsoft Azure /EdgeTTS/OpenAI文本转语音 API 将 EPUB 电子书转换为有声读物MP3 👉https://www.ahh...]]></title>
         <id>https://twitter.com/abskoop/status/1751923726550237358</id>
         <link href="https://twitter.com/abskoop/status/1751923726550237358"/>
@@ -2181,16 +2210,6 @@ https://linux.cn/article-16594-1.html
 使用 VLC 媒体播放器播放和管理字幕的新手指南。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/86166</id>
-        <link href="https://sspai.com/post/86166"/>
-        <updated>2024-01-29T09:49:54.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -2221,16 +2240,6 @@ https://linux.cn/article-16593-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[纸与数字碰撞：找到你最适合的记笔记方法]]></title>
-        <id>https://sspai.com/post/85800</id>
-        <link href="https://sspai.com/post/85800"/>
-        <updated>2024-01-29T07:22:25.000Z</updated>
-        <summary type="html"><![CDATA[我在结合自身的经验以及疑问，查询资料之后，整理出不同记笔记方式的优缺点、适用场景以及不同笔记对于记忆和理解的影响，以及他们可能的机制，希望可以有所帮助。查看全文]]></summary>
-        <author>
-            <name>愚人哲</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[财富是对认知的补偿，而不是对勤奋的奖赏👌]]></title>
         <id>https://twitter.com/abskoop/status/1751810787512066182</id>
         <link href="https://twitter.com/abskoop/status/1751810787512066182"/>
@@ -2238,16 +2247,6 @@ https://linux.cn/article-16593-1.html
         <summary type="html"><![CDATA[财富是对认知的补偿，而不是对勤奋的奖赏👌]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你]]></title>
-        <id>https://sspai.com/post/86007</id>
-        <link href="https://sspai.com/post/86007"/>
-        <updated>2024-01-29T03:33:32.000Z</updated>
-        <summary type="html"><![CDATA[过去的一年里，通过 4 次境内外旅行和 2 次出差，我发现了很多有意思的旅行好物，有些物品冷门但好用，有些物品常用但怕你忘，我都逐一写下来，通通安利给你。读完本文，愿你拥有更加惬意愉快的旅行体验。查看全文]]></summary>
-        <author>
-            <name>桌沿奇思</name>
         </author>
     </entry>
     <entry>
@@ -2260,16 +2259,6 @@ https://linux.cn/article-16592-1.html
 仅仅开源还不足以实现开放，还需开放标准和建立共识。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：App Store 在欧合规举措引起批评]]></title>
-        <id>https://sspai.com/post/86150</id>
-        <link href="https://sspai.com/post/86150"/>
-        <updated>2024-01-29T00:53:11.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事AppStore在欧合规举措引起批评1月26日，苹果宣布了一系列针对欧盟地区的AppStore新政策，包括允许第三方应用商店、接入第三方支付方式、在浏览器中使用非SafariWebK ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

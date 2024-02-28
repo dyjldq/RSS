@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86718",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/86718",
+          "publishedOn": "2024-02-27T09:09:51.000Z",
+          "wordCount": 975,
+          "title": "社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账",
+          "imageUrl": "https://cdn.sspai.com/2/27/2024/article/279c63b0-2f0b-abdc-3f8f-a56f2e86ad1a.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86625",
+          "author": "_东东_",
+          "description": "编注：本文是「2023年度征文：分享你的关键词」的第6篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「兴趣使然」。前言相信大家 ...查看全文",
+          "link": "https://sspai.com/post/86625",
+          "publishedOn": "2024-02-27T06:43:25.000Z",
+          "wordCount": 675,
+          "title": "年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药",
+          "imageUrl": "https://cdn.sspai.com/2024/02/23/aa5964431f5ec5bfdd60f4d4dfcac422.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/85733",
+          "author": "啊桂酱AGuiJ",
+          "description": "读过的每一本书都是我脚下坚实的路，那就明年见吧，看看我会走到哪里。查看全文",
+          "link": "https://sspai.com/post/85733",
+          "publishedOn": "2024-02-27T03:37:45.000Z",
+          "wordCount": 742,
+          "title": "5 大话题、24 本书：我的 2023 年年度书单",
+          "imageUrl": "https://cdn.sspai.com/2024/01/11/774098975219905eff20a60a02aa7b6e.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/86693",
+          "author": "少数派编辑部",
+          "description": "汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等查看全文",
+          "link": "https://sspai.com/post/86693",
+          "publishedOn": "2024-02-27T00:20:00.000Z",
+          "wordCount": 957,
+          "title": "派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等",
+          "imageUrl": "https://cdn.sspai.com/2024/2/26/article/5abf847b-c4f9-3408-608b-ddc33164431b.png"
+        },
+        {
           "id": "https://sspai.com/post/86685",
           "author": "少数派编辑部",
           "description": "你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
@@ -854,56 +894,6 @@
           "wordCount": 814,
           "title": "派早报：小红书上线「风险地点」举报专线的公告，森海塞尔 ACCENTUM Plus 发布等",
           "imageUrl": "https://cdn.sspai.com/2024/1/29/article/02da214e-89c5-3b90-e1d1-ce6abaeb32f5.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/mechanic-keyboard-structures-01",
-          "author": "车不能快",
-          "description": "梳理和探讨键盘结构的历史与发展，深入理解名词背后的原理与特点查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/mechanic-keyboard-structures-01",
-          "publishedOn": "2024-01-29T11:27:58.000Z",
-          "wordCount": 954,
-          "title": "新机械键盘结构漫谈（上）",
-          "imageUrl": "https://cdn.sspai.com/1/29/2024/article/18104048-319e-4365-ba80-9592f2e8f5c2.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86166",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/86166",
-          "publishedOn": "2024-01-29T09:49:54.000Z",
-          "wordCount": 955,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/1/29/article/e6205af9-b005-5127-1067-da44995c84cb.png"
-        },
-        {
-          "id": "https://sspai.com/post/85800",
-          "author": "愚人哲",
-          "description": "我在结合自身的经验以及疑问，查询资料之后，整理出不同记笔记方式的优缺点、适用场景以及不同笔记对于记忆和理解的影响，以及他们可能的机制，希望可以有所帮助。查看全文",
-          "link": "https://sspai.com/post/85800",
-          "publishedOn": "2024-01-29T07:22:25.000Z",
-          "wordCount": 661,
-          "title": "纸与数字碰撞：找到你最适合的记笔记方法",
-          "imageUrl": "https://cdn.sspai.com/editor/u_yrzhe/17051370666532.png"
-        },
-        {
-          "id": "https://sspai.com/post/86007",
-          "author": "桌沿奇思",
-          "description": "过去的一年里，通过 4 次境内外旅行和 2 次出差，我发现了很多有意思的旅行好物，有些物品冷门但好用，有些物品常用但怕你忘，我都逐一写下来，通通安利给你。读完本文，愿你拥有更加惬意愉快的旅行体验。查看全文",
-          "link": "https://sspai.com/post/86007",
-          "publishedOn": "2024-01-29T03:33:32.000Z",
-          "wordCount": 734,
-          "title": "摩拳擦掌准备假期旅行？这些冷门但必备的好物，推荐给你",
-          "imageUrl": "https://cdn.sspai.com/2024/01/23/0ebc4deb1bf23896efba25a6fde3f1ee.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86150",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事AppStore在欧合规举措引起批评1月26日，苹果宣布了一系列针对欧盟地区的AppStore新政策，包括允许第三方应用商店、接入第三方支付方式、在浏览器中使用非SafariWebK ...查看全文",
-          "link": "https://sspai.com/post/86150",
-          "publishedOn": "2024-01-29T00:53:11.000Z",
-          "wordCount": 878,
-          "title": "派早报：App Store 在欧合规举措引起批评",
-          "imageUrl": "https://cdn.sspai.com/1/29/2024/article/9a443037-7401-f6b2-835a-9fc37f954295.png"
         }
       ]
     },
