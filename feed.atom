@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T00:35:16.021Z</updated>
+    <updated>2024-02-29T00:35:53.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语]]></title>
+        <id>https://sspai.com/post/86752</id>
+        <link href="https://sspai.com/post/86752"/>
+        <updated>2024-02-28T09:54:35.000Z</updated>
+        <summary type="html"><![CDATA[除了新、热大作，还有一款需要眨眼才能通关的游戏？查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论]]></title>
+        <id>https://sspai.com/post/86605</id>
+        <link href="https://sspai.com/post/86605"/>
+        <updated>2024-02-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。「本文参加2023年度征文活动。我的2023年度关键词是：独立」回顾2023年，「独立」 ...查看全文]]></summary>
+        <author>
+            <name>littleiron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 2023 年度效率工具]]></title>
+        <id>https://sspai.com/post/85490</id>
+        <link href="https://sspai.com/post/85490"/>
+        <updated>2024-02-28T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>玉树芝兰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：努比亚公布多款新机、微软与 Mistral 达成合作等]]></title>
+        <id>https://sspai.com/post/86732</id>
+        <link href="https://sspai.com/post/86732"/>
+        <updated>2024-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一加推出 OnePlus Watch 2，《黑神话：悟空》等 111 款游戏过审等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账]]></title>
         <id>https://sspai.com/post/86718</id>
@@ -2024,16 +2064,6 @@ https://linux.cn/article-16597-1.html
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 030 | 年度作者、能量小食和新玩意]]></title>
-        <id>https://sspai.com/post/86185</id>
-        <link href="https://sspai.com/post/86185"/>
-        <updated>2024-01-30T09:00:56.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[系统运维 | 如何在 RHEL 上通过绑定配置 VLAN 标记 https://linux.cn/article-16596-1.html 在 Linux 中，你可以根据自己的需要创建高级网络设置，如网络绑定或...]]></title>
         <id>https://twitter.com/linux_cn/status/1752239662058352656</id>
         <link href="https://twitter.com/linux_cn/status/1752239662058352656"/>
@@ -2066,36 +2096,6 @@ Matrix 用户可以升级 Fractal 6 了！]]></summary>
 👉https://www.ahhhhfs.com/53586/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：冬天快要过去，夏季北欧行可以开始计划了]]></title>
-        <id>https://sspai.com/post/85975</id>
-        <link href="https://sspai.com/post/85975"/>
-        <updated>2024-01-30T07:00:15.000Z</updated>
-        <summary type="html"><![CDATA[此刻正值寒冬，这么一篇夏日的北欧游记显得有一些不合时宜，但是结合做旅行计划、办签证、提前订机酒等等诸多事项，如果你也对北欧的夏天感兴趣的话，从现在开始规划起明年夏日的旅程也不算早。相比于更久远的去土耳 ...查看全文]]></summary>
-        <author>
-            <name>Miobowl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[失窃设备保护、Apple Music 协作播放列表……iOS 17.3 值得关注的新特性]]></title>
-        <id>https://sspai.com/post/86155</id>
-        <link href="https://sspai.com/post/86155"/>
-        <updated>2024-01-30T03:31:59.000Z</updated>
-        <summary type="html"><![CDATA[距离上次更新已经过去了快一个半月，早该到来的17.3正式版在经历了beta2撤回风波后，最终还是来到了我们面前。本次更新中，苹果新增了失窃设备保护功能、WWDC提到的AppleMusic协作播放列表也 ...查看全文]]></summary>
-        <author>
-            <name>Voyager_1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：小红书上线「风险地点」举报专线的公告，森海塞尔 ACCENTUM Plus 发布等]]></title>
-        <id>https://sspai.com/post/86177</id>
-        <link href="https://sspai.com/post/86177"/>
-        <updated>2024-01-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fossil 宣布退出智能手表市场，微软宣布将在下一版 Windows 11 中移除 WMIC 管理工具等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
