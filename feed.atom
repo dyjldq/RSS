@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-01T00:40:09.485Z</updated>
+    <updated>2024-03-02T00:34:57.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大井作品]]></title>
+        <id>https://sspai.com/post/86816</id>
+        <link href="https://sspai.com/post/86816"/>
+        <updated>2024-03-01T10:04:53.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]周处除三害、[电影]首尔之春、[电影]利益区域、[电影]那夜我们行向彼方、[电影]658公里、阳子的旅途、[美剧]良医第七季/最终季、[日剧]想做饭的女人和想吃饭的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享]]></title>
+        <id>https://sspai.com/post/86776</id>
+        <link href="https://sspai.com/post/86776"/>
+        <updated>2024-03-01T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[在劳资关系中，公司具有优势地位，而劳动者处于弱势的一方。尤其是面对老板、人事、法务组成的流氓团伙时，会更加被动、愤怒、迷茫、无助。希望大家在面对公司的恶意时可以更加从容，是我写下这些文字的初衷。查看全文]]></summary>
+        <author>
+            <name>蓝羽铭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以「工作」为分类标准，探讨「知识管理」的新思路]]></title>
+        <id>https://sspai.com/post/85567</id>
+        <link href="https://sspai.com/post/85567"/>
+        <updated>2024-03-01T03:34:20.000Z</updated>
+        <summary type="html"><![CDATA[知识管理不是一个静态的过程，并不是学会一套笔记法就能学会知识管理，根据类型「对症下药」，才是知识管理的上上之策。查看全文]]></summary>
+        <author>
+            <name>_东东_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表]]></title>
+        <id>https://sspai.com/post/86797</id>
+        <link href="https://sspai.com/post/86797"/>
+        <updated>2024-03-01T00:41:11.000Z</updated>
+        <summary type="html"><![CDATA[阿里云宣布旗下产品降价，Adobe 推出 AI 音乐生成工具等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何快速重置 macOS 应用窗口的位置]]></title>
         <id>https://sspai.com/prime/story/reset-macos-window-position</id>
@@ -1758,16 +1798,6 @@ po 解锁专业版
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新玩意 171｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/86233</id>
-        <link href="https://sspai.com/post/86233"/>
-        <updated>2024-02-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lepton Search：开源对话式AI搜索引擎 500 行代码构建 内置支持大语言模型（LLM）和搜索引擎 默认支持的搜索引擎：Bing 和 Google 👉https://www.ahhhhfs.com/...]]></title>
         <id>https://twitter.com/abskoop/status/1752978342289031634</id>
         <link href="https://twitter.com/abskoop/status/1752978342289031634"/>
@@ -1791,16 +1821,6 @@ po 解锁专业版
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当《原神》不再启动：聊聊我的二次元游戏观察与思考]]></title>
-        <id>https://sspai.com/post/85830</id>
-        <link href="https://sspai.com/post/85830"/>
-        <updated>2024-02-01T07:40:31.000Z</updated>
-        <summary type="html"><![CDATA[如何评价《原神》？我不得不考虑很多角度、很多标准，对言语一再地斟酌，如今我只能说，它仍然是一款优秀的游戏，并且呈现出了现象级的影响力。如何评价现今手游的一系列商法，我想要痛斥，但到头来不过叹一句可惜。查看全文]]></summary>
-        <author>
-            <name>divingdove</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[打扰了🤤]]></title>
         <id>https://twitter.com/abskoop/status/1752959582497055012</id>
         <link href="https://twitter.com/abskoop/status/1752959582497055012"/>
@@ -1808,16 +1828,6 @@ po 解锁专业版
         <summary type="html"><![CDATA[打扰了🤤]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水獭派对 | 好用不割手的开箱刀，少数派还为你要来了全场最低价]]></title>
-        <id>https://sspai.com/post/86215</id>
-        <link href="https://sspai.com/post/86215"/>
-        <updated>2024-02-01T07:29:38.000Z</updated>
-        <summary type="html"><![CDATA[作为一款以「安全」为主要卖点的产品，Slice 用独特的设计，不但做到比传统的刀片安全，还能干净利落地切割大部份的材料。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
         </author>
     </entry>
     <entry>
@@ -1862,26 +1872,6 @@ https://linux.cn/article-16602-1.html
 从即日起，“Linux 中国” 这个社区，包括它的主网（ https://linux.cn/ ）、公众号、视频号，以及下属的《硬核观察》栏目，将无限期停止更新和运营。]]></summary>
         <author>
             <name>Linux中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人机交互的基石｜Apple 字体设计排版深度解析]]></title>
-        <id>https://sspai.com/post/86214</id>
-        <link href="https://sspai.com/post/86214"/>
-        <updated>2024-02-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[设计与工程，科技和人文，当你真的认真分析过 Apple 之后，就会发现这些东西他们不只是说说而已。查看全文]]></summary>
-        <author>
-            <name>两颗皮蛋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 延长与高通的基带合作协议、小岛秀夫将推出谍战新作等]]></title>
-        <id>https://sspai.com/post/86222</id>
-        <link href="https://sspai.com/post/86222"/>
-        <updated>2024-02-01T00:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Adobe 将停止更新 Adobe XD、全球 2023 第四季度智能手机出货量有所回升等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
