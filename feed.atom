@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T00:36:43.675Z</updated>
+    <updated>2024-03-05T00:35:52.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/86890</id>
+        <link href="https://sspai.com/post/86890"/>
+        <updated>2024-03-04T09:53:37.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 避免 Excel 跨工作表撤消的临时方案]]></title>
+        <id>https://sspai.com/post/86822</id>
+        <link href="https://sspai.com/post/86822"/>
+        <updated>2024-03-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>GoodTheme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 平衡的幻觉：为什么我们总是追求不到完美的平衡？]]></title>
+        <id>https://sspai.com/post/86444</id>
+        <link href="https://sspai.com/post/86444"/>
+        <updated>2024-03-04T03:31:59.000Z</updated>
+        <summary type="html"><![CDATA[平衡不是一个终点，而是一个起点，它是我们生活的一部分，让我们一起，用平衡的心，去创造属于自己的生活。查看全文]]></summary>
+        <author>
+            <name>ThomasTeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：马斯克起诉 OpenAI]]></title>
+        <id>https://sspai.com/post/86873</id>
+        <link href="https://sspai.com/post/86873"/>
+        <updated>2024-03-04T00:56:33.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事马斯克起诉OpenAI2月29日，马斯克在旧金山提起诉讼，指控OpenAI及其联合创始人SamAltman、GregBrockman将利润置于人类利益之上，违反了OpenAI成立之初 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判]]></title>
         <id>https://sspai.com/post/86850</id>
@@ -1449,16 +1489,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/53821/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 满足你的轻量化需求，把私密文件和 app 藏起来：Amarok]]></title>
-        <id>https://sspai.com/post/86161</id>
-        <link href="https://sspai.com/post/86161"/>
-        <updated>2024-02-04T06:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Amarok 的设计初衷是隐藏一些不想被他人看到的隐私内容，而非面向机密资料，因此它采用的并非复杂的文件加密系统，而是三种随开随用、轻量巧妙的方案。查看全文]]></summary>
-        <author>
-            <name>eaglu</name>
         </author>
     </entry>
     <entry>
