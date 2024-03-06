@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T00:35:52.869Z</updated>
+    <updated>2024-03-06T00:36:13.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[填满 Android 全面屏，怎么就这么难？]]></title>
+        <id>https://sspai.com/prime/story/android-edge-to-edge-problem</id>
+        <link href="https://sspai.com/prime/story/android-edge-to-edge-problem"/>
+        <updated>2024-03-05T12:49:51.000Z</updated>
+        <summary type="html"><![CDATA[全面拥抱 AI 的时代，应用显示怎么还不能「全面」？查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 034 | 派友们的周日行程、月光社畜开始攒钱和新玩意们]]></title>
+        <id>https://sspai.com/post/86921</id>
+        <link href="https://sspai.com/post/86921"/>
+        <updated>2024-03-05T09:17:52.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好键盘还不贵，派商店的 K3 / K3 Pro 的史低清仓]]></title>
+        <id>https://sspai.com/post/86893</id>
+        <link href="https://sspai.com/post/86893"/>
+        <updated>2024-03-05T08:00:21.000Z</updated>
+        <summary type="html"><![CDATA[月黑风高，本獭来到少数派仓库例行巡视，翻出一箱少数派定制 Keychron K3 键盘。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市收藏夹｜慕尼黑的二月]]></title>
+        <id>https://sspai.com/post/86664</id>
+        <link href="https://sspai.com/post/86664"/>
+        <updated>2024-03-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在不同的季节，收获不一样的邂逅。查看全文]]></summary>
+        <author>
+            <name>Sholmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不用「死记」，但能「嗯背」：用重复和双链的力量搞定单词]]></title>
+        <id>https://sspai.com/post/85470</id>
+        <link href="https://sspai.com/post/85470"/>
+        <updated>2024-03-05T03:28:28.000Z</updated>
+        <summary type="html"><![CDATA[开发者一定不是四川人吧？查看全文]]></summary>
+        <author>
+            <name>Whitecosm0s</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布新款 MacBook Air，Apple 发布与 Spotify 有关的声明等]]></title>
+        <id>https://sspai.com/post/86902</id>
+        <link href="https://sspai.com/post/86902"/>
+        <updated>2024-03-05T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[勒索组织称对 Epic Games 的黑客攻击并未发生，HDMI Forum 拒绝 AMD 提出的 HDMI 2.1 相关开源请求等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/86890</id>
@@ -1297,26 +1358,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/86335</id>
-        <link href="https://sspai.com/post/86335"/>
-        <updated>2024-02-05T09:55:41.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[满分五分，你给 Apple 的 2023 年打几分？]]></title>
-        <id>https://sspai.com/post/83281</id>
-        <link href="https://sspai.com/post/83281"/>
-        <updated>2024-02-05T09:11:27.000Z</updated>
-        <summary type="html"><![CDATA[在过去的2023年，Apple完成了一系列紧锣密鼓的发布——让Mac全线跨入Applesilicon时代，为iPhone换用钛金属材质和USB-C接口，揭晓了空间计算愿景的VisionPro，也留下了 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KMS一键激活脚本生成：KMSCX 支持各种Windows和office版本的激活脚本生成 👉https://www.ahhhhfs.com/53867/]]></title>
         <id>https://twitter.com/abskoop/status/1754420795915583614</id>
         <link href="https://twitter.com/abskoop/status/1754420795915583614"/>
@@ -1326,16 +1367,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/53867/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年高峰期火车票购买指南]]></title>
-        <id>https://sspai.com/post/86328</id>
-        <link href="https://sspai.com/post/86328"/>
-        <updated>2024-02-05T07:04:32.000Z</updated>
-        <summary type="html"><![CDATA[从火车票放票原理开始，让我们探究如何在高峰期买到一张火车票。查看全文]]></summary>
-        <author>
-            <name>Xenogeneic</name>
         </author>
     </entry>
     <entry>
@@ -1357,26 +1388,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/53893/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「放轻松」主题征文结束，这 14 篇文章值得一看]]></title>
-        <id>https://sspai.com/post/86307</id>
-        <link href="https://sspai.com/post/86307"/>
-        <updated>2024-02-05T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[经过一个月的征文投稿和入围文章陆续推送，「放轻松」主题征文活动现已正式结束。在此期间，有人剖析了自己与焦虑、病痛对抗的宝贵经验，有人分享了关于放松的探索历程与方式方法，也有人科普了关于运动健康、心理健 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：iFixit 拆解 Vision Pro，谷歌正式移除网页缓存功能]]></title>
-        <id>https://sspai.com/post/86310</id>
-        <link href="https://sspai.com/post/86310"/>
-        <updated>2024-02-05T00:50:38.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事iFixit拆解VisionPro2月3日，iFixit发布了VisionPro的初步拆解视频。一些主要发现包括：前玻璃面板通过胶水粘合，覆盖有一层塑料保护膜，重34克。外挂电池组重 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
