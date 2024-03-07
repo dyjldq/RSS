@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T00:36:13.017Z</updated>
+    <updated>2024-03-07T00:29:20.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 一个「修仙体质」设计师尝试写作这一年]]></title>
+        <id>https://sspai.com/post/86604</id>
+        <link href="https://sspai.com/post/86604"/>
+        <updated>2024-03-06T09:06:45.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：突围。少数派年度征文的「2023 ...查看全文]]></summary>
+        <author>
+            <name>Micoxx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[少数派圆桌：从工具到方法，2024 年初再聊 AI]]></title>
+        <id>https://sspai.com/post/86901</id>
+        <link href="https://sspai.com/post/86901"/>
+        <updated>2024-03-06T07:07:32.000Z</updated>
+        <summary type="html"><![CDATA[AI 产品层出不穷，如何关注、选择、理解？来听听少数派资深作者们的观点。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | AI，零基础，我的第一款应用]]></title>
+        <id>https://sspai.com/post/86860</id>
+        <link href="https://sspai.com/post/86860"/>
+        <updated>2024-03-06T06:19:23.000Z</updated>
+        <summary type="html"><![CDATA[「本文参加2023年度征文活动。我的2023年度关键词是：创造。」2023年，是特别的一年。这一年，我鼓起勇气辞职，我从零开始学习编程，我做出了自己的第一款应用：Cush记账。我的人生好像脱轨了，驶向 ...查看全文]]></summary>
+        <author>
+            <name>鲨鲨</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：M3 MacBook Pro 将支持同时外接两台显示器等]]></title>
+        <id>https://sspai.com/post/86945</id>
+        <link href="https://sspai.com/post/86945"/>
+        <updated>2024-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yuzu 向任天堂赔款并永久停止开发相关软件，钉钉更新支持微信直接加入会议等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[填满 Android 全面屏，怎么就这么难？]]></title>
         <id>https://sspai.com/prime/story/android-edge-to-edge-problem</id>
@@ -1208,17 +1248,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新机械键盘结构漫谈（下）]]></title>
-        <id>https://sspai.com/prime/story/mechanic-keyboard-structures-02</id>
-        <link href="https://sspai.com/prime/story/mechanic-keyboard-structures-02"/>
-        <updated>2024-02-06T11:25:40.000Z</updated>
-        <summary type="html"><![CDATA[随着客制化键盘的不断发展，行话所代表的含义也在不断被稀释。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>车不能快</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Couplets AI春联 ： AI对联生成器 根据描述即可生成对应的春联🤤 👉https://www.ahhhhfs.com/53901/]]></title>
         <id>https://twitter.com/abskoop/status/1754803507641880848</id>
         <link href="https://twitter.com/abskoop/status/1754803507641880848"/>
@@ -1231,16 +1260,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 031 | 年度一派回顾、曼陀罗绘画和作者的新玩意]]></title>
-        <id>https://sspai.com/post/86352</id>
-        <link href="https://sspai.com/post/86352"/>
-        <updated>2024-02-06T09:40:28.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中英文 简历模板集合 +面试技巧等 👉https://www.ahhhhfs.com/53935/]]></title>
         <id>https://twitter.com/abskoop/status/1754764373237903466</id>
         <link href="https://twitter.com/abskoop/status/1754764373237903466"/>
@@ -1249,36 +1268,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/53935/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年货买了啥？分享 12 件好吃、好玩、好用的春节好物]]></title>
-        <id>https://sspai.com/post/86297</id>
-        <link href="https://sspai.com/post/86297"/>
-        <updated>2024-02-06T07:01:28.000Z</updated>
-        <summary type="html"><![CDATA[随着大街小巷的年味渐浓，来聊聊大家为自己和亲戚朋友都准备了添添喜气的好东西。本文不含任何推广性内容，请放心阅读，祝大家新春快乐！查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的新年 flag 是听 100 张专辑]]></title>
-        <id>https://sspai.com/post/86287</id>
-        <link href="https://sspai.com/post/86287"/>
-        <updated>2024-02-06T03:30:15.000Z</updated>
-        <summary type="html"><![CDATA[音乐对我来说已经内化成了一种生活方式，而且不是一种简单休闲的生活方式。逐渐探索一些自己从前并不熟悉和喜爱的音乐风格，走出自己的听觉舒适圈和局限，即使在这么小的一个领域也要探索更大世界。查看全文]]></summary>
-        <author>
-            <name>EricYoung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：腾讯上线低温雨雪冰冻信息上报平台小程序等]]></title>
-        <id>https://sspai.com/post/86345</id>
-        <link href="https://sspai.com/post/86345"/>
-        <updated>2024-02-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[vivo 与诺基亚签署 5G 专利交叉许可协议，高通确认 Snapdragon X Elite 将和新版 Windows 一同推出，搜索引擎 Yandex 荷兰母公司宣布出售俄罗斯资产等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
