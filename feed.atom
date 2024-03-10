@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:34:46.894Z</updated>
+    <updated>2024-03-10T00:39:00.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 手机长焦现在发展成什么样了？]]></title>
+        <id>https://sspai.com/post/86906</id>
+        <link href="https://sspai.com/post/86906"/>
+        <updated>2024-03-09T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[似乎市面上所有的影像旗舰都有一个潜望长焦镜头，或是正在向长焦方向发力。我真的很想问：不是已经卷过长焦了吗？怎么又又又又是长焦？查看全文]]></summary>
+        <author>
+            <name>Xenogeneic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造一部「电子茅台」：聊聊富士的产品策略及市场博弈]]></title>
+        <id>https://sspai.com/post/87038</id>
+        <link href="https://sspai.com/post/87038"/>
+        <updated>2024-03-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[富士的热度恐怕还得维持相当长一段时间。而这样的富士，你愿意埋单么？查看全文]]></summary>
+        <author>
+            <name>食肉库玛老师傅</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大卷作品]]></title>
         <id>https://sspai.com/post/87049</id>
@@ -1133,16 +1153,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[老麦的除夕寄语——附 2023 年度征文]]></title>
-        <id>https://sspai.com/post/86409</id>
-        <link href="https://sspai.com/post/86409"/>
-        <updated>2024-02-09T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[希望大家除夕快乐——然后来看看我们今年的年度征文活动。查看全文]]></summary>
-        <author>
-            <name>老麦</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年龙 年 风 水 繁 荣 指 南🤤 👉https://www.ahhhhfs.com/54001/]]></title>
         <id>https://twitter.com/abskoop/status/1755860783739949306</id>
         <link href="https://twitter.com/abskoop/status/1755860783739949306"/>
@@ -1151,36 +1161,6 @@ ahhhhfs: 服务器🪜流量订阅地址 用完即止🦢
 👉https://www.ahhhhfs.com/54001/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不想春节「包饺子」？用这 5 款游戏给自己开场快乐春晚]]></title>
-        <id>https://sspai.com/post/86390</id>
-        <link href="https://sspai.com/post/86390"/>
-        <updated>2024-02-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[相声小品、魔术杂技，再加一个歌舞，五个游戏带你欢乐过年。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从独立小品到 3A 大作：春节游戏玩点啥]]></title>
-        <id>https://sspai.com/post/86388</id>
-        <link href="https://sspai.com/post/86388"/>
-        <updated>2024-02-09T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在本期节目中，我们和少数派游戏领域的年度作者板斧一起聊聊春节玩点啥。节目中，板斧不仅推荐了从偏向小众或冷门到知名 3A 大作的「什么值得玩」佳作，还分享了自己寻找新游戏的众多途径。这个春节，祝你玩得愉快。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：微软电脑管家登陆全球 Microsoft Store、迪士尼消息两则等]]></title>
-        <id>https://sspai.com/post/86407</id>
-        <link href="https://sspai.com/post/86407"/>
-        <updated>2024-02-09T00:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Google Gemini App 将拓展至全球更多地区、Plex 推出电影租赁服务等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
