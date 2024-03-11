@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-10T00:39:00.901Z</updated>
+    <updated>2024-03-11T00:37:14.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[线路延绵，在异国重拾独属于「铁道」的感动]]></title>
+        <id>https://sspai.com/post/85299</id>
+        <link href="https://sspai.com/post/85299"/>
+        <updated>2024-03-10T03:30:53.000Z</updated>
+        <summary type="html"><![CDATA[线路会一直延绵下去，列车依然按部就班地照着时刻表运行。重拾独属于「铁道」的感动，或许就在不远的身边。查看全文]]></summary>
+        <author>
+            <name>Wataru</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度征文 | 手机长焦现在发展成什么样了？]]></title>
         <id>https://sspai.com/post/86906</id>
