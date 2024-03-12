@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/86944",
+          "author": "乔淼",
+          "description": "回归初心，为了那些看好、肯定、期待着我的人，竭力做出最好的游戏设计。这就是我今后作为「业余爱好者」或「副业从事者」，将要继续做的事。查看全文",
+          "link": "https://sspai.com/post/86944",
+          "publishedOn": "2024-03-11T10:50:06.000Z",
+          "wordCount": 883,
+          "title": "年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅",
+          "imageUrl": "https://cdn.sspai.com/2024/03/06/1a53102c8b564b4ee5bd9926b0fa10a9.png"
+        },
+        {
+          "id": "https://sspai.com/post/87100",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/87100",
+          "publishedOn": "2024-03-11T09:55:30.000Z",
+          "wordCount": 918,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2024/3/11/article/c443cf81-81d9-fc5f-2e3f-f686ac393b0e.png"
+        },
+        {
+          "id": "https://sspai.com/post/86909",
+          "author": "启黎",
+          "description": "查重是排除重复信息干扰、确保唯一性数据准确性的校验手段。完善的查重机制能节省大量人工判断的成本，并且在第一时间获知结论。本文介绍了一种 Notion 数据库去重的办法。查看全文",
+          "link": "https://sspai.com/post/86909",
+          "publishedOn": "2024-03-11T07:00:05.000Z",
+          "wordCount": 763,
+          "title": "一日一技 | 巧用公式实现 Notion 数据库去重",
+          "imageUrl": "https://cdn.sspai.com/2024/03/08/eb03ec9ec54d3b92d8e090097656f709.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/86832",
+          "author": "张小吉",
+          "description": "编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「渐入佳境」。大家好，我是张小吉 ...查看全文",
+          "link": "https://sspai.com/post/86832",
+          "publishedOn": "2024-03-11T03:09:40.000Z",
+          "wordCount": 858,
+          "title": "年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅",
+          "imageUrl": "https://cdn.sspai.com/2024/03/02/2c59112903831c7994d5814e567c27e5.png"
+        },
+        {
+          "id": "https://sspai.com/post/87084",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事OpenAI宣布新董事会成员，Altman回归3月9日，OpenAI通过官方博客宣布，针对此前内部人事风波的调查已经完成，CEOSamAltman将重新加入公司改组后的董事会。其他三 ...查看全文",
+          "link": "https://sspai.com/post/87084",
+          "publishedOn": "2024-03-11T00:56:19.000Z",
+          "wordCount": 892,
+          "title": "派早报：OpenAI 宣布新董事会成员，Altman 回归",
+          "imageUrl": "https://cdn.sspai.com/3/11/2024/article/dfaba680-b335-e915-6a36-96d4d7693218.png"
+        },
+        {
           "id": "https://sspai.com/post/85299",
           "author": "Wataru",
           "description": "线路会一直延绵下去，列车依然按部就班地照着时刻表运行。重拾独属于「铁道」的感动，或许就在不远的身边。查看全文",
