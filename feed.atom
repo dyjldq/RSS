@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-14T00:35:33.072Z</updated>
+    <updated>2024-03-15T00:36:22.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 书能读完吗，读完了还能读什么？]]></title>
+        <id>https://sspai.com/post/87027</id>
+        <link href="https://sspai.com/post/87027"/>
+        <updated>2024-03-14T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥 ...查看全文]]></summary>
+        <author>
+            <name>红酒皇</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：无锡，正是江南春好时]]></title>
+        <id>https://sspai.com/post/86987</id>
+        <link href="https://sspai.com/post/86987"/>
+        <updated>2024-03-14T08:00:21.000Z</updated>
+        <summary type="html"><![CDATA[行走景色之中，除了春晖的呼唤，还有一种模糊的愉悦感，大概是来自于活着真好的感慨。查看全文]]></summary>
+        <author>
+            <name>拐子狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划]]></title>
+        <id>https://sspai.com/post/87095</id>
+        <link href="https://sspai.com/post/87095"/>
+        <updated>2024-03-14T06:26:33.000Z</updated>
+        <summary type="html"><![CDATA[干掉国产应用的白底图标和节日横幅，让你的 Pixel 启动器更清爽。查看全文]]></summary>
+        <author>
+            <name>宛潼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 赐我一场前去欧洲的流亡]]></title>
+        <id>https://sspai.com/post/86992</id>
+        <link href="https://sspai.com/post/86992"/>
+        <updated>2024-03-14T03:12:54.000Z</updated>
+        <summary type="html"><![CDATA[本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥有足够 ...查看全文]]></summary>
+        <author>
+            <name>珪璋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等]]></title>
+        <id>https://sspai.com/post/87177</id>
+        <link href="https://sspai.com/post/87177"/>
+        <updated>2024-03-14T00:28:34.000Z</updated>
+        <summary type="html"><![CDATA[免费版 Copilot 支持 GPT-4 Turbo LLM、Epic 推出非游戏开发者付费方案等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度征文｜上什么班啊，不过是来历劫罢了]]></title>
         <id>https://sspai.com/post/86905</id>
@@ -998,26 +1048,6 @@ YeeLight 灯带；
         <summary type="html"><![CDATA[写下这篇文字的此刻，我正坐在维多利亚州立图书馆（StateLibraryofVictoria）的阅读室里，享受着或许不属于「游客」的悠闲时光。这次南半球之行，从信心满满的要把整个澳大利亚东南沿海城市逛 ...查看全文]]></summary>
         <author>
             <name>Konstantine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南 | 非典型的福州之旅，看见这座城市的 B 面]]></title>
-        <id>https://sspai.com/post/86245</id>
-        <link href="https://sspai.com/post/86245"/>
-        <updated>2024-02-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[于是，在春节前乍暖还寒的这段时间，我开启了一次非典型的福州之旅，去看见这座城市的 B 面。查看全文]]></summary>
-        <author>
-            <name>Wataru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仰卧起坐脖子疼？聊聊如何找对健身发力感]]></title>
-        <id>https://sspai.com/post/86361</id>
-        <link href="https://sspai.com/post/86361"/>
-        <updated>2024-02-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[新年伊始，不知道你有没有立下健身的目标？在健身时，不知道你有没有遇到以下的困惑：练腹部，腹部没感觉，脖子酸得不行；练肩，肩膀没感觉，斜方肌累得不行；练臀，臀部没感觉，大腿累得撑不住。出现上面的问题，主 ...查看全文]]></summary>
-        <author>
-            <name>阿帅的健康笔记</name>
         </author>
     </entry>
     <entry>
