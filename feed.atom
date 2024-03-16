@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-15T00:36:22.774Z</updated>
+    <updated>2024-03-16T00:34:31.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
+        <id>https://sspai.com/post/87219</id>
+        <link href="https://sspai.com/post/87219"/>
+        <updated>2024-03-15T09:27:46.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]绅士们、[美剧]动物管制官第二季、[电影]忧郁小女孩、[电影]法式火锅、[电影]世界的阿菊、[真人秀]犯罪现场4：归来、[真人秀]边走边唱的女子几则精彩预告：马东锡 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 从戒除安眠药开始，我选择不再将自己外包]]></title>
+        <id>https://sspai.com/post/86911</id>
+        <link href="https://sspai.com/post/86911"/>
+        <updated>2024-03-15T08:57:39.000Z</updated>
+        <summary type="html"><![CDATA[如果你也正在迷茫，请珍惜现在这种感觉。当你为此觉得焦虑的时候，你可以说自己正在长出或剥离「蹼」，当它过去后，你就是一个更加清晰、稳定的人了。查看全文]]></summary>
+        <author>
+            <name>银河捕手</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次常规更新：M3 版 MacBook Air 快速上手]]></title>
+        <id>https://sspai.com/post/87202</id>
+        <link href="https://sspai.com/post/87202"/>
+        <updated>2024-03-15T06:56:07.000Z</updated>
+        <summary type="html"><![CDATA[快速看看 M3 版本的 MacBook Air 有哪些新的变化。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家]]></title>
+        <id>https://sspai.com/post/86989</id>
+        <link href="https://sspai.com/post/86989"/>
+        <updated>2024-03-15T03:31:48.000Z</updated>
+        <summary type="html"><![CDATA[上一年的征文是「松弛与踌躇」，这一篇是「拉扯与平衡」，希望下一年是「自洽与坚定」，如果还有下一年的话。查看全文]]></summary>
+        <author>
+            <name>柯里昂</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Google 将在 5 月 14 日召开 I/O 大会]]></title>
+        <id>https://sspai.com/post/87209</id>
+        <link href="https://sspai.com/post/87209"/>
+        <updated>2024-03-15T00:30:44.000Z</updated>
+        <summary type="html"><![CDATA[微软 Edge 浏览器 Android 版测试插件功能，支付宝公布租赁行业治理成果等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度征文 | 书能读完吗，读完了还能读什么？]]></title>
         <id>https://sspai.com/post/87027</id>
@@ -1028,26 +1078,6 @@ YeeLight 灯带；
         <summary type="html"><![CDATA[我们的世界看似雷打不动，但只要找准位置，轻轻一触，它就有可能发生倾斜。而日记，就是那个撬动世界的支点，请你务必一试。查看全文]]></summary>
         <author>
             <name>Lars漫步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这 5 个数码产品，是我们 2023 买过最不后悔的「新玩意」]]></title>
-        <id>https://sspai.com/post/86457</id>
-        <link href="https://sspai.com/post/86457"/>
-        <updated>2024-02-15T06:59:15.000Z</updated>
-        <summary type="html"><![CDATA[每到年末大家的传统艺能都是总结上一年的所见所得，少数派也不意外；而除了站内的已发布内容，我们同样也会对前一年市面上流行的数码科技产品作出总结和推荐。但我们也自知少数派并非专业评测媒体，无法基于产品参数 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：去墨尔本躲避北半球的冬天]]></title>
-        <id>https://sspai.com/post/85649</id>
-        <link href="https://sspai.com/post/85649"/>
-        <updated>2024-02-15T03:50:57.000Z</updated>
-        <summary type="html"><![CDATA[写下这篇文字的此刻，我正坐在维多利亚州立图书馆（StateLibraryofVictoria）的阅读室里，享受着或许不属于「游客」的悠闲时光。这次南半球之行，从信心满满的要把整个澳大利亚东南沿海城市逛 ...查看全文]]></summary>
-        <author>
-            <name>Konstantine</name>
         </author>
     </entry>
     <entry>
