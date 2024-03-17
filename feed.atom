@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-16T00:34:31.053Z</updated>
+    <updated>2024-03-17T00:39:04.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[少数派的 12 岁：付费栏目周年庆大促开启]]></title>
+        <id>https://sspai.com/post/87214</id>
+        <link href="https://sspai.com/post/87214"/>
+        <updated>2024-03-16T05:22:54.000Z</updated>
+        <summary type="html"><![CDATA[⏰活动时间：即日起-3月24日🏷️活动内容：新作有新意：视频栏目《生产力超频：LaTeX从入门到精通》上线，一口气更新全部78集、约400分钟的视频，全面深度讲解LaTeX。大作有优惠：最受欢迎的栏目 ...查看全文]]></summary>
+        <author>
+            <name>数字工具组</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯电长途、节假日出行，蔚来换电可还行]]></title>
+        <id>https://sspai.com/post/86882</id>
+        <link href="https://sspai.com/post/86882"/>
+        <updated>2024-03-16T02:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>一只索狗</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
         <id>https://sspai.com/post/87219</id>
@@ -1068,16 +1088,6 @@ YeeLight 灯带；
         <summary type="html"><![CDATA[本文中汇总了从摄影理论到摄影技巧再到摄影器材的各类内容，当你准备收拢装备、整理照片时，不妨读读其中的文字，或许能帮你拓宽眼界，提升审美，找到实用的照片整理和修图技巧。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新年新开始：从为什么到写什么，带你重新认识日记]]></title>
-        <id>https://sspai.com/post/86356</id>
-        <link href="https://sspai.com/post/86356"/>
-        <updated>2024-02-16T06:13:57.000Z</updated>
-        <summary type="html"><![CDATA[我们的世界看似雷打不动，但只要找准位置，轻轻一触，它就有可能发生倾斜。而日记，就是那个撬动世界的支点，请你务必一试。查看全文]]></summary>
-        <author>
-            <name>Lars漫步</name>
         </author>
     </entry>
     <entry>
