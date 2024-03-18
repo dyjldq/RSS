@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-17T00:39:04.058Z</updated>
+    <updated>2024-03-18T00:37:41.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」]]></title>
+        <id>https://sspai.com/post/87229</id>
+        <link href="https://sspai.com/post/87229"/>
+        <updated>2024-03-17T05:58:53.000Z</updated>
+        <summary type="html"><![CDATA[按：在少数派用户社区中不少Pixel设备拥趸的心目中，Pixel4是这个系列历史上的高光时刻。而这代机型最具识别度的特征，大概就是基于毫米波雷达技术的MotionSense了。尽管未能在后续型号中保留 ...查看全文]]></summary>
+        <author>
+            <name>Kyle_kaier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代打工人如何获得幸福？]]></title>
+        <id>https://sspai.com/post/86697</id>
+        <link href="https://sspai.com/post/86697"/>
+        <updated>2024-03-17T02:53:59.000Z</updated>
+        <summary type="html"><![CDATA[滴答，滴答，滴答，我在奔向死亡。查看全文]]></summary>
+        <author>
+            <name>评论尸</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[少数派的 12 岁：付费栏目周年庆大促开启]]></title>
         <id>https://sspai.com/post/87214</id>
@@ -1068,26 +1088,6 @@ YeeLight 灯带；
         <summary type="html"><![CDATA[立完 flag 之后，我是这样动手去做的。查看全文]]></summary>
         <author>
             <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[演示大考：全新家具、个性化试戴，Vision Pro 发布对零售店的一次大考]]></title>
-        <id>https://sspai.com/post/86439</id>
-        <link href="https://sspai.com/post/86439"/>
-        <updated>2024-02-17T10:30:36.000Z</updated>
-        <summary type="html"><![CDATA[编注：Tabletops是MichaelSteeber的新闻周刊，本文原文发表于2月5日，原作者授权果铺知道翻译。如果没有Apple零售店，我甚至不相信AppleVisionPro能顺利推出。倒别误解 ...查看全文]]></summary>
-        <author>
-            <name>果铺知道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整理假期拍摄的照片之前，不妨读读这些关于摄影的技巧和理论]]></title>
-        <id>https://sspai.com/post/75837</id>
-        <link href="https://sspai.com/post/75837"/>
-        <updated>2024-02-17T05:22:58.000Z</updated>
-        <summary type="html"><![CDATA[本文中汇总了从摄影理论到摄影技巧再到摄影器材的各类内容，当你准备收拢装备、整理照片时，不妨读读其中的文字，或许能帮你拓宽眼界，提升审美，找到实用的照片整理和修图技巧。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
