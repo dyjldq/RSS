@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:36:11.824Z</updated>
+    <updated>2024-03-20T00:35:47.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包]]></title>
+        <id>https://sspai.com/post/87385</id>
+        <link href="https://sspai.com/post/87385"/>
+        <updated>2024-03-19T09:56:13.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上新优惠皆齐全，周边商店的十二周年促销]]></title>
+        <id>https://sspai.com/post/87321</id>
+        <link href="https://sspai.com/post/87321"/>
+        <updated>2024-03-19T08:45:44.000Z</updated>
+        <summary type="html"><![CDATA[一年又一年，少数派今年 12 岁啦！少数派周边商店按照惯例给大家带来了诸多福利优惠活动。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洞察 | 数量增长超百档，喜剧播客挣钱了么？]]></title>
+        <id>https://sspai.com/post/87363</id>
+        <link href="https://sspai.com/post/87363"/>
+        <updated>2024-03-19T08:17:12.000Z</updated>
+        <summary type="html"><![CDATA[喜剧播客兴起，许多演员转向播客这一媒介，拓展观众群体和提升知名度， 播客成为了演员和俱乐部标配。查看全文]]></summary>
+        <author>
+            <name>播客志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用]]></title>
+        <id>https://sspai.com/post/85961</id>
+        <link href="https://sspai.com/post/85961"/>
+        <updated>2024-03-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>酱酱不惊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等]]></title>
+        <id>https://sspai.com/post/87368</id>
+        <link href="https://sspai.com/post/87368"/>
+        <updated>2024-03-19T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[上海推广「纯净码」停车缴费系统，SpaceX 被曝与美国国防部签订间谍卫星合同等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[花见花开暗香来：Apple 静安店抢先看]]></title>
         <id>https://sspai.com/post/87357</id>
@@ -1096,46 +1146,6 @@ YeeLight 灯带；
         <link href="https://sspai.com/post/86522"/>
         <updated>2024-02-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[加拿大航空因聊天机器人错误回复支付旅客退款，网易停运《三国诛将录》等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/86521</id>
-        <link href="https://sspai.com/post/86521"/>
-        <updated>2024-02-19T10:11:06.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[家用咖啡手册（番外） | 随心所欲，这是你的「拼配豆」DIY 指南]]></title>
-        <id>https://sspai.com/post/86481</id>
-        <link href="https://sspai.com/post/86481"/>
-        <updated>2024-02-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近新年了，看了看现在平台上的咖啡豆都什么水平。然后看到一些拼配咖啡豆下的评论，各式各样五花八门，好喝的、不好喝的可以粗暴的算五五开。遇到的问题虽然五花八门，但我觉得可以大体归纳为：豆子品质差：碎豆、 ...查看全文]]></summary>
-        <author>
-            <name>老林还年少</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 感冒频次突增的一年，我从身体反馈中学到哪些？]]></title>
-        <id>https://sspai.com/post/86483</id>
-        <link href="https://sspai.com/post/86483"/>
-        <updated>2024-02-19T03:32:51.000Z</updated>
-        <summary type="html"><![CDATA[对话，可以理解成我与自己身体之间的对话，通过这种内在感受，我开始越来越关注自己的身体，越来越了解自己的身体状态，也越来越懂得如何与身体「完成对话」。查看全文]]></summary>
-        <author>
-            <name>胖鱼要进步</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Sora 视频生成模型公布研发进展，nginx 主要维护者宣布分叉]]></title>
-        <id>https://sspai.com/post/86497</id>
-        <link href="https://sspai.com/post/86497"/>
-        <updated>2024-02-19T00:54:59.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Sora视频生成模型公布研发进展2月15日，OpenAI公布了视频生成模型Sora的研发进展，并向少量研究人员和设计、影视从业者开放以获取反馈。OpenAI称，Sora能够生成细节准 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
