@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/87432",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/87432",
+          "publishedOn": "2024-03-21T09:07:53.000Z",
+          "wordCount": 775,
+          "title": "新玩意 175｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdn.sspai.com/2024/3/21/article/53c2ac85-92e6-dbd3-092e-16a62bec2fd5.png"
+        },
+        {
+          "id": "https://sspai.com/post/86260",
+          "author": "常青",
+          "description": "从原理开始聊聊手机、短视频成瘾这件事，以及我们应该怎么解决这个问题。查看全文",
+          "link": "https://sspai.com/post/86260",
+          "publishedOn": "2024-03-21T07:02:54.000Z",
+          "wordCount": 784,
+          "title": "从动机错位入手：快消内容戒除方法谈",
+          "imageUrl": "https://cdn.sspai.com/3/21/2024/article/b4777e49-48d9-3f95-0641-8432b96da5a4.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/87409",
+          "author": "吃派的水獭",
+          "description": "致各位少数派：过去十余年里，少数派因为你们的创作和支持，成为了中文互联网中一股特立独行的力量：热爱科技，坚持深度、有价值的内容，相信社区的力量。正因如此，我们开始勇敢跨界，尝试做出具备少数派灵魂的硬件 ...查看全文",
+          "link": "https://sspai.com/post/87409",
+          "publishedOn": "2024-03-21T03:35:16.000Z",
+          "wordCount": 665,
+          "title": "预告 | 少数派共创产品分享会即将召开，一起开启 iPhone 效率新世代",
+          "imageUrl": "https://cdn.sspai.com/2024/3/21/article/12a926e6-3939-f9ad-91ca-972844eb7d16.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/87418",
+          "author": "少数派编辑部",
+          "description": "Epic Games 启动器将停止支持旧系统、《使命召唤：战争地带》将登陆 iOS 等。查看全文",
+          "link": "https://sspai.com/post/87418",
+          "publishedOn": "2024-03-21T00:15:40.000Z",
+          "wordCount": 765,
+          "title": "派早报：NVIDIA 尝试借助 AI 提高游戏 NPC 的表现、比亚迪京东自营旗舰店上线等",
+          "imageUrl": "https://cdn.sspai.com/21/03/2024/article/b9d7a854-c61d-e590-983d-8fc596e62277.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/ai-tools-eval",
           "author": "PlatyHsu",
           "description": "坚持场景导向、需求导向的原则，而不是陷入对于新热的无尽追求中，浪费不必要的时间和成本。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1064,46 +1104,6 @@
           "wordCount": 868,
           "title": "派早报：Apple Music 新增每月统计功能、《艾尔登法环》推出 DLC 等",
           "imageUrl": "https://cdn.sspai.com/22/02/2024/article/a8fa6065-aa92-89e7-110d-75843ee075d0.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86393",
-          "author": "_东东_",
-          "description": "或许表面上的不分类，是为了真正用起来的时候，可以用得更快更好。我的这套管理方法，或许你也可以尝试看看。查看全文",
-          "link": "https://sspai.com/post/86393",
-          "publishedOn": "2024-02-21T09:31:44.000Z",
-          "wordCount": 764,
-          "title": "善用命名法，让「搜索」成为最简单的本地文件管理方案",
-          "imageUrl": "https://cdn.sspai.com/2024/02/08/6a18c852ff9d37efc9f9e234dab1acb0.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86520",
-          "author": "NowScott",
-          "description": "大家好，我是NowScott。原因之前在使用Windows电脑时，由于经常需要把声音输出在音箱和耳机之间频繁切换，就找到了一个软件来实现一键切换（鼠标侧键映射到快捷键上）音频输出设备，但是换到Mac上 ...查看全文",
-          "link": "https://sspai.com/post/86520",
-          "publishedOn": "2024-02-21T07:00:26.000Z",
-          "wordCount": 790,
-          "title": "一日一技 | 用快捷指令一键切换 Mac 音频输出设备",
-          "imageUrl": "https://cdn.sspai.com/2024/02/19/8d4301e9be64a77e8ae74f781498196a.png"
-        },
-        {
-          "id": "https://sspai.com/post/86509",
-          "author": "家屹",
-          "description": "时间总是抽身质疑的药剂，几个月过去再回头看这些经历，反倒觉得是一堂宝贵的人生课，让我停下忙碌的步伐，回归常识，回归自我。查看全文",
-          "link": "https://sspai.com/post/86509",
-          "publishedOn": "2024-02-21T03:12:19.000Z",
-          "wordCount": 699,
-          "title": "年度征文｜在波折失业的 2023 中，我学到了这些",
-          "imageUrl": "https://cdn.sspai.com/2024/02/19/442ab0d817c3d3faf06e0f22fabd7328.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86555",
-          "author": "少数派编辑部",
-          "description": "微软 Xbox 无线控制器「幻境风暴特别版」国行开售，Apple Music 新增播放列表迁移功能等。查看全文",
-          "link": "https://sspai.com/post/86555",
-          "publishedOn": "2024-02-21T00:00:00.000Z",
-          "wordCount": 811,
-          "title": "派早报：富士推出 X100VI、OpenAI 放宽 GPT-4 Turbo 每日使用限制等",
-          "imageUrl": "https://cdn.sspai.com/2024/2/21/article/4220da44-5f33-ffa1-77b0-663faec92911.png"
         }
       ]
     },
