@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:36:18.807Z</updated>
+    <updated>2024-03-27T00:36:03.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代]]></title>
+        <id>https://sspai.com/post/87559</id>
+        <link href="https://sspai.com/post/87559"/>
+        <updated>2024-03-26T10:30:44.000Z</updated>
+        <summary type="html"><![CDATA[省流版：BANG!CASE现已面世：一款能调用iOS系统功能和快捷指令的手机壳，通过单击、双击、长按BANG!Button，即可完成一系列任务。超前预售进行中：即日起至4月8号，BANG!CASE以1 ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSA 谢幕之际，盘点 PC 运行 Android 应用解决方案]]></title>
+        <id>https://sspai.com/prime/story/wsa-alternatives</id>
+        <link href="https://sspai.com/prime/story/wsa-alternatives"/>
+        <updated>2024-03-26T09:11:49.000Z</updated>
+        <summary type="html"><![CDATA[WSA 的命运已经终结，还剩下哪些选择可以让我们继续在 Windows 上使用 Android 应用呢？查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 037 | 给父母买的手机、优秀热点机以及半入耳式耳机]]></title>
+        <id>https://sspai.com/post/87563</id>
+        <link href="https://sspai.com/post/87563"/>
+        <updated>2024-03-26T09:07:19.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度体验一年之后，我爱上了 Apple Fitness+]]></title>
+        <id>https://sspai.com/post/87413</id>
+        <link href="https://sspai.com/post/87413"/>
+        <updated>2024-03-26T06:49:14.000Z</updated>
+        <summary type="html"><![CDATA[使用 Apple Fitness+ 锻炼成了我的每日常态，我想把它也推荐给你。查看全文]]></summary>
+        <author>
+            <name>ElijahLee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众测 |「先」声夺人：第三期先享体验计划，Bose Ultra 开放式耳机众测开启]]></title>
+        <id>https://sspai.com/post/86965</id>
+        <link href="https://sspai.com/post/86965"/>
+        <updated>2024-03-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bose 的开放式耳机来了——更重磅的参与福利？这次也给大家安排上了。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等]]></title>
+        <id>https://sspai.com/post/87554</id>
+        <link href="https://sspai.com/post/87554"/>
+        <updated>2024-03-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[微软新专利：利用固态硬盘提升光线追踪性能，Chrome 将获 Windows 字体渲染更新等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/87546</id>
@@ -1067,46 +1128,6 @@
         <link href="https://sspai.com/post/86693"/>
         <updated>2024-02-27T00:20:00.000Z</updated>
         <summary type="html"><![CDATA[汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/86685</id>
-        <link href="https://sspai.com/post/86685"/>
-        <updated>2024-02-26T09:52:07.000Z</updated>
-        <summary type="html"><![CDATA[你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文｜新手家庭财务初探]]></title>
-        <id>https://sspai.com/post/86627</id>
-        <link href="https://sspai.com/post/86627"/>
-        <updated>2024-02-26T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[搭伙过日子，就要通过协商和更多方面的考虑来构建合伙模式。本文仅以一个小例子作为阐述，也是对 2023 年身份转变后，个人对家庭财务思考的总结。查看全文]]></summary>
-        <author>
-            <name>斯利普固</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用不明白 Office 的第 365 天，微软请的「小帮手」能帮上忙吗？]]></title>
-        <id>https://sspai.com/post/86677</id>
-        <link href="https://sspai.com/post/86677"/>
-        <updated>2024-02-26T03:41:23.000Z</updated>
-        <summary type="html"><![CDATA[能，但 Office 里的 Copilot 还有很大的提升空间。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Reddit 申请上市，Vision Pro 零部件成本约为 1542 美元]]></title>
-        <id>https://sspai.com/post/86668</id>
-        <link href="https://sspai.com/post/86668"/>
-        <updated>2024-02-26T00:49:57.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事Reddit申请上市2月22日，美国访问量最大的网站之一、在线论坛服务Reddit向美国证券交易委员会（SEC）递交上市申请，计划三月在纽交所上市，代码为RDDT。这将是今年美国大型 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
