@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T00:36:03.531Z</updated>
+    <updated>2024-03-28T00:36:18.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」]]></title>
+        <id>https://sspai.com/post/87587</id>
+        <link href="https://sspai.com/post/87587"/>
+        <updated>2024-03-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[前言学英语最基础的就是背单词，这个毋庸置疑，无论是学生党还是工作党，有背单词的需求的人数不胜数。因为有着庞大的用户群体，单词App这个赛道可谓是卷得飞起，各种单词App层出不穷，用户也挑得眼花，相信每 ...查看全文]]></summary>
+        <author>
+            <name>豌豆豆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：新加坡，赤道独有的新浪漫]]></title>
+        <id>https://sspai.com/post/87580</id>
+        <link href="https://sspai.com/post/87580"/>
+        <updated>2024-03-27T07:08:03.000Z</updated>
+        <summary type="html"><![CDATA[出发前除了两家咖啡店，没有做任何攻略的我，在新加坡收获了一次绝佳的旅行体验。查看全文]]></summary>
+        <author>
+            <name>程天冲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字时代的人文关怀：Google 无障碍解决方案汇总]]></title>
+        <id>https://sspai.com/post/87150</id>
+        <link href="https://sspai.com/post/87150"/>
+        <updated>2024-03-27T03:00:26.000Z</updated>
+        <summary type="html"><![CDATA[通过小小的手机窗口，用自己的方式探索大千世界。查看全文]]></summary>
+        <author>
+            <name>HarperMua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：WWDC24 将于 6 月 10 日举行等]]></title>
+        <id>https://sspai.com/post/87585</id>
+        <link href="https://sspai.com/post/87585"/>
+        <updated>2024-03-27T00:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 推出兼容 Arm 的正式版本，高通推出第三代 S5 和 S3 音频平台等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BANG!CASE 开启超前预售：一键按下，开启 iPhone 效率新世代]]></title>
         <id>https://sspai.com/post/87559</id>
@@ -1088,46 +1128,6 @@
         <link href="https://sspai.com/post/86732"/>
         <updated>2024-02-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[一加推出 OnePlus Watch 2，《黑神话：悟空》等 111 款游戏过审等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 033 | 最爱的第三方相机应用、小米电纸书以及快捷指令懒人记账]]></title>
-        <id>https://sspai.com/post/86718</id>
-        <link href="https://sspai.com/post/86718"/>
-        <updated>2024-02-27T09:09:51.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 伪斜杠青年的自救：「兴趣使然」是最好的治愈良药]]></title>
-        <id>https://sspai.com/post/86625</id>
-        <link href="https://sspai.com/post/86625"/>
-        <updated>2024-02-27T06:43:25.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的第6篇入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「兴趣使然」。前言相信大家 ...查看全文]]></summary>
-        <author>
-            <name>_东东_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 大话题、24 本书：我的 2023 年年度书单]]></title>
-        <id>https://sspai.com/post/85733</id>
-        <link href="https://sspai.com/post/85733"/>
-        <updated>2024-02-27T03:37:45.000Z</updated>
-        <summary type="html"><![CDATA[读过的每一本书都是我脚下坚实的路，那就明年见吧，看看我会走到哪里。查看全文]]></summary>
-        <author>
-            <name>啊桂酱AGuiJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：AI-RAN 联盟成立，高通发布骁龙 X80 基带等]]></title>
-        <id>https://sspai.com/post/86693</id>
-        <link href="https://sspai.com/post/86693"/>
-        <updated>2024-02-27T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[汉王 Clear 6 电纸书上架，SSE 4.2 指令集扩展加入 Windows 11 兼容检测步骤等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
