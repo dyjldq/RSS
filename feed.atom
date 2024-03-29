@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T00:36:18.722Z</updated>
+    <updated>2024-03-29T00:36:12.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 176｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/87623</id>
+        <link href="https://sspai.com/post/87623"/>
+        <updated>2024-03-28T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超越工具与概念之争：可持续知识管理的个人实践]]></title>
+        <id>https://sspai.com/post/87028</id>
+        <link href="https://sspai.com/post/87028"/>
+        <updated>2024-03-28T07:29:15.000Z</updated>
+        <summary type="html"><![CDATA[知识管理圈子概念层出，个人工作流构建的出发点应该放在哪里？查看全文]]></summary>
+        <author>
+            <name>yuchen_lea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回县城去：青年维特的烦恼]]></title>
+        <id>https://sspai.com/post/86722</id>
+        <link href="https://sspai.com/post/86722"/>
+        <updated>2024-03-28T03:15:22.000Z</updated>
+        <summary type="html"><![CDATA[在一线城市挣扎时，屏幕是碎的，世界模糊出彩色，不知前路在何方。回到县城后，所有事情都安稳了，摄像头是碎的。窥探外界的可能性断裂了。查看全文]]></summary>
+        <author>
+            <name>拐子狼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：英特尔和微软联合定义 AI PC、麦当劳推出一次性胶卷相机等]]></title>
+        <id>https://sspai.com/post/87611</id>
+        <link href="https://sspai.com/post/87611"/>
+        <updated>2024-03-28T00:41:46.000Z</updated>
+        <summary type="html"><![CDATA[微软推出 Windows 11 Moment 5 功能更新、微信安全中心发布打击外挂公告等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 个维度、6 个 App，帮你选出最适合自己的「背单词神器」]]></title>
         <id>https://sspai.com/post/87587</id>
@@ -1088,46 +1128,6 @@
         <link href="https://sspai.com/post/86766"/>
         <updated>2024-02-29T00:29:15.000Z</updated>
         <summary type="html"><![CDATA[任天堂向模拟器 Yuzu 发起诉讼、《最终幻想 VII Rebirth》实体版出现印刷错误等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月玩什么 | 超自然车旅、最终幻想 VII 重生、班德尔城物语]]></title>
-        <id>https://sspai.com/post/86752</id>
-        <link href="https://sspai.com/post/86752"/>
-        <updated>2024-02-28T09:54:35.000Z</updated>
-        <summary type="html"><![CDATA[除了新、热大作，还有一款需要眨眼才能通关的游戏？查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 绝知此事要躬行：谈谈笔记与自我管理的元方法论]]></title>
-        <id>https://sspai.com/post/86605</id>
-        <link href="https://sspai.com/post/86605"/>
-        <updated>2024-02-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。「本文参加2023年度征文活动。我的2023年度关键词是：独立」回顾2023年，「独立」 ...查看全文]]></summary>
-        <author>
-            <name>littleiron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 2023 年度效率工具]]></title>
-        <id>https://sspai.com/post/85490</id>
-        <link href="https://sspai.com/post/85490"/>
-        <updated>2024-02-28T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>玉树芝兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：努比亚公布多款新机、微软与 Mistral 达成合作等]]></title>
-        <id>https://sspai.com/post/86732</id>
-        <link href="https://sspai.com/post/86732"/>
-        <updated>2024-02-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一加推出 OnePlus Watch 2，《黑神话：悟空》等 111 款游戏过审等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
