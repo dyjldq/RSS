@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-30T00:35:16.445Z</updated>
+    <updated>2024-03-31T00:40:36.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[尝试了众多输入法方案后，我想和你分享这些心得]]></title>
+        <id>https://sspai.com/post/86791</id>
+        <link href="https://sspai.com/post/86791"/>
+        <updated>2024-03-30T03:32:46.000Z</updated>
+        <summary type="html"><![CDATA[但愿每个人都能找到适合自己的输入方案，其实速度够用就好，大家不必盲目追求。查看全文]]></summary>
+        <author>
+            <name>橙黄橘绿时</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大兜作品]]></title>
         <id>https://sspai.com/post/87654</id>
@@ -1090,46 +1100,6 @@
         <summary type="html"><![CDATA[如果你有意购买洗地机却仍在观望，那确实可以在 2024 年找个合适的大促节点入手一部了。查看全文]]></summary>
         <author>
             <name>尼克尼克眨眨眼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大井作品]]></title>
-        <id>https://sspai.com/post/86816</id>
-        <link href="https://sspai.com/post/86816"/>
-        <updated>2024-03-01T10:04:53.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]周处除三害、[电影]首尔之春、[电影]利益区域、[电影]那夜我们行向彼方、[电影]658公里、阳子的旅途、[美剧]良医第七季/最终季、[日剧]想做饭的女人和想吃饭的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 如何维护职场权益：我的「尝试」与实战经验分享]]></title>
-        <id>https://sspai.com/post/86776</id>
-        <link href="https://sspai.com/post/86776"/>
-        <updated>2024-03-01T07:00:06.000Z</updated>
-        <summary type="html"><![CDATA[在劳资关系中，公司具有优势地位，而劳动者处于弱势的一方。尤其是面对老板、人事、法务组成的流氓团伙时，会更加被动、愤怒、迷茫、无助。希望大家在面对公司的恶意时可以更加从容，是我写下这些文字的初衷。查看全文]]></summary>
-        <author>
-            <name>蓝羽铭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以「工作」为分类标准，探讨「知识管理」的新思路]]></title>
-        <id>https://sspai.com/post/85567</id>
-        <link href="https://sspai.com/post/85567"/>
-        <updated>2024-03-01T03:34:20.000Z</updated>
-        <summary type="html"><![CDATA[知识管理不是一个静态的过程，并不是学会一套笔记法就能学会知识管理，根据类型「对症下药」，才是知识管理的上上之策。查看全文]]></summary>
-        <author>
-            <name>_东东_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：魅族推出魅族 21 Pro 手机、Apple Music 新增「爱不释耳」个性播放列表]]></title>
-        <id>https://sspai.com/post/86797</id>
-        <link href="https://sspai.com/post/86797"/>
-        <updated>2024-03-01T00:41:11.000Z</updated>
-        <summary type="html"><![CDATA[阿里云宣布旗下产品降价，Adobe 推出 AI 音乐生成工具等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
