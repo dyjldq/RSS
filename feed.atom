@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-31T00:40:36.800Z</updated>
+    <updated>2024-04-01T00:40:40.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story]]></title>
+        <id>https://sspai.com/post/87696</id>
+        <link href="https://sspai.com/post/87696"/>
+        <updated>2024-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近期值得探讨的新游信息及作者近期的部分游玩感受分享。查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空想特摄的浪漫：奥特曼入坑指南]]></title>
+        <id>https://sspai.com/post/87652</id>
+        <link href="https://sspai.com/post/87652"/>
+        <updated>2024-03-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[希望通过这一系列文章带你走进特摄片的世界，了解奥特曼背后的故事。查看全文]]></summary>
+        <author>
+            <name>ROB1N</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尝试了众多输入法方案后，我想和你分享这些心得]]></title>
         <id>https://sspai.com/post/86791</id>
@@ -1090,16 +1110,6 @@
         <summary type="html"><![CDATA[近日，英国《金融时报》发布报道称，欧盟委员会可能会在3月初针对Apple涉嫌违反相关流媒体音乐服务访问的法律规定一案，对其处以高达5亿欧元的罚款。此项举措或将成为音乐流媒体服务提供商Spotify于2 ...查看全文]]></summary>
         <author>
             <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为家庭清洁增添一份愉悦感：追觅 H30 Ultra 洗地机使用体验]]></title>
-        <id>https://sspai.com/post/86636</id>
-        <link href="https://sspai.com/post/86636"/>
-        <updated>2024-03-02T02:36:05.000Z</updated>
-        <summary type="html"><![CDATA[如果你有意购买洗地机却仍在观望，那确实可以在 2024 年找个合适的大促节点入手一部了。查看全文]]></summary>
-        <author>
-            <name>尼克尼克眨眨眼</name>
         </author>
     </entry>
     <entry>
