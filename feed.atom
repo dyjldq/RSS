@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-01T00:40:40.965Z</updated>
+    <updated>2024-04-02T00:37:14.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/87733</id>
+        <link href="https://sspai.com/post/87733"/>
+        <updated>2024-04-01T10:03:11.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的「数字资产」管理思与行]]></title>
+        <id>https://sspai.com/post/87694</id>
+        <link href="https://sspai.com/post/87694"/>
+        <updated>2024-04-01T06:58:47.000Z</updated>
+        <summary type="html"><![CDATA[也许 PKM/PIM 的真谛其实是学会不管——就像 GTD 的真谛是学会放弃不该做的。没必要的知识和信息可以不管，没必要的事情也无需硬是浪费自我气力。专注于当下，不该做的事情就让它随风飘去吧。查看全文]]></summary>
+        <author>
+            <name>Nightcanoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 录屏灵活可控，后期省时省心：Screen Studio]]></title>
+        <id>https://sspai.com/post/86574</id>
+        <link href="https://sspai.com/post/86574"/>
+        <updated>2024-04-01T03:38:13.000Z</updated>
+        <summary type="html"><![CDATA[如果你跟我一样，录制视频是高频刚需，那你不难体会到它对用户痛点的理解和解决。查看全文]]></summary>
+        <author>
+            <name>玉树芝兰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：少数派宣布进入汽车配件市场]]></title>
+        <id>https://sspai.com/post/87713</id>
+        <link href="https://sspai.com/post/87713"/>
+        <updated>2024-04-01T00:56:02.000Z</updated>
+        <summary type="html"><![CDATA[你最好错过的新鲜事少数派宣布进入汽车配件市场近日，少数派宣布将进军汽车配件市场。发言人吃派的水獭表示，少数派一直以「高效工作、品质生活」为宗旨；汽车作为工作和生活的连接枢纽，是少数派业务领域的自然延伸 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story]]></title>
         <id>https://sspai.com/post/87696</id>
@@ -1100,16 +1140,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事马斯克起诉OpenAI2月29日，马斯克在旧金山提起诉讼，指控OpenAI及其联合创始人SamAltman、GregBrockman将利润置于人类利益之上，违反了OpenAI成立之初 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判]]></title>
-        <id>https://sspai.com/post/86850</id>
-        <link href="https://sspai.com/post/86850"/>
-        <updated>2024-03-03T07:44:03.000Z</updated>
-        <summary type="html"><![CDATA[近日，英国《金融时报》发布报道称，欧盟委员会可能会在3月初针对Apple涉嫌违反相关流媒体音乐服务访问的法律规定一案，对其处以高达5亿欧元的罚款。此项举措或将成为音乐流媒体服务提供商Spotify于2 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
         </author>
     </entry>
     <entry>
