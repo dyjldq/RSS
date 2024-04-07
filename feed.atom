@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-06T00:35:56.458Z</updated>
+    <updated>2024-04-07T00:40:45.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享]]></title>
+        <id>https://sspai.com/post/87836</id>
+        <link href="https://sspai.com/post/87836"/>
+        <updated>2024-04-06T03:57:27.000Z</updated>
+        <summary type="html"><![CDATA[我们帮你准备一份完整的 Notion 教程，希望你也能够在快节奏的生活和工作中保持高效和有条不紊。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大斗作品]]></title>
         <id>https://sspai.com/post/87799</id>
@@ -1019,46 +1029,6 @@
         <summary type="html"><![CDATA[富士的热度恐怕还得维持相当长一段时间。而这样的富士，你愿意埋单么？查看全文]]></summary>
         <author>
             <name>食肉库玛老师傅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大卷作品]]></title>
-        <id>https://sspai.com/post/87049</id>
-        <link href="https://sspai.com/post/87049"/>
-        <updated>2024-03-08T09:39:21.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]沙丘2、[电影]奇美拉、[电影]可怜的东西、[电影]波纹、[电影]高墙之外、[电影]小孩儿、[美剧]奇思妙探、[美剧]幕府将军、[英剧]珍的不一样第二季、[美剧]小 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想要购买新款 MacBook Air？这些细节你值得注意]]></title>
-        <id>https://sspai.com/post/85735</id>
-        <link href="https://sspai.com/post/85735"/>
-        <updated>2024-03-08T07:00:05.000Z</updated>
-        <summary type="html"><![CDATA[搭载 M3 SoC 的 MacBook Air 发布了，这是我们的选购建议。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 突破边界，成为一列想脱轨的列车]]></title>
-        <id>https://sspai.com/post/86658</id>
-        <link href="https://sspai.com/post/86658"/>
-        <updated>2024-03-08T03:30:09.000Z</updated>
-        <summary type="html"><![CDATA[早在年初，我就决定在年度征文中分享自己退学申请的心路历程，因为这是一次惊心动魄的尝试。查看全文]]></summary>
-        <author>
-            <name>Jiaozi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 发布 macOS 14.4 等系统正式版等]]></title>
-        <id>https://sspai.com/post/87033</id>
-        <link href="https://sspai.com/post/87033"/>
-        <updated>2024-03-08T00:44:37.000Z</updated>
-        <summary type="html"><![CDATA[微信发布「朋友圈违规避坑指南」，Steam 新增购物车同步等功能等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
