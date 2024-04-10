@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T00:36:58.550Z</updated>
+    <updated>2024-04-10T00:36:34.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主]]></title>
+        <id>https://sspai.com/post/87929</id>
+        <link href="https://sspai.com/post/87929"/>
+        <updated>2024-04-09T09:30:15.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见你好吗：在 2024 回顾 Windows 的移动之梦]]></title>
+        <id>https://sspai.com/post/87907</id>
+        <link href="https://sspai.com/post/87907"/>
+        <updated>2024-04-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[那抹清新的蓝，是否也曾像海水泼进你的青春？查看全文]]></summary>
+        <author>
+            <name>揪惹个咪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造可持续的个人工作流 02：系统篇]]></title>
+        <id>https://sspai.com/post/87698</id>
+        <link href="https://sspai.com/post/87698"/>
+        <updated>2024-04-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[万事万物都是相互联系的。很多时候通过提升视角，拔高层次，以「整体」的视角从更高的维度审视问题，就能够发现更优的解决方案。查看全文]]></summary>
+        <author>
+            <name>yuchen_lea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等]]></title>
+        <id>https://sspai.com/post/87916</id>
+        <link href="https://sspai.com/post/87916"/>
+        <updated>2024-04-09T00:43:15.000Z</updated>
+        <summary type="html"><![CDATA[国家邮政局发布 2023 年快递服务满意度调查和时限测试结果，巴西对马斯克可能妨碍司法公正展开调查等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陌生而有趣的训练伙伴——波速球和 ViPR 炮筒]]></title>
         <id>https://sspai.com/prime/story/training-guide-bosu-ball-vipr</id>
@@ -1030,56 +1070,6 @@
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>Morick莫里克</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅]]></title>
-        <id>https://sspai.com/post/86944</id>
-        <link href="https://sspai.com/post/86944"/>
-        <updated>2024-03-11T10:50:06.000Z</updated>
-        <summary type="html"><![CDATA[回归初心，为了那些看好、肯定、期待着我的人，竭力做出最好的游戏设计。这就是我今后作为「业余爱好者」或「副业从事者」，将要继续做的事。查看全文]]></summary>
-        <author>
-            <name>乔淼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/87100</id>
-        <link href="https://sspai.com/post/87100"/>
-        <updated>2024-03-11T09:55:30.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 巧用公式实现 Notion 数据库去重]]></title>
-        <id>https://sspai.com/post/86909</id>
-        <link href="https://sspai.com/post/86909"/>
-        <updated>2024-03-11T07:00:05.000Z</updated>
-        <summary type="html"><![CDATA[查重是排除重复信息干扰、确保唯一性数据准确性的校验手段。完善的查重机制能节省大量人工判断的成本，并且在第一时间获知结论。本文介绍了一种 Notion 数据库去重的办法。查看全文]]></summary>
-        <author>
-            <name>启黎</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 渐入佳境：斜杠程序员的数字游民转型之旅]]></title>
-        <id>https://sspai.com/post/86832</id>
-        <link href="https://sspai.com/post/86832"/>
-        <updated>2024-03-11T03:09:40.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。本文参加2023年度征文活动。我的2023年度关键词是：「渐入佳境」。大家好，我是张小吉 ...查看全文]]></summary>
-        <author>
-            <name>张小吉</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：OpenAI 宣布新董事会成员，Altman 回归]]></title>
-        <id>https://sspai.com/post/87084</id>
-        <link href="https://sspai.com/post/87084"/>
-        <updated>2024-03-11T00:56:19.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事OpenAI宣布新董事会成员，Altman回归3月9日，OpenAI通过官方博客宣布，针对此前内部人事风波的调查已经完成，CEOSamAltman将重新加入公司改组后的董事会。其他三 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
