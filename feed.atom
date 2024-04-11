@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:36:34.354Z</updated>
+    <updated>2024-04-11T00:37:09.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[曾经「装机必备」的老游戏，现在怎么样了？]]></title>
+        <id>https://sspai.com/post/78197</id>
+        <link href="https://sspai.com/post/78197"/>
+        <updated>2024-04-10T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[十多年一眨眼就过去了，你说是吧？查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当设计代替性价比：从设计的角度解读 Nothing Phone (2a)]]></title>
+        <id>https://sspai.com/post/87883</id>
+        <link href="https://sspai.com/post/87883"/>
+        <updated>2024-04-10T03:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>MMMMMMarcus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Fairphone 推出可更换电池的 ANC 耳机等]]></title>
+        <id>https://sspai.com/post/87944</id>
+        <link href="https://sspai.com/post/87944"/>
+        <updated>2024-04-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beeper 被 Automattic 收购，取消邀请制等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主]]></title>
         <id>https://sspai.com/post/87929</id>
@@ -1019,57 +1049,6 @@
         <summary type="html"><![CDATA[Apple 将在欧盟开放 Web 应用分发，深圳推出共享充电宝行业自律公约等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？]]></title>
-        <id>https://sspai.com/post/86886</id>
-        <link href="https://sspai.com/post/86886"/>
-        <updated>2024-03-12T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[过去的一年，我最大的收获，正是基于一个偶然的契机，克服自己「狐狸」型人的短板，把自己喜欢的几件事聚合在一起，坚持朝着一个方向努力，最终取得了欣喜的成长。查看全文]]></summary>
-        <author>
-            <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年，翻盖机还有什么可玩？]]></title>
-        <id>https://sspai.com/prime/story/buy-a-flip-phone-in-2024</id>
-        <link href="https://sspai.com/prime/story/buy-a-flip-phone-in-2024"/>
-        <updated>2024-03-12T09:21:58.000Z</updated>
-        <summary type="html"><![CDATA[聊聊翻盖机这个看上去没有过气多久、实际上已经很难把玩到的经典设计，在 2024 年还有什么可折腾。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们]]></title>
-        <id>https://sspai.com/post/87128</id>
-        <link href="https://sspai.com/post/87128"/>
-        <updated>2024-03-12T08:58:11.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派的 12 岁：正版软件特惠限时开启]]></title>
-        <id>https://sspai.com/post/87126</id>
-        <link href="https://sspai.com/post/87126"/>
-        <updated>2024-03-12T08:50:36.000Z</updated>
-        <summary type="html"><![CDATA[少数派12岁啦！为了与大家共同庆祝我派的生日，我们继续与国内外数十家优秀的开发者以及团队推出限时特惠活动，如果你遇到了心仪的软件，不妨趁机入手不要错过。🚀少数派网站活动专区|少数派淘宝活动专区新软速递 ...查看全文]]></summary>
-        <author>
-            <name>福利派</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 寻找最适合写小说的工具——novelWriter]]></title>
-        <id>https://sspai.com/post/86447</id>
-        <link href="https://sspai.com/post/86447"/>
-        <updated>2024-03-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>Morick莫里克</name>
         </author>
     </entry>
     <entry>
