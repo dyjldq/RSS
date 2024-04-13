@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-12T00:37:13.570Z</updated>
+    <updated>2024-04-13T00:31:20.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的好一些作品]]></title>
+        <id>https://sspai.com/post/88024</id>
+        <link href="https://sspai.com/post/88024"/>
+        <updated>2024-04-12T10:13:17.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产]城中之城、[韩剧]寄生兽：灰色部队、[美剧]谜探休格、[美剧]雷普利、[泰剧]绝庙骗局、[日剧]大叔的内裤穿什么都行、[日剧]独活女子的推荐4、[美剧]我们是幸运儿 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新兴云端部署服务 Zeabur 创始团队都装了啥？]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-230412</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-230412"/>
+        <updated>2024-04-12T10:05:38.000Z</updated>
+        <summary type="html"><![CDATA[面对从「开发者」到「创业者」的身份切换，必须抛下以前那个程序员的思维，学着关掉代码编辑器，走出去和各个不同领域的人交流，从中学习。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>火箭君CC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了发现更多感兴趣的播客，我开发了一款工具]]></title>
+        <id>https://sspai.com/post/87991</id>
+        <link href="https://sspai.com/post/87991"/>
+        <updated>2024-04-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[播客越来越成为我探索这个世界的重要渠道，作为一名重度播客用户，我自然希望听到更多不同的声音来帮助我理解周围正在发生的事情。于是我做了这个工具「播客广场」：https://www.pcspy.net。从 ...查看全文]]></summary>
+        <author>
+            <name>少数派94047171</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用没那么枯燥的方式学英语：我的沉浸式语言学习实践]]></title>
+        <id>https://sspai.com/post/87977</id>
+        <link href="https://sspai.com/post/87977"/>
+        <updated>2024-04-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[通过沉浸式学习，更高效地掌握知识、领悟技能。查看全文]]></summary>
+        <author>
+            <name>Jiang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini]]></title>
+        <id>https://sspai.com/post/88008</id>
+        <link href="https://sspai.com/post/88008"/>
+        <updated>2024-04-12T00:44:30.000Z</updated>
+        <summary type="html"><![CDATA[索尼发布 AI 智能构图 PTZ 摄像机，Google 宣布 Photos 中的 AI 功能对所有人开放等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新玩意 177｜少数派的编辑们最近买了啥？]]></title>
         <id>https://sspai.com/post/87996</id>
@@ -987,56 +1038,6 @@
         <link href="https://sspai.com/post/87209"/>
         <updated>2024-03-15T00:30:44.000Z</updated>
         <summary type="html"><![CDATA[微软 Edge 浏览器 Android 版测试插件功能，支付宝公布租赁行业治理成果等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 书能读完吗，读完了还能读什么？]]></title>
-        <id>https://sspai.com/post/87027</id>
-        <link href="https://sspai.com/post/87027"/>
-        <updated>2024-03-14T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥 ...查看全文]]></summary>
-        <author>
-            <name>红酒皇</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：无锡，正是江南春好时]]></title>
-        <id>https://sspai.com/post/86987</id>
-        <link href="https://sspai.com/post/86987"/>
-        <updated>2024-03-14T08:00:21.000Z</updated>
-        <summary type="html"><![CDATA[行走景色之中，除了春晖的呼唤，还有一种模糊的愉悦感，大概是来自于活着真好的感慨。查看全文]]></summary>
-        <author>
-            <name>拐子狼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 自己动手解决 Pixel 启动器的图标问题：不规则图标补全计划]]></title>
-        <id>https://sspai.com/post/87095</id>
-        <link href="https://sspai.com/post/87095"/>
-        <updated>2024-03-14T06:26:33.000Z</updated>
-        <summary type="html"><![CDATA[干掉国产应用的白底图标和节日横幅，让你的 Pixel 启动器更清爽。查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 赐我一场前去欧洲的流亡]]></title>
-        <id>https://sspai.com/post/86992</id>
-        <link href="https://sspai.com/post/86992"/>
-        <updated>2024-03-14T03:12:54.000Z</updated>
-        <summary type="html"><![CDATA[本文是「2023年度征文：分享你的关键词」的入围文章。本文仅代表作者本人观点，少数派对标题和排版略作调整。由于收到的投稿较多，目前仍有入围文章并未推荐至首页。为保证所有入围文章在最终评定时都能拥有足够 ...查看全文]]></summary>
-        <author>
-            <name>珪璋</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：大上推出彩色墨水屏显示器、Sora 服务年内开放等]]></title>
-        <id>https://sspai.com/post/87177</id>
-        <link href="https://sspai.com/post/87177"/>
-        <updated>2024-03-14T00:28:34.000Z</updated>
-        <summary type="html"><![CDATA[免费版 Copilot 支持 GPT-4 Turbo LLM、Epic 推出非游戏开发者付费方案等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
