@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-13T00:31:20.835Z</updated>
+    <updated>2024-04-14T00:43:06.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[触碰虚拟与现实的边界：少数派的 Let's visionOS 2024 大会回顾]]></title>
+        <id>https://sspai.com/post/88040</id>
+        <link href="https://sspai.com/post/88040"/>
+        <updated>2024-04-13T03:38:08.000Z</updated>
+        <summary type="html"><![CDATA[编注：在2024年的春天，Let'svisionOS2024，一场空间计算领域的盛宴在北京举行。这场国际性的大会，让全世界的优秀创造者们齐聚一堂，为我们带来visionOS平台最新的开发和设计经验。少 ...查看全文]]></summary>
+        <author>
+            <name>轻舟_</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的好一些作品]]></title>
         <id>https://sspai.com/post/88024</id>
@@ -990,56 +1000,6 @@
         <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
         <author>
             <name>一只索狗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
-        <id>https://sspai.com/post/87219</id>
-        <link href="https://sspai.com/post/87219"/>
-        <updated>2024-03-15T09:27:46.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]绅士们、[美剧]动物管制官第二季、[电影]忧郁小女孩、[电影]法式火锅、[电影]世界的阿菊、[真人秀]犯罪现场4：归来、[真人秀]边走边唱的女子几则精彩预告：马东锡 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 从戒除安眠药开始，我选择不再将自己外包]]></title>
-        <id>https://sspai.com/post/86911</id>
-        <link href="https://sspai.com/post/86911"/>
-        <updated>2024-03-15T08:57:39.000Z</updated>
-        <summary type="html"><![CDATA[如果你也正在迷茫，请珍惜现在这种感觉。当你为此觉得焦虑的时候，你可以说自己正在长出或剥离「蹼」，当它过去后，你就是一个更加清晰、稳定的人了。查看全文]]></summary>
-        <author>
-            <name>银河捕手</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一次常规更新：M3 版 MacBook Air 快速上手]]></title>
-        <id>https://sspai.com/post/87202</id>
-        <link href="https://sspai.com/post/87202"/>
-        <updated>2024-03-15T06:56:07.000Z</updated>
-        <summary type="html"><![CDATA[快速看看 M3 版本的 MacBook Air 有哪些新的变化。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度征文 | 两个身份的拉扯与平衡：一边上班，一边当艺术家]]></title>
-        <id>https://sspai.com/post/86989</id>
-        <link href="https://sspai.com/post/86989"/>
-        <updated>2024-03-15T03:31:48.000Z</updated>
-        <summary type="html"><![CDATA[上一年的征文是「松弛与踌躇」，这一篇是「拉扯与平衡」，希望下一年是「自洽与坚定」，如果还有下一年的话。查看全文]]></summary>
-        <author>
-            <name>柯里昂</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Google 将在 5 月 14 日召开 I/O 大会]]></title>
-        <id>https://sspai.com/post/87209</id>
-        <link href="https://sspai.com/post/87209"/>
-        <updated>2024-03-15T00:30:44.000Z</updated>
-        <summary type="html"><![CDATA[微软 Edge 浏览器 Android 版测试插件功能，支付宝公布租赁行业治理成果等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
