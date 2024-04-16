@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-15T03:05:54.228Z</updated>
+    <updated>2024-04-16T00:36:41.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/88086</id>
+        <link href="https://sspai.com/post/88086"/>
+        <updated>2024-04-15T10:18:29.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：初见山西，记住大同]]></title>
+        <id>https://sspai.com/post/87791</id>
+        <link href="https://sspai.com/post/87791"/>
+        <updated>2024-04-15T07:00:40.000Z</updated>
+        <summary type="html"><![CDATA[回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。查看全文]]></summary>
+        <author>
+            <name>雷蒙斯与狗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity]]></title>
+        <id>https://sspai.com/post/87950</id>
+        <link href="https://sspai.com/post/87950"/>
+        <updated>2024-04-15T03:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Screenity是一款功能强大、注重隐私保护的屏幕录制和标注工具，由AlyssaX开发，该项目在GitHub上开源，目前适用于桌面上的Chrome和基于Chromium的浏览器；用户可以无限制地使用 ...查看全文]]></summary>
+        <author>
+            <name>张子豪John</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派早报：商务部推动数字消费提升、消费品以旧换新]]></title>
         <id>https://sspai.com/post/88074</id>
@@ -980,26 +1010,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事xAI开源Grok-1模型3月17日，马斯克创办的xAI公开发布了Grok-1模型的代码和模型权重[GitHub]，均采用Apache2开源许可证。权重文件体积为318.24GB，采 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」]]></title>
-        <id>https://sspai.com/post/87229</id>
-        <link href="https://sspai.com/post/87229"/>
-        <updated>2024-03-17T05:58:53.000Z</updated>
-        <summary type="html"><![CDATA[按：在少数派用户社区中不少Pixel设备拥趸的心目中，Pixel4是这个系列历史上的高光时刻。而这代机型最具识别度的特征，大概就是基于毫米波雷达技术的MotionSense了。尽管未能在后续型号中保留 ...查看全文]]></summary>
-        <author>
-            <name>Kyle_kaier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代打工人如何获得幸福？]]></title>
-        <id>https://sspai.com/post/86697</id>
-        <link href="https://sspai.com/post/86697"/>
-        <updated>2024-03-17T02:53:59.000Z</updated>
-        <summary type="html"><![CDATA[滴答，滴答，滴答，我在奔向死亡。查看全文]]></summary>
-        <author>
-            <name>评论尸</name>
         </author>
     </entry>
     <entry>

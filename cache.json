@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88086",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/88086",
+          "publishedOn": "2024-04-15T10:18:29.000Z",
+          "wordCount": 881,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2024/4/15/article/cdc7478e-4e9f-9ad1-9f47-6bf7200f3365.png"
+        },
+        {
+          "id": "https://sspai.com/post/87791",
+          "author": "雷蒙斯与狗",
+          "description": "回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。查看全文",
+          "link": "https://sspai.com/post/87791",
+          "publishedOn": "2024-04-15T07:00:40.000Z",
+          "wordCount": 683,
+          "title": "城市漫步指南：初见山西，记住大同",
+          "imageUrl": "https://cdn.sspai.com/2024/04/03/6d7449a19563382a0c8bbd3128161b03.png"
+        },
+        {
+          "id": "https://sspai.com/post/87950",
+          "author": "张子豪John",
+          "description": "Screenity是一款功能强大、注重隐私保护的屏幕录制和标注工具，由AlyssaX开发，该项目在GitHub上开源，目前适用于桌面上的Chrome和基于Chromium的浏览器；用户可以无限制地使用 ...查看全文",
+          "link": "https://sspai.com/post/87950",
+          "publishedOn": "2024-04-15T03:17:01.000Z",
+          "wordCount": 773,
+          "title": "App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity",
+          "imageUrl": "https://cdn.sspai.com/2024/04/10/db71d4c4dfe19a6a904f06a1c1425aae.png"
+        },
+        {
           "id": "https://sspai.com/post/88074",
           "author": "少数派编辑部",
           "description": "你可能错过的新鲜事商务部推动数字消费提升、消费品以旧换新据央视网报道，近日，商务部印发《关于实施数字消费提升行动的通知》。《通知》立足数字消费特点与发展趋势，从供给、消费、载体、业态4个方面提出具体举 ...查看全文",
@@ -974,26 +1004,6 @@
           "wordCount": 913,
           "title": "派早报：xAI 开源 Grok-1 模型",
           "imageUrl": "https://cdn.sspai.com/3/18/2024/article/03f2ccb0-c745-1125-ac38-c81279c6b61b.png"
-        },
-        {
-          "id": "https://sspai.com/post/87229",
-          "author": "Kyle_kaier",
-          "description": "按：在少数派用户社区中不少Pixel设备拥趸的心目中，Pixel4是这个系列历史上的高光时刻。而这代机型最具识别度的特征，大概就是基于毫米波雷达技术的MotionSense了。尽管未能在后续型号中保留 ...查看全文",
-          "link": "https://sspai.com/post/87229",
-          "publishedOn": "2024-03-17T05:58:53.000Z",
-          "wordCount": 639,
-          "title": "从 Pixel 手机出发，志在千家万户——与毫米波技术「对谈」",
-          "imageUrl": "https://cdn.sspai.com/3/17/2024/article/935e22df-9e50-77bb-46c7-9294459c39d3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/86697",
-          "author": "评论尸",
-          "description": "滴答，滴答，滴答，我在奔向死亡。查看全文",
-          "link": "https://sspai.com/post/86697",
-          "publishedOn": "2024-03-17T02:53:59.000Z",
-          "wordCount": 1402,
-          "title": "现代打工人如何获得幸福？",
-          "imageUrl": "https://cdn.sspai.com/2024/02/27/e727155cdcb0a7bf0e9766dfebd67937.jpeg"
         }
       ]
     },
