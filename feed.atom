@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T00:36:41.705Z</updated>
+    <updated>2024-04-17T00:37:04.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择]]></title>
+        <id>https://sspai.com/prime/story/xv100vi-retro-cameras</id>
+        <link href="https://sspai.com/prime/story/xv100vi-retro-cameras"/>
+        <updated>2024-04-16T10:01:32.000Z</updated>
+        <summary type="html"><![CDATA[理性看待 XV100VI 的热度，放眼看看其他不错的选择。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Hermanchannn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 040 | 季度作者、跑出半马、海鸥双反以及派友手机壳大推荐]]></title>
+        <id>https://sspai.com/post/88118</id>
+        <link href="https://sspai.com/post/88118"/>
+        <updated>2024-04-16T09:32:45.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghidra 逆向工程实战：看看 macOS 恶意软件动了什么手脚]]></title>
+        <id>https://sspai.com/post/87870</id>
+        <link href="https://sspai.com/post/87870"/>
+        <updated>2024-04-16T07:07:03.000Z</updated>
+        <summary type="html"><![CDATA[恶意软件在你的电脑里做了什么？我用逆向工程的方法把它看个明白。查看全文]]></summary>
+        <author>
+            <name>HarperMua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有瑕疵的旅途伴侣：小米 14 Ultra 旅拍体验]]></title>
+        <id>https://sspai.com/post/88067</id>
+        <link href="https://sspai.com/post/88067"/>
+        <updated>2024-04-16T03:37:06.000Z</updated>
+        <summary type="html"><![CDATA[聊聊它的一些小缺点——但这并非意味着它不是一款出色的手机。查看全文]]></summary>
+        <author>
+            <name>sqybi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等]]></title>
+        <id>https://sspai.com/post/88102</id>
+        <link href="https://sspai.com/post/88102"/>
+        <updated>2024-04-16T00:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Blackmagic Design 发布适用于 iPad 的达芬奇调色面板,Apple 因垃圾广告和版权侵害下架 GameBoy 模拟器 iGBA 等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/88086</id>
@@ -948,66 +999,6 @@
         <link href="https://sspai.com/post/87368"/>
         <updated>2024-03-19T00:20:00.000Z</updated>
         <summary type="html"><![CDATA[上海推广「纯净码」停车缴费系统，SpaceX 被曝与美国国防部签订间谍卫星合同等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[花见花开暗香来：Apple 静安店抢先看]]></title>
-        <id>https://sspai.com/post/87357</id>
-        <link href="https://sspai.com/post/87357"/>
-        <updated>2024-03-18T11:44:31.000Z</updated>
-        <summary type="html"><![CDATA[🎁前往微博参与转发抽奖Apple静安是上海的第8家AppleStore零售店、大中华区的第57家零售店，也是备受瞩目的一家AppleStore零售店。自2017年开始封闭改造至今，已经过了整整七年的时 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[送码] 派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/87366</id>
-        <link href="https://sspai.com/post/87366"/>
-        <updated>2024-03-18T10:04:11.000Z</updated>
-        <summary type="html"><![CDATA[欢迎在评论区和我们分享，本周五 (03.22)我们选出一条评论赠送「习惯点点」终身兑换码一枚。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周岁前的日子也可以很精彩：我的小月龄带娃经历]]></title>
-        <id>https://sspai.com/post/84704</id>
-        <link href="https://sspai.com/post/84704"/>
-        <updated>2024-03-18T08:30:30.000Z</updated>
-        <summary type="html"><![CDATA[宝宝目前已经周岁啦，对这不到一年时间自己主导、娃爸配合，共同给她打造的独有体验做一个回顾性总结，分享给大家。查看全文]]></summary>
-        <author>
-            <name>Txrtt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派开箱 | 科技祛魅，返璞归真：明基新款屏幕挂灯实用也更好用了]]></title>
-        <id>https://sspai.com/post/87186</id>
-        <link href="https://sspai.com/post/87186"/>
-        <updated>2024-03-18T06:48:27.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目我们时常会收到一些厂商送测体验、兼具优秀设计与极佳质感的好产品，部分被我们放在了《编辑部的新玩意》中作为分享，但碍于其主打体验的设定，我们亦希望一些更具吸引力的产品能被更多篇幅介绍，所以有了《 ...查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做了 4 年短视频内容，我想和你分享这些心得方法]]></title>
-        <id>https://sspai.com/post/86760</id>
-        <link href="https://sspai.com/post/86760"/>
-        <updated>2024-03-18T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>家屹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：xAI 开源 Grok-1 模型]]></title>
-        <id>https://sspai.com/post/87349</id>
-        <link href="https://sspai.com/post/87349"/>
-        <updated>2024-03-18T00:45:01.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事xAI开源Grok-1模型3月17日，马斯克创办的xAI公开发布了Grok-1模型的代码和模型权重[GitHub]，均采用Apache2开源许可证。权重文件体积为318.24GB，采 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
