@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T00:37:04.630Z</updated>
+    <updated>2024-04-18T00:36:38.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重回记忆中起风的草原：聊聊我们最爱的吉卜力电影]]></title>
+        <id>https://sspai.com/post/88085</id>
+        <link href="https://sspai.com/post/88085"/>
+        <updated>2024-04-17T09:42:27.000Z</updated>
+        <summary type="html"><![CDATA[随着电影《你想活出怎样的人生》上映，在惊喜与震撼之余，也有不少人觉得这会是宫崎骏的最后一部作品，回看他所参与创作的90余部作品，青春、勇气、信赖、魔法、冒险、战争、人与自然……在治愈观众的同时，也在宏 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这 100 年来，我们如何「听见」声音]]></title>
+        <id>https://sspai.com/post/88090</id>
+        <link href="https://sspai.com/post/88090"/>
+        <updated>2024-04-17T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[播客、有声书、新闻、音乐，我们的耳朵随时都可以塞得满满的——但以前的人呢？在没有流媒体这么方便的时候，他们又是要如何去「听」的呢？查看全文]]></summary>
+        <author>
+            <name>拾壹</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 一篇教你搞定 SSL 证书监控和续签]]></title>
+        <id>https://sspai.com/post/88127</id>
+        <link href="https://sspai.com/post/88127"/>
+        <updated>2024-04-17T03:38:32.000Z</updated>
+        <summary type="html"><![CDATA[如果你用惯了一年期的免费 SSL 证书，这篇文章应该可以帮你适应一下新常态。查看全文]]></summary>
+        <author>
+            <name>清顺</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：影石发布 8K 全景运动相机 X4 等]]></title>
+        <id>https://sspai.com/post/88125</id>
+        <link href="https://sspai.com/post/88125"/>
+        <updated>2024-04-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobe 将为 Premiere Pro 加入 AI 功能，YouTube 将打击包含广告拦截功能的第三方应用等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子茅台与不驯灵魂：X100VI 漫谈，以及更多的复古相机选择]]></title>
         <id>https://sspai.com/prime/story/xv100vi-retro-cameras</id>
@@ -949,56 +989,6 @@
         <link href="https://sspai.com/post/87396"/>
         <updated>2024-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[英伟达发布 AI 加速卡 Blackwell GB200，消保法实施条例公布等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 036 | Action Button 的妙用、纸书自由以及超小收纳包]]></title>
-        <id>https://sspai.com/post/87385</id>
-        <link href="https://sspai.com/post/87385"/>
-        <updated>2024-03-19T09:56:13.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上新优惠皆齐全，周边商店的十二周年促销]]></title>
-        <id>https://sspai.com/post/87321</id>
-        <link href="https://sspai.com/post/87321"/>
-        <updated>2024-03-19T08:45:44.000Z</updated>
-        <summary type="html"><![CDATA[一年又一年，少数派今年 12 岁啦！少数派周边商店按照惯例给大家带来了诸多福利优惠活动。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洞察 | 数量增长超百档，喜剧播客挣钱了么？]]></title>
-        <id>https://sspai.com/post/87363</id>
-        <link href="https://sspai.com/post/87363"/>
-        <updated>2024-03-19T08:17:12.000Z</updated>
-        <summary type="html"><![CDATA[喜剧播客兴起，许多演员转向播客这一媒介，拓展观众群体和提升知名度， 播客成为了演员和俱乐部标配。查看全文]]></summary>
-        <author>
-            <name>播客志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了养成每日习惯、实现自我提升，我开发了 ReHabit 这款应用]]></title>
-        <id>https://sspai.com/post/85961</id>
-        <link href="https://sspai.com/post/85961"/>
-        <updated>2024-03-19T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>酱酱不惊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等]]></title>
-        <id>https://sspai.com/post/87368</id>
-        <link href="https://sspai.com/post/87368"/>
-        <updated>2024-03-19T00:20:00.000Z</updated>
-        <summary type="html"><![CDATA[上海推广「纯净码」停车缴费系统，SpaceX 被曝与美国国防部签订间谍卫星合同等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
