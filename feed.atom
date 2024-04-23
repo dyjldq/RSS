@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-22T00:38:38.455Z</updated>
+    <updated>2024-04-23T00:37:30.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[如何借助维基百科 API 查询术语翻译]]></title>
+        <id>https://sspai.com/prime/story/wikipedia-translator</id>
+        <link href="https://sspai.com/prime/story/wikipedia-translator"/>
+        <updated>2024-04-22T12:38:49.000Z</updated>
+        <summary type="html"><![CDATA[维基百科天然具有词典的功能，从一个词条页面跳到其他语言版本即可知道这个词的翻译。借助维基 API，可以进一步将这个操作自动化，从而将维基百科变成一个实用的术语翻译工具。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/88259</id>
+        <link href="https://sspai.com/post/88259"/>
+        <updated>2024-04-22T10:30:16.000Z</updated>
+        <summary type="html"><![CDATA[如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力]]></title>
+        <id>https://sspai.com/post/88236</id>
+        <link href="https://sspai.com/post/88236"/>
+        <updated>2024-04-22T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[操作按钮是与 iPhone 交互的全新方式，结合快捷指令操作按钮为 iPhone 的操作带来了不同的可能性。查看全文]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机号绑定了哪些服务？写点代码从短信里找出答案]]></title>
+        <id>https://sspai.com/post/88076</id>
+        <link href="https://sspai.com/post/88076"/>
+        <updated>2024-04-22T03:39:48.000Z</updated>
+        <summary type="html"><![CDATA[我想了个比一证通查更全面的手机号绑定服务排查方法，还顺便做了个一站式的小工具。查看全文]]></summary>
+        <author>
+            <name>银河捕手</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：特斯拉因踏板缺陷召回全部 Cybertruck]]></title>
+        <id>https://sspai.com/post/88234</id>
+        <link href="https://sspai.com/post/88234"/>
+        <updated>2024-04-22T00:59:03.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事特斯拉因踏板缺陷召回全部Cybertruck据美国全国高速公路交通安全委员会(NHTSA)网站公布的自愿召回计划，特斯拉将召回目前已售出的全部3878辆Cybertruck，以便维修 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大煲作品]]></title>
         <id>https://sspai.com/post/88196</id>
@@ -920,26 +971,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事库克称VisionPro年内中国上市，持续加大在华研发投资据央视新闻等报道，近日，苹果CEO库克在国内访问期间，提及了苹果关于VisionPro国内上市、在华供应链投资等方面的计划。 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年度征文获奖结果公布]]></title>
-        <id>https://sspai.com/post/87503</id>
-        <link href="https://sspai.com/post/87503"/>
-        <updated>2024-03-24T07:14:44.000Z</updated>
-        <summary type="html"><![CDATA[逆外包、不上班，自我突围、去创造。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复古机身、胶片模拟以及高溢价：聊聊富士 X100 VI]]></title>
-        <id>https://sspai.com/post/87501</id>
-        <link href="https://sspai.com/post/87501"/>
-        <updated>2024-03-24T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[放下对画幅的偏见，摘下对富士的有色眼镜，我们一起，重新审视一下这台 X100 VI 相机。查看全文]]></summary>
-        <author>
-            <name>食肉库玛老师傅</name>
         </author>
     </entry>
     <entry>
