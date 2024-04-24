@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88290",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/88290",
+          "publishedOn": "2024-04-23T09:48:27.000Z",
+          "wordCount": 897,
+          "title": "社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意",
+          "imageUrl": "https://cdn.sspai.com/4/23/2024/article/9e4c180f-f835-e8c2-5142-ea81e3f2aea7.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88207",
+          "author": "有想法的徐同学",
+          "description": "身体出了什么问题，身体自己知道。我做了这个应用，帮你更清楚地记录身体发出的警报。查看全文",
+          "link": "https://sspai.com/post/88207",
+          "publishedOn": "2024-04-23T07:07:24.000Z",
+          "wordCount": 695,
+          "title": "看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]",
+          "imageUrl": "https://cdn.sspai.com/2024/04/20/b81f8a018be0158ecf7e6ce743b61e69.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88238",
+          "author": "Wannz",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/88238",
+          "publishedOn": "2024-04-23T03:30:00.000Z",
+          "wordCount": 729,
+          "title": "我的购房指北：买房之前可以关注什么？",
+          "imageUrl": "https://cdn.sspai.com/2024/04/22/8de9a4a1bb99541847b7dfef5f623de1.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88272",
+          "author": "少数派编辑部",
+          "description": "三星印度针对 S21 S22 亮线问题推出免费换屏政策，Apple 回收机器人 Dave 和 Taz 来到中国等查看全文",
+          "link": "https://sspai.com/post/88272",
+          "publishedOn": "2024-04-23T00:43:46.000Z",
+          "wordCount": 860,
+          "title": "派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等",
+          "imageUrl": "https://cdn.sspai.com/2024/4/23/article/4c68bce4-4e16-248e-5b76-fb9a756909ca.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/wikipedia-translator",
           "author": "PlatyHsu",
           "description": "维基百科天然具有词典的功能，从一个词条页面跳到其他语言版本即可知道这个词的翻译。借助维基 API，可以进一步将这个操作自动化，从而将维基百科变成一个实用的术语翻译工具。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -924,46 +964,6 @@
           "wordCount": 858,
           "title": "派早报：欧盟对 Apple 等公司展开新一轮调查，英特尔和 ARM 签署备忘录等",
           "imageUrl": "https://cdn.sspai.com/2024/3/26/article/e29f1485-d386-1a02-8c71-0d2986d97e3d.png"
-        },
-        {
-          "id": "https://sspai.com/post/87546",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/87546",
-          "publishedOn": "2024-03-25T09:42:24.000Z",
-          "wordCount": 866,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/3/25/article/934c36ed-62b9-14c4-2218-352c1cef3598.png"
-        },
-        {
-          "id": "https://sspai.com/post/87344",
-          "author": "NNNNNatsu",
-          "description": "去年9月21日，我前往日本考取修士学位。这也是也是我人生中第一次首发购买GooglePixel（下文产品名均省略Google）的契机。在考上修士之后，我从语言学校退学。今年3月8日，一切都忙完，我终于 ...查看全文",
-          "link": "https://sspai.com/post/87344",
-          "publishedOn": "2024-03-25T07:00:00.000Z",
-          "wordCount": 1206,
-          "title": "与 Google Pixel 在日本的 169 天：Pixel Fold 是「精致败类」吗？",
-          "imageUrl": "https://cdn.sspai.com/2024/03/18/d9b2430cd08e74b22271ee34f5a6772d.png"
-        },
-        {
-          "id": "https://sspai.com/post/87422",
-          "author": "UCG_Official",
-          "description": "也许还有一些不完美之处，但以试玩内容的表现来看，本作已经做好了为新老玩家展现「幻水」 魅力的准备。查看全文",
-          "link": "https://sspai.com/post/87422",
-          "publishedOn": "2024-03-25T03:29:33.000Z",
-          "wordCount": 742,
-          "title": "UCG 评测 |「幻水」之韵，在此新生：《百英雄传》先行体验报告",
-          "imageUrl": "https://cdn.sspai.com/2024/03/21/4abe5ce94d5e87635cbd38eced7eeac6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/87535",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事库克称VisionPro年内中国上市，持续加大在华研发投资据央视新闻等报道，近日，苹果CEO库克在国内访问期间，提及了苹果关于VisionPro国内上市、在华供应链投资等方面的计划。 ...查看全文",
-          "link": "https://sspai.com/post/87535",
-          "publishedOn": "2024-03-25T00:49:24.000Z",
-          "wordCount": 788,
-          "title": "派早报：库克称 Vision Pro 年内中国上市，持续加大在华研发投资",
-          "imageUrl": "https://cdn.sspai.com/3/25/2024/article/d26d9e93-636e-f5ec-b362-d7cf22b3d5b5.png"
         }
       ]
     },
