@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88325",
+          "author": "方启宏",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/88325",
+          "publishedOn": "2024-04-28T03:29:43.000Z",
+          "wordCount": 887,
+          "title": "Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始",
+          "imageUrl": "https://cdn.sspai.com/2024/04/24/48eda48c9e3bb66b1f5851e277d351f0.png"
+        },
+        {
           "id": "https://sspai.com/post/83351",
           "author": "煎饼饼",
           "description": "五一假期要到了。虽然调休叫人苦不堪言，但这确实也是少有能用大块时间放松自己、出门走走或回家看看的时刻。如果你打算用这段时间旅游，在确定好行程之后，接下来就是打包行李等待出发，先来想象一下你的旅行，是想 ...查看全文",
@@ -924,16 +934,6 @@
           "wordCount": 749,
           "title": "空想特摄的浪漫：奥特曼入坑指南",
           "imageUrl": "https://cdn.sspai.com/2024/3/29/article/861379ef-6143-e337-dada-137e12d3f81e.png"
-        },
-        {
-          "id": "https://sspai.com/post/86791",
-          "author": "橙黄橘绿时",
-          "description": "但愿每个人都能找到适合自己的输入方案，其实速度够用就好，大家不必盲目追求。查看全文",
-          "link": "https://sspai.com/post/86791",
-          "publishedOn": "2024-03-30T03:32:46.000Z",
-          "wordCount": 742,
-          "title": "尝试了众多输入法方案后，我想和你分享这些心得",
-          "imageUrl": "https://cdn.sspai.com/2024/03/05/ee223911a5c2f287f63d3ef911cb66ce.jpg"
         }
       ]
     },

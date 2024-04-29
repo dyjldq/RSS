@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-28T00:40:55.999Z</updated>
+    <updated>2024-04-29T00:38:14.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始]]></title>
+        <id>https://sspai.com/post/88325</id>
+        <link href="https://sspai.com/post/88325"/>
+        <updated>2024-04-28T03:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>方启宏</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[出行锦囊 | 出去玩带什么：和你分享我的包]]></title>
         <id>https://sspai.com/post/83351</id>
@@ -930,16 +940,6 @@
         <summary type="html"><![CDATA[希望通过这一系列文章带你走进特摄片的世界，了解奥特曼背后的故事。查看全文]]></summary>
         <author>
             <name>ROB1N</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尝试了众多输入法方案后，我想和你分享这些心得]]></title>
-        <id>https://sspai.com/post/86791</id>
-        <link href="https://sspai.com/post/86791"/>
-        <updated>2024-03-30T03:32:46.000Z</updated>
-        <summary type="html"><![CDATA[但愿每个人都能找到适合自己的输入方案，其实速度够用就好，大家不必盲目追求。查看全文]]></summary>
-        <author>
-            <name>橙黄橘绿时</name>
         </author>
     </entry>
     <entry>
