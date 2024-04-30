@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-29T00:38:14.400Z</updated>
+    <updated>2024-04-30T00:36:39.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/88456</id>
+        <link href="https://sspai.com/post/88456"/>
+        <updated>2024-04-29T09:44:34.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为即将到来的出境游做好准备：这些经验让你少踩坑]]></title>
+        <id>https://sspai.com/post/88394</id>
+        <link href="https://sspai.com/post/88394"/>
+        <updated>2024-04-29T03:04:18.000Z</updated>
+        <summary type="html"><![CDATA[夏日已到，想必你也在摩拳擦掌准备着在难得的假期出游一趟吧？不过，国内景点涨价很高，游人太多、体验感也不好，那不妨将视野投向海外。海外假期与国内往往错开，游人相对少一些，旅游体验也要好一些。做好攻略出游 ...查看全文]]></summary>
+        <author>
+            <name>桌沿奇思</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：字节跳动称无计划出售 TikTok]]></title>
+        <id>https://sspai.com/post/88419</id>
+        <link href="https://sspai.com/post/88419"/>
+        <updated>2024-04-29T00:42:59.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事字节跳动称无计划出售TikTok4月25日，字节跳动在旗下平台今日头条发文称，外媒有关字节跳动探索出售TikTok的消息不实，没有任何出售TikTok的计划。此番表态是对TheInf ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home Assistant 个性化设置之路：从可以实时动态显示的仪表盘开始]]></title>
         <id>https://sspai.com/post/88325</id>
@@ -920,26 +950,6 @@
         <summary type="html"><![CDATA[你最好错过的新鲜事少数派宣布进入汽车配件市场近日，少数派宣布将进军汽车配件市场。发言人吃派的水獭表示，少数派一直以「高效工作、品质生活」为宗旨；汽车作为工作和生活的连接枢纽，是少数派业务领域的自然延伸 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月玩什么 | 龙之信条 2、浪人崛起、Open Roads、Llamasoft: The Jeff Minter Story]]></title>
-        <id>https://sspai.com/post/87696</id>
-        <link href="https://sspai.com/post/87696"/>
-        <updated>2024-03-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[近期值得探讨的新游信息及作者近期的部分游玩感受分享。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空想特摄的浪漫：奥特曼入坑指南]]></title>
-        <id>https://sspai.com/post/87652</id>
-        <link href="https://sspai.com/post/87652"/>
-        <updated>2024-03-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[希望通过这一系列文章带你走进特摄片的世界，了解奥特曼背后的故事。查看全文]]></summary>
-        <author>
-            <name>ROB1N</name>
         </author>
     </entry>
     <entry>
