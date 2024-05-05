@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-04T00:37:15.841Z</updated>
+    <updated>2024-05-05T00:40:32.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 Proxmox 敲开家庭服务器的大门]]></title>
+        <id>https://sspai.com/prime/story/proxmox-homelab-guide-1</id>
+        <link href="https://sspai.com/prime/story/proxmox-homelab-guide-1"/>
+        <updated>2024-05-04T10:05:02.000Z</updated>
+        <summary type="html"><![CDATA[[......]
+查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>广陵止息</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比装备推荐更重要的户外知识：重装徒步入坑指南]]></title>
+        <id>https://sspai.com/post/88425</id>
+        <link href="https://sspai.com/post/88425"/>
+        <updated>2024-05-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文是较为系统的重装徒步入坑指南，真心想让对重装徒步感兴趣的朋友，看完这篇文章就这项户外运动有个相对全面的了解。查看全文]]></summary>
+        <author>
+            <name>毕大业</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用快捷指令批量清理截图状态栏]]></title>
+        <id>https://sspai.com/post/79283</id>
+        <link href="https://sspai.com/post/79283"/>
+        <updated>2024-05-04T03:58:18.000Z</updated>
+        <summary type="html"><![CDATA[作为2024年五一「生产力超频」系列目优惠活动的一部分，本期设置为限时免费，欢迎观看。我们将在5月1日至7日，为热门付费栏目「生产力超频」全系列设置七折优惠；同时，我们将每天从不同教程中选出一篇，设为 ...查看全文
+本文为付费栏目文章，出自《生产力超频：学得会的快捷指令》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Tp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一届 Swift 学生挑战赛圆满落幕，今年这些作品值得关注]]></title>
+        <id>https://sspai.com/post/88525</id>
+        <link href="https://sspai.com/post/88525"/>
+        <updated>2024-05-04T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple很荣幸能够通过SwiftStudentChallenge来支持和激励新一代开发者、创作者和企业家。这项赛事鼓励学生自己选题然后进行app项目的创作。自2020年启动以来，这项赛事已为全球成千 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 11 部作品]]></title>
         <id>https://sspai.com/post/88518</id>
@@ -945,16 +988,6 @@
         <link href="https://sspai.com/post/87836"/>
         <updated>2024-04-06T03:57:27.000Z</updated>
         <summary type="html"><![CDATA[我们帮你准备一份完整的 Notion 教程，希望你也能够在快节奏的生活和工作中保持高效和有条不紊。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大斗作品]]></title>
-        <id>https://sspai.com/post/87799</id>
-        <link href="https://sspai.com/post/87799"/>
-        <updated>2024-04-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]你想活出怎样的人生、[电影]老狐狸、[电影]还有明天、[电影]漂流人生、[美剧]外星居民第三季、🔦[动画]X战警97、[动画]银河系第二好医院、[动画]狼与香辛料行 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
