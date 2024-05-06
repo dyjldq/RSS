@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-05T00:40:32.717Z</updated>
+    <updated>2024-05-06T00:38:44.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[掌握 Windows 终端命令的基本语法及风格]]></title>
+        <id>https://sspai.com/post/78248</id>
+        <link href="https://sspai.com/post/78248"/>
+        <updated>2024-05-05T04:48:38.000Z</updated>
+        <summary type="html"><![CDATA[作为2024年五一「生产力超频」系列目优惠活动的一部分，本期设置为限时免费，欢迎观看。我们将在5月1日至7日，为热门付费栏目「生产力超频」全系列设置七折优惠；同时，我们将每天从不同教程中选出一篇，设为 ...查看全文
+本文为付费栏目文章，出自《生产力超频：Windows 命令行实用手册》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Mirtle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抓住冬天的尾巴，去见江南的楼阁]]></title>
+        <id>https://sspai.com/post/86171</id>
+        <link href="https://sspai.com/post/86171"/>
+        <updated>2024-05-05T03:38:28.000Z</updated>
+        <summary type="html"><![CDATA[如同天一阁和径山寺一般的楼阁是数不尽的，它们伫立在风雨中，在不同季节呈现截然不同的观感，这正是它们「生命力」的一部分。查看全文]]></summary>
+        <author>
+            <name>Wataru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旅行拍照虽然开心，但别忘了清洁相机]]></title>
+        <id>https://sspai.com/post/68863</id>
+        <link href="https://sspai.com/post/68863"/>
+        <updated>2024-05-05T03:37:53.000Z</updated>
+        <summary type="html"><![CDATA[祝你相机永远干净，拍片永远顺利 :)查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 Proxmox 敲开家庭服务器的大门]]></title>
         <id>https://sspai.com/prime/story/proxmox-homelab-guide-1</id>
@@ -980,16 +1011,6 @@
         <summary type="html"><![CDATA[以 a 为众字母之开头，Phone(2a) 的确起到了排头兵的作用，以此为根本 Nothing 高调进入了中端机市场并积极拓展海外份额。查看全文]]></summary>
         <author>
             <name>囧瑟夫的图文避难所</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特别策划 | 灵活而又强大的 Notion 可以怎么用？不妨看看少数派们的分享]]></title>
-        <id>https://sspai.com/post/87836</id>
-        <link href="https://sspai.com/post/87836"/>
-        <updated>2024-04-06T03:57:27.000Z</updated>
-        <summary type="html"><![CDATA[我们帮你准备一份完整的 Notion 教程，希望你也能够在快节奏的生活和工作中保持高效和有条不紊。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
