@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88579",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/88579",
+          "publishedOn": "2024-05-06T10:07:14.000Z",
+          "wordCount": 954,
+          "title": "派评 | 近期值得关注的 app",
+          "imageUrl": "https://cdn.sspai.com/2024/5/6/article/fad07f86-f69e-bfa8-120e-f44375ca1d8e.png"
+        },
+        {
+          "id": "https://sspai.com/post/87835",
+          "author": "SUNTRISE",
+          "description": "前阵子看了少数派上的Mac设计史系列，想起自己曾经写过一些有关Windows界面元素的设计史，就萌生了对我以前收集的有关Windows设计的资料进行整理，写成Windows设计史的想法。虽然Windo ...查看全文",
+          "link": "https://sspai.com/post/87835",
+          "publishedOn": "2024-05-06T06:44:21.000Z",
+          "wordCount": 1410,
+          "title": "从 1.0 到 95，见证 Windows 界面从青涩到成熟",
+          "imageUrl": "https://cdn.sspai.com/2024/04/27/a5e1210f836755b285871d2f3d35f4fb.png"
+        },
+        {
+          "id": "https://sspai.com/post/77495",
+          "author": "TreasureClass",
+          "description": "本期内容我们学习了「神奇移动」，它是幻灯片页面之间的过渡效果，但其功能强大到只要合理利用，就能实现「移到」、「缩放」、「旋转」、「不透明度」这 4 个基本动作为一体的复杂效果。同时，我们还拓展了「神奇移动」+「构件动画」的使用方法，两者的有效结合能极大地提高设计效率。不夸张地说，如果说只掌握一种过渡动画，那一定首选「神奇移动」。查看全文\n本文为付费栏目文章，出自《生产力超频：用 Keynote 入门动画创意》，订阅后可阅读全文。",
+          "link": "https://sspai.com/post/77495",
+          "publishedOn": "2024-05-06T05:59:46.000Z",
+          "wordCount": 793,
+          "title": "理解 Keynote「神奇移动」效果的原理",
+          "imageUrl": "https://cdn.sspai.com/article/859d7882-3480-7875-d0c2-13611e2177af.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88505",
+          "author": "WanderingThru",
+          "description": "在喀拉峻草原的这几天就像一场乌托邦，我们如此紧密的连结在一起，却在这一瞬间突然断开来，回到各自的生活。查看全文",
+          "link": "https://sspai.com/post/88505",
+          "publishedOn": "2024-05-06T03:31:12.000Z",
+          "wordCount": 683,
+          "title": "喀拉峻的瞬间",
+          "imageUrl": "https://cdn.sspai.com/2024/05/02/c7b77e26f215646d0462319a2ee25683.JPG"
+        },
+        {
+          "id": "https://sspai.com/post/88562",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事首个完全使用Sora制作的MV发布5月2日，首个使用OpenAI长视频生成模型Sora制作的MV发布。这段搭配歌曲TheHardestPart的MV[YouTube|Vimeo]由美 ...查看全文",
+          "link": "https://sspai.com/post/88562",
+          "publishedOn": "2024-05-06T00:50:54.000Z",
+          "wordCount": 990,
+          "title": "派早报：首个完全使用 Sora 制作的 MV 发布",
+          "imageUrl": "https://cdn.sspai.com/5/6/2024/article/289cb83b-e1eb-763c-6195-c77fd41c1035.png"
+        },
+        {
           "id": "https://sspai.com/post/78248",
           "author": "Mirtle",
           "description": "作为2024年五一「生产力超频」系列目优惠活动的一部分，本期设置为限时免费，欢迎观看。我们将在5月1日至7日，为热门付费栏目「生产力超频」全系列设置七折优惠；同时，我们将每天从不同教程中选出一篇，设为 ...查看全文\n本文为付费栏目文章，出自《生产力超频：Windows 命令行实用手册》，订阅后可阅读全文。",
@@ -964,36 +1014,6 @@
           "wordCount": 873,
           "title": "派早报：运营商称将扩大「二次号码」解绑服务范围",
           "imageUrl": "https://cdn.sspai.com/4/8/2024/article/e7d00b26-c20d-378d-0570-d62a336318d0.png"
-        },
-        {
-          "id": "https://sspai.com/post/87853",
-          "author": "北鸮",
-          "description": "祝大家眼睛不疼。查看全文",
-          "link": "https://sspai.com/post/87853",
-          "publishedOn": "2024-04-07T06:59:10.000Z",
-          "wordCount": 701,
-          "title": "你的眼睛也会长结石，但这事没什么可怕的",
-          "imageUrl": "https://cdn.sspai.com/2024/4/7/article/58d043dc-c250-2d47-f26a-81fa75bb3674.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/87854",
-          "author": "老麦",
-          "description": "编注：原文转自@老麦所写的《少数派思考040：为什么要支持创意创新者》。近期我们开启了少数派共创产品BANG!CASE的超前预售，作为少数派「从创作到创造」进化的代表作，这款产品也凝结了@老麦对创意、 ...查看全文",
-          "link": "https://sspai.com/post/87854",
-          "publishedOn": "2024-04-07T05:43:54.000Z",
-          "wordCount": 642,
-          "title": "少数派为什么要支持创新者：做难而正确的事",
-          "imageUrl": "https://cdn.sspai.com/2024/4/7/article/081f8d3a-ced7-b95d-8f14-070887ff8a2e.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/87846",
-          "author": "囧瑟夫的图文避难所",
-          "description": "以 a 为众字母之开头，Phone(2a) 的确起到了排头兵的作用，以此为根本 Nothing 高调进入了中端机市场并积极拓展海外份额。查看全文",
-          "link": "https://sspai.com/post/87846",
-          "publishedOn": "2024-04-07T03:00:15.000Z",
-          "wordCount": 902,
-          "title": "Nothing Phone 2(a) 的「必要」与「表达」",
-          "imageUrl": "https://cdn.sspai.com/2024/04/06/10e72fd86ff4970a778896e8922b3ace.JPG"
         }
       ]
     },
