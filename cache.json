@@ -6,6 +6,76 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88619",
+          "author": "少数派编辑部",
+          "description": "北京时间5月7日晚间，姗姗来迟的Apple春季特别活动终于召开。虽然整场发布会只持续了半个多小时，活动内容节奏却相当紧凑，不仅有跨代升级搭载了M4芯片的OLED屏iPadPro重磅亮相，也有备受期待的 ...查看全文",
+          "link": "https://sspai.com/post/88619",
+          "publishedOn": "2024-05-07T17:35:57.000Z",
+          "wordCount": 663,
+          "title": "一图流 | Apple 春季特别活动回顾",
+          "imageUrl": "https://cdn.sspai.com/2024/5/8/article/5b3fa038-909b-2a75-4db0-9a42b4c313cb.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88618",
+          "author": "少数派编辑部",
+          "description": "北京时间5月7日晚间，姗姗来迟的Apple春季特别活动终于召开。虽然整场发布会只持续了半个多小时，活动内容节奏却相当紧凑，不仅有跨代升级搭载了M4芯片的OLED屏iPadPro重磅亮相，也有备受期待的 ...查看全文",
+          "link": "https://sspai.com/post/88618",
+          "publishedOn": "2024-05-07T16:24:52.000Z",
+          "wordCount": 1157,
+          "title": "iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾",
+          "imageUrl": "https://cdn.sspai.com/2024/5/8/article/7294355d-feb4-fd71-d658-5f8490d51ee2.gif"
+        },
+        {
+          "id": "https://sspai.com/post/88607",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/88607",
+          "publishedOn": "2024-05-07T09:41:05.000Z",
+          "wordCount": 972,
+          "title": "社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意",
+          "imageUrl": "https://cdn.sspai.com/5/7/2024/article/181ef292-b711-75ef-921d-31dcf2d2ed59.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88391",
+          "author": "Irisleilei",
+          "description": "房子经过自己满满的爱的浇灌，终于成为了属于我的家。查看全文",
+          "link": "https://sspai.com/post/88391",
+          "publishedOn": "2024-05-07T07:00:00.000Z",
+          "wordCount": 737,
+          "title": "我的栖息之所：历时半年，把房子装成家",
+          "imageUrl": "https://cdn.sspai.com/2024/04/28/aa92c0cc259c009db1860708583937c1.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/76990",
+          "author": "艾伦习字",
+          "description": "在本篇文章中，我们讲了第一个图像元素文字，提到了文字作为信息和图像的两面性，也介绍了字体相关的背景知识、选用字体的基本套路，最后也简单说明 PPT 中文本框的各种文字效果的功能，该如何使用和搭配，才能做出合适的设计。查看全文\n本文为付费栏目文章，出自《生产力超频：科学做好 PPT 的三个步骤》，订阅后可阅读全文。",
+          "link": "https://sspai.com/post/76990",
+          "publishedOn": "2024-05-07T05:03:55.000Z",
+          "wordCount": 849,
+          "title": "用对字体，像图片一样呈现文本",
+          "imageUrl": "https://cdn.sspai.com/article/8882d50e-3ee7-d266-7338-db2026e57672.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88519",
+          "author": "merlin",
+          "description": "LD（LaserDisc、镭射光盘）诞生于 1981 年，尺寸与常规黑胶唱片相同，因此还以「图像唱片」一词问世。但 LD 相较于唱片更为厚重，重量超过一倍。LD 的外观类似于 CD，熠熠生辉，内部则融合了视频与音频技术，在那个还没有光盘的年代首次实现了二者的结合。查看全文",
+          "link": "https://sspai.com/post/88519",
+          "publishedOn": "2024-05-07T03:30:01.000Z",
+          "wordCount": 1017,
+          "title": "在 2024 年播放一张上世纪的「图像唱片」：LaserDisc",
+          "imageUrl": "https://cdn.sspai.com/2024/05/05/bfb01e4681a71e54201bc9b928d419cd.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88593",
+          "author": "少数派编辑部",
+          "description": "AITO 汽车发布事故相关技术问题的说明，Adobe 六月彻底关闭 Photoshop Mix / Fix 应用等。查看全文",
+          "link": "https://sspai.com/post/88593",
+          "publishedOn": "2024-05-07T00:30:00.000Z",
+          "wordCount": 903,
+          "title": "派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等",
+          "imageUrl": "https://cdn.sspai.com/2024/5/7/article/863b6b26-39f7-6a24-87ab-358c49545d41.png"
+        },
+        {
           "id": "https://sspai.com/post/88579",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -964,56 +1034,6 @@
           "wordCount": 884,
           "title": "派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等",
           "imageUrl": "https://cdn.sspai.com/2024/4/9/article/e73b4812-8f1a-afa4-83cb-6560b298019d.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/training-guide-bosu-ball-vipr",
-          "author": "举铁的马里奥",
-          "description": "波速球和 ViPR 炮筒代表了一种全新的功能性训练理念——通过训练全面提升身体的运动功能，从而提高个体日常活动能力。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/training-guide-bosu-ball-vipr",
-          "publishedOn": "2024-04-08T09:54:27.000Z",
-          "wordCount": 942,
-          "title": "陌生而有趣的训练伙伴——波速球和 ViPR 炮筒",
-          "imageUrl": "https://cdn.sspai.com/4/8/2024/article/654ba870-b90d-011a-6aea-e4ce4933866e.png"
-        },
-        {
-          "id": "https://sspai.com/post/87904",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/87904",
-          "publishedOn": "2024-04-08T09:44:53.000Z",
-          "wordCount": 852,
-          "title": "[送码] 派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/4/8/article/b80d8116-1422-63dc-29c7-cebeb314befa.png"
-        },
-        {
-          "id": "https://sspai.com/post/87885",
-          "author": "_东东_",
-          "description": "用好网站的 API，你也可以利用它们来实现自己的创意。查看全文",
-          "link": "https://sspai.com/post/87885",
-          "publishedOn": "2024-04-08T07:01:45.000Z",
-          "wordCount": 1046,
-          "title": "从零开始认识 API，把网页信息化为己用",
-          "imageUrl": "https://cdn.sspai.com/2024/4/8/article/b8cb7c1e-4f39-42f8-4562-481c8ef95624.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/87551",
-          "author": "AlexTheNomad",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/87551",
-          "publishedOn": "2024-04-08T03:30:00.000Z",
-          "wordCount": 848,
-          "title": "也许学校根本没有教你如何学习：论什么是真正的自学",
-          "imageUrl": "https://cdn.sspai.com/2024/03/25/cd57807999c1088b155a28df42757fcf.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/87879",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事运营商称将扩大「二次号码」解绑服务范围据第一财经报道，近日，安徽省铜陵市公安局民警「徐督督」在社交媒体账号发布的科普视频中表示：「注销手机号等于出卖自己，随手注销的手机号很可能造成财 ...查看全文",
-          "link": "https://sspai.com/post/87879",
-          "publishedOn": "2024-04-08T00:51:12.000Z",
-          "wordCount": 873,
-          "title": "派早报：运营商称将扩大「二次号码」解绑服务范围",
-          "imageUrl": "https://cdn.sspai.com/4/8/2024/article/e7d00b26-c20d-378d-0570-d62a336318d0.png"
         }
       ]
     },
