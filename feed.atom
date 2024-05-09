@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-08T00:31:47.036Z</updated>
+    <updated>2024-05-09T00:38:12.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[返工怎能不烦恼，打工人片单总有一部是你的「嘴替」]]></title>
+        <id>https://sspai.com/post/88578</id>
+        <link href="https://sspai.com/post/88578"/>
+        <updated>2024-05-08T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[假期总是结束得猝不及防，而接下来等待着我们的是连上六天班，打工人心里的苦只有打工人自己知道。然而远有《大都会》《摩登时代》这样的影史经典，近有《年会不能停！》这样的后起之秀，总有些以打工人为主角的影视 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何让 app 设计易于上手？从认识「可供性」开始]]></title>
+        <id>https://sspai.com/post/88464</id>
+        <link href="https://sspai.com/post/88464"/>
+        <updated>2024-05-08T06:58:43.000Z</updated>
+        <summary type="html"><![CDATA[功能固着和可供性对于用户体验，可能没有像颜色视觉刺激那样强烈，但是它在无形之中会影响人的认知，默默地影响着人的情绪，塑造用户的整体体验感受。查看全文]]></summary>
+        <author>
+            <name>愚人哲</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布多款 iPad 新品等]]></title>
+        <id>https://sspai.com/post/88620</id>
+        <link href="https://sspai.com/post/88620"/>
+        <updated>2024-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TikTok 就禁令起诉美国政府，Wordle 宣布支持往期谜题付费解锁等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一图流 | Apple 春季特别活动回顾]]></title>
         <id>https://sspai.com/post/88619</id>
@@ -1010,46 +1040,6 @@
         <link href="https://sspai.com/post/87944"/>
         <updated>2024-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Beeper 被 Automattic 收购，取消邀请制等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 039 | 新玩意、自动记账和派友们关注的小红书博主]]></title>
-        <id>https://sspai.com/post/87929</id>
-        <link href="https://sspai.com/post/87929"/>
-        <updated>2024-04-09T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见你好吗：在 2024 回顾 Windows 的移动之梦]]></title>
-        <id>https://sspai.com/post/87907</id>
-        <link href="https://sspai.com/post/87907"/>
-        <updated>2024-04-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[那抹清新的蓝，是否也曾像海水泼进你的青春？查看全文]]></summary>
-        <author>
-            <name>揪惹个咪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打造可持续的个人工作流 02：系统篇]]></title>
-        <id>https://sspai.com/post/87698</id>
-        <link href="https://sspai.com/post/87698"/>
-        <updated>2024-04-09T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[万事万物都是相互联系的。很多时候通过提升视角，拔高层次，以「整体」的视角从更高的维度审视问题，就能够发现更优的解决方案。查看全文]]></summary>
-        <author>
-            <name>yuchen_lea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：14 款进口网络游戏获批、台积电获美国补贴将建第三厂等]]></title>
-        <id>https://sspai.com/post/87916</id>
-        <link href="https://sspai.com/post/87916"/>
-        <updated>2024-04-09T00:43:15.000Z</updated>
-        <summary type="html"><![CDATA[国家邮政局发布 2023 年快递服务满意度调查和时限测试结果，巴西对马斯克可能妨碍司法公正展开调查等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
