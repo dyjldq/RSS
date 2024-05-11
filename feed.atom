@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-10T00:38:04.472Z</updated>
+    <updated>2024-05-11T00:37:36.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
+        <id>https://sspai.com/post/88696</id>
+        <link href="https://sspai.com/post/88696"/>
+        <updated>2024-05-10T09:39:26.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]9号秘事第九季、[电影]九龙城寨之围城、[美剧]绝望写手第三季、[英剧]废柴上路第二季、[英剧]马洛谋杀俱乐部、[美剧]美国之锈第二季、[电影]黑鸟黑鸟黑莓、[电影 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我就是想继续用 Windows 10：那安全漏洞怎么办？]]></title>
+        <id>https://sspai.com/post/88541</id>
+        <link href="https://sspai.com/post/88541"/>
+        <updated>2024-05-10T08:36:36.000Z</updated>
+        <summary type="html"><![CDATA[随着大部分 Windows 10 版本逐渐接近其生命周期终点（EOL），我们需要提前规划，为 Windows 10 停止支持做好准备。查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验]]></title>
+        <id>https://sspai.com/post/88673</id>
+        <link href="https://sspai.com/post/88673"/>
+        <updated>2024-05-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bose Ultra 旗舰开放式耳机，因其与众不同的造型、独树一帜的佩戴体验以及第二代高通 S5 音频平台、Snapdragon Sound 骁龙畅听技术加持，深深吸引了我。查看全文]]></summary>
+        <author>
+            <name>超哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等]]></title>
+        <id>https://sspai.com/post/88677</id>
+        <link href="https://sspai.com/post/88677"/>
+        <updated>2024-05-10T02:38:21.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 发布 AI 模型规格草案、微软预告今年 7 月上线 Xbox 手游应用商店、GitHub Copilot Chat 登陆移动平台等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[处理器简史 08 | 频率大战一触即发，黄金时代转瞬即逝]]></title>
         <id>https://sspai.com/prime/story/sv-anecdotes-08</id>
@@ -1021,46 +1061,6 @@
         <link href="https://sspai.com/post/88008"/>
         <updated>2024-04-12T00:44:30.000Z</updated>
         <summary type="html"><![CDATA[索尼发布 AI 智能构图 PTZ 摄像机，Google 宣布 Photos 中的 AI 功能对所有人开放等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 177｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/87996</id>
-        <link href="https://sspai.com/post/87996"/>
-        <updated>2024-04-11T09:17:36.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[当你以为自己用的是苹果系统字体]]></title>
-        <id>https://sspai.com/post/87960</id>
-        <link href="https://sspai.com/post/87960"/>
-        <updated>2024-04-11T06:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给国内新用户的 Google Pixel 使用指南]]></title>
-        <id>https://sspai.com/post/78200</id>
-        <link href="https://sspai.com/post/78200"/>
-        <updated>2024-04-11T02:51:03.000Z</updated>
-        <summary type="html"><![CDATA[你买了一台 Pixel，然后呢？查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：红米召开新品发布会、暴雪娱乐确认回归等]]></title>
-        <id>https://sspai.com/post/87978</id>
-        <link href="https://sspai.com/post/87978"/>
-        <updated>2024-04-11T00:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Google 推出 Gemini 1.5 Pro 公共预览版、《小丑 2》发布首支预告片等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
