@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88715",
+          "author": "少数派播客",
+          "description": "在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文",
+          "link": "https://sspai.com/post/88715",
+          "publishedOn": "2024-05-11T07:00:00.000Z",
+          "wordCount": 652,
+          "title": "一场长途自驾后的讨论：油电同乐，拥抱纯电",
+          "imageUrl": "https://cdn.sspai.com/11/05/2024/article/9d25a2f7-c45e-9df2-68e9-9a6e88e12740.jpg"
+        },
+        {
           "id": "https://sspai.com/post/88696",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[英剧]9号秘事第九季、[电影]九龙城寨之围城、[美剧]绝望写手第三季、[英剧]废柴上路第二季、[英剧]马洛谋杀俱乐部、[美剧]美国之锈第二季、[电影]黑鸟黑鸟黑莓、[电影 ...查看全文",
@@ -994,56 +1004,6 @@
           "wordCount": 746,
           "title": "触碰虚拟与现实的边界：少数派的 Let's visionOS 2024 大会回顾",
           "imageUrl": "https://cdn.sspai.com/2024/4/13/article/ea1fdf60-e7eb-90b2-403b-e8685d1469a5.png"
-        },
-        {
-          "id": "https://sspai.com/post/88024",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[国产]城中之城、[韩剧]寄生兽：灰色部队、[美剧]谜探休格、[美剧]雷普利、[泰剧]绝庙骗局、[日剧]大叔的内裤穿什么都行、[日剧]独活女子的推荐4、[美剧]我们是幸运儿 ...查看全文",
-          "link": "https://sspai.com/post/88024",
-          "publishedOn": "2024-04-12T10:13:17.000Z",
-          "wordCount": 1014,
-          "title": "本周看什么 | 最近值得一看的好一些作品",
-          "imageUrl": "https://cdn.sspai.com/2024/4/12/article/8e364588-40b1-7c95-bcdb-f237fd8f853c.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zhuanglesha-230412",
-          "author": "火箭君CC",
-          "description": "面对从「开发者」到「创业者」的身份切换，必须抛下以前那个程序员的思维，学着关掉代码编辑器，走出去和各个不同领域的人交流，从中学习。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zhuanglesha-230412",
-          "publishedOn": "2024-04-12T10:05:38.000Z",
-          "wordCount": 962,
-          "title": "新兴云端部署服务 Zeabur 创始团队都装了啥？",
-          "imageUrl": "https://cdn.sspai.com/4/12/2024/article/ed43a6cf-f67e-57ae-6f0b-5d52db45e1c0.png"
-        },
-        {
-          "id": "https://sspai.com/post/87991",
-          "author": "少数派94047171",
-          "description": "播客越来越成为我探索这个世界的重要渠道，作为一名重度播客用户，我自然希望听到更多不同的声音来帮助我理解周围正在发生的事情。于是我做了这个工具「播客广场」：https://www.pcspy.net。从 ...查看全文",
-          "link": "https://sspai.com/post/87991",
-          "publishedOn": "2024-04-12T07:00:00.000Z",
-          "wordCount": 688,
-          "title": "为了发现更多感兴趣的播客，我开发了一款工具",
-          "imageUrl": "https://cdn.sspai.com/2024/04/11/a2e1382c78f7a1a0bed6a6c669dcb4e8.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/87977",
-          "author": "Jiang",
-          "description": "通过沉浸式学习，更高效地掌握知识、领悟技能。查看全文",
-          "link": "https://sspai.com/post/87977",
-          "publishedOn": "2024-04-12T03:00:00.000Z",
-          "wordCount": 709,
-          "title": "用没那么枯燥的方式学英语：我的沉浸式语言学习实践",
-          "imageUrl": "https://cdn.sspai.com/2024/04/11/eb9a9fdf5423ec5e0276748d300749d6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88008",
-          "author": "少数派编辑部",
-          "description": "索尼发布 AI 智能构图 PTZ 摄像机，Google 宣布 Photos 中的 AI 功能对所有人开放等。查看全文",
-          "link": "https://sspai.com/post/88008",
-          "publishedOn": "2024-04-12T00:44:30.000Z",
-          "wordCount": 1031,
-          "title": "派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini",
-          "imageUrl": "https://cdn.sspai.com/4/12/2024/article/90f9eb54-a2fc-f0a3-6410-102afc366d4f.png"
         }
       ]
     },

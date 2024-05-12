@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-11T00:37:36.153Z</updated>
+    <updated>2024-05-12T00:41:53.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一场长途自驾后的讨论：油电同乐，拥抱纯电]]></title>
+        <id>https://sspai.com/post/88715</id>
+        <link href="https://sspai.com/post/88715"/>
+        <updated>2024-05-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
         <id>https://sspai.com/post/88696</id>
@@ -1012,57 +1022,6 @@
         <summary type="html"><![CDATA[编注：在2024年的春天，Let'svisionOS2024，一场空间计算领域的盛宴在北京举行。这场国际性的大会，让全世界的优秀创造者们齐聚一堂，为我们带来visionOS平台最新的开发和设计经验。少 ...查看全文]]></summary>
         <author>
             <name>轻舟_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的好一些作品]]></title>
-        <id>https://sspai.com/post/88024</id>
-        <link href="https://sspai.com/post/88024"/>
-        <updated>2024-04-12T10:13:17.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产]城中之城、[韩剧]寄生兽：灰色部队、[美剧]谜探休格、[美剧]雷普利、[泰剧]绝庙骗局、[日剧]大叔的内裤穿什么都行、[日剧]独活女子的推荐4、[美剧]我们是幸运儿 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新兴云端部署服务 Zeabur 创始团队都装了啥？]]></title>
-        <id>https://sspai.com/prime/story/zhuanglesha-230412</id>
-        <link href="https://sspai.com/prime/story/zhuanglesha-230412"/>
-        <updated>2024-04-12T10:05:38.000Z</updated>
-        <summary type="html"><![CDATA[面对从「开发者」到「创业者」的身份切换，必须抛下以前那个程序员的思维，学着关掉代码编辑器，走出去和各个不同领域的人交流，从中学习。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>火箭君CC</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了发现更多感兴趣的播客，我开发了一款工具]]></title>
-        <id>https://sspai.com/post/87991</id>
-        <link href="https://sspai.com/post/87991"/>
-        <updated>2024-04-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[播客越来越成为我探索这个世界的重要渠道，作为一名重度播客用户，我自然希望听到更多不同的声音来帮助我理解周围正在发生的事情。于是我做了这个工具「播客广场」：https://www.pcspy.net。从 ...查看全文]]></summary>
-        <author>
-            <name>少数派94047171</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用没那么枯燥的方式学英语：我的沉浸式语言学习实践]]></title>
-        <id>https://sspai.com/post/87977</id>
-        <link href="https://sspai.com/post/87977"/>
-        <updated>2024-04-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[通过沉浸式学习，更高效地掌握知识、领悟技能。查看全文]]></summary>
-        <author>
-            <name>Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：大疆发布 DJI Avata 2 无人机、汉王发布新款 N10 和 N10 Mini]]></title>
-        <id>https://sspai.com/post/88008</id>
-        <link href="https://sspai.com/post/88008"/>
-        <updated>2024-04-12T00:44:30.000Z</updated>
-        <summary type="html"><![CDATA[索尼发布 AI 智能构图 PTZ 摄像机，Google 宣布 Photos 中的 AI 功能对所有人开放等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
