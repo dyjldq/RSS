@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88773",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新AppCleanClip：简单易用的Mac平台剪 ...查看全文",
+          "link": "https://sspai.com/post/88773",
+          "publishedOn": "2024-05-13T10:30:53.000Z",
+          "wordCount": 896,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdn.sspai.com/2024/5/13/article/e5f171b9-e901-1334-d9a9-69fa111165c5.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88506",
+          "author": "SUNTRISE",
+          "description": "「稳定」表象的背后，在微软内部对于 Windows 界面设计的探索一直没有停止。查看全文",
+          "link": "https://sspai.com/post/88506",
+          "publishedOn": "2024-05-13T07:00:00.000Z",
+          "wordCount": 941,
+          "title": "Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索",
+          "imageUrl": "https://cdn.sspai.com/2024/5/13/article/0b3c986d-efc3-f485-4626-497f1d596a8c.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88734",
+          "author": "洛世",
+          "description": "作为国内用户，我很无奈。而当我站在多年付费用户的角度去评价时，一个词总结就是：吃相难看。查看全文",
+          "link": "https://sspai.com/post/88734",
+          "publishedOn": "2024-05-13T03:31:29.000Z",
+          "wordCount": 700,
+          "title": "面对国产软件的 VVIP，我选择了退订",
+          "imageUrl": "https://cdn.sspai.com/2024/05/12/e2ad52724e22d2f6f48324e9f50ae2c6.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88754",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事苹果称仅极少开发者申请接入外部支付据Bloomberg报道，根据近日在与Epic诉讼中提交的证据文件，苹果称目前还没有大型应用开发商申请使用AppStore的外部支付方式；美国区6. ...查看全文",
+          "link": "https://sspai.com/post/88754",
+          "publishedOn": "2024-05-13T00:58:09.000Z",
+          "wordCount": 901,
+          "title": "派早报：苹果称仅极少开发者申请接入外部支付",
+          "imageUrl": "https://cdn.sspai.com/5/13/2024/article/97353957-4c71-d202-a01e-ae98e7715e62.png"
+        },
+        {
           "id": "https://sspai.com/post/88715",
           "author": "少数派播客",
           "description": "在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文",
@@ -984,16 +1024,6 @@
           "wordCount": 900,
           "title": "派早报：商务部推动数字消费提升、消费品以旧换新",
           "imageUrl": "https://cdn.sspai.com/4/15/2024/article/61fdb330-1093-d5c3-7d99-b63dc8ac2bed.png"
-        },
-        {
-          "id": "https://sspai.com/post/88060",
-          "author": "克莱德",
-          "description": "原生 Android 支持无级字重、Google 出面解决底栏小黑条问题……甚至连微信都能直接「归档」了。查看全文",
-          "link": "https://sspai.com/post/88060",
-          "publishedOn": "2024-04-14T07:41:56.000Z",
-          "wordCount": 880,
-          "title": "具透 | 首个 Beta 版上线：Android 15 现阶段最值得关注的三大亮点汇总",
-          "imageUrl": "https://cdn.sspai.com/2024/4/14/article/12595d33-381d-cd0f-fd75-99e59d978558.png"
         }
       ]
     },
