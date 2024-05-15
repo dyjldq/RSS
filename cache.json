@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88798",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/88798",
+          "publishedOn": "2024-05-14T09:23:02.000Z",
+          "wordCount": 955,
+          "title": "社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得",
+          "imageUrl": "https://cdn.sspai.com/5/14/2024/article/00c86db9-2523-ba5a-f27e-399907d98c1b.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88656",
+          "author": "kinh_l",
+          "description": "我相信有部分人也会像我一样，在对目的地基本不了解的情况下，无从下手的情况。因此把我这几次规划的步骤做了个总结。查看全文",
+          "link": "https://sspai.com/post/88656",
+          "publishedOn": "2024-05-14T07:01:19.000Z",
+          "wordCount": 772,
+          "title": "来一场有准备的国内自驾：招募队友、住行票务与物资准备",
+          "imageUrl": "https://cdn.sspai.com/2024/05/08/5ed1a65f356edf851ac15bc74e8595f4.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88355",
+          "author": "青枫",
+          "description": "用 iCloud Drive 解决跨平台的 RIME 输入法配置同步问题，省去在 Windows、macOS、iOS 三端反复配置的麻烦。查看全文",
+          "link": "https://sspai.com/post/88355",
+          "publishedOn": "2024-05-14T03:27:01.000Z",
+          "wordCount": 781,
+          "title": "一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步",
+          "imageUrl": "https://cdn.sspai.com/2024/5/14/article/5d68d5a0-e9f1-a86a-bd7a-5a02c1c0842f.png"
+        },
+        {
+          "id": "https://sspai.com/post/88779",
+          "author": "少数派编辑部",
+          "description": "腾讯 QQ / 微信上线地震预警功能，Apple Music 推出百大最佳专辑榜单等查看全文",
+          "link": "https://sspai.com/post/88779",
+          "publishedOn": "2024-05-14T01:10:55.000Z",
+          "wordCount": 927,
+          "title": "派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等",
+          "imageUrl": "https://cdn.sspai.com/2024/5/14/article/733d423d-8722-93d5-1fb6-3f94273520e1.png"
+        },
+        {
           "id": "https://sspai.com/post/88773",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新AppCleanClip：简单易用的Mac平台剪 ...查看全文",
@@ -984,46 +1024,6 @@
           "wordCount": 881,
           "title": "派早报：第一季度全球智能机出货量上涨 7.8%，OpenAI 开设日本分部等",
           "imageUrl": "https://cdn.sspai.com/2024/4/16/article/29229420-e4fe-2068-3470-90b8c10b5547.png"
-        },
-        {
-          "id": "https://sspai.com/post/88086",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/88086",
-          "publishedOn": "2024-04-15T10:18:29.000Z",
-          "wordCount": 881,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/4/15/article/cdc7478e-4e9f-9ad1-9f47-6bf7200f3365.png"
-        },
-        {
-          "id": "https://sspai.com/post/87791",
-          "author": "雷蒙斯与狗",
-          "description": "回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。查看全文",
-          "link": "https://sspai.com/post/87791",
-          "publishedOn": "2024-04-15T07:00:40.000Z",
-          "wordCount": 683,
-          "title": "城市漫步指南：初见山西，记住大同",
-          "imageUrl": "https://cdn.sspai.com/2024/04/03/6d7449a19563382a0c8bbd3128161b03.png"
-        },
-        {
-          "id": "https://sspai.com/post/87950",
-          "author": "张子豪John",
-          "description": "Screenity是一款功能强大、注重隐私保护的屏幕录制和标注工具，由AlyssaX开发，该项目在GitHub上开源，目前适用于桌面上的Chrome和基于Chromium的浏览器；用户可以无限制地使用 ...查看全文",
-          "link": "https://sspai.com/post/87950",
-          "publishedOn": "2024-04-15T03:17:01.000Z",
-          "wordCount": 773,
-          "title": "App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity",
-          "imageUrl": "https://cdn.sspai.com/2024/04/10/db71d4c4dfe19a6a904f06a1c1425aae.png"
-        },
-        {
-          "id": "https://sspai.com/post/88074",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事商务部推动数字消费提升、消费品以旧换新据央视网报道，近日，商务部印发《关于实施数字消费提升行动的通知》。《通知》立足数字消费特点与发展趋势，从供给、消费、载体、业态4个方面提出具体举 ...查看全文",
-          "link": "https://sspai.com/post/88074",
-          "publishedOn": "2024-04-15T00:55:09.000Z",
-          "wordCount": 900,
-          "title": "派早报：商务部推动数字消费提升、消费品以旧换新",
-          "imageUrl": "https://cdn.sspai.com/4/15/2024/article/61fdb330-1093-d5c3-7d99-b63dc8ac2bed.png"
         }
       ]
     },

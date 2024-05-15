@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-14T00:38:19.467Z</updated>
+    <updated>2024-05-15T00:38:28.219Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得]]></title>
+        <id>https://sspai.com/post/88798</id>
+        <link href="https://sspai.com/post/88798"/>
+        <updated>2024-05-14T09:23:02.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来一场有准备的国内自驾：招募队友、住行票务与物资准备]]></title>
+        <id>https://sspai.com/post/88656</id>
+        <link href="https://sspai.com/post/88656"/>
+        <updated>2024-05-14T07:01:19.000Z</updated>
+        <summary type="html"><![CDATA[我相信有部分人也会像我一样，在对目的地基本不了解的情况下，无从下手的情况。因此把我这几次规划的步骤做了个总结。查看全文]]></summary>
+        <author>
+            <name>kinh_l</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步]]></title>
+        <id>https://sspai.com/post/88355</id>
+        <link href="https://sspai.com/post/88355"/>
+        <updated>2024-05-14T03:27:01.000Z</updated>
+        <summary type="html"><![CDATA[用 iCloud Drive 解决跨平台的 RIME 输入法配置同步问题，省去在 Windows、macOS、iOS 三端反复配置的麻烦。查看全文]]></summary>
+        <author>
+            <name>青枫</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等]]></title>
+        <id>https://sspai.com/post/88779</id>
+        <link href="https://sspai.com/post/88779"/>
+        <updated>2024-05-14T01:10:55.000Z</updated>
+        <summary type="html"><![CDATA[腾讯 QQ / 微信上线地震预警功能，Apple Music 推出百大最佳专辑榜单等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/88773</id>
@@ -1000,46 +1040,6 @@
         <link href="https://sspai.com/post/88102"/>
         <updated>2024-04-16T00:54:09.000Z</updated>
         <summary type="html"><![CDATA[Blackmagic Design 发布适用于 iPad 的达芬奇调色面板,Apple 因垃圾广告和版权侵害下架 GameBoy 模拟器 iGBA 等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/88086</id>
-        <link href="https://sspai.com/post/88086"/>
-        <updated>2024-04-15T10:18:29.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：初见山西，记住大同]]></title>
-        <id>https://sspai.com/post/87791</id>
-        <link href="https://sspai.com/post/87791"/>
-        <updated>2024-04-15T07:00:40.000Z</updated>
-        <summary type="html"><![CDATA[回忆汹涌呼之欲出，且听作者们平和、真诚且娓娓道来。我们希望通过「城市漫步指南」这个系列，带你领略每一个有趣而又非凡的城市风光。查看全文]]></summary>
-        <author>
-            <name>雷蒙斯与狗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 功能强大的录屏与编辑工具，而且免费：Screenity]]></title>
-        <id>https://sspai.com/post/87950</id>
-        <link href="https://sspai.com/post/87950"/>
-        <updated>2024-04-15T03:17:01.000Z</updated>
-        <summary type="html"><![CDATA[Screenity是一款功能强大、注重隐私保护的屏幕录制和标注工具，由AlyssaX开发，该项目在GitHub上开源，目前适用于桌面上的Chrome和基于Chromium的浏览器；用户可以无限制地使用 ...查看全文]]></summary>
-        <author>
-            <name>张子豪John</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：商务部推动数字消费提升、消费品以旧换新]]></title>
-        <id>https://sspai.com/post/88074</id>
-        <link href="https://sspai.com/post/88074"/>
-        <updated>2024-04-15T00:55:09.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事商务部推动数字消费提升、消费品以旧换新据央视网报道，近日，商务部印发《关于实施数字消费提升行动的通知》。《通知》立足数字消费特点与发展趋势，从供给、消费、载体、业态4个方面提出具体举 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
