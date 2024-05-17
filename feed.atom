@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T00:38:13.463Z</updated>
+    <updated>2024-05-17T00:38:50.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 181｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/88853</id>
+        <link href="https://sspai.com/post/88853"/>
+        <updated>2024-05-16T09:44:58.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[现货发售] FlipGo 效率双屏带来了哪些改变？来自少数派作者们的思考]]></title>
+        <id>https://sspai.com/post/88827</id>
+        <link href="https://sspai.com/post/88827"/>
+        <updated>2024-05-16T09:00:27.000Z</updated>
+        <summary type="html"><![CDATA[我们又找来了少数派的几位作者 / 会员朋友，一起来探索 FlipGo 的更多特点和使用场景，来看看他们的思考。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 辅助功能知多少]]></title>
+        <id>https://sspai.com/post/76750</id>
+        <link href="https://sspai.com/post/76750"/>
+        <updated>2024-05-16T07:09:47.000Z</updated>
+        <summary type="html"><![CDATA[2009 年的全球开发者大会（WWDC）上，时任 Apple 全球产品营销高级副总裁的菲尔·席勒在介绍完在 iPhone 3GS 上推出的全新「语音控制」和指南针应用后，用 36 秒简要地介绍了 iOS 新增的辅助功能。
+当时，辅助功能只包括五项：旁白、画面缩放、反转色、单声道音频和以语音提示文本替换。但辅助功能此后一直受到 Apple 的重视和投入，经过 12 年的持续进化，俨然已经成为了 iOS 生态独树一帜的功能集合。
+在这一篇文章中，将介绍辅助功能的各项设置。
+视觉
+旁白（VoiceOver）
+「旁白」旨在帮助用户用耳朵、触觉等感官代替眼睛来使用设备，可以通过设置 > 辅助功能 > 旁白来打开。
+打开旁白后，iOS 原本的操作逻辑将会改变，且变化主要是围绕着「耳朵代替眼睛」这一原则展开的。
+在「旁白」模式下，系统默认用户通过视觉获取资讯这一途径受限，无法直观地点击，此时基础的操作模式就从原本的单指滑动或轻点变成了多步操作：
+[......]
+查看全文
+本文为付费栏目文章，出自《iOS 蓝皮书》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>YFWoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「怀旧游戏全能王」上架 App Store，带你入门 RetroArch]]></title>
+        <id>https://sspai.com/post/88260</id>
+        <link href="https://sspai.com/post/88260"/>
+        <updated>2024-05-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[经典模拟器，每天玩一次，一次玩一天。查看全文]]></summary>
+        <author>
+            <name>AlexTheNomad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等]]></title>
+        <id>https://sspai.com/post/88841</id>
+        <link href="https://sspai.com/post/88841"/>
+        <updated>2024-05-16T01:04:15.000Z</updated>
+        <summary type="html"><![CDATA[VMware 部分产品面向个人用户免费使用，字节跳动正式发布「豆包大模型」家族等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小巧轻便，随时聆听：Beats Solo 4 佩戴体验]]></title>
         <id>https://sspai.com/post/88797</id>
@@ -989,46 +1049,6 @@
         <link href="https://sspai.com/post/88145"/>
         <updated>2024-04-18T00:25:31.000Z</updated>
         <summary type="html"><![CDATA[微软 OneNote 登陆 Apple Vision Pro、CentOS Linux 7 即将结束支持等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重回记忆中起风的草原：聊聊我们最爱的吉卜力电影]]></title>
-        <id>https://sspai.com/post/88085</id>
-        <link href="https://sspai.com/post/88085"/>
-        <updated>2024-04-17T09:42:27.000Z</updated>
-        <summary type="html"><![CDATA[随着电影《你想活出怎样的人生》上映，在惊喜与震撼之余，也有不少人觉得这会是宫崎骏的最后一部作品，回看他所参与创作的90余部作品，青春、勇气、信赖、魔法、冒险、战争、人与自然……在治愈观众的同时，也在宏 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这 100 年来，我们如何「听见」声音]]></title>
-        <id>https://sspai.com/post/88090</id>
-        <link href="https://sspai.com/post/88090"/>
-        <updated>2024-04-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[播客、有声书、新闻、音乐，我们的耳朵随时都可以塞得满满的——但以前的人呢？在没有流媒体这么方便的时候，他们又是要如何去「听」的呢？查看全文]]></summary>
-        <author>
-            <name>拾壹</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 一篇教你搞定 SSL 证书监控和续签]]></title>
-        <id>https://sspai.com/post/88127</id>
-        <link href="https://sspai.com/post/88127"/>
-        <updated>2024-04-17T03:38:32.000Z</updated>
-        <summary type="html"><![CDATA[如果你用惯了一年期的免费 SSL 证书，这篇文章应该可以帮你适应一下新常态。查看全文]]></summary>
-        <author>
-            <name>清顺</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：影石发布 8K 全景运动相机 X4 等]]></title>
-        <id>https://sspai.com/post/88125</id>
-        <link href="https://sspai.com/post/88125"/>
-        <updated>2024-04-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adobe 将为 Premiere Pro 加入 AI 功能，YouTube 将打击包含广告拦截功能的第三方应用等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
