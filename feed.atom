@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-18T00:38:19.488Z</updated>
+    <updated>2024-05-19T00:42:04.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦]]></title>
+        <id>https://sspai.com/post/88825</id>
+        <link href="https://sspai.com/post/88825"/>
+        <updated>2024-05-18T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[侧边栏的出现，让一些工具类和效率类的应用有了更好的展示方式和体验。本文为你推荐 6 款利用侧边栏 API 的浏览器扩展。查看全文]]></summary>
+        <author>
+            <name>huhuhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 硬件接连翻车，怪我们太严格了吗？]]></title>
         <id>https://sspai.com/prime/story/ai-gadgets-hype</id>
@@ -1000,56 +1010,6 @@
         <link href="https://sspai.com/post/88234"/>
         <updated>2024-04-22T00:59:03.000Z</updated>
         <summary type="html"><![CDATA[你可能错过的新鲜事特斯拉因踏板缺陷召回全部Cybertruck据美国全国高速公路交通安全委员会(NHTSA)网站公布的自愿召回计划，特斯拉将召回目前已售出的全部3878辆Cybertruck，以便维修 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大煲作品]]></title>
-        <id>https://sspai.com/post/88196</id>
-        <link href="https://sspai.com/post/88196"/>
-        <updated>2024-04-19T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]辐射、[电影]白日之下、[电影]邪恶不存在、[电影]火之谜、[台剧]不够善良的我们、[韩剧]背着善宰跑、[美剧]驯鹿宝贝、[美剧]大巴上的女孩、🔦[英剧]少年间谍第 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博时代的复古异类：我们为什么还在用这些「旧玩意」]]></title>
-        <id>https://sspai.com/post/88186</id>
-        <link href="https://sspai.com/post/88186"/>
-        <updated>2024-04-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我们找了 3 位在用复古设备的少数派，请他们来聊聊自己与设备、复古与生活的那些故事。查看全文]]></summary>
-        <author>
-            <name>Tp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做一款创意驱动的手机壳，让每个人都能玩开心]]></title>
-        <id>https://sspai.com/post/88188</id>
-        <link href="https://sspai.com/post/88188"/>
-        <updated>2024-04-19T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在本期节目中，我们和深度参与了 BANG!CASE 共创及推广的两位嘉宾 sainho 及居然 sir 一起，聊聊如何从〇将一个好创意「变现」，以及国内用户和海外用户对创意产品观念的异同。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索三家神秘的 Apple Watch 快闪店，一段梦想超越现实的特殊时光]]></title>
-        <id>https://sspai.com/post/88132</id>
-        <link href="https://sspai.com/post/88132"/>
-        <updated>2024-04-19T03:29:38.000Z</updated>
-        <summary type="html"><![CDATA[时间已经过去了九年，这段历史的许多故事也许已经快要被遗忘了，因此我觉得是时候将它们记录下来了。查看全文]]></summary>
-        <author>
-            <name>果铺知道</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：首个第三方应用程序商店 AltStore PAL 上线等]]></title>
-        <id>https://sspai.com/post/88182</id>
-        <link href="https://sspai.com/post/88182"/>
-        <updated>2024-04-19T00:44:51.000Z</updated>
-        <summary type="html"><![CDATA[任天堂模拟器 Delta 上架 App Store，索尼公布 2024 款 Bravia 系列电视和音响产品信息等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
