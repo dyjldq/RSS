@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-19T00:42:04.098Z</updated>
+    <updated>2024-05-20T00:39:27.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物]]></title>
+        <id>https://sspai.com/post/88689</id>
+        <link href="https://sspai.com/post/88689"/>
+        <updated>2024-05-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>八层夹心奥利奥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[网上冲浪也能兼顾效率和体验：Chrome 侧边栏浏览器扩展集锦]]></title>
         <id>https://sspai.com/post/88825</id>
