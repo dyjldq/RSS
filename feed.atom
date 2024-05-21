@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T00:39:27.466Z</updated>
+    <updated>2024-05-21T00:39:08.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/88936</id>
+        <link href="https://sspai.com/post/88936"/>
+        <updated>2024-05-20T09:47:15.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件]]></title>
+        <id>https://sspai.com/post/88923</id>
+        <link href="https://sspai.com/post/88923"/>
+        <updated>2024-05-20T07:04:43.000Z</updated>
+        <summary type="html"><![CDATA[即便追随 LLM 的脚步似乎并没有那么快，但 Apple 对人工智能的探索并没有暂停。查看全文]]></summary>
+        <author>
+            <name>Kostya</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件]]></title>
+        <id>https://sspai.com/post/88759</id>
+        <link href="https://sspai.com/post/88759"/>
+        <updated>2024-05-20T03:37:12.000Z</updated>
+        <summary type="html"><![CDATA[对于饱受「不听话」的软件困扰，却又离不开那些软件的用户来说，Sandboxie-Plus 提供了一套理想的解决方案。查看全文]]></summary>
+        <author>
+            <name>爱拼安小匠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试]]></title>
+        <id>https://sspai.com/post/88917</id>
+        <link href="https://sspai.com/post/88917"/>
+        <updated>2024-05-20T00:57:26.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事iOS第三方浏览器引擎只能由实际位于欧盟的设备调试据TheRegister报道，尽管苹果宣布将遵循欧盟《数字市场法》要求，允许iOS上的浏览器应用使用不同于SafariWebKit的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从编程小白到三次被苹果推荐，这是我送给自己最好的本科毕业礼物]]></title>
         <id>https://sspai.com/post/88689</id>

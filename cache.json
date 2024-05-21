@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/88936",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/88936",
+          "publishedOn": "2024-05-20T09:47:15.000Z",
+          "wordCount": 919,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/5/20/article/1f450588-e7ea-976a-f0eb-f5f883511a8d.png"
+        },
+        {
+          "id": "https://sspai.com/post/88923",
+          "author": "Kostya",
+          "description": "即便追随 LLM 的脚步似乎并没有那么快，但 Apple 对人工智能的探索并没有暂停。查看全文",
+          "link": "https://sspai.com/post/88923",
+          "publishedOn": "2024-05-20T07:04:43.000Z",
+          "wordCount": 1061,
+          "title": "问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件",
+          "imageUrl": "https://cdnfile.sspai.com/5/20/2024/article/8bde05c3-ce63-b3a3-f550-192090827554.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88759",
+          "author": "爱拼安小匠",
+          "description": "对于饱受「不听话」的软件困扰，却又离不开那些软件的用户来说，Sandboxie-Plus 提供了一套理想的解决方案。查看全文",
+          "link": "https://sspai.com/post/88759",
+          "publishedOn": "2024-05-20T03:37:12.000Z",
+          "wordCount": 780,
+          "title": "App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件",
+          "imageUrl": "https://cdnfile.sspai.com/2024/05/13/de628accfc516227600ef4960053f617.png"
+        },
+        {
+          "id": "https://sspai.com/post/88917",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事iOS第三方浏览器引擎只能由实际位于欧盟的设备调试据TheRegister报道，尽管苹果宣布将遵循欧盟《数字市场法》要求，允许iOS上的浏览器应用使用不同于SafariWebKit的 ...查看全文",
+          "link": "https://sspai.com/post/88917",
+          "publishedOn": "2024-05-20T00:57:26.000Z",
+          "wordCount": 873,
+          "title": "派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试",
+          "imageUrl": "https://cdnfile.sspai.com/5/20/2024/article/8691b845-d10c-09a0-3e82-eb1e2e4a05c1.png"
+        },
+        {
           "id": "https://sspai.com/post/88689",
           "author": "八层夹心奥利奥",
           "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
