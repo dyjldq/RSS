@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T00:39:08.966Z</updated>
+    <updated>2024-05-22T00:38:55.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 045 | 广告争议、自建NAS以及作者的新玩意]]></title>
+        <id>https://sspai.com/post/88975</id>
+        <link href="https://sspai.com/post/88975"/>
+        <updated>2024-05-21T09:28:15.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无套路、很简单，少数派周边商店 618 促销开启]]></title>
+        <id>https://sspai.com/post/88932</id>
+        <link href="https://sspai.com/post/88932"/>
+        <updated>2024-05-21T07:59:07.000Z</updated>
+        <summary type="html"><![CDATA[⏰促销时间：即日起-5/2823:59:59🏷️活动优惠：活动商品立减15%你或许已经听说了，今年主流电商平台纷纷宣布全面取消预售制度，直接开卖现货，相比起之前漫长的等待、绞尽脑汁的凑单还是方便了不少 ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暴雨和洪涝的季节，这些技巧助你从容自保]]></title>
+        <id>https://sspai.com/post/68024</id>
+        <link href="https://sspai.com/post/68024"/>
+        <updated>2024-05-21T07:07:23.000Z</updated>
+        <summary type="html"><![CDATA[面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文]]></summary>
+        <author>
+            <name>刀客特Leslie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器]]></title>
+        <id>https://sspai.com/post/88861</id>
+        <link href="https://sspai.com/post/88861"/>
+        <updated>2024-05-21T03:19:13.000Z</updated>
+        <summary type="html"><![CDATA[你可能面临着平台没有你想看的那一部电影、电视剧、动画，也可能是你追求更高质量的影片，或者你觉得这些平台或者应用过于臃肿……试试搭建一个专属于你自己的影音服务器吧！查看全文]]></summary>
+        <author>
+            <name>孤独熊熊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等]]></title>
+        <id>https://sspai.com/post/88954</id>
+        <link href="https://sspai.com/post/88954"/>
+        <updated>2024-05-21T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[闲鱼禁止发布数字藏品相关商品，iFixit 发布新 iPad Pro 拆解报告等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/88936</id>
@@ -1009,57 +1059,6 @@
         <link href="https://sspai.com/post/88272"/>
         <updated>2024-04-23T00:43:46.000Z</updated>
         <summary type="html"><![CDATA[三星印度针对 S21 S22 亮线问题推出免费换屏政策，Apple 回收机器人 Dave 和 Taz 来到中国等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何借助维基百科 API 查询术语翻译]]></title>
-        <id>https://sspai.com/prime/story/wikipedia-translator</id>
-        <link href="https://sspai.com/prime/story/wikipedia-translator"/>
-        <updated>2024-04-22T12:38:49.000Z</updated>
-        <summary type="html"><![CDATA[维基百科天然具有词典的功能，从一个词条页面跳到其他语言版本即可知道这个词的翻译。借助维基 API，可以进一步将这个操作自动化，从而将维基百科变成一个实用的术语翻译工具。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>PlatyHsu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/88259</id>
-        <link href="https://sspai.com/post/88259"/>
-        <updated>2024-04-22T10:30:16.000Z</updated>
-        <summary type="html"><![CDATA[如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个操作按钮还不够用？这些捷径和另类玩法带你解锁全部潜力]]></title>
-        <id>https://sspai.com/post/88236</id>
-        <link href="https://sspai.com/post/88236"/>
-        <updated>2024-04-22T07:00:06.000Z</updated>
-        <summary type="html"><![CDATA[操作按钮是与 iPhone 交互的全新方式，结合快捷指令操作按钮为 iPhone 的操作带来了不同的可能性。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机号绑定了哪些服务？写点代码从短信里找出答案]]></title>
-        <id>https://sspai.com/post/88076</id>
-        <link href="https://sspai.com/post/88076"/>
-        <updated>2024-04-22T03:39:48.000Z</updated>
-        <summary type="html"><![CDATA[我想了个比一证通查更全面的手机号绑定服务排查方法，还顺便做了个一站式的小工具。查看全文]]></summary>
-        <author>
-            <name>银河捕手</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：特斯拉因踏板缺陷召回全部 Cybertruck]]></title>
-        <id>https://sspai.com/post/88234</id>
-        <link href="https://sspai.com/post/88234"/>
-        <updated>2024-04-22T00:59:03.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事特斯拉因踏板缺陷召回全部Cybertruck据美国全国高速公路交通安全委员会(NHTSA)网站公布的自愿召回计划，特斯拉将召回目前已售出的全部3878辆Cybertruck，以便维修 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
