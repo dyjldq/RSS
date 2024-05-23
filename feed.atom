@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T00:38:55.898Z</updated>
+    <updated>2024-05-23T00:38:39.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《地狱之刃2：塞娜的传说》篝火评测：互动小说的极致游戏化表现]]></title>
+        <id>https://sspai.com/post/89000</id>
+        <link href="https://sspai.com/post/89000"/>
+        <updated>2024-05-22T09:27:39.000Z</updated>
+        <summary type="html"><![CDATA[《地狱之刃2：塞娜的传说》就像电影行业里的那种非常极端的文艺片一样，拥有独特的表达，又有着一种难以抵抗的神秘魅力。查看全文]]></summary>
+        <author>
+            <name>篝火营地</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一群中国的高中生，打算办一场全球性的黑客松]]></title>
+        <id>https://sspai.com/post/88924</id>
+        <link href="https://sspai.com/post/88924"/>
+        <updated>2024-05-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在本期节目中，我们就和 AdventureX 团队的核心成员 Ryan 和 Raisa 进行了交流，听听他们对于极客精神的理解，以及创办这场活动的幕后故事。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[也许你也用得上的技术，从零开始了解内网穿透]]></title>
+        <id>https://sspai.com/post/88937</id>
+        <link href="https://sspai.com/post/88937"/>
+        <updated>2024-05-22T03:32:15.000Z</updated>
+        <summary type="html"><![CDATA[内网穿透的话题总是有一个前置条件，就是公网 IP。相信大多数讨论穿透的都是未能有公网 IP 的情况，本文简要概述一下为什么我们会需要内网穿透，内网穿透的工作原理，如何选择合适的方案穿透。查看全文]]></summary>
+        <author>
+            <name>Ivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：OpenAI 暂时停用 Sky 语音选项、京东支付与微信支付实现互联互通等]]></title>
+        <id>https://sspai.com/post/88989</id>
+        <link href="https://sspai.com/post/88989"/>
+        <updated>2024-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobe Lightroom 上线生成式 AI 功能，小鹏汽车举办 AI Day 活动。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 045 | 广告争议、自建NAS以及作者的新玩意]]></title>
         <id>https://sspai.com/post/88975</id>
@@ -1019,46 +1059,6 @@
         <link href="https://sspai.com/post/88303"/>
         <updated>2024-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[三星推出 2024 款 Smart Monitor 系列显示器、腾龙公布首款佳能 RF 卡口镜头等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 041 | 派友速食大曝光、开源的老乡鸡以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/88290</id>
-        <link href="https://sspai.com/post/88290"/>
-        <updated>2024-04-23T09:48:27.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看过太多意外，我们做了个 App 来记录「身体信号」：BodyKnows [送码]]]></title>
-        <id>https://sspai.com/post/88207</id>
-        <link href="https://sspai.com/post/88207"/>
-        <updated>2024-04-23T07:07:24.000Z</updated>
-        <summary type="html"><![CDATA[身体出了什么问题，身体自己知道。我做了这个应用，帮你更清楚地记录身体发出的警报。查看全文]]></summary>
-        <author>
-            <name>有想法的徐同学</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的购房指北：买房之前可以关注什么？]]></title>
-        <id>https://sspai.com/post/88238</id>
-        <link href="https://sspai.com/post/88238"/>
-        <updated>2024-04-23T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>Wannz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Meta 向第三方开放混合现实系统 Horizon OS，微软推出 VASA-1 AI 框架等]]></title>
-        <id>https://sspai.com/post/88272</id>
-        <link href="https://sspai.com/post/88272"/>
-        <updated>2024-04-23T00:43:46.000Z</updated>
-        <summary type="html"><![CDATA[三星印度针对 S21 S22 亮线问题推出免费换屏政策，Apple 回收机器人 Dave 和 Taz 来到中国等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
