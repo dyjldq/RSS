@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T00:39:25.402Z</updated>
+    <updated>2024-05-31T00:40:01.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 184｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/89223</id>
+        <link href="https://sspai.com/post/89223"/>
+        <updated>2024-05-30T09:30:10.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本月玩什么 | Lorelei and the Laser Eyes、动物井、印蒂卡、地狱之刃 2]]></title>
+        <id>https://sspai.com/post/89216</id>
+        <link href="https://sspai.com/post/89216"/>
+        <updated>2024-05-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《地狱之刃》相隔 7 年的续作，玩起来究竟怎么样？查看全文]]></summary>
+        <author>
+            <name>板斧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了能让老婆看上带中文字幕的俄剧，我做了一个产品]]></title>
+        <id>https://sspai.com/post/88291</id>
+        <link href="https://sspai.com/post/88291"/>
+        <updated>2024-05-30T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[各种语音转文字工具都不尽如人意，那我就自己做一个。查看全文]]></summary>
+        <author>
+            <name>TerryGu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 发布 WWDC 邀请函、《使命召唤 21》将加入 XGP 等]]></title>
+        <id>https://sspai.com/post/89208</id>
+        <link href="https://sspai.com/post/89208"/>
+        <updated>2024-05-30T00:35:18.000Z</updated>
+        <summary type="html"><![CDATA[微软确认新版 Windows 不再内置 AC-3 编解码器、比亚迪发布第 5 代 DM 技术等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱上深夜的便利港湾：9 位少数派的便利店好物与故事]]></title>
         <id>https://sspai.com/post/89163</id>
@@ -1018,48 +1058,6 @@
         <summary type="html"><![CDATA[无论假期你想看美剧英剧还是国产剧，这些网站和应用帮你远离剧荒。查看全文]]></summary>
         <author>
             <name>PostMeridy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[找回最简单的摄影乐趣：索尼 A7C2]]></title>
-        <id>https://sspai.com/post/85853</id>
-        <link href="https://sspai.com/post/85853"/>
-        <updated>2024-05-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在我各个社交平台的标签里，一直给自己的一个保留标签就是「摄影」。虽然在学生时代时间还允许的时候，接过一些商单，但其实我一直没有把摄影作为一个「职业」来看，而是仅仅作为「爱好」。在我和「摄影」相处的这些 ...查看全文]]></summary>
-        <author>
-            <name>Konstantine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用 LaTeX 给文档创建美观的目录和索引]]></title>
-        <id>https://sspai.com/post/87254</id>
-        <link href="https://sspai.com/post/87254"/>
-        <updated>2024-05-01T05:11:35.000Z</updated>
-        <summary type="html"><![CDATA[[......]
-查看全文
-本文为付费栏目文章，出自《生产力超频：LaTeX 从入门到精通（视频教程）》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>六边形游乐场</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个五一假期，和这些好文、音乐与电影享受轻松时刻]]></title>
-        <id>https://sspai.com/post/79515</id>
-        <link href="https://sspai.com/post/79515"/>
-        <updated>2024-05-01T02:47:34.000Z</updated>
-        <summary type="html"><![CDATA[假期快乐~终于等到五一假期开始，遥远的路途、拥挤的人流、高昂的旅费、善变的天气……总会让不少人选择宅在家里。但是宅家并不意味着无聊，我们为你精挑细选了一系列的文章、音乐和电影，一起踏上一趟精神世界的旅 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月玩什么 | 波坦尼庄园、太阳之子、哈罗德·哈利巴]]></title>
-        <id>https://sspai.com/post/88489</id>
-        <link href="https://sspai.com/post/88489"/>
-        <updated>2024-04-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[玩什么以及看什么，祝各位欢度假期。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
         </author>
     </entry>
     <entry>
