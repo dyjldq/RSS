@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89259",
+          "author": "少数派编辑部",
+          "description": "☕️TL;DR近期佳作推荐：[电影]朱同在三年级丢失了超能力、[电影]窗边的小豆豆、[电影]哆啦A梦：大雄的地球交响乐、[电影]绝密配方、[特摄]铁甲小宝重制版、[韩剧]毕业、[韩剧]联结、[美剧]布 ...查看全文",
+          "link": "https://sspai.com/post/89259",
+          "publishedOn": "2024-05-31T10:19:41.000Z",
+          "wordCount": 993,
+          "title": "本周看什么 | 最近值得一看的一大篓作品",
+          "imageUrl": "https://cdnfile.sspai.com/2024/5/31/article/76abd3f8-16b2-f48f-fbbb-81fb9b31b4b5.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/sv-anecdotes-09",
+          "author": "Kiririn",
+          "description": "进入 64 位时代，尽管 AMD 产品性能领先，但 Intel 凭借垄断地位和手腕维持了市场主导权。双方的角力还将继续。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/sv-anecdotes-09",
+          "publishedOn": "2024-05-31T10:01:44.000Z",
+          "wordCount": 1178,
+          "title": "追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel",
+          "imageUrl": "https://cdnfile.sspai.com/5/31/2024/article/70e96293-5077-e879-14e1-2e0c96f537c2.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89245",
+          "author": "食肉库玛老师傅",
+          "description": "佳能敷衍，富士不屑，松下心有余而力不足，索尼稳坐钓鱼台，尼康清仓大甩卖。这个 618，你准备选哪台？查看全文",
+          "link": "https://sspai.com/post/89245",
+          "publishedOn": "2024-05-31T07:00:00.000Z",
+          "wordCount": 1015,
+          "title": "错过一次再等半年，618 主流相机选购不完全攻略",
+          "imageUrl": "https://cdnfile.sspai.com/31/05/2024/article/feaa00e3-8e55-0395-29cd-7c2d0b9bd4ff.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/88530",
+          "author": "YiM",
+          "description": "本文记录作者在阅读文章书籍、观看音视频内容时，利用 AI 进行摘要总结的方法与思考，包括对一些 AI 总结产品的体验感受，以及自己手动创建 AI 总结工具的过程。查看全文",
+          "link": "https://sspai.com/post/88530",
+          "publishedOn": "2024-05-31T03:39:51.000Z",
+          "wordCount": 834,
+          "title": "我的 AI 内容总结使用心得：用什么、何时用与怎么用",
+          "imageUrl": "https://cdnfile.sspai.com/2024/5/31/article/d18d8d59-8757-aa0c-1b7f-a3df276c9498.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89242",
+          "author": "少数派编辑部",
+          "description": "免费用户可使用 ChatGPT 大多数 GPT-4o 功能，腾讯正式发布 AI 助手 App 「腾讯元宝」等。查看全文",
+          "link": "https://sspai.com/post/89242",
+          "publishedOn": "2024-05-31T00:55:20.000Z",
+          "wordCount": 1046,
+          "title": "派早报：Fitbit 发布 Ace LTE 儿童手表等",
+          "imageUrl": "https://cdnfile.sspai.com/5/31/2024/article/d66bdfea-f296-5ead-73ba-5afdcf8ab449.png"
+        },
+        {
           "id": "https://sspai.com/post/89223",
           "author": "少数派编辑部",
           "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
@@ -1004,36 +1054,6 @@
           "wordCount": 985,
           "title": "12.5 GPT 与进阶技巧：AI 内容检测",
           "imageUrl": "https://cdn.sspai.com/1/12/2024/article/8c918e4c-9b84-4a99-0d36-431515163d16.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88078",
-          "author": "毛仔",
-          "description": "回望寺里的大白塔，分不清我是回到另一场梦里去，还是刚从这场梦里出来。又或者都是呢？查看全文",
-          "link": "https://sspai.com/post/88078",
-          "publishedOn": "2024-05-02T07:00:00.000Z",
-          "wordCount": 647,
-          "title": "只缘身在此山中：我在五台山做义工",
-          "imageUrl": "https://cdn.sspai.com/15/04/2024/article/e6302fa2-d8d2-86b4-1dd9-a92010bb8564.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/83865",
-          "author": "TomBen",
-          "description": "本文介绍了如何使用 Keyboard Maestro 来提升网页浏览器的使用效率。作者以 Safari 和 Chrome 为例，通过 Keyboard Maestro 的不同功能，如标签页管理、复制 URL、为浏览器插件分配快捷键和网页自动化，来增强浏览器的使用体验。通过示例和详细的步骤，读者可以学习如何使用 Keyboard Maestro 来执行一些常见的浏览器操作，如关闭其他标签页、防止意外退出浏览器、在新标签页中打开当前标签页、复制当前标签页的 URL 等。此外，作者还介绍了如何通过 AppleScript 和 JavaScript 来实现网页自动化操作，例如自动点击网页中的特定元素。总之，本文提供了一些实用的技巧和示例，帮助读者更高效地使用浏览器。\n想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 理解 Keyboard Maestro 的宏与动作，从此 Mac 文件管理进入自动化时代》\n[......]\n查看全文\n本文为付费栏目文章，出自《生产力超频：Keyboard Maestro 拯救效率》，订阅后可阅读全文。",
-          "link": "https://sspai.com/post/83865",
-          "publishedOn": "2024-05-02T04:25:38.000Z",
-          "wordCount": 2313,
-          "title": "用 Keyboard Maestro 增强浏览器使用体验",
-          "imageUrl": "https://cdn.sspai.com/2023/10/25/article/f9983281-fc42-3ba0-f3dc-eabf1973e2d1.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/79491",
-          "author": "PostMeridy",
-          "description": "无论假期你想看美剧英剧还是国产剧，这些网站和应用帮你远离剧荒。查看全文",
-          "link": "https://sspai.com/post/79491",
-          "publishedOn": "2024-05-02T03:00:15.000Z",
-          "wordCount": 871,
-          "title": "把宝贵的时间留给佳作，追剧观影少不了这些辅助",
-          "imageUrl": "https://cdn.sspai.com/4/27/2023/article/ba0a16d5-133a-2871-b473-caba6a4b8676.jpg"
         }
       ]
     },

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-31T00:40:01.285Z</updated>
+    <updated>2024-06-01T00:42:26.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大篓作品]]></title>
+        <id>https://sspai.com/post/89259</id>
+        <link href="https://sspai.com/post/89259"/>
+        <updated>2024-05-31T10:19:41.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]朱同在三年级丢失了超能力、[电影]窗边的小豆豆、[电影]哆啦A梦：大雄的地球交响乐、[电影]绝密配方、[特摄]铁甲小宝重制版、[韩剧]毕业、[韩剧]联结、[美剧]布 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel]]></title>
+        <id>https://sspai.com/prime/story/sv-anecdotes-09</id>
+        <link href="https://sspai.com/prime/story/sv-anecdotes-09"/>
+        <updated>2024-05-31T10:01:44.000Z</updated>
+        <summary type="html"><![CDATA[进入 64 位时代，尽管 AMD 产品性能领先，但 Intel 凭借垄断地位和手腕维持了市场主导权。双方的角力还将继续。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[错过一次再等半年，618 主流相机选购不完全攻略]]></title>
+        <id>https://sspai.com/post/89245</id>
+        <link href="https://sspai.com/post/89245"/>
+        <updated>2024-05-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[佳能敷衍，富士不屑，松下心有余而力不足，索尼稳坐钓鱼台，尼康清仓大甩卖。这个 618，你准备选哪台？查看全文]]></summary>
+        <author>
+            <name>食肉库玛老师傅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 AI 内容总结使用心得：用什么、何时用与怎么用]]></title>
+        <id>https://sspai.com/post/88530</id>
+        <link href="https://sspai.com/post/88530"/>
+        <updated>2024-05-31T03:39:51.000Z</updated>
+        <summary type="html"><![CDATA[本文记录作者在阅读文章书籍、观看音视频内容时，利用 AI 进行摘要总结的方法与思考，包括对一些 AI 总结产品的体验感受，以及自己手动创建 AI 总结工具的过程。查看全文]]></summary>
+        <author>
+            <name>YiM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Fitbit 发布 Ace LTE 儿童手表等]]></title>
+        <id>https://sspai.com/post/89242</id>
+        <link href="https://sspai.com/post/89242"/>
+        <updated>2024-05-31T00:55:20.000Z</updated>
+        <summary type="html"><![CDATA[免费用户可使用 ChatGPT 大多数 GPT-4o 功能，腾讯正式发布 AI 助手 App 「腾讯元宝」等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新玩意 184｜少数派的编辑们最近买了啥？]]></title>
         <id>https://sspai.com/post/89223</id>
@@ -1024,40 +1075,6 @@
 本文为付费栏目文章，出自《生产力超频：成为 ChatGPT 全域调教高手》，订阅后可阅读全文。]]></summary>
         <author>
             <name>Fairyex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只缘身在此山中：我在五台山做义工]]></title>
-        <id>https://sspai.com/post/88078</id>
-        <link href="https://sspai.com/post/88078"/>
-        <updated>2024-05-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[回望寺里的大白塔，分不清我是回到另一场梦里去，还是刚从这场梦里出来。又或者都是呢？查看全文]]></summary>
-        <author>
-            <name>毛仔</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Keyboard Maestro 增强浏览器使用体验]]></title>
-        <id>https://sspai.com/post/83865</id>
-        <link href="https://sspai.com/post/83865"/>
-        <updated>2024-05-02T04:25:38.000Z</updated>
-        <summary type="html"><![CDATA[本文介绍了如何使用 Keyboard Maestro 来提升网页浏览器的使用效率。作者以 Safari 和 Chrome 为例，通过 Keyboard Maestro 的不同功能，如标签页管理、复制 URL、为浏览器插件分配快捷键和网页自动化，来增强浏览器的使用体验。通过示例和详细的步骤，读者可以学习如何使用 Keyboard Maestro 来执行一些常见的浏览器操作，如关闭其他标签页、防止意外退出浏览器、在新标签页中打开当前标签页、复制当前标签页的 URL 等。此外，作者还介绍了如何通过 AppleScript 和 JavaScript 来实现网页自动化操作，例如自动点击网页中的特定元素。总之，本文提供了一些实用的技巧和示例，帮助读者更高效地使用浏览器。
-想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 理解 Keyboard Maestro 的宏与动作，从此 Mac 文件管理进入自动化时代》
-[......]
-查看全文
-本文为付费栏目文章，出自《生产力超频：Keyboard Maestro 拯救效率》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>TomBen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把宝贵的时间留给佳作，追剧观影少不了这些辅助]]></title>
-        <id>https://sspai.com/post/79491</id>
-        <link href="https://sspai.com/post/79491"/>
-        <updated>2024-05-02T03:00:15.000Z</updated>
-        <summary type="html"><![CDATA[无论假期你想看美剧英剧还是国产剧，这些网站和应用帮你远离剧荒。查看全文]]></summary>
-        <author>
-            <name>PostMeridy</name>
         </author>
     </entry>
     <entry>
