@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T00:40:38.880Z</updated>
+    <updated>2024-06-04T00:39:51.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/89329</id>
+        <link href="https://sspai.com/post/89329"/>
+        <updated>2024-06-03T09:53:49.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境]]></title>
+        <id>https://sspai.com/post/89299</id>
+        <link href="https://sspai.com/post/89299"/>
+        <updated>2024-06-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[透过卡夫卡的作品，去看看这位死前无名、死后封神的大师的世界。查看全文]]></summary>
+        <author>
+            <name>潘誉晗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自力更生 | 基于 Readeck 搭建个人稍后读与书签服务]]></title>
+        <id>https://sspai.com/post/89289</id>
+        <link href="https://sspai.com/post/89289"/>
+        <updated>2024-06-03T03:29:26.000Z</updated>
+        <summary type="html"><![CDATA[经过一段时间的试用，我正式将自部署的 Readeck 作为我的主要稍后读服务，并且实现了我接触的场景下全平台的发送网址/阅读解决方案。查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Napster 推出 25 周年]]></title>
+        <id>https://sspai.com/post/89306</id>
+        <link href="https://sspai.com/post/89306"/>
+        <updated>2024-06-03T00:55:29.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事音乐文件共享平台Napster推出25周年6月1日，在文件共享和数字音乐历史上有重要地位的软件Napster推出满25周年。1999年，17岁的ShawnFanning在其IRC聊天 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[陌生而有趣的训练伙伴——波速球和 ViPR 炮筒]]></title>
         <id>https://sspai.com/prime/story/training-guide-bosu-ball-vipr</id>
@@ -1013,37 +1053,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事首个完全使用Sora制作的MV发布5月2日，首个使用OpenAI长视频生成模型Sora制作的MV发布。这段搭配歌曲TheHardestPart的MV[YouTube|Vimeo]由美 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[掌握 Windows 终端命令的基本语法及风格]]></title>
-        <id>https://sspai.com/post/78248</id>
-        <link href="https://sspai.com/post/78248"/>
-        <updated>2024-05-05T04:48:38.000Z</updated>
-        <summary type="html"><![CDATA[作为2024年五一「生产力超频」系列目优惠活动的一部分，本期设置为限时免费，欢迎观看。我们将在5月1日至7日，为热门付费栏目「生产力超频」全系列设置七折优惠；同时，我们将每天从不同教程中选出一篇，设为 ...查看全文
-本文为付费栏目文章，出自《生产力超频：Windows 命令行实用手册》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Mirtle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抓住冬天的尾巴，去见江南的楼阁]]></title>
-        <id>https://sspai.com/post/86171</id>
-        <link href="https://sspai.com/post/86171"/>
-        <updated>2024-05-05T03:38:28.000Z</updated>
-        <summary type="html"><![CDATA[如同天一阁和径山寺一般的楼阁是数不尽的，它们伫立在风雨中，在不同季节呈现截然不同的观感，这正是它们「生命力」的一部分。查看全文]]></summary>
-        <author>
-            <name>Wataru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行拍照虽然开心，但别忘了清洁相机]]></title>
-        <id>https://sspai.com/post/68863</id>
-        <link href="https://sspai.com/post/68863"/>
-        <updated>2024-05-05T03:37:53.000Z</updated>
-        <summary type="html"><![CDATA[祝你相机永远干净，拍片永远顺利 :)查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
         </author>
     </entry>
     <entry>
