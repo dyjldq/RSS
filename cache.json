@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89101",
+          "author": "无敌娃娃音",
+          "description": "希望这篇文章能够帮助大家在看演唱会上少走一些弯路，收获一段珍贵的回忆。查看全文",
+          "link": "https://sspai.com/post/89101",
+          "publishedOn": "2024-06-05T09:30:00.000Z",
+          "wordCount": 771,
+          "title": "2024 年，如何「正确地」观看一场演唱会",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/5/article/f16049bc-dd16-0806-6073-86132a91cff3.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89322",
+          "author": "两颗皮蛋",
+          "description": "一起聊聊换第二台车的时候是怎么考虑的，以及对于蔚来及其子品牌乐道的看法。查看全文",
+          "link": "https://sspai.com/post/89322",
+          "publishedOn": "2024-06-05T07:00:00.000Z",
+          "wordCount": 653,
+          "title": "买第二台车的时候，我们终于冷静了",
+          "imageUrl": "https://cdnfile.sspai.com/03/06/2024/article/c8d1b2f6-9544-2843-af75-1a78877db4f3.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89317",
+          "author": "小胡小胡0009",
+          "description": "我利用 Obsidian 插件结合 macOS 快捷指令搭建了一套能快速添加阅读记录的流程。查看全文",
+          "link": "https://sspai.com/post/89317",
+          "publishedOn": "2024-06-05T03:30:10.000Z",
+          "wordCount": 780,
+          "title": "一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/04/97ef97182389699ab258e59df2c34b0a.png"
+        },
+        {
+          "id": "https://sspai.com/post/89360",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事英特尔公布LunarLake芯片6月4日，英特尔在2024年台北国际电脑展上展示了其备受期待的下一代笔记本电脑芯片——IntelLunarLake，这款芯片预计将在今年秋季正式上市。 ...查看全文",
+          "link": "https://sspai.com/post/89360",
+          "publishedOn": "2024-06-05T00:00:00.000Z",
+          "wordCount": 864,
+          "title": "派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/5/article/0f835264-ef07-800a-c51c-dd7a096742a9.png"
+        },
+        {
           "id": "https://sspai.com/post/89353",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
@@ -974,56 +1014,6 @@
           "wordCount": 1157,
           "title": "iPad Pro 重磅升级、Apple Pencil Pro 全新亮相：Apple 发布会回顾",
           "imageUrl": "https://cdn.sspai.com/2024/5/8/article/7294355d-feb4-fd71-d658-5f8490d51ee2.gif"
-        },
-        {
-          "id": "https://sspai.com/post/88607",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/88607",
-          "publishedOn": "2024-05-07T09:41:05.000Z",
-          "wordCount": 972,
-          "title": "社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意",
-          "imageUrl": "https://cdn.sspai.com/5/7/2024/article/181ef292-b711-75ef-921d-31dcf2d2ed59.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88391",
-          "author": "Irisleilei",
-          "description": "房子经过自己满满的爱的浇灌，终于成为了属于我的家。查看全文",
-          "link": "https://sspai.com/post/88391",
-          "publishedOn": "2024-05-07T07:00:00.000Z",
-          "wordCount": 737,
-          "title": "我的栖息之所：历时半年，把房子装成家",
-          "imageUrl": "https://cdn.sspai.com/2024/04/28/aa92c0cc259c009db1860708583937c1.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/76990",
-          "author": "艾伦习字",
-          "description": "在本篇文章中，我们讲了第一个图像元素文字，提到了文字作为信息和图像的两面性，也介绍了字体相关的背景知识、选用字体的基本套路，最后也简单说明 PPT 中文本框的各种文字效果的功能，该如何使用和搭配，才能做出合适的设计。查看全文\n本文为付费栏目文章，出自《生产力超频：科学做好 PPT 的三个步骤》，订阅后可阅读全文。",
-          "link": "https://sspai.com/post/76990",
-          "publishedOn": "2024-05-07T05:03:55.000Z",
-          "wordCount": 849,
-          "title": "用对字体，像图片一样呈现文本",
-          "imageUrl": "https://cdn.sspai.com/article/8882d50e-3ee7-d266-7338-db2026e57672.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88519",
-          "author": "merlin",
-          "description": "LD（LaserDisc、镭射光盘）诞生于 1981 年，尺寸与常规黑胶唱片相同，因此还以「图像唱片」一词问世。但 LD 相较于唱片更为厚重，重量超过一倍。LD 的外观类似于 CD，熠熠生辉，内部则融合了视频与音频技术，在那个还没有光盘的年代首次实现了二者的结合。查看全文",
-          "link": "https://sspai.com/post/88519",
-          "publishedOn": "2024-05-07T03:30:01.000Z",
-          "wordCount": 1017,
-          "title": "在 2024 年播放一张上世纪的「图像唱片」：LaserDisc",
-          "imageUrl": "https://cdn.sspai.com/2024/05/05/bfb01e4681a71e54201bc9b928d419cd.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88593",
-          "author": "少数派编辑部",
-          "description": "AITO 汽车发布事故相关技术问题的说明，Adobe 六月彻底关闭 Photoshop Mix / Fix 应用等。查看全文",
-          "link": "https://sspai.com/post/88593",
-          "publishedOn": "2024-05-07T00:30:00.000Z",
-          "wordCount": 903,
-          "title": "派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等",
-          "imageUrl": "https://cdn.sspai.com/2024/5/7/article/863b6b26-39f7-6a24-87ab-358c49545d41.png"
         }
       ]
     },

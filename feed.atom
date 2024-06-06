@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T00:39:34.416Z</updated>
+    <updated>2024-06-06T00:39:34.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年，如何「正确地」观看一场演唱会]]></title>
+        <id>https://sspai.com/post/89101</id>
+        <link href="https://sspai.com/post/89101"/>
+        <updated>2024-06-05T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[希望这篇文章能够帮助大家在看演唱会上少走一些弯路，收获一段珍贵的回忆。查看全文]]></summary>
+        <author>
+            <name>无敌娃娃音</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买第二台车的时候，我们终于冷静了]]></title>
+        <id>https://sspai.com/post/89322</id>
+        <link href="https://sspai.com/post/89322"/>
+        <updated>2024-06-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一起聊聊换第二台车的时候是怎么考虑的，以及对于蔚来及其子品牌乐道的看法。查看全文]]></summary>
+        <author>
+            <name>两颗皮蛋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 借助 Obsidian 插件和快捷指令快速添加阅读记录]]></title>
+        <id>https://sspai.com/post/89317</id>
+        <link href="https://sspai.com/post/89317"/>
+        <updated>2024-06-05T03:30:10.000Z</updated>
+        <summary type="html"><![CDATA[我利用 Obsidian 插件结合 macOS 快捷指令搭建了一套能快速添加阅读记录的流程。查看全文]]></summary>
+        <author>
+            <name>小胡小胡0009</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等]]></title>
+        <id>https://sspai.com/post/89360</id>
+        <link href="https://sspai.com/post/89360"/>
+        <updated>2024-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事英特尔公布LunarLake芯片6月4日，英特尔在2024年台北国际电脑展上展示了其备受期待的下一代笔记本电脑芯片——IntelLunarLake，这款芯片预计将在今年秋季正式上市。 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主]]></title>
         <id>https://sspai.com/post/89353</id>
@@ -999,57 +1039,6 @@
         <link href="https://sspai.com/post/88618"/>
         <updated>2024-05-07T16:24:52.000Z</updated>
         <summary type="html"><![CDATA[北京时间5月7日晚间，姗姗来迟的Apple春季特别活动终于召开。虽然整场发布会只持续了半个多小时，活动内容节奏却相当紧凑，不仅有跨代升级搭载了M4芯片的OLED屏iPadPro重磅亮相，也有备受期待的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 043 | 浏览器里的虚拟机、派友小组件大曝光以及新玩意]]></title>
-        <id>https://sspai.com/post/88607</id>
-        <link href="https://sspai.com/post/88607"/>
-        <updated>2024-05-07T09:41:05.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的栖息之所：历时半年，把房子装成家]]></title>
-        <id>https://sspai.com/post/88391</id>
-        <link href="https://sspai.com/post/88391"/>
-        <updated>2024-05-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[房子经过自己满满的爱的浇灌，终于成为了属于我的家。查看全文]]></summary>
-        <author>
-            <name>Irisleilei</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用对字体，像图片一样呈现文本]]></title>
-        <id>https://sspai.com/post/76990</id>
-        <link href="https://sspai.com/post/76990"/>
-        <updated>2024-05-07T05:03:55.000Z</updated>
-        <summary type="html"><![CDATA[在本篇文章中，我们讲了第一个图像元素文字，提到了文字作为信息和图像的两面性，也介绍了字体相关的背景知识、选用字体的基本套路，最后也简单说明 PPT 中文本框的各种文字效果的功能，该如何使用和搭配，才能做出合适的设计。查看全文
-本文为付费栏目文章，出自《生产力超频：科学做好 PPT 的三个步骤》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>艾伦习字</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 2024 年播放一张上世纪的「图像唱片」：LaserDisc]]></title>
-        <id>https://sspai.com/post/88519</id>
-        <link href="https://sspai.com/post/88519"/>
-        <updated>2024-05-07T03:30:01.000Z</updated>
-        <summary type="html"><![CDATA[LD（LaserDisc、镭射光盘）诞生于 1981 年，尺寸与常规黑胶唱片相同，因此还以「图像唱片」一词问世。但 LD 相较于唱片更为厚重，重量超过一倍。LD 的外观类似于 CD，熠熠生辉，内部则融合了视频与音频技术，在那个还没有光盘的年代首次实现了二者的结合。查看全文]]></summary>
-        <author>
-            <name>merlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Stack Overflow 与 OpenAI 合作，英伟达更新 ChatRTX 等]]></title>
-        <id>https://sspai.com/post/88593</id>
-        <link href="https://sspai.com/post/88593"/>
-        <updated>2024-05-07T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AITO 汽车发布事故相关技术问题的说明，Adobe 六月彻底关闭 Photoshop Mix / Fix 应用等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
