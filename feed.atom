@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-08T00:40:01.361Z</updated>
+    <updated>2024-06-09T00:44:25.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点]]></title>
+        <id>https://sspai.com/post/89308</id>
+        <link href="https://sspai.com/post/89308"/>
+        <updated>2024-06-08T02:18:57.000Z</updated>
+        <summary type="html"><![CDATA[我们为你结合国内外有关情报，为大家提供有关于 WWDC24 的前瞻内容。查看全文]]></summary>
+        <author>
+            <name>WATERS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
         <id>https://sspai.com/post/89444</id>
@@ -991,46 +1001,6 @@
         <summary type="html"><![CDATA[在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文]]></summary>
         <author>
             <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
-        <id>https://sspai.com/post/88696</id>
-        <link href="https://sspai.com/post/88696"/>
-        <updated>2024-05-10T09:39:26.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]9号秘事第九季、[电影]九龙城寨之围城、[美剧]绝望写手第三季、[英剧]废柴上路第二季、[英剧]马洛谋杀俱乐部、[美剧]美国之锈第二季、[电影]黑鸟黑鸟黑莓、[电影 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我就是想继续用 Windows 10：那安全漏洞怎么办？]]></title>
-        <id>https://sspai.com/post/88541</id>
-        <link href="https://sspai.com/post/88541"/>
-        <updated>2024-05-10T08:36:36.000Z</updated>
-        <summary type="html"><![CDATA[随着大部分 Windows 10 版本逐渐接近其生命周期终点（EOL），我们需要提前规划，为 Windows 10 停止支持做好准备。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验]]></title>
-        <id>https://sspai.com/post/88673</id>
-        <link href="https://sspai.com/post/88673"/>
-        <updated>2024-05-10T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bose Ultra 旗舰开放式耳机，因其与众不同的造型、独树一帜的佩戴体验以及第二代高通 S5 音频平台、Snapdragon Sound 骁龙畅听技术加持，深深吸引了我。查看全文]]></summary>
-        <author>
-            <name>超哥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等]]></title>
-        <id>https://sspai.com/post/88677</id>
-        <link href="https://sspai.com/post/88677"/>
-        <updated>2024-05-10T02:38:21.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 发布 AI 模型规格草案、微软预告今年 7 月上线 Xbox 手游应用商店、GitHub Copilot Chat 登陆移动平台等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89308",
+          "author": "WATERS",
+          "description": "我们为你结合国内外有关情报，为大家提供有关于 WWDC24 的前瞻内容。查看全文",
+          "link": "https://sspai.com/post/89308",
+          "publishedOn": "2024-06-08T02:18:57.000Z",
+          "wordCount": 1054,
+          "title": "WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点",
+          "imageUrl": "https://cdnfile.sspai.com/6/7/2024/article/c3be6848-9a8c-5bd4-7a24-7c7e6b6a7d87.png"
+        },
+        {
           "id": "https://sspai.com/post/89444",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[电影]坂本龙一：杰作、[国产]看不见影子的少年、[电影]疯狂的麦克斯：狂暴女神、[美剧]爆笑女子乐队第二季、[英剧]罪犯联盟第三季/最终季、[韩剧]黑社会的我成为了高中生 ...查看全文",
@@ -964,46 +974,6 @@
           "wordCount": 652,
           "title": "一场长途自驾后的讨论：油电同乐，拥抱纯电",
           "imageUrl": "https://cdn.sspai.com/11/05/2024/article/9d25a2f7-c45e-9df2-68e9-9a6e88e12740.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88696",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[英剧]9号秘事第九季、[电影]九龙城寨之围城、[美剧]绝望写手第三季、[英剧]废柴上路第二季、[英剧]马洛谋杀俱乐部、[美剧]美国之锈第二季、[电影]黑鸟黑鸟黑莓、[电影 ...查看全文",
-          "link": "https://sspai.com/post/88696",
-          "publishedOn": "2024-05-10T09:39:26.000Z",
-          "wordCount": 996,
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "imageUrl": "https://cdn.sspai.com/2024/5/10/article/99493936-fac3-fae0-d792-aafb7432d9fd.png"
-        },
-        {
-          "id": "https://sspai.com/post/88541",
-          "author": "化学心情下2",
-          "description": "随着大部分 Windows 10 版本逐渐接近其生命周期终点（EOL），我们需要提前规划，为 Windows 10 停止支持做好准备。查看全文",
-          "link": "https://sspai.com/post/88541",
-          "publishedOn": "2024-05-10T08:36:36.000Z",
-          "wordCount": 1087,
-          "title": "我就是想继续用 Windows 10：那安全漏洞怎么办？",
-          "imageUrl": "https://cdn.sspai.com/5/10/2024/article/2c0c11a5-a021-3ce5-50b8-598059ea1307.png"
-        },
-        {
-          "id": "https://sspai.com/post/88673",
-          "author": "超哥",
-          "description": "Bose Ultra 旗舰开放式耳机，因其与众不同的造型、独树一帜的佩戴体验以及第二代高通 S5 音频平台、Snapdragon Sound 骁龙畅听技术加持，深深吸引了我。查看全文",
-          "link": "https://sspai.com/post/88673",
-          "publishedOn": "2024-05-10T06:00:00.000Z",
-          "wordCount": 697,
-          "title": "能弯曲的 Bose Ultra 开放式耳机，黑科技带来时尚的体验",
-          "imageUrl": "https://cdn.sspai.com/2024/5/9/article/ab7bb996-01c7-a870-9d96-53676604edf2.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88677",
-          "author": "少数派编辑部",
-          "description": "OpenAI 发布 AI 模型规格草案、微软预告今年 7 月上线 Xbox 手游应用商店、GitHub Copilot Chat 登陆移动平台等。查看全文",
-          "link": "https://sspai.com/post/88677",
-          "publishedOn": "2024-05-10T02:38:21.000Z",
-          "wordCount": 865,
-          "title": "派早报：Google 发布 Pixel 8a、Apple 就 iPad Pro 广告致歉等",
-          "imageUrl": "https://cdn.sspai.com/10/05/2024/article/70e15634-ee6f-97d0-9746-065f4218f6da.jpeg"
         }
       ]
     },
