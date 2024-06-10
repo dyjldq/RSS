@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89467",
+          "author": "Microhoo",
+          "description": "转眼又到了新一届WWDC会期，尽管即将发布的新内容仍然神秘，但「拥抱AI」已经成了下一轮Apple各大操作系统众所周知的新变化。在这其中，有一项「支线任务」也很值得期待，那就是AppleHome。虽然 ...查看全文",
+          "link": "https://sspai.com/post/89467",
+          "publishedOn": "2024-06-09T03:34:26.000Z",
+          "wordCount": 815,
+          "title": "WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/9/article/d1070a6d-b298-7710-0dbf-e20912477da7.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/89308",
           "author": "WATERS",
           "description": "我们为你结合国内外有关情报，为大家提供有关于 WWDC24 的前瞻内容。查看全文",
@@ -964,16 +974,6 @@
           "wordCount": 901,
           "title": "派早报：苹果称仅极少开发者申请接入外部支付",
           "imageUrl": "https://cdn.sspai.com/5/13/2024/article/97353957-4c71-d202-a01e-ae98e7715e62.png"
-        },
-        {
-          "id": "https://sspai.com/post/88715",
-          "author": "少数派播客",
-          "description": "在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文",
-          "link": "https://sspai.com/post/88715",
-          "publishedOn": "2024-05-11T07:00:00.000Z",
-          "wordCount": 652,
-          "title": "一场长途自驾后的讨论：油电同乐，拥抱纯电",
-          "imageUrl": "https://cdn.sspai.com/11/05/2024/article/9d25a2f7-c45e-9df2-68e9-9a6e88e12740.jpg"
         }
       ]
     },

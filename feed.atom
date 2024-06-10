@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-09T00:44:25.588Z</updated>
+    <updated>2024-06-10T00:41:50.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待]]></title>
+        <id>https://sspai.com/post/89467</id>
+        <link href="https://sspai.com/post/89467"/>
+        <updated>2024-06-09T03:34:26.000Z</updated>
+        <summary type="html"><![CDATA[转眼又到了新一届WWDC会期，尽管即将发布的新内容仍然神秘，但「拥抱AI」已经成了下一轮Apple各大操作系统众所周知的新变化。在这其中，有一项「支线任务」也很值得期待，那就是AppleHome。虽然 ...查看全文]]></summary>
+        <author>
+            <name>Microhoo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC24 前瞻：人工智能的浪潮里，Apple 又将带来哪些亮点]]></title>
         <id>https://sspai.com/post/89308</id>
@@ -991,16 +1001,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事苹果称仅极少开发者申请接入外部支付据Bloomberg报道，根据近日在与Epic诉讼中提交的证据文件，苹果称目前还没有大型应用开发商申请使用AppStore的外部支付方式；美国区6. ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场长途自驾后的讨论：油电同乐，拥抱纯电]]></title>
-        <id>https://sspai.com/post/88715</id>
-        <link href="https://sspai.com/post/88715"/>
-        <updated>2024-05-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在本期节目中，老麦与蔚来高级副总裁沈斐及其他几位车主一起讨论了油车和电车之间的区别，以及新能源汽车在储能方面的特点等话题查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
         </author>
     </entry>
     <entry>
