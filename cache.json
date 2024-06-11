@@ -6,6 +6,36 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89497",
+          "author": "少数派编辑部",
+          "description": "WWDC24 开幕式的一图流来啦。查看全文",
+          "link": "https://sspai.com/post/89497",
+          "publishedOn": "2024-06-10T22:07:55.000Z",
+          "wordCount": 664,
+          "title": "一图流 | WWDC24 开幕式回顾",
+          "imageUrl": "https://cdnfile.sspai.com/6/11/2024/article/8e9c0778-f0a8-1568-9435-cb3316db964b.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89496",
+          "author": "少数派编辑部",
+          "description": "Apple 推出 iOS 18、iPadOS 18、watchOS 11 和 macOS Sequoia，以及 Apple Intelligence 功能合集。查看全文",
+          "link": "https://sspai.com/post/89496",
+          "publishedOn": "2024-06-10T21:58:43.000Z",
+          "wordCount": 1181,
+          "title": "大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾",
+          "imageUrl": "https://cdnfile.sspai.com/6/11/2024/article/ef3abccb-4242-893a-15e2-62ae654f4304.png"
+        },
+        {
+          "id": "https://sspai.com/post/89473",
+          "author": "Voyager_1",
+          "description": "高考并非人生的终点，在尽情玩乐之外，我们不妨抽出一点时间为自己的将来做足准备。查看全文",
+          "link": "https://sspai.com/post/89473",
+          "publishedOn": "2024-06-10T07:00:00.000Z",
+          "wordCount": 733,
+          "title": "高考结束的暑假除了狂欢，还能如何为将来做准备",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/9/article/f71c77ef-6c46-77b4-f657-3696e7121a1a.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/89467",
           "author": "Microhoo",
           "description": "转眼又到了新一届WWDC会期，尽管即将发布的新内容仍然神秘，但「拥抱AI」已经成了下一轮Apple各大操作系统众所周知的新变化。在这其中，有一项「支线任务」也很值得期待，那就是AppleHome。虽然 ...查看全文",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-10T00:41:50.516Z</updated>
+    <updated>2024-06-11T00:40:23.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一图流 | WWDC24 开幕式回顾]]></title>
+        <id>https://sspai.com/post/89497</id>
+        <link href="https://sspai.com/post/89497"/>
+        <updated>2024-06-10T22:07:55.000Z</updated>
+        <summary type="html"><![CDATA[WWDC24 开幕式的一图流来啦。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾]]></title>
+        <id>https://sspai.com/post/89496</id>
+        <link href="https://sspai.com/post/89496"/>
+        <updated>2024-06-10T21:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Apple 推出 iOS 18、iPadOS 18、watchOS 11 和 macOS Sequoia，以及 Apple Intelligence 功能合集。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高考结束的暑假除了狂欢，还能如何为将来做准备]]></title>
+        <id>https://sspai.com/post/89473</id>
+        <link href="https://sspai.com/post/89473"/>
+        <updated>2024-06-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高考并非人生的终点，在尽情玩乐之外，我们不妨抽出一点时间为自己的将来做足准备。查看全文]]></summary>
+        <author>
+            <name>Voyager_1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC24 前瞻：当家也能「升级」，我们该对 Aqara 如何期待]]></title>
         <id>https://sspai.com/post/89467</id>
