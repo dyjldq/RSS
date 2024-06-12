@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89505",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/89505",
+          "publishedOn": "2024-06-11T08:56:22.000Z",
+          "wordCount": 1051,
+          "title": "社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/11/article/8d501fb6-afdb-93a6-1f9c-1db886135a47.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89432",
+          "author": "少数派编辑部",
+          "description": "我们邀请到了两颗皮蛋的零号，和我们一起聊聊对于本次 WWDC 主题演讲的初印象，以及自己的兴趣和感受。查看全文",
+          "link": "https://sspai.com/post/89432",
+          "publishedOn": "2024-06-11T08:00:00.000Z",
+          "wordCount": 662,
+          "title": "直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？",
+          "imageUrl": "https://cdnfile.sspai.com/07/06/2024/article/6588c0c0-d24a-3df3-15b2-800371d53c3d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89214",
+          "author": "Loa",
+          "description": "编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，6月23日前发布投稿文章即可。入围作品均可获得稿酬、Zeabur订阅、 ...查看全文",
+          "link": "https://sspai.com/post/89214",
+          "publishedOn": "2024-06-11T06:58:41.000Z",
+          "wordCount": 1527,
+          "title": "认清需求再下手，面向大众的 NAS 选购与折腾指南",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/07/e92749000c706a7b69ebca38f01ea0b2.png"
+        },
+        {
+          "id": "https://sspai.com/post/89498",
+          "author": "少数派编辑部",
+          "description": "法官判定 Google 无需在美国广告案中接受陪审团审判，微软 Visual Studio 将支持 Windows Update 自动更新等查看全文",
+          "link": "https://sspai.com/post/89498",
+          "publishedOn": "2024-06-11T00:15:00.000Z",
+          "wordCount": 1007,
+          "title": "派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/11/article/7326fb80-ef19-5e7a-3abb-770bbe38fa93.png"
+        },
+        {
           "id": "https://sspai.com/post/89497",
           "author": "少数派编辑部",
           "description": "WWDC24 开幕式的一图流来啦。查看全文",
@@ -964,46 +1004,6 @@
           "wordCount": 927,
           "title": "派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等",
           "imageUrl": "https://cdn.sspai.com/2024/5/14/article/733d423d-8722-93d5-1fb6-3f94273520e1.png"
-        },
-        {
-          "id": "https://sspai.com/post/88773",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新AppCleanClip：简单易用的Mac平台剪 ...查看全文",
-          "link": "https://sspai.com/post/88773",
-          "publishedOn": "2024-05-13T10:30:53.000Z",
-          "wordCount": 896,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdn.sspai.com/2024/5/13/article/e5f171b9-e901-1334-d9a9-69fa111165c5.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88506",
-          "author": "SUNTRISE",
-          "description": "「稳定」表象的背后，在微软内部对于 Windows 界面设计的探索一直没有停止。查看全文",
-          "link": "https://sspai.com/post/88506",
-          "publishedOn": "2024-05-13T07:00:00.000Z",
-          "wordCount": 941,
-          "title": "Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索",
-          "imageUrl": "https://cdn.sspai.com/2024/5/13/article/0b3c986d-efc3-f485-4626-497f1d596a8c.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88734",
-          "author": "洛世",
-          "description": "作为国内用户，我很无奈。而当我站在多年付费用户的角度去评价时，一个词总结就是：吃相难看。查看全文",
-          "link": "https://sspai.com/post/88734",
-          "publishedOn": "2024-05-13T03:31:29.000Z",
-          "wordCount": 700,
-          "title": "面对国产软件的 VVIP，我选择了退订",
-          "imageUrl": "https://cdn.sspai.com/2024/05/12/e2ad52724e22d2f6f48324e9f50ae2c6.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88754",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事苹果称仅极少开发者申请接入外部支付据Bloomberg报道，根据近日在与Epic诉讼中提交的证据文件，苹果称目前还没有大型应用开发商申请使用AppStore的外部支付方式；美国区6. ...查看全文",
-          "link": "https://sspai.com/post/88754",
-          "publishedOn": "2024-05-13T00:58:09.000Z",
-          "wordCount": 901,
-          "title": "派早报：苹果称仅极少开发者申请接入外部支付",
-          "imageUrl": "https://cdn.sspai.com/5/13/2024/article/97353957-4c71-d202-a01e-ae98e7715e62.png"
         }
       ]
     },

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T00:40:23.471Z</updated>
+    <updated>2024-06-12T00:40:29.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意]]></title>
+        <id>https://sspai.com/post/89505</id>
+        <link href="https://sspai.com/post/89505"/>
+        <updated>2024-06-11T08:56:22.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？]]></title>
+        <id>https://sspai.com/post/89432</id>
+        <link href="https://sspai.com/post/89432"/>
+        <updated>2024-06-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们邀请到了两颗皮蛋的零号，和我们一起聊聊对于本次 WWDC 主题演讲的初印象，以及自己的兴趣和感受。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[认清需求再下手，面向大众的 NAS 选购与折腾指南]]></title>
+        <id>https://sspai.com/post/89214</id>
+        <link href="https://sspai.com/post/89214"/>
+        <updated>2024-06-11T06:58:41.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，6月23日前发布投稿文章即可。入围作品均可获得稿酬、Zeabur订阅、 ...查看全文]]></summary>
+        <author>
+            <name>Loa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等]]></title>
+        <id>https://sspai.com/post/89498</id>
+        <link href="https://sspai.com/post/89498"/>
+        <updated>2024-06-11T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[法官判定 Google 无需在美国广告案中接受陪审团审判，微软 Visual Studio 将支持 Windows Update 自动更新等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一图流 | WWDC24 开幕式回顾]]></title>
         <id>https://sspai.com/post/89497</id>
@@ -989,46 +1029,6 @@
         <link href="https://sspai.com/post/88779"/>
         <updated>2024-05-14T01:10:55.000Z</updated>
         <summary type="html"><![CDATA[腾讯 QQ / 微信上线地震预警功能，Apple Music 推出百大最佳专辑榜单等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/88773</id>
-        <link href="https://sspai.com/post/88773"/>
-        <updated>2024-05-13T10:30:53.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新AppCleanClip：简单易用的Mac平台剪 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 设计史（二）「海王星」项目：「稳定」表象背后的求索]]></title>
-        <id>https://sspai.com/post/88506</id>
-        <link href="https://sspai.com/post/88506"/>
-        <updated>2024-05-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「稳定」表象的背后，在微软内部对于 Windows 界面设计的探索一直没有停止。查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面对国产软件的 VVIP，我选择了退订]]></title>
-        <id>https://sspai.com/post/88734</id>
-        <link href="https://sspai.com/post/88734"/>
-        <updated>2024-05-13T03:31:29.000Z</updated>
-        <summary type="html"><![CDATA[作为国内用户，我很无奈。而当我站在多年付费用户的角度去评价时，一个词总结就是：吃相难看。查看全文]]></summary>
-        <author>
-            <name>洛世</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：苹果称仅极少开发者申请接入外部支付]]></title>
-        <id>https://sspai.com/post/88754</id>
-        <link href="https://sspai.com/post/88754"/>
-        <updated>2024-05-13T00:58:09.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事苹果称仅极少开发者申请接入外部支付据Bloomberg报道，根据近日在与Epic诉讼中提交的证据文件，苹果称目前还没有大型应用开发商申请使用AppStore的外部支付方式；美国区6. ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
