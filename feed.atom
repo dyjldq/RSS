@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T00:40:29.642Z</updated>
+    <updated>2024-06-13T00:40:03.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[捧读、Miraa 开发者周楷雯都装了啥？]]></title>
+        <id>https://sspai.com/prime/story/zhuanglesha-240612</id>
+        <link href="https://sspai.com/prime/story/zhuanglesha-240612"/>
+        <updated>2024-06-12T10:02:41.000Z</updated>
+        <summary type="html"><![CDATA[用户最终关心的还是所交付产品的综合体验，而不是下蛋的鸡有多么的特立独行。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>火箭君CC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 德国欧洲杯观赛指南]]></title>
+        <id>https://sspai.com/post/89490</id>
+        <link href="https://sspai.com/post/89490"/>
+        <updated>2024-06-12T09:17:15.000Z</updated>
+        <summary type="html"><![CDATA[属于球迷的夏日狂欢，即将开始。查看全文]]></summary>
+        <author>
+            <name>Copperfield</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80 后到 00 后，他们在用 PiPods 听……]]></title>
+        <id>https://sspai.com/post/78464</id>
+        <link href="https://sspai.com/post/78464"/>
+        <updated>2024-06-12T08:01:04.000Z</updated>
+        <summary type="html"><![CDATA[我们曾在去年发售了 PiPods 无线耳机，在设计之初就参考了 iPod click wheel 的设计元素，再加上耳机本身的音乐属性，是再合适不过的了。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 2024 年设计奖揭幕，这 14 款应用是今年的赢家]]></title>
+        <id>https://sspai.com/post/89465</id>
+        <link href="https://sspai.com/post/89465"/>
+        <updated>2024-06-12T07:17:02.000Z</updated>
+        <summary type="html"><![CDATA[6 月 7 日 Apple 公布了 2024 年 Apple 设计大奖的最终获奖者，让我们一起来看看这 14 款设计风格各异的应用和游戏吧。查看全文]]></summary>
+        <author>
+            <name>WATERS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clicks Keyboard：另一场全键盘的同床异梦]]></title>
+        <id>https://sspai.com/post/89493</id>
+        <link href="https://sspai.com/post/89493"/>
+        <updated>2024-06-12T03:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Clicks Keyboard 作为一款几乎没有先例的初创产品，它的整体体验还是及格的。查看全文]]></summary>
+        <author>
+            <name>PostMeridy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：佳能发布 RF-S 双鱼眼镜头、微软公布新的 Outlook 安全策略等]]></title>
+        <id>https://sspai.com/post/89519</id>
+        <link href="https://sspai.com/post/89519"/>
+        <updated>2024-06-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google 向 Pixel 设备推送功能更新。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意]]></title>
         <id>https://sspai.com/post/89505</id>
@@ -989,46 +1050,6 @@
         <link href="https://sspai.com/post/88806"/>
         <updated>2024-05-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apple Vision Pro 已通过 3C 认证，大宇有意出售《仙剑奇侠传》与《轩辕剑》版权。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 044 | 作者的新玩意、NuPhy 以及派友用车小心得]]></title>
-        <id>https://sspai.com/post/88798</id>
-        <link href="https://sspai.com/post/88798"/>
-        <updated>2024-05-14T09:23:02.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来一场有准备的国内自驾：招募队友、住行票务与物资准备]]></title>
-        <id>https://sspai.com/post/88656</id>
-        <link href="https://sspai.com/post/88656"/>
-        <updated>2024-05-14T07:01:19.000Z</updated>
-        <summary type="html"><![CDATA[我相信有部分人也会像我一样，在对目的地基本不了解的情况下，无从下手的情况。因此把我这几次规划的步骤做了个总结。查看全文]]></summary>
-        <author>
-            <name>kinh_l</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 用 iCloud Drive 实现 RIME 输入法配置跨平台同步]]></title>
-        <id>https://sspai.com/post/88355</id>
-        <link href="https://sspai.com/post/88355"/>
-        <updated>2024-05-14T03:27:01.000Z</updated>
-        <summary type="html"><![CDATA[用 iCloud Drive 解决跨平台的 RIME 输入法配置同步问题，省去在 Windows、macOS、iOS 三端反复配置的麻烦。查看全文]]></summary>
-        <author>
-            <name>青枫</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：vivo 发布 X100 Ultra 等，OpenAI 发布 GPT-4o 等]]></title>
-        <id>https://sspai.com/post/88779</id>
-        <link href="https://sspai.com/post/88779"/>
-        <updated>2024-05-14T01:10:55.000Z</updated>
-        <summary type="html"><![CDATA[腾讯 QQ / 微信上线地震预警功能，Apple Music 推出百大最佳专辑榜单等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
