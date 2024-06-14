@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89580",
+          "author": "少数派编辑部",
+          "description": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文",
+          "link": "https://sspai.com/post/89580",
+          "publishedOn": "2024-06-13T10:00:00.000Z",
+          "wordCount": 774,
+          "title": "新玩意 184｜少数派的编辑们最近买了啥？",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/13/article/718b1dfc-20bd-5ca0-dbee-54e1a047a50c.png"
+        },
+        {
+          "id": "https://sspai.com/post/89541",
+          "author": "宛潼",
+          "description": "除了 Apple 在发布会上提到新内容，还有那些有趣的细节是发布会上没有提到的呢？按照传统，少数派又来为大家整理了这些各路网友发现的「漏网之鱼」。查看全文",
+          "link": "https://sspai.com/post/89541",
+          "publishedOn": "2024-06-13T07:00:00.000Z",
+          "wordCount": 1074,
+          "title": "WWDC24 发布会上，Apple 没告诉你的那些事",
+          "imageUrl": "https://cdnfile.sspai.com/6/13/2024/article/c0e83f11-b977-4af3-4774-efec994de2c9.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/88722",
+          "author": "SUNTRISE",
+          "description": "这期我们回到现实，看看 Windows 于 Win95 后在界面设计上还面临了哪些亟需解决的现实问题。问题之一也是在上期文章中缺席的一块内容：Windows 的视觉风格。查看全文",
+          "link": "https://sspai.com/post/88722",
+          "publishedOn": "2024-06-13T03:33:50.000Z",
+          "wordCount": 1225,
+          "title": "Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/06/1c65dbd2c98287f1544103103a6b10fd.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89560",
+          "author": "少数派编辑部",
+          "description": "企业微信宣布严打外挂行为、派拉蒙与天空之舞放弃合并查看全文",
+          "link": "https://sspai.com/post/89560",
+          "publishedOn": "2024-06-13T01:03:12.000Z",
+          "wordCount": 750,
+          "title": "派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等",
+          "imageUrl": "https://cdnfile.sspai.com/13/06/2024/article/dacb1605-dbb7-a34e-4623-9ebfc631425f.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/zhuanglesha-240612",
           "author": "火箭君CC",
           "description": "用户最终关心的还是所交付产品的综合体验，而不是下蛋的鸡有多么的特立独行。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -984,46 +1024,6 @@
           "wordCount": 914,
           "title": "派早报：OpenAI 首席科学家 Ilya 宣布离职、乐道发布 L60 纯电中型 SUV 等",
           "imageUrl": "https://cdnfile.sspai.com/5/16/2024/article/2ded5fc4-b48c-b432-a7cb-71860c1b7463.png"
-        },
-        {
-          "id": "https://sspai.com/post/88797",
-          "author": "张奕源Nick",
-          "description": "「累耳朵」会增加佩戴时的疲劳感，白开水般的音质听上去也会无聊，但超长的续航和轻量化的小身板就是能让你把它一直戴在头上或者挂在脖上，随时想听就听。查看全文",
-          "link": "https://sspai.com/post/88797",
-          "publishedOn": "2024-05-15T09:30:00.000Z",
-          "wordCount": 880,
-          "title": "小巧轻便，随时聆听：Beats Solo 4 佩戴体验",
-          "imageUrl": "https://cdnfile.sspai.com/15/05/2024/article/209097e0-cac8-e411-e96c-e3b6bfc108b3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88807",
-          "author": "少数派编辑部",
-          "description": "如今，我们的数字生活越发依赖各种各样的在线服务：从相册、云盘，到记笔记、写博客，再到任务管理、密码存储……然而，在享受这些服务所带来便利的同时，我们也向背后的厂商让渡了越来越多的控制权和自主权。一旦遇 ...查看全文",
-          "link": "https://sspai.com/post/88807",
-          "publishedOn": "2024-05-15T07:26:55.000Z",
-          "wordCount": 742,
-          "title": "征文 | 找回数字生活主导权，聊聊你的自托管经验技巧",
-          "imageUrl": "https://cdnfile.sspai.com/5/15/2024/article/9b31dac0-adfe-c32f-651f-ed54f375694d.png"
-        },
-        {
-          "id": "https://sspai.com/post/88803",
-          "author": "别为馒头",
-          "description": "OpenAI 春季升级到底升级了哪些新东西？我帮你从头梳理了这次发布会。查看全文",
-          "link": "https://sspai.com/post/88803",
-          "publishedOn": "2024-05-15T03:30:27.000Z",
-          "wordCount": 1138,
-          "title": "OpenAI 春季更新：大戏到来前的半代升级",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/14/c33a7a7d3afd73d2fed34028a2564690.png"
-        },
-        {
-          "id": "https://sspai.com/post/88806",
-          "author": "少数派编辑部",
-          "description": "Apple Vision Pro 已通过 3C 认证，大宇有意出售《仙剑奇侠传》与《轩辕剑》版权。查看全文",
-          "link": "https://sspai.com/post/88806",
-          "publishedOn": "2024-05-15T00:00:00.000Z",
-          "wordCount": 774,
-          "title": "派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/15/article/300840df-a77c-6da9-e07b-b60c47ced451.png"
         }
       ]
     },

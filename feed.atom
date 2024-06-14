@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-13T00:40:03.718Z</updated>
+    <updated>2024-06-14T00:39:57.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩意 184｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/89580</id>
+        <link href="https://sspai.com/post/89580"/>
+        <updated>2024-06-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC24 发布会上，Apple 没告诉你的那些事]]></title>
+        <id>https://sspai.com/post/89541</id>
+        <link href="https://sspai.com/post/89541"/>
+        <updated>2024-06-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[除了 Apple 在发布会上提到新内容，还有那些有趣的细节是发布会上没有提到的呢？按照传统，少数派又来为大家整理了这些各路网友发现的「漏网之鱼」。查看全文]]></summary>
+        <author>
+            <name>宛潼</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 设计史 03 | Windows XP：摆脱机械，拥抱自然]]></title>
+        <id>https://sspai.com/post/88722</id>
+        <link href="https://sspai.com/post/88722"/>
+        <updated>2024-06-13T03:33:50.000Z</updated>
+        <summary type="html"><![CDATA[这期我们回到现实，看看 Windows 于 Win95 后在界面设计上还面临了哪些亟需解决的现实问题。问题之一也是在上期文章中缺席的一块内容：Windows 的视觉风格。查看全文]]></summary>
+        <author>
+            <name>SUNTRISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：HTC 推出 U24 Pro 手机、Android 测试防盗功能等]]></title>
+        <id>https://sspai.com/post/89560</id>
+        <link href="https://sspai.com/post/89560"/>
+        <updated>2024-06-13T01:03:12.000Z</updated>
+        <summary type="html"><![CDATA[企业微信宣布严打外挂行为、派拉蒙与天空之舞放弃合并查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[捧读、Miraa 开发者周楷雯都装了啥？]]></title>
         <id>https://sspai.com/prime/story/zhuanglesha-240612</id>
@@ -1010,46 +1050,6 @@
         <link href="https://sspai.com/post/88841"/>
         <updated>2024-05-16T01:04:15.000Z</updated>
         <summary type="html"><![CDATA[VMware 部分产品面向个人用户免费使用，字节跳动正式发布「豆包大模型」家族等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小巧轻便，随时聆听：Beats Solo 4 佩戴体验]]></title>
-        <id>https://sspai.com/post/88797</id>
-        <link href="https://sspai.com/post/88797"/>
-        <updated>2024-05-15T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「累耳朵」会增加佩戴时的疲劳感，白开水般的音质听上去也会无聊，但超长的续航和轻量化的小身板就是能让你把它一直戴在头上或者挂在脖上，随时想听就听。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[征文 | 找回数字生活主导权，聊聊你的自托管经验技巧]]></title>
-        <id>https://sspai.com/post/88807</id>
-        <link href="https://sspai.com/post/88807"/>
-        <updated>2024-05-15T07:26:55.000Z</updated>
-        <summary type="html"><![CDATA[如今，我们的数字生活越发依赖各种各样的在线服务：从相册、云盘，到记笔记、写博客，再到任务管理、密码存储……然而，在享受这些服务所带来便利的同时，我们也向背后的厂商让渡了越来越多的控制权和自主权。一旦遇 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 春季更新：大戏到来前的半代升级]]></title>
-        <id>https://sspai.com/post/88803</id>
-        <link href="https://sspai.com/post/88803"/>
-        <updated>2024-05-15T03:30:27.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 春季升级到底升级了哪些新东西？我帮你从头梳理了这次发布会。查看全文]]></summary>
-        <author>
-            <name>别为馒头</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Setapp 应用商店在欧洲上线、未知位置追踪器检测行业标准落地等]]></title>
-        <id>https://sspai.com/post/88806</id>
-        <link href="https://sspai.com/post/88806"/>
-        <updated>2024-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple Vision Pro 已通过 3C 认证，大宇有意出售《仙剑奇侠传》与《轩辕剑》版权。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
