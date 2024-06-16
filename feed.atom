@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-15T00:39:58.733Z</updated>
+    <updated>2024-06-16T00:44:10.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[劝老人体检难过高考？不如先了解一下他们需要的这些细节]]></title>
+        <id>https://sspai.com/post/89624</id>
+        <link href="https://sspai.com/post/89624"/>
+        <updated>2024-06-15T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[健康是头等大事，对年轻人如此，对老年人更是如此。在少数派，我们多次讨论过健康相关的话题，其中大多数以上班族为出发点，也集结了与健康内容相关的专题「少数派健康手册」。上班族除了关注自身，常常还要考虑家人 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相]]></title>
+        <id>https://sspai.com/post/89248</id>
+        <link href="https://sspai.com/post/89248"/>
+        <updated>2024-06-15T07:51:36.000Z</updated>
+        <summary type="html"><![CDATA[面对人生选择这个难题，如果尽是列出各种职业规划的步骤未免太糊弄，并且还会有充满爹味的说教感，所以我只能尽量用我有限的经历，给迷茫的朋友提供一些灵感和思路。查看全文]]></summary>
+        <author>
+            <name>猴猴说话</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC24 开幕式，该聊还是得聊两句]]></title>
+        <id>https://sspai.com/post/89581</id>
+        <link href="https://sspai.com/post/89581"/>
+        <updated>2024-06-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WWDC24 开幕式上，Apple 除了发布常规的系统更新之外还推出了盛传已久的 AI 能力，在本期节目中，我们就和两颗皮蛋的零号一起围绕 Apple 的各项新功能和新的 Apple Intelligence 展开探讨，聊聊我们对于本次发布会的哪些兴奋、失落和困惑。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
         <id>https://sspai.com/post/89614</id>
@@ -991,57 +1021,6 @@
         <summary type="html"><![CDATA[侧边栏的出现，让一些工具类和效率类的应用有了更好的展示方式和体验。本文为你推荐 6 款利用侧边栏 API 的浏览器扩展。查看全文]]></summary>
         <author>
             <name>huhuhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 硬件接连翻车，怪我们太严格了吗？]]></title>
-        <id>https://sspai.com/prime/story/ai-gadgets-hype</id>
-        <link href="https://sspai.com/prime/story/ai-gadgets-hype"/>
-        <updated>2024-05-17T10:03:34.000Z</updated>
-        <summary type="html"><![CDATA[在手机都没法继续「做小」的当下，AI 硬件偏偏假装未来已来。这并不是科技的力量，更多是商人的智慧。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/88877</id>
-        <link href="https://sspai.com/post/88877"/>
-        <updated>2024-05-17T09:30:38.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产]我的阿勒泰、[德剧]卡夫卡、[日剧]反英雄、[电影]特技狂人、[电影]Single8、[电影]厨房、[电影]阁楼的拉杰、[真人秀]克拉克森的农场第三季、[真人秀]女 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | 原生 Android「分身」来了：Android 15 Beta 2 亮点速览]]></title>
-        <id>https://sspai.com/post/88875</id>
-        <link href="https://sspai.com/post/88875"/>
-        <updated>2024-05-17T07:09:07.000Z</updated>
-        <summary type="html"><![CDATA[按照往年「I/O 大会给新版本核心功能定个调」的习惯，Android 系统下一个主要版本的主要新功能至此也算得上是板上钉钉。正是好好梳理一番的时候。查看全文]]></summary>
-        <author>
-            <name>克莱德</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具]]></title>
-        <id>https://sspai.com/post/88800</id>
-        <link href="https://sspai.com/post/88800"/>
-        <updated>2024-05-17T03:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
-        <author>
-            <name>米斯特软的</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：适马推出新款 24⁠–70 镜头、《沙丘》前传剧集公布预告片等]]></title>
-        <id>https://sspai.com/post/88862</id>
-        <link href="https://sspai.com/post/88862"/>
-        <updated>2024-05-17T00:23:49.000Z</updated>
-        <summary type="html"><![CDATA[微软推出 Proteus 无障碍 Xbox 游戏手柄、两款知名游戏模拟器上架 App Store查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
