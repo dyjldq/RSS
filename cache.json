@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89696",
+          "author": "吃派的水獭",
+          "description": "好拼、好看、好玩的积木插座。查看全文",
+          "link": "https://sspai.com/post/89696",
+          "publishedOn": "2024-06-18T09:57:42.000Z",
+          "wordCount": 728,
+          "title": "新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/15fdbc56-560f-390b-8b32-d1c59b45e9af.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89710",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
+          "link": "https://sspai.com/post/89710",
+          "publishedOn": "2024-06-18T09:15:04.000Z",
+          "wordCount": 892,
+          "title": "社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/f04bd3c7-0e69-d96e-4e5f-ddb0770a9b49.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89629",
+          "author": "化学心情下2",
+          "description": "抛开还没上线的 Apple Intelligence，macOS Sequoia 还有这些功能同样值得一试。查看全文",
+          "link": "https://sspai.com/post/89629",
+          "publishedOn": "2024-06-18T07:00:00.000Z",
+          "wordCount": 977,
+          "title": "具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/15/537a194b8899c757f2686c4ee02d855d.png"
+        },
+        {
+          "id": "https://sspai.com/post/88929",
+          "author": "37丫37",
+          "description": "我从一个两年实际房车用户的角度来聊聊房车上关于电的那些事。查看全文",
+          "link": "https://sspai.com/post/88929",
+          "publishedOn": "2024-06-18T03:32:10.000Z",
+          "wordCount": 719,
+          "title": "移动的家绕不开用电问题：聊聊房车上关于电的那些事",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/6a956056-8848-68a0-22b4-0a89091e9405.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89685",
+          "author": "少数派编辑部",
+          "description": "麦当劳停止 AI 点单测试，《死侍与金刚狼》国内定档等查看全文",
+          "link": "https://sspai.com/post/89685",
+          "publishedOn": "2024-06-18T00:15:00.000Z",
+          "wordCount": 812,
+          "title": "派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/17/article/80941857-3f05-3b9e-6b88-55a49343199c.png"
+        },
+        {
           "id": "https://sspai.com/post/79882",
           "author": "Microhoo",
           "description": "为即将到来的夏季带来一些夏日氛围。查看全文",
@@ -1004,46 +1054,6 @@
           "wordCount": 777,
           "title": "派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等",
           "imageUrl": "https://cdnfile.sspai.com/2024/5/21/article/381a49c0-8d64-b98e-e0f8-8731cd3bc62e.png"
-        },
-        {
-          "id": "https://sspai.com/post/88936",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/88936",
-          "publishedOn": "2024-05-20T09:47:15.000Z",
-          "wordCount": 919,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/20/article/1f450588-e7ea-976a-f0eb-f5f883511a8d.png"
-        },
-        {
-          "id": "https://sspai.com/post/88923",
-          "author": "Kostya",
-          "description": "即便追随 LLM 的脚步似乎并没有那么快，但 Apple 对人工智能的探索并没有暂停。查看全文",
-          "link": "https://sspai.com/post/88923",
-          "publishedOn": "2024-05-20T07:04:43.000Z",
-          "wordCount": 1061,
-          "title": "问就是 AI 过：盘点与「人工智能」相关的 Apple 软硬件",
-          "imageUrl": "https://cdnfile.sspai.com/5/20/2024/article/8bde05c3-ce63-b3a3-f550-192090827554.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88759",
-          "author": "爱拼安小匠",
-          "description": "对于饱受「不听话」的软件困扰，却又离不开那些软件的用户来说，Sandboxie-Plus 提供了一套理想的解决方案。查看全文",
-          "link": "https://sspai.com/post/88759",
-          "publishedOn": "2024-05-20T03:37:12.000Z",
-          "wordCount": 780,
-          "title": "App+1 | 用 Sandboxie-Plus，管住「不听话」的 Windows 软件",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/13/de628accfc516227600ef4960053f617.png"
-        },
-        {
-          "id": "https://sspai.com/post/88917",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事iOS第三方浏览器引擎只能由实际位于欧盟的设备调试据TheRegister报道，尽管苹果宣布将遵循欧盟《数字市场法》要求，允许iOS上的浏览器应用使用不同于SafariWebKit的 ...查看全文",
-          "link": "https://sspai.com/post/88917",
-          "publishedOn": "2024-05-20T00:57:26.000Z",
-          "wordCount": 873,
-          "title": "派早报：iOS 第三方浏览器引擎只能由实际位于欧盟的设备调试",
-          "imageUrl": "https://cdnfile.sspai.com/5/20/2024/article/8691b845-d10c-09a0-3e82-eb1e2e4a05c1.png"
         }
       ]
     },
@@ -1052,6 +1062,46 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://x.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1803065287488553187",
+          "author": "ahhhhfs",
+          "description": "一个小站提供的公益服务 \n自己翻翻 且用且珍惜🙊\n👉https://www.ahhhhfs.com/59311/",
+          "link": "https://x.com/abskoop/status/1803065287488553187",
+          "publishedOn": "2024-06-18T14:00:38.000Z",
+          "wordCount": 6,
+          "title": "一个小站提供的公益服务 自己翻翻 且用且珍惜🙊 👉https://www.ahhhhfs.com/59311/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1803041615432606150",
+          "author": "ahhhhfs",
+          "description": "某Docker核心技术视频教程\n👉https://www.ahhhhfs.com/59295/",
+          "link": "https://x.com/abskoop/status/1803041615432606150",
+          "publishedOn": "2024-06-18T12:26:34.000Z",
+          "wordCount": 6,
+          "title": "某Docker核心技术视频教程 👉https://www.ahhhhfs.com/59295/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1802998185822147003",
+          "author": "ahhhhfs",
+          "description": "AI文本和图像生成高质量视频：Dream Machine\n由 Luma Labs 开发的 AI 模型\n可以快速将文本和图像制作成高质量、逼真的视频\n👉https://www.ahhhhfs.com/59286/",
+          "link": "https://x.com/abskoop/status/1802998185822147003",
+          "publishedOn": "2024-06-18T09:34:00.000Z",
+          "wordCount": 6,
+          "title": "AI文本和图像生成高质量视频：Dream Machine 由 Luma Labs 开发的 AI 模型 可以快速将文本和图像制作成高质量、逼真的视频 👉https://www.ahhhhfs.com/59286/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1802965899584184703",
+          "author": "ahhhhfs",
+          "description": "某摄影师 IP 营 Pro 版 课程\n👉https://www.ahhhhfs.com/59291/",
+          "link": "https://x.com/abskoop/status/1802965899584184703",
+          "publishedOn": "2024-06-18T07:25:42.000Z",
+          "wordCount": 6,
+          "title": "某摄影师 IP 营 Pro 版 课程 👉https://www.ahhhhfs.com/59291/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1802740236033638508",
           "author": "ahhhhfs",
@@ -1310,6 +1360,16 @@
           "publishedOn": "2024-06-14T13:06:00.000Z",
           "wordCount": 6,
           "title": "AI科技领域高质量信息源：Awesome AISourceHub 聚合全网优质信息源，收集一些有观点、有干货、 一手的AI 科技资讯资源 避免信息差和信息茧房 👉https://www.ah...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1803129658952802381",
+          "author": "ahhhhfs",
+          "description": "RT ahhhhfs\n某 砂 舞 学习视频：HT 4K\n👉https://www.ahhhhfs.com/58416/",
+          "link": "https://x.com/abskoop/status/1803129658952802381",
+          "publishedOn": "2024-05-26T14:44:25.000Z",
+          "wordCount": 6,
+          "title": "RT ahhhhfs: 某 砂 舞 学习视频：HT 4K 👉https://www.ahhhhfs.com/58416/",
           "imageUrl": null
         }
       ]
