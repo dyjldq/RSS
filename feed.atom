@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-19T00:40:45.544Z</updated>
+    <updated>2024-06-20T00:39:34.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple Vision Pro 国区 App Store 已上线、腾讯成为 2024 巴黎奥运会特许转播商等]]></title>
+        <id>https://sspai.com/post/89752</id>
+        <link href="https://sspai.com/post/89752"/>
+        <updated>2024-06-19T23:23:19.000Z</updated>
+        <summary type="html"><![CDATA[罗技推出 Keys-To-Go 2 键盘配件、Nothing 子品牌 CMF 将发布新品等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新疆的十天，在伊犁遇见人生最美景色]]></title>
+        <id>https://sspai.com/post/88904</id>
+        <link href="https://sspai.com/post/88904"/>
+        <updated>2024-06-19T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文]]></summary>
+        <author>
+            <name>来个板烧鸡腿堡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | 这或许才是完全体的 Vision Pro，VisionOS 2 中值得你关注的新功能]]></title>
+        <id>https://sspai.com/post/89704</id>
+        <link href="https://sspai.com/post/89704"/>
+        <updated>2024-06-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[visionOS 2 的表现更像是 visionOS 1 的完全体，在优化细节的同时还引入了这些新功能。查看全文]]></summary>
+        <author>
+            <name>MMMMMMarcus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果生命可以描出画面，我们该用什么方式记录]]></title>
+        <id>https://sspai.com/post/89678</id>
+        <link href="https://sspai.com/post/89678"/>
+        <updated>2024-06-19T06:41:18.000Z</updated>
+        <summary type="html"><![CDATA[记录什么？某天我和朋友在野外徒步，他冷不丁的问了我一个很哲学的问题。你们这个行业的人整天在互联网和信息数据打交道，会不会觉得以前的很多人没了就没了，存在于记忆里但留下记忆的人也会慢慢没了最后就永远消失 ...查看全文]]></summary>
+        <author>
+            <name>Microhoo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沪漂七年、搬家七次，我的选房思路与租房好物分享]]></title>
+        <id>https://sspai.com/post/89127</id>
+        <link href="https://sspai.com/post/89127"/>
+        <updated>2024-06-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>做点小事儿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Meta 发布 Threads API、美国司法部就订阅续费问题起诉 Adobe 等]]></title>
+        <id>https://sspai.com/post/89720</id>
+        <link href="https://sspai.com/post/89720"/>
+        <updated>2024-06-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[罗技推出面向 Meta Quest 的 MX Ink 触控笔，Apple 将停用 Apple Pay Later 服务等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个小站提供的公益服务 自己翻翻 且用且珍惜🙊 👉https://www.ahhhhfs.com/59311/]]></title>
         <id>https://twitter.com/abskoop/status/1803065287488553187</id>
@@ -1380,56 +1440,6 @@
         <link href="https://sspai.com/post/88989"/>
         <updated>2024-05-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Adobe Lightroom 上线生成式 AI 功能，小鹏汽车举办 AI Day 活动。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 045 | 广告争议、自建NAS以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/88975</id>
-        <link href="https://sspai.com/post/88975"/>
-        <updated>2024-05-21T09:28:15.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无套路、很简单，少数派周边商店 618 促销开启]]></title>
-        <id>https://sspai.com/post/88932</id>
-        <link href="https://sspai.com/post/88932"/>
-        <updated>2024-05-21T07:59:07.000Z</updated>
-        <summary type="html"><![CDATA[⏰促销时间：即日起-5/2823:59:59🏷️活动优惠：活动商品立减15%你或许已经听说了，今年主流电商平台纷纷宣布全面取消预售制度，直接开卖现货，相比起之前漫长的等待、绞尽脑汁的凑单还是方便了不少 ...查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雨和洪涝的季节，这些技巧助你从容自保]]></title>
-        <id>https://sspai.com/post/68024</id>
-        <link href="https://sspai.com/post/68024"/>
-        <updated>2024-05-21T07:07:23.000Z</updated>
-        <summary type="html"><![CDATA[面对暴雨、内涝等自然灾害，你应该做什么准备？有人溺水时，该如何正确救援？这篇文章帮你掌握一些必要的知识，面对危情不再慌乱。查看全文]]></summary>
-        <author>
-            <name>刀客特Leslie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自力更生 | 你可能不需要一个 NAS？从零开始搭建自托管的影音服务器]]></title>
-        <id>https://sspai.com/post/88861</id>
-        <link href="https://sspai.com/post/88861"/>
-        <updated>2024-05-21T03:19:13.000Z</updated>
-        <summary type="html"><![CDATA[你可能面临着平台没有你想看的那一部电影、电视剧、动画，也可能是你追求更高质量的影片，或者你觉得这些平台或者应用过于臃肿……试试搭建一个专属于你自己的影音服务器吧！查看全文]]></summary>
-        <author>
-            <name>孤独熊熊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：英国研究所发布 LLM 安全报告，柳青升任滴滴永久合伙人等]]></title>
-        <id>https://sspai.com/post/88954</id>
-        <link href="https://sspai.com/post/88954"/>
-        <updated>2024-05-21T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[闲鱼禁止发布数字藏品相关商品，iFixit 发布新 iPad Pro 拆解报告等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
