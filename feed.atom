@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-23T00:43:25.810Z</updated>
+    <updated>2024-06-24T00:42:03.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
@@ -1762,16 +1762,6 @@
         <summary type="html"><![CDATA[这回我们来聊聊去哪里找歌来听——别再说华语音乐后继无人了！查看全文]]></summary>
         <author>
             <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用计算机科学的方法优化个人任务管理]]></title>
-        <id>https://sspai.com/post/87071</id>
-        <link href="https://sspai.com/post/87071"/>
-        <updated>2024-05-25T09:36:42.000Z</updated>
-        <summary type="html"><![CDATA[计算机科学是一门人造的科学，很多理论脱胎于人类社会，反过来，被我用于自己。在这个过程中，我完成了任务，但是更重要的是，改变了自己，以在未来能够优雅地登上「草台班子」。查看全文]]></summary>
-        <author>
-            <name>Jiaozi</name>
         </author>
     </entry>
     <entry>
