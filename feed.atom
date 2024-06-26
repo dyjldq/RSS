@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-25T00:40:15.054Z</updated>
+    <updated>2024-06-26T00:40:19.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重燃了我折腾的心：特洛克积木插座小评]]></title>
+        <id>https://sspai.com/post/89830</id>
+        <link href="https://sspai.com/post/89830"/>
+        <updated>2024-06-25T09:00:46.000Z</updated>
+        <summary type="html"><![CDATA[一种插座，带来的 N 种玩法查看全文]]></summary>
+        <author>
+            <name>玩具怪咖毛子哥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意]]></title>
+        <id>https://sspai.com/post/89919</id>
+        <link href="https://sspai.com/post/89919"/>
+        <updated>2024-06-25T08:48:10.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅]]></title>
+        <id>https://sspai.com/post/89105</id>
+        <link href="https://sspai.com/post/89105"/>
+        <updated>2024-06-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文]]></summary>
+        <author>
+            <name>SIMON_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自力更生 | 自托管前，你考虑过网络安全吗？]]></title>
+        <id>https://sspai.com/post/89837</id>
+        <link href="https://sspai.com/post/89837"/>
+        <updated>2024-06-25T03:21:17.000Z</updated>
+        <summary type="html"><![CDATA[敬畏网络世界，敬畏安全二字。查看全文]]></summary>
+        <author>
+            <name>scarleast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等]]></title>
+        <id>https://sspai.com/post/89894</id>
+        <link href="https://sspai.com/post/89894"/>
+        <updated>2024-06-25T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[工信部：今年 5 月家庭户均带宽可达 481Mbps，LG 宣布首款 Tandem OLED 笔记本屏幕量产。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/89889</id>
@@ -1728,56 +1778,6 @@
         <link href="https://sspai.com/post/89139"/>
         <updated>2024-05-28T00:05:00.000Z</updated>
         <summary type="html"><![CDATA[工信部通报侵害用户权益 App 及 SDK 共 50 款，抖音实行热点内容核实机制等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/89134</id>
-        <link href="https://sspai.com/post/89134"/>
-        <updated>2024-05-27T10:25:34.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TA 有好物 | 夏天到来快乐吃冰，来试试一拉就出的「懒人冰格」]]></title>
-        <id>https://sspai.com/post/67455</id>
-        <link href="https://sspai.com/post/67455"/>
-        <updated>2024-05-27T08:01:03.000Z</updated>
-        <summary type="html"><![CDATA[夏天吃冰，不要太爽，ICEBREAKER POP 让你一次吃个够。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自力更生 | 守护一方赛博净土，我的自建服务思路分享]]></title>
-        <id>https://sspai.com/post/88959</id>
-        <link href="https://sspai.com/post/88959"/>
-        <updated>2024-05-27T06:58:55.000Z</updated>
-        <summary type="html"><![CDATA[本篇文章主要分享了以下我的自建服务基本的思路，包括安全配置、部署思路、备份与加密等等。查看全文]]></summary>
-        <author>
-            <name>so1ar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你见过那只四处「威逼利诱」的猫头鹰吗？微小成就感如何成就多邻国]]></title>
-        <id>https://sspai.com/post/89013</id>
-        <link href="https://sspai.com/post/89013"/>
-        <updated>2024-05-27T03:30:26.000Z</updated>
-        <summary type="html"><![CDATA[微小成就感的不断满足才可以训练出足以支撑我们完成更大的事业的心态。多邻国用最简单且积极的方式实现了这一点。查看全文]]></summary>
-        <author>
-            <name>39Joyy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：ICQ 将于 6 月关闭]]></title>
-        <id>https://sspai.com/post/89109</id>
-        <link href="https://sspai.com/post/89109"/>
-        <updated>2024-05-27T00:58:21.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事ICQ将于6月关闭5月24日，经典聊天软件ICQ在官网发布公告称，该软件将在6月26日停服，并敦促用户转到其他聊天软件。早些时候，其应用已经从iOS和GooglePlay商店下架。早 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
