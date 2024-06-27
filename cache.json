@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/ppc-history-11",
+          "author": "MIG",
+          "description": "随着 IBM 的淡出，PowerPC 的颓势已经开始显现，AIM 联盟内部的危机逐渐暴露。苹果是时候「未雨绸缪」了。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/ppc-history-11",
+          "publishedOn": "2024-06-26T09:38:05.000Z",
+          "wordCount": 1364,
+          "title": "明讽强敌，暗渡陈仓：世纪之交的苹果如何悄悄转向英特尔",
+          "imageUrl": "https://cdnfile.sspai.com/6/26/2024/article/0587e877-d75d-b971-c2df-55d43879eb01.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89282",
+          "author": "爱拼安小匠",
+          "description": "在 2024 年，你依然可以通过刷类原生固件，让旧设备继续发挥价值甚至成为你的第二台主力机。查看全文",
+          "link": "https://sspai.com/post/89282",
+          "publishedOn": "2024-06-26T09:31:15.000Z",
+          "wordCount": 1119,
+          "title": "做好优化、选好软件：我是如何改善 Android 类原生 ROM 使用体验的",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/26/article/f835d64c-bc1d-982d-304d-aedfc7947f81.png"
+        },
+        {
+          "id": "https://sspai.com/post/89162",
+          "author": "Jiaozi",
+          "description": "训练模型的时候「GPU 越多，GPU 越少」是怎么一回事？让我们来一起看看为什么 GPU 不是训练模型时唯一的瓶颈。查看全文",
+          "link": "https://sspai.com/post/89162",
+          "publishedOn": "2024-06-26T07:00:00.000Z",
+          "wordCount": 861,
+          "title": "除了显卡，玩转大模型的门槛还在哪？",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/25/db302348cc491f10827548479cd14557.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89523",
+          "author": "Sholmes",
+          "description": "编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文",
+          "link": "https://sspai.com/post/89523",
+          "publishedOn": "2024-06-26T03:26:29.000Z",
+          "wordCount": 762,
+          "title": "在上海，当一天书店店长，参加一次电影节",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/12/6c1868906b76753c5d1fe5e3bbd0c03d.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89935",
+          "author": "少数派编辑部",
+          "description": "OpenAI 开始打击不受支持地区的 API 使用，Google 开始打击 YouTube 跨区订阅等。查看全文",
+          "link": "https://sspai.com/post/89935",
+          "publishedOn": "2024-06-26T00:00:00.000Z",
+          "wordCount": 882,
+          "title": "派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/26/article/bf1d074b-a219-5496-a386-9801849744c5.png"
+        },
+        {
           "id": "https://sspai.com/post/89830",
           "author": "玩具怪咖毛子哥",
           "description": "一种插座，带来的 N 种玩法查看全文",
@@ -994,46 +1044,6 @@
           "wordCount": 812,
           "title": "派早报：腾讯应用宝与 Microsoft Store 达成合作等",
           "imageUrl": "https://cdnfile.sspai.com/2024/5/28/article/bd2a30c3-d18b-9fab-43d4-103f1f4852bc.png"
-        },
-        {
-          "id": "https://sspai.com/post/89150",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/89150",
-          "publishedOn": "2024-05-28T08:47:56.000Z",
-          "wordCount": 935,
-          "title": "社区速递 046 | 龙珠大冒险、作者的新玩意以及派友在用的导航",
-          "imageUrl": "https://cdnfile.sspai.com/28/5/2024/article/c2b9144c-514e-8b97-ce73-043c41febb90.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89067",
-          "author": "Ivan",
-          "description": "去年10月份的时候，我半跑半走完成了人生第一场全程马拉松。官方短信发我的成绩是5小时36分钟。在跑者团体里，这不是个很体面的成绩，但我知道，那时我对自己的要求，就只有在关门时间内跑完拿到奖牌而已，所以 ...查看全文",
-          "link": "https://sspai.com/post/89067",
-          "publishedOn": "2024-05-28T07:01:13.000Z",
-          "wordCount": 724,
-          "title": "从零到终点线：我如何跑完人生第一场马拉松",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/24/08dc133fd1e0233a02553b8931ddf7c4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89084",
-          "author": "设计防潮箱",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/89084",
-          "publishedOn": "2024-05-28T04:31:16.000Z",
-          "wordCount": 841,
-          "title": "为了缩短批量处理工作时长，我做了一款 Figma 插件",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/25/abbaf1b8242ff93251a08270f46a6e8f.png"
-        },
-        {
-          "id": "https://sspai.com/post/89139",
-          "author": "少数派编辑部",
-          "description": "工信部通报侵害用户权益 App 及 SDK 共 50 款，抖音实行热点内容核实机制等查看全文",
-          "link": "https://sspai.com/post/89139",
-          "publishedOn": "2024-05-28T00:05:00.000Z",
-          "wordCount": 955,
-          "title": "派早报：荣耀发布 200 系列新机，夏普小米签订专利交叉许可协议等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/27/article/d85885ca-b43b-15fa-4fe7-fe7984ec8e74.png"
         }
       ]
     },
