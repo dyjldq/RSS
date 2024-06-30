@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-29T00:39:59.272Z</updated>
+    <updated>2024-06-30T00:44:39.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题]]></title>
+        <id>https://sspai.com/post/89784</id>
+        <link href="https://sspai.com/post/89784"/>
+        <updated>2024-06-29T03:43:12.000Z</updated>
+        <summary type="html"><![CDATA[编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，入围作品均可获得稿酬、Zeabur订阅、少数派PRIME会员等奖励。了 ...查看全文]]></summary>
+        <author>
+            <name>艾佛利山的杨博士</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某人情世故走向成功课程 👉http://ahhhhfs.com/58062/]]></title>
         <id>https://twitter.com/abskoop/status/1806800639223288015</id>
@@ -1992,57 +2002,6 @@
         <summary type="html"><![CDATA[618这种大促，对于一些价格相对较高又要日常使用的东西来说，绝对是囤货的好时节，护肤品就属于其中的一种。曾经我都是本着囤着万一过期的原则，基本上随用随买，结果就是都只剩最后一滴了才发现自己啥也没有了。 ...查看全文]]></summary>
         <author>
             <name>程天冲</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的一大篓作品]]></title>
-        <id>https://sspai.com/post/89259</id>
-        <link href="https://sspai.com/post/89259"/>
-        <updated>2024-05-31T10:19:41.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]朱同在三年级丢失了超能力、[电影]窗边的小豆豆、[电影]哆啦A梦：大雄的地球交响乐、[电影]绝密配方、[特摄]铁甲小宝重制版、[韩剧]毕业、[韩剧]联结、[美剧]布 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel]]></title>
-        <id>https://sspai.com/prime/story/sv-anecdotes-09</id>
-        <link href="https://sspai.com/prime/story/sv-anecdotes-09"/>
-        <updated>2024-05-31T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[进入 64 位时代，尽管 AMD 产品性能领先，但 Intel 凭借垄断地位和手腕维持了市场主导权。双方的角力还将继续。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Kiririn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[错过一次再等半年，618 主流相机选购不完全攻略]]></title>
-        <id>https://sspai.com/post/89245</id>
-        <link href="https://sspai.com/post/89245"/>
-        <updated>2024-05-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[佳能敷衍，富士不屑，松下心有余而力不足，索尼稳坐钓鱼台，尼康清仓大甩卖。这个 618，你准备选哪台？查看全文]]></summary>
-        <author>
-            <name>食肉库玛老师傅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 AI 内容总结使用心得：用什么、何时用与怎么用]]></title>
-        <id>https://sspai.com/post/88530</id>
-        <link href="https://sspai.com/post/88530"/>
-        <updated>2024-05-31T03:39:51.000Z</updated>
-        <summary type="html"><![CDATA[本文记录作者在阅读文章书籍、观看音视频内容时，利用 AI 进行摘要总结的方法与思考，包括对一些 AI 总结产品的体验感受，以及自己手动创建 AI 总结工具的过程。查看全文]]></summary>
-        <author>
-            <name>YiM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Fitbit 发布 Ace LTE 儿童手表等]]></title>
-        <id>https://sspai.com/post/89242</id>
-        <link href="https://sspai.com/post/89242"/>
-        <updated>2024-05-31T00:55:20.000Z</updated>
-        <summary type="html"><![CDATA[免费用户可使用 ChatGPT 大多数 GPT-4o 功能，腾讯正式发布 AI 助手 App 「腾讯元宝」等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

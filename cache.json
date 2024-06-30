@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/89784",
+          "author": "艾佛利山的杨博士",
+          "description": "编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，入围作品均可获得稿酬、Zeabur订阅、少数派PRIME会员等奖励。了 ...查看全文",
+          "link": "https://sspai.com/post/89784",
+          "publishedOn": "2024-06-29T03:43:12.000Z",
+          "wordCount": 1044,
+          "title": "自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/21/b091f7b5f8291b3e1a93f2196634ea4d.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/apple-intelligence-the-making-of",
           "author": "广陵止息",
           "description": "挖掘 Apple Intelligence 公开文档中值得一聊的细节，帮你对这个 Apple 今年最重视的领域有更深入的认识。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1004,56 +1014,6 @@
           "wordCount": 883,
           "title": "一年买两次，一次用半年：618 护肤购物不完全指南",
           "imageUrl": "https://cdnfile.sspai.com/2024/5/30/article/af757a8b-17f2-8cc3-2f9e-7ff900ebc8b7.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89259",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]朱同在三年级丢失了超能力、[电影]窗边的小豆豆、[电影]哆啦A梦：大雄的地球交响乐、[电影]绝密配方、[特摄]铁甲小宝重制版、[韩剧]毕业、[韩剧]联结、[美剧]布 ...查看全文",
-          "link": "https://sspai.com/post/89259",
-          "publishedOn": "2024-05-31T10:19:41.000Z",
-          "wordCount": 993,
-          "title": "本周看什么 | 最近值得一看的一大篓作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/31/article/76abd3f8-16b2-f48f-fbbb-81fb9b31b4b5.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/sv-anecdotes-09",
-          "author": "Kiririn",
-          "description": "进入 64 位时代，尽管 AMD 产品性能领先，但 Intel 凭借垄断地位和手腕维持了市场主导权。双方的角力还将继续。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/sv-anecdotes-09",
-          "publishedOn": "2024-05-31T10:01:44.000Z",
-          "wordCount": 1178,
-          "title": "追赶有道，Intel 效法 AMD；竞争无门，AMD 再诉 Intel",
-          "imageUrl": "https://cdnfile.sspai.com/5/31/2024/article/70e96293-5077-e879-14e1-2e0c96f537c2.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89245",
-          "author": "食肉库玛老师傅",
-          "description": "佳能敷衍，富士不屑，松下心有余而力不足，索尼稳坐钓鱼台，尼康清仓大甩卖。这个 618，你准备选哪台？查看全文",
-          "link": "https://sspai.com/post/89245",
-          "publishedOn": "2024-05-31T07:00:00.000Z",
-          "wordCount": 1015,
-          "title": "错过一次再等半年，618 主流相机选购不完全攻略",
-          "imageUrl": "https://cdnfile.sspai.com/31/05/2024/article/feaa00e3-8e55-0395-29cd-7c2d0b9bd4ff.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/88530",
-          "author": "YiM",
-          "description": "本文记录作者在阅读文章书籍、观看音视频内容时，利用 AI 进行摘要总结的方法与思考，包括对一些 AI 总结产品的体验感受，以及自己手动创建 AI 总结工具的过程。查看全文",
-          "link": "https://sspai.com/post/88530",
-          "publishedOn": "2024-05-31T03:39:51.000Z",
-          "wordCount": 834,
-          "title": "我的 AI 内容总结使用心得：用什么、何时用与怎么用",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/31/article/d18d8d59-8757-aa0c-1b7f-a3df276c9498.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89242",
-          "author": "少数派编辑部",
-          "description": "免费用户可使用 ChatGPT 大多数 GPT-4o 功能，腾讯正式发布 AI 助手 App 「腾讯元宝」等。查看全文",
-          "link": "https://sspai.com/post/89242",
-          "publishedOn": "2024-05-31T00:55:20.000Z",
-          "wordCount": 1046,
-          "title": "派早报：Fitbit 发布 Ace LTE 儿童手表等",
-          "imageUrl": "https://cdnfile.sspai.com/5/31/2024/article/d66bdfea-f296-5ead-73ba-5afdcf8ab449.png"
         }
       ]
     },
