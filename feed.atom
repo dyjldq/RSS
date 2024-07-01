@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-30T00:44:39.873Z</updated>
+    <updated>2024-07-01T00:46:49.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一年过半，给去年值得一听的专辑查缺补漏]]></title>
+        <id>https://sspai.com/post/90066</id>
+        <link href="https://sspai.com/post/90066"/>
+        <updated>2024-06-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[周末了，一起听歌吧。这次我们看看你去年有什么好专辑没听。查看全文]]></summary>
+        <author>
+            <name>北鸮</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navidrome：自建音乐库新选择]]></title>
+        <id>https://sspai.com/post/89420</id>
+        <link href="https://sspai.com/post/89420"/>
+        <updated>2024-06-30T03:01:41.000Z</updated>
+        <summary type="html"><![CDATA[开源的音乐服务器软件「Navidrome」配合国人开发的音乐播放器程序「音流」，搭建了属于我的音乐库。查看全文]]></summary>
+        <author>
+            <name>mikusa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题]]></title>
         <id>https://sspai.com/post/89784</id>
@@ -1992,16 +2012,6 @@
 身体稳定性的关键在于不同肌肉间的精细协调工作。以肩关节为例，在维持手臂举起的姿势时，肩部的前侧和后侧肌肉必须…]]></summary>
         <author>
             <name>举铁的马里奥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年买两次，一次用半年：618 护肤购物不完全指南]]></title>
-        <id>https://sspai.com/post/89219</id>
-        <link href="https://sspai.com/post/89219"/>
-        <updated>2024-06-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[618这种大促，对于一些价格相对较高又要日常使用的东西来说，绝对是囤货的好时节，护肤品就属于其中的一种。曾经我都是本着囤着万一过期的原则，基本上随用随买，结果就是都只剩最后一滴了才发现自己啥也没有了。 ...查看全文]]></summary>
-        <author>
-            <name>程天冲</name>
         </author>
     </entry>
     <entry>

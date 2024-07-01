@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90066",
+          "author": "北鸮",
+          "description": "周末了，一起听歌吧。这次我们看看你去年有什么好专辑没听。查看全文",
+          "link": "https://sspai.com/post/90066",
+          "publishedOn": "2024-06-30T07:00:00.000Z",
+          "wordCount": 727,
+          "title": "一年过半，给去年值得一听的专辑查缺补漏",
+          "imageUrl": "https://cdnfile.sspai.com/2024/6/30/article/0183b4d7-1c68-a482-7d41-0e8e9f1cfcfa.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89420",
+          "author": "mikusa",
+          "description": "开源的音乐服务器软件「Navidrome」配合国人开发的音乐播放器程序「音流」，搭建了属于我的音乐库。查看全文",
+          "link": "https://sspai.com/post/89420",
+          "publishedOn": "2024-06-30T03:01:41.000Z",
+          "wordCount": 883,
+          "title": "Navidrome：自建音乐库新选择",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/06/df06e9dfb8ed806ce09804aa489c0896.png"
+        },
+        {
           "id": "https://sspai.com/post/89784",
           "author": "艾佛利山的杨博士",
           "description": "编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，入围作品均可获得稿酬、Zeabur订阅、少数派PRIME会员等奖励。了 ...查看全文",
@@ -1004,16 +1024,6 @@
           "wordCount": 1098,
           "title": "陌生而有趣的训练伙伴——波速球和 ViPR 炮筒",
           "imageUrl": "https://cdnfile.sspai.com/4/8/2024/article/654ba870-b90d-011a-6aea-e4ce4933866e.png"
-        },
-        {
-          "id": "https://sspai.com/post/89219",
-          "author": "程天冲",
-          "description": "618这种大促，对于一些价格相对较高又要日常使用的东西来说，绝对是囤货的好时节，护肤品就属于其中的一种。曾经我都是本着囤着万一过期的原则，基本上随用随买，结果就是都只剩最后一滴了才发现自己啥也没有了。 ...查看全文",
-          "link": "https://sspai.com/post/89219",
-          "publishedOn": "2024-06-01T07:00:00.000Z",
-          "wordCount": 883,
-          "title": "一年买两次，一次用半年：618 护肤购物不完全指南",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/30/article/af757a8b-17f2-8cc3-2f9e-7ff900ebc8b7.jpeg"
         }
       ]
     },
