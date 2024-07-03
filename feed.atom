@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-02T00:40:55.521Z</updated>
+    <updated>2024-07-03T00:40:50.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕]]></title>
+        <id>https://sspai.com/post/90160</id>
+        <link href="https://sspai.com/post/90160"/>
+        <updated>2024-07-02T11:13:26.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评彷徨 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京 LiveHouse 地图：那个塑造了我音乐喜好的地方]]></title>
+        <id>https://sspai.com/post/90121</id>
+        <link href="https://sspai.com/post/90121"/>
+        <updated>2024-07-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写在前面即将离开北京前，决定写点什么记录一下自己曾经热爱的北京live现场。当初选择毕业后来北京工作其中有一个原因就是觉得北京演出多，音乐氛围好。但经历过疫情，加上最近这两年自己的亲身经历，对北京的演 ...查看全文]]></summary>
+        <author>
+            <name>Wonz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从配置到优化，搭建称手的 RIME 雾凇拼音输入方案]]></title>
+        <id>https://sspai.com/post/89281</id>
+        <link href="https://sspai.com/post/89281"/>
+        <updated>2024-07-02T03:37:08.000Z</updated>
+        <summary type="html"><![CDATA[为 RIME 量身打造的雾凇拼音，是目前维护最积极、功能最强大的 RIME 输入方案，拥有精心打磨的大容量词库、开箱即用的中文输入体验。查看全文]]></summary>
+        <author>
+            <name>爱拼安小匠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等]]></title>
+        <id>https://sspai.com/post/90124</id>
+        <link href="https://sspai.com/post/90124"/>
+        <updated>2024-07-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone X、AirPods 一代与 HomePod 被列为过时产品，Meta 停止支持初代 Meta Quest VR 头显等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[某月销 XX 万的直播带货必修课 👉https://www.ahhhhfs.com/59813/]]></title>
         <id>https://twitter.com/abskoop/status/1807815427692933376</id>
@@ -2211,46 +2251,6 @@
         <link href="https://sspai.com/post/89336"/>
         <updated>2024-06-04T00:50:51.000Z</updated>
         <summary type="html"><![CDATA[SpaceX 计划今年秋季推出蜂窝直连服务、戴森发售 360 Vis Nav 智能吸尘机器人等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/89329</id>
-        <link href="https://sspai.com/post/89329"/>
-        <updated>2024-06-03T09:53:49.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境]]></title>
-        <id>https://sspai.com/post/89299</id>
-        <link href="https://sspai.com/post/89299"/>
-        <updated>2024-06-03T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[透过卡夫卡的作品，去看看这位死前无名、死后封神的大师的世界。查看全文]]></summary>
-        <author>
-            <name>潘誉晗</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自力更生 | 基于 Readeck 搭建个人稍后读与书签服务]]></title>
-        <id>https://sspai.com/post/89289</id>
-        <link href="https://sspai.com/post/89289"/>
-        <updated>2024-06-03T03:29:26.000Z</updated>
-        <summary type="html"><![CDATA[经过一段时间的试用，我正式将自部署的 Readeck 作为我的主要稍后读服务，并且实现了我接触的场景下全平台的发送网址/阅读解决方案。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Napster 推出 25 周年]]></title>
-        <id>https://sspai.com/post/89306</id>
-        <link href="https://sspai.com/post/89306"/>
-        <updated>2024-06-03T00:55:29.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事音乐文件共享平台Napster推出25周年6月1日，在文件共享和数字音乐历史上有重要地位的软件Napster推出满25周年。1999年，17岁的ShawnFanning在其IRC聊天 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>

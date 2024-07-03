@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90160",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评彷徨 ...查看全文",
+          "link": "https://sspai.com/post/90160",
+          "publishedOn": "2024-07-02T11:13:26.000Z",
+          "wordCount": 965,
+          "title": "社区速递 051 | 一周热评、AirTag 平替与派友的主屏幕",
+          "imageUrl": "https://cdnfile.sspai.com/2/7/2024/article/d537a8f2-ee97-b025-7360-66681c58b08c.gif"
+        },
+        {
+          "id": "https://sspai.com/post/90121",
+          "author": "Wonz",
+          "description": "写在前面即将离开北京前，决定写点什么记录一下自己曾经热爱的北京live现场。当初选择毕业后来北京工作其中有一个原因就是觉得北京演出多，音乐氛围好。但经历过疫情，加上最近这两年自己的亲身经历，对北京的演 ...查看全文",
+          "link": "https://sspai.com/post/90121",
+          "publishedOn": "2024-07-02T07:00:00.000Z",
+          "wordCount": 971,
+          "title": "北京 LiveHouse 地图：那个塑造了我音乐喜好的地方",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/01/62f069775d7ae220458f74a1b3786c43.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89281",
+          "author": "爱拼安小匠",
+          "description": "为 RIME 量身打造的雾凇拼音，是目前维护最积极、功能最强大的 RIME 输入方案，拥有精心打磨的大容量词库、开箱即用的中文输入体验。查看全文",
+          "link": "https://sspai.com/post/89281",
+          "publishedOn": "2024-07-02T03:37:08.000Z",
+          "wordCount": 932,
+          "title": "从配置到优化，搭建称手的 RIME 雾凇拼音输入方案",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/2/article/65658b3d-b499-0609-34e7-dd8a65751881.png"
+        },
+        {
+          "id": "https://sspai.com/post/90124",
+          "author": "少数派编辑部",
+          "description": "iPhone X、AirPods 一代与 HomePod 被列为过时产品，Meta 停止支持初代 Meta Quest VR 头显等。查看全文",
+          "link": "https://sspai.com/post/90124",
+          "publishedOn": "2024-07-02T00:00:00.000Z",
+          "wordCount": 829,
+          "title": "派早报：微软回应关闭国内线下授权门店，淘宝本月将上线闲鱼网页版等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/2/article/e490eaeb-0fcc-9792-1a55-3b73beac2d44.png"
+        },
+        {
           "id": "https://sspai.com/post/90113",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -1024,46 +1064,6 @@
           "wordCount": 917,
           "title": "派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等",
           "imageUrl": "https://cdnfile.sspai.com/6/4/2024/article/3de258d4-cf71-47d8-523c-34e04874fc2f.png"
-        },
-        {
-          "id": "https://sspai.com/post/89329",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/89329",
-          "publishedOn": "2024-06-03T09:53:49.000Z",
-          "wordCount": 941,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/3/article/3d952ac2-452d-1649-e877-6935ac1bacd9.png"
-        },
-        {
-          "id": "https://sspai.com/post/89299",
-          "author": "潘誉晗",
-          "description": "透过卡夫卡的作品，去看看这位死前无名、死后封神的大师的世界。查看全文",
-          "link": "https://sspai.com/post/89299",
-          "publishedOn": "2024-06-03T07:00:00.000Z",
-          "wordCount": 703,
-          "title": "卡夫卡逝世 100 周年：他的困境，就是我们现代人的困境",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/3/article/14356644-5fe7-6b94-9243-9e8db15fb803.png"
-        },
-        {
-          "id": "https://sspai.com/post/89289",
-          "author": "化学心情下2",
-          "description": "经过一段时间的试用，我正式将自部署的 Readeck 作为我的主要稍后读服务，并且实现了我接触的场景下全平台的发送网址/阅读解决方案。查看全文",
-          "link": "https://sspai.com/post/89289",
-          "publishedOn": "2024-06-03T03:29:26.000Z",
-          "wordCount": 958,
-          "title": "自力更生 | 基于 Readeck 搭建个人稍后读与书签服务",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/02/ca4de222253d78dcc505012e4623c194.png"
-        },
-        {
-          "id": "https://sspai.com/post/89306",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事音乐文件共享平台Napster推出25周年6月1日，在文件共享和数字音乐历史上有重要地位的软件Napster推出满25周年。1999年，17岁的ShawnFanning在其IRC聊天 ...查看全文",
-          "link": "https://sspai.com/post/89306",
-          "publishedOn": "2024-06-03T00:55:29.000Z",
-          "wordCount": 879,
-          "title": "派早报：Napster 推出 25 周年",
-          "imageUrl": "https://cdnfile.sspai.com/6/3/2024/article/80e4556e-e8fd-741b-fe2b-b8e9b0671378.png"
         }
       ]
     },
