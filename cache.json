@@ -6,6 +6,66 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90180",
+          "author": "福利派",
+          "description": "[利益相关声明：文中包含活动推广信息，相关产品和服务由飞书提供。]在少数派，飞书多维表格是经常登上首页的「明星产品」。从选题管理、个人理财到任务管理，在编辑部和读者手中，多维表格被挖掘出一系列丰富的用 ...查看全文",
+          "link": "https://sspai.com/post/90180",
+          "publishedOn": "2024-07-03T09:31:12.000Z",
+          "wordCount": 733,
+          "title": "面向 AI 时代，共建「多维」未来：多维表格开发者日 | AI 专场邀你报名",
+          "imageUrl": "https://cdnfile.sspai.com/7/3/2024/article/22f913a3-bc61-e026-7d21-cc5f76dd0e23.png"
+        },
+        {
+          "id": "https://sspai.com/post/90109",
+          "author": "zachal",
+          "description": "在单车或是汽车的改装圈子里，一向有那么些被称为「心情件」的改装，即不会带来什么功能或者性能上的提升，但依靠造型风格或者颇佳的质感给驾驶者提供情绪价值的部件。类似的概念在数码产品中也越来越常见。例如各类 ...查看全文",
+          "link": "https://sspai.com/post/90109",
+          "publishedOn": "2024-07-03T08:30:47.000Z",
+          "wordCount": 750,
+          "title": "特洛克积木插座 Pixel 65，「充电」之外还可以做更多",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/01/0bbf0613d9c1d58df9dc2e4dc16e79b0.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/89840",
+          "author": "爱拼安小匠",
+          "description": "相较于官方提供的存储扩容服务，对于华为、荣耀手机来说，安装 NM 卡进行扩容，可谓最具性价比的方案。本文聊聊 NM 卡的使用及注意事项。查看全文",
+          "link": "https://sspai.com/post/89840",
+          "publishedOn": "2024-07-03T08:00:00.000Z",
+          "wordCount": 873,
+          "title": "比花钱扩容更有性价比：华为手机 NM 存储卡使用指南",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/3/article/e7321213-90d2-b2ca-4e4e-5260c636dd93.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/89609",
+          "author": "江哗啦啦",
+          "description": "当我们将空间划分开来，每个小空间都有自己的主灯，这时我们将空间统合起来环顾，就会发现有无数的光源，但整个空间不再有主灯。查看全文",
+          "link": "https://sspai.com/post/89609",
+          "publishedOn": "2024-07-03T07:00:00.000Z",
+          "wordCount": 682,
+          "title": "见光不见灯之我见：聊聊家庭光照设计",
+          "imageUrl": "https://cdnfile.sspai.com/7/3/2024/article/762710f4-da16-dbb8-73ea-cba89de96210.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/90069",
+          "author": "二一的笔记",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/90069",
+          "publishedOn": "2024-07-03T03:38:14.000Z",
+          "wordCount": 1280,
+          "title": "善用白板和卡片，聊聊 Heptabase 如何助我「知识管理」",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/30/103c076a9733557676b103307a34faf2.png"
+        },
+        {
+          "id": "https://sspai.com/post/90168",
+          "author": "少数派编辑部",
+          "description": "《丧尸围城：豪华复刻版》将于 9 月 19 日发售。查看全文",
+          "link": "https://sspai.com/post/90168",
+          "publishedOn": "2024-07-03T00:00:00.000Z",
+          "wordCount": 826,
+          "title": "派早报：Meta 更新平台内 AI 信息标注、搜狗输入法上线多项 AI 功能等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/3/article/37e2a785-f338-43cf-12c1-0f69451b2ca5.png"
+        },
+        {
           "id": "https://sspai.com/post/90160",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评彷徨 ...查看全文",
@@ -1014,56 +1074,6 @@
           "wordCount": 864,
           "title": "派早报：英特尔公布 Lunar Lake 芯片、索尼发布适用于 PC 的 PS VR2 适配器等",
           "imageUrl": "https://cdnfile.sspai.com/2024/6/5/article/0f835264-ef07-800a-c51c-dd7a096742a9.png"
-        },
-        {
-          "id": "https://sspai.com/post/89353",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/89353",
-          "publishedOn": "2024-06-04T09:23:46.000Z",
-          "wordCount": 909,
-          "title": "社区速递 047 | 在线CAD、作者新玩意以及派友们新关注的博主",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/4/article/b94e901d-57c1-d778-5e55-8f83a73c672e.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89262",
-          "author": "北鸮",
-          "description": "祝你买到好价格，少跑售后，多玩多用。查看全文",
-          "link": "https://sspai.com/post/89262",
-          "publishedOn": "2024-06-04T06:15:38.000Z",
-          "wordCount": 1020,
-          "title": "618 想买鼠标，这些型号值得一看",
-          "imageUrl": "https://cdnfile.sspai.com/2024/5/31/article/4d970231-934b-e7b0-db1b-247e12f3509d.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/88605",
-          "author": "吃派的水獭",
-          "description": "一款香氛是如何实现智能的？我们邀请少数派的诸位作者以及 Prime 会员等进行了简短的体验。查看全文",
-          "link": "https://sspai.com/post/88605",
-          "publishedOn": "2024-06-04T06:00:13.000Z",
-          "wordCount": 753,
-          "title": "「移动的家」为什么需要更智能的车载香氛，他们说……",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/07/c9c9260f3aa7233504495247ce6ea486.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89315",
-          "author": "两颗皮蛋",
-          "description": "Apple 在 AI 领域到底是个什么水平？他们都干了些什么？今年的 WWDC，Apple 又会有哪些动作呢？查看全文",
-          "link": "https://sspai.com/post/89315",
-          "publishedOn": "2024-06-04T03:00:00.000Z",
-          "wordCount": 965,
-          "title": "[护城河] 苹果在 AI 上真的落后吗？WWDC24 AI 功能预测解析",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/03/be80726a490a3624bef7e5777c112be6.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89336",
-          "author": "少数派编辑部",
-          "description": "SpaceX 计划今年秋季推出蜂窝直连服务、戴森发售 360 Vis Nav 智能吸尘机器人等查看全文",
-          "link": "https://sspai.com/post/89336",
-          "publishedOn": "2024-06-04T00:50:51.000Z",
-          "wordCount": 917,
-          "title": "派早报：AMD 推出多款新处理器、亚马逊 Kindle 中国电子书店月底停止服务等",
-          "imageUrl": "https://cdnfile.sspai.com/6/4/2024/article/3de258d4-cf71-47d8-523c-34e04874fc2f.png"
         }
       ]
     },
@@ -1072,6 +1082,156 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://x.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1808534918521352244",
+          "author": "ahhhhfs",
+          "description": "某技术流手机摄影教程\n👉https://www.ahhhhfs.com/59862/",
+          "link": "https://x.com/abskoop/status/1808534918521352244",
+          "publishedOn": "2024-07-03T16:15:00.000Z",
+          "wordCount": 6,
+          "title": "某技术流手机摄影教程 👉https://www.ahhhhfs.com/59862/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808525607342334180",
+          "author": "ahhhhfs",
+          "description": "某追求的艺术 XX课堂 完结\n👉https://www.ahhhhfs.com/28338/",
+          "link": "https://x.com/abskoop/status/1808525607342334180",
+          "publishedOn": "2024-07-03T15:38:00.000Z",
+          "wordCount": 6,
+          "title": "某追求的艺术 XX课堂 完结 👉https://www.ahhhhfs.com/28338/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808516799631073299",
+          "author": "ahhhhfs",
+          "description": "官方Office 技巧免费学习平台：WPS学堂\n学技巧，下班早🙊\n👉https://www.ahhhhfs.com/44937/",
+          "link": "https://x.com/abskoop/status/1808516799631073299",
+          "publishedOn": "2024-07-03T15:03:00.000Z",
+          "wordCount": 6,
+          "title": "官方Office 技巧免费学习平台：WPS学堂 学技巧，下班早🙊 👉https://www.ahhhhfs.com/44937/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808509752802251233",
+          "author": "ahhhhfs",
+          "description": "一本大人书：XX伴侣 缓慢X爱\n👉https://www.ahhhhfs.com/59870/",
+          "link": "https://x.com/abskoop/status/1808509752802251233",
+          "publishedOn": "2024-07-03T14:35:00.000Z",
+          "wordCount": 6,
+          "title": "一本大人书：XX伴侣 缓慢X爱 👉https://www.ahhhhfs.com/59870/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808497421598752811",
+          "author": "ahhhhfs",
+          "description": "数字玩家：免费、免登录使用ChatGPT4共享镜像\n完全免费，免魔法使用，对话隔离\n且用且珍惜\n👉https://www.ahhhhfs.com/59871/",
+          "link": "https://x.com/abskoop/status/1808497421598752811",
+          "publishedOn": "2024-07-03T13:46:00.000Z",
+          "wordCount": 6,
+          "title": "数字玩家：免费、免登录使用ChatGPT4共享镜像 完全免费，免魔法使用，对话隔离 且用且珍惜 👉https://www.ahhhhfs.com/59871/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808482070370439459",
+          "author": "ahhhhfs",
+          "description": "开源书籍：Hello 算法\n动画图解、一键运行的数据结构与算法教程\n500幅动画图解、14种编程语言代码、3000条社区问答\n支持Python, Java, C++, C, C#, JS, Go, \nSwift, Rust, Ruby, Kotlin, TS, Dart等代码\n👉https://www.ahhhhfs.com/36313/",
+          "link": "https://x.com/abskoop/status/1808482070370439459",
+          "publishedOn": "2024-07-03T12:45:00.000Z",
+          "wordCount": 6,
+          "title": "开源书籍：Hello 算法 动画图解、一键运行的数据结构与算法教程 500幅动画图解、14种编程语言代码、3000条社区问答 支持Python, Java, C++, C, C#, JS, Go, Swif...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808451552069427354",
+          "author": "ahhhhfs",
+          "description": "几百本亚某逊收费书合集\n👉https://www.ahhhhfs.com/59857/",
+          "link": "https://x.com/abskoop/status/1808451552069427354",
+          "publishedOn": "2024-07-03T10:43:44.000Z",
+          "wordCount": 6,
+          "title": "几百本亚某逊收费书合集 👉https://www.ahhhhfs.com/59857/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808419407372378225",
+          "author": "ahhhhfs",
+          "description": "汇总统计国内外各大厂的开源团队和项目：opensource lighthouse\n直接点击公司名称查看项目详情\n👉https://www.ahhhhfs.com/59736/",
+          "link": "https://x.com/abskoop/status/1808419407372378225",
+          "publishedOn": "2024-07-03T08:36:00.000Z",
+          "wordCount": 6,
+          "title": "汇总统计国内外各大厂的开源团队和项目：opensource lighthouse 直接点击公司名称查看项目详情 👉https://www.ahhhhfs.com/59736/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808388103050350971",
+          "author": "ahhhhfs",
+          "description": "某能成事的 职 场 极 简 管理课\n👉https://www.ahhhhfs.com/55005/",
+          "link": "https://x.com/abskoop/status/1808388103050350971",
+          "publishedOn": "2024-07-03T06:31:36.000Z",
+          "wordCount": 6,
+          "title": "某能成事的 职 场 极 简 管理课 👉https://www.ahhhhfs.com/55005/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808171775806648330",
+          "author": "ahhhhfs",
+          "description": "2024雅思资料大合集\n👉https://www.ahhhhfs.com/59852/",
+          "link": "https://x.com/abskoop/status/1808171775806648330",
+          "publishedOn": "2024-07-02T16:12:00.000Z",
+          "wordCount": 6,
+          "title": "2024雅思资料大合集 👉https://www.ahhhhfs.com/59852/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808162464711794820",
+          "author": "ahhhhfs",
+          "description": "如何做一门好课的课  手把手教你\n👉https://www.ahhhhfs.com/59846/",
+          "link": "https://x.com/abskoop/status/1808162464711794820",
+          "publishedOn": "2024-07-02T15:35:00.000Z",
+          "wordCount": 6,
+          "title": "如何做一门好课的课 手把手教你 👉https://www.ahhhhfs.com/59846/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808154411686154620",
+          "author": "ahhhhfs",
+          "description": "小红旅计：基于小红书旅游攻略神器\n集成了小红书、Google地图和高德地图\n能够高效地收集目的地的各种旅行素材\n包括景点攻略、餐厅推荐和拍照打卡点\n并基于这些素材创建个性化的旅行计划\n👉https://www.ahhhhfs.com/59830/",
+          "link": "https://x.com/abskoop/status/1808154411686154620",
+          "publishedOn": "2024-07-02T15:03:00.000Z",
+          "wordCount": 6,
+          "title": "小红旅计：基于小红书旅游攻略神器 集成了小红书、Google地图和高德地图 能够高效地收集目的地的各种旅行素材 包括景点攻略、餐厅推荐和拍照打卡点 并基于这些素...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808146107752423426",
+          "author": "ahhhhfs",
+          "description": "亿磁力：磁力搜索引擎 一亿资源 极速搜索\n什么都可以搜索 自己试试🙊\n👉https://www.ahhhhfs.com/59752/",
+          "link": "https://x.com/abskoop/status/1808146107752423426",
+          "publishedOn": "2024-07-02T14:30:00.000Z",
+          "wordCount": 6,
+          "title": "亿磁力：磁力搜索引擎 一亿资源 极速搜索 什么都可以搜索 自己试试🙊 👉https://www.ahhhhfs.com/59752/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808134782167191968",
+          "author": "ahhhhfs",
+          "description": "Anna’s Archive（安娜的档案）发布最新地址\n旧地址不再可用（免费下载电子书的）\n👉https://www.ahhhhfs.com/33667/",
+          "link": "https://x.com/abskoop/status/1808134782167191968",
+          "publishedOn": "2024-07-02T13:45:00.000Z",
+          "wordCount": 6,
+          "title": "Anna’s Archive（安娜的档案）发布最新地址 旧地址不再可用（免费下载电子书的） 👉https://www.ahhhhfs.com/33667/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808117983824564347",
+          "author": "ahhhhfs",
+          "description": "某最新 XX 前端架构课\n👉https://www.ahhhhfs.com/59826/",
+          "link": "https://x.com/abskoop/status/1808117983824564347",
+          "publishedOn": "2024-07-02T12:38:15.000Z",
+          "wordCount": 6,
+          "title": "某最新 XX 前端架构课 👉https://www.ahhhhfs.com/59826/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1807815427692933376",
           "author": "ahhhhfs",
@@ -2100,6 +2260,16 @@
           "publishedOn": "2024-06-14T13:06:00.000Z",
           "wordCount": 6,
           "title": "AI科技领域高质量信息源：Awesome AISourceHub 聚合全网优质信息源，收集一些有观点、有干货、 一手的AI 科技资讯资源 避免信息差和信息茧房 👉https://www.ah...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1808251631269732516",
+          "author": "ahhhhfs",
+          "description": "RT ahhhhfs\n开源图片加水印工具：watermark\n防止证件复印等等信息被盗用\n👉https://www.ahhhhfs.com/58932/",
+          "link": "https://x.com/abskoop/status/1808251631269732516",
+          "publishedOn": "2024-06-07T15:09:00.000Z",
+          "wordCount": 6,
+          "title": "RT ahhhhfs: 开源图片加水印工具：watermark 防止证件复印等等信息被盗用 👉https://www.ahhhhfs.com/58932/",
           "imageUrl": null
         }
       ]
