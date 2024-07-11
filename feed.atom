@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T00:42:01.372Z</updated>
+    <updated>2024-07-11T00:42:14.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「自力更生」征文收官，来听听少数派们的自托管经验谈]]></title>
+        <id>https://sspai.com/post/90350</id>
+        <link href="https://sspai.com/post/90350"/>
+        <updated>2024-07-10T08:37:07.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，我们发起了一次「自力更生」征文活动，希望能给对自托管感兴趣的朋友一个更好的表达机会，让更多可能受益于自托管的朋友认识这种途径。在为期五周的征稿期间，我们看到了风格多样、话题广泛的投稿。其中， ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末去哪玩：我们收集了这些不同城市的「度假」方式]]></title>
+        <id>https://sspai.com/post/90103</id>
+        <link href="https://sspai.com/post/90103"/>
+        <updated>2024-07-10T06:43:55.000Z</updated>
+        <summary type="html"><![CDATA[编注：热门景点人挤人，小众景点怕踩坑，如果有当地人给出自己的推荐的话，或许能节省不少功夫。因此我派联手@几素JISULIFE共同推出「周末去哪儿玩」目的地招募计划，邀请大家和我们分享自己的小众目的地， ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「动真格」无需大动作，小处着手保护 iPhone 隐私]]></title>
+        <id>https://sspai.com/post/79967</id>
+        <link href="https://sspai.com/post/79967"/>
+        <updated>2024-07-10T06:19:34.000Z</updated>
+        <summary type="html"><![CDATA[如今，手机承载了我们太多重要的隐私信息：我们自己和家人好友的照片、随手写下的笔记或者是重要的工作文件，甚至是各种身份证件、银行卡号、账户密码等等。这些数据一旦泄露，后果不堪设想。这篇文章整理了一些能够 ...查看全文]]></summary>
+        <author>
+            <name>Tp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多关节可动人偶白菜价：Dummy 13 入门指南]]></title>
+        <id>https://sspai.com/post/90185</id>
+        <link href="https://sspai.com/post/90185"/>
+        <updated>2024-07-10T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dummy 13 这个多关节可动人偶应该是今年最火的解压小玩意了吧，也是时候入手给大家来篇详细科普向的拼装体验和修件建议了。查看全文]]></summary>
+        <author>
+            <name>iArter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：realme 发布真我 GT6、华硕发布 NUC 14 Pro+ 迷你 PC 等]]></title>
+        <id>https://sspai.com/post/90344</id>
+        <link href="https://sspai.com/post/90344"/>
+        <updated>2024-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[微信公众号支持 3 个字以内标题修改，Google 将免费开放暗网报告功能等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好的知道了 愉快晚睡去啦🥹]]></title>
         <id>https://twitter.com/abskoop/status/1810719618778255626</id>
@@ -3008,66 +3058,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59070/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 048 | 派友电费大曝光、自建音乐库以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/89505</id>
-        <link href="https://sspai.com/post/89505"/>
-        <updated>2024-06-11T08:56:22.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直播预告 | WWDC24 开幕式回顾：哪些亮点值得展开讲讲？]]></title>
-        <id>https://sspai.com/post/89432</id>
-        <link href="https://sspai.com/post/89432"/>
-        <updated>2024-06-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[我们邀请到了两颗皮蛋的零号，和我们一起聊聊对于本次 WWDC 主题演讲的初印象，以及自己的兴趣和感受。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认清需求再下手，面向大众的 NAS 选购与折腾指南]]></title>
-        <id>https://sspai.com/post/89214</id>
-        <link href="https://sspai.com/post/89214"/>
-        <updated>2024-06-11T06:58:41.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，6月23日前发布投稿文章即可。入围作品均可获得稿酬、Zeabur订阅、 ...查看全文]]></summary>
-        <author>
-            <name>Loa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple 在 WWDC24 开幕活动中发布 iOS 18 等新系统等]]></title>
-        <id>https://sspai.com/post/89498</id>
-        <link href="https://sspai.com/post/89498"/>
-        <updated>2024-06-11T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[法官判定 Google 无需在美国广告案中接受陪审团审判，微软 Visual Studio 将支持 Windows Update 自动更新等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一图流 | WWDC24 开幕式回顾]]></title>
-        <id>https://sspai.com/post/89497</id>
-        <link href="https://sspai.com/post/89497"/>
-        <updated>2024-06-10T22:07:55.000Z</updated>
-        <summary type="html"><![CDATA[WWDC24 开幕式的一图流来啦。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大步跨进 AI 时代，系统更新还有这些亮点：WWDC24 发布会回顾]]></title>
-        <id>https://sspai.com/post/89496</id>
-        <link href="https://sspai.com/post/89496"/>
-        <updated>2024-06-10T21:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Apple 推出 iOS 18、iPadOS 18、watchOS 11 和 macOS Sequoia，以及 Apple Intelligence 功能合集。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
