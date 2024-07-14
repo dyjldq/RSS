@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-13T00:41:50.165Z</updated>
+    <updated>2024-07-14T00:46:17.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[给国内新用户的 Google Pixel 使用指南]]></title>
+        <id>https://sspai.com/post/78200</id>
+        <link href="https://sspai.com/post/78200"/>
+        <updated>2024-07-13T08:31:25.000Z</updated>
+        <summary type="html"><![CDATA[你买了一台 Pixel，然后呢？查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Re @zaprobest 哈哈哈 刚刚回了😂哇 没看到]]></title>
         <id>https://twitter.com/abskoop/status/1811817168029515865</id>
@@ -3095,56 +3105,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59164/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
-        <id>https://sspai.com/post/89614</id>
-        <link href="https://sspai.com/post/89614"/>
-        <updated>2024-06-14T10:05:18.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]黑袍纠察队第四季、[美剧]犯罪心理：演变第十七季、[英剧]警之光第二季、[美剧]无罪的罪人、[美剧]心碎高中第二季、[韩剧]虽然不是英雄、[完结漫谈]迷宫饭几则精彩 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小风扇常见，但可以降温的「高速吹风机」你不妨一试]]></title>
-        <id>https://sspai.com/post/81440</id>
-        <link href="https://sspai.com/post/81440"/>
-        <updated>2024-06-14T09:05:38.000Z</updated>
-        <summary type="html"><![CDATA[编注：季节正好，又到了每年最适合旅行出游的时候。我们重推一次这篇文章，希望炎炎户外的你也能多一种清凉选择。作为全球知名小风扇专家与领导者，几素向来专注于设计研发体验更优秀的小风扇产品。继去年大受欢迎的 ...查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | 全心全意，只属于你：iOS 18 中值得关注的新特性]]></title>
-        <id>https://sspai.com/post/89561</id>
-        <link href="https://sspai.com/post/89561"/>
-        <updated>2024-06-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文]]></summary>
-        <author>
-            <name>拐子狼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-T50 使用体验：富士的最后一个爆款？]]></title>
-        <id>https://sspai.com/post/89599</id>
-        <link href="https://sspai.com/post/89599"/>
-        <updated>2024-06-14T03:18:46.000Z</updated>
-        <summary type="html"><![CDATA[即便 X-T50 的性能非常强悍，但是卖到 9999 元还是有一大部分人觉得贵，毕竟性能差一点，还能克服。钱要是没有，那是真没有啊。难道富士爆火的神话要在 X-T50 上断绝了么？查看全文]]></summary>
-        <author>
-            <name>食肉库玛老师傅</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：荣耀发布 Magic V Flip 折叠屏手机，影石发布 Insta360 GO 3S 相机等]]></title>
-        <id>https://sspai.com/post/89594</id>
-        <link href="https://sspai.com/post/89594"/>
-        <updated>2024-06-14T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[小米、OPPO、vivo、联想要求开发者完成 Android 15 适配，联发科正在为微软 AI 笔记本设计 ARM 架构芯片等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

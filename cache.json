@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/78200",
+          "author": "克莱德",
+          "description": "你买了一台 Pixel，然后呢？查看全文",
+          "link": "https://sspai.com/post/78200",
+          "publishedOn": "2024-07-13T08:31:25.000Z",
+          "wordCount": 1270,
+          "title": "给国内新用户的 Google Pixel 使用指南",
+          "imageUrl": "https://cdnfile.sspai.com/2023/2/8/article/e7621510-41cc-7881-190b-8d5638dad84c.jpg"
+        },
+        {
           "id": "https://sspai.com/prime/story/watchos-running-stats-explained",
           "author": "阿帅的健康笔记",
           "description": "如果你有一块 Apple Watch，不妨多多利用本文介绍的功能，科学运动，悦迎健康。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1044,56 +1054,6 @@
           "wordCount": 665,
           "title": "WWDC24 开幕式，该聊还是得聊两句",
           "imageUrl": "https://cdnfile.sspai.com/13/06/2024/article/54a8003f-b7d5-b297-f374-25eefb11c160.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89614",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[美剧]黑袍纠察队第四季、[美剧]犯罪心理：演变第十七季、[英剧]警之光第二季、[美剧]无罪的罪人、[美剧]心碎高中第二季、[韩剧]虽然不是英雄、[完结漫谈]迷宫饭几则精彩 ...查看全文",
-          "link": "https://sspai.com/post/89614",
-          "publishedOn": "2024-06-14T10:05:18.000Z",
-          "wordCount": 939,
-          "title": "本周看什么 | 最近值得一看的 7 部作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/14/article/20d70b5a-9723-f922-2a4f-266334c1c1b6.png"
-        },
-        {
-          "id": "https://sspai.com/post/81440",
-          "author": "Microhoo",
-          "description": "编注：季节正好，又到了每年最适合旅行出游的时候。我们重推一次这篇文章，希望炎炎户外的你也能多一种清凉选择。作为全球知名小风扇专家与领导者，几素向来专注于设计研发体验更优秀的小风扇产品。继去年大受欢迎的 ...查看全文",
-          "link": "https://sspai.com/post/81440",
-          "publishedOn": "2024-06-14T09:05:38.000Z",
-          "wordCount": 682,
-          "title": "小风扇常见，但可以降温的「高速吹风机」你不妨一试",
-          "imageUrl": "https://cdnfile.sspai.com/2023/07/24/5152029f6467e2652d0701b33de9b3e5.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89561",
-          "author": "拐子狼",
-          "description": "少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文",
-          "link": "https://sspai.com/post/89561",
-          "publishedOn": "2024-06-14T07:00:00.000Z",
-          "wordCount": 891,
-          "title": "具透 | 全心全意，只属于你：iOS 18 中值得关注的新特性",
-          "imageUrl": "https://cdnfile.sspai.com/6/14/2024/article/14a04424-ab78-9ebe-8304-c6e6b8757f73.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89599",
-          "author": "食肉库玛老师傅",
-          "description": "即便 X-T50 的性能非常强悍，但是卖到 9999 元还是有一大部分人觉得贵，毕竟性能差一点，还能克服。钱要是没有，那是真没有啊。难道富士爆火的神话要在 X-T50 上断绝了么？查看全文",
-          "link": "https://sspai.com/post/89599",
-          "publishedOn": "2024-06-14T03:18:46.000Z",
-          "wordCount": 1034,
-          "title": "X-T50 使用体验：富士的最后一个爆款？",
-          "imageUrl": "https://cdnfile.sspai.com/14/06/2024/article/9ada42ab-b0d1-b01c-7cd6-f7aa5d01e131.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89594",
-          "author": "少数派编辑部",
-          "description": "小米、OPPO、vivo、联想要求开发者完成 Android 15 适配，联发科正在为微软 AI 笔记本设计 ARM 架构芯片等查看全文",
-          "link": "https://sspai.com/post/89594",
-          "publishedOn": "2024-06-14T00:15:00.000Z",
-          "wordCount": 963,
-          "title": "派早报：荣耀发布 Magic V Flip 折叠屏手机，影石发布 Insta360 GO 3S 相机等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/14/article/73fad699-178d-0d2d-ff60-753071126e5f.png"
         }
       ]
     },
