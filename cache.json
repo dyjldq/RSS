@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/sv-anecdotes-10",
+          "author": "Kiririn",
+          "description": "本系列前文回顾：01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09\n2024 年 6 月 4 日，Intel 发表声明称，已经与资产管理公司 Apollo Global Management 达成协议，将与爱尔兰 Fab 34 芯片工厂的合资企业 49% 股份作价 110 亿美元出售。\nFab 34 是 Intel 旗下最先进的芯片工厂之一，也是 Intel 的欧洲布局中唯一使用 EUV 光刻技术的芯片工厂。该工厂主要为 Intel 生产晶圆，亦有生产服务器芯片的计划。交易完成后，Intel 仍会保留 51% 的股权，从而维持自身的控股权。\nIntel 首席执行官 Pat Gelsinger 声称，此举是公司复兴计划的一部分，旨在减轻公司财务方面的压力。出售股权所获资金将被投资于新的半导体综合体项目，进而提升自身制造业务的能力，吸引更多的外包客户。不过，由于此前 Intel 商业成绩不尽人意，市场份额的持续流失，外界普遍继续担忧 Intel 前景。上述声明发出后，Intel 股价继续下跌，在 2024 年累计跌幅已有 40%。\n\n    2022 年，正在扩建的 Fab 34 工厂。图源 X@Intel Ireland\n\n中文互联网一直流传着所谓「三流企业卖产品，二流企业卖服务，一流企业卖概念，超级企业卖大楼」的诙谐说法；Intel 卖工厂的新闻让很多人联想到了 2016 年「AMD 出售总部大楼」的传闻。（虽然这则流传已久的消息已被证实为乌龙，但是 AMD 在陷入困境的数年间确实有通过出售房地产和工厂以维持发展的无奈之举。）\n面对 AMD 和 NVIDIA 等直接的竞争对手，Intel 的转型战略依然充满了未知数。\n数字不是一切\n2006 年，AMD 和 Intel 围绕着 64 位体系和多核心处理器展开了新一轮的竞争。Athlon 64…",
+          "link": "https://sspai.com/prime/story/sv-anecdotes-10",
+          "publishedOn": "2024-07-14T07:19:00.000Z",
+          "wordCount": 1575,
+          "title": "决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来",
+          "imageUrl": "https://cdnfile.sspai.com/6/17/2024/article/d05b90b8-b150-906e-ba4f-f2ebfe19379f.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/78200",
           "author": "克莱德",
           "description": "你买了一台 Pixel，然后呢？查看全文",
@@ -1024,36 +1034,6 @@
           "wordCount": 1116,
           "title": "具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试",
           "imageUrl": "https://cdnfile.sspai.com/6/16/2024/article/74d11a82-2a94-a56c-3493-4d46bc036a6f.png"
-        },
-        {
-          "id": "https://sspai.com/post/89624",
-          "author": "少数派编辑部",
-          "description": "健康是头等大事，对年轻人如此，对老年人更是如此。在少数派，我们多次讨论过健康相关的话题，其中大多数以上班族为出发点，也集结了与健康内容相关的专题「少数派健康手册」。上班族除了关注自身，常常还要考虑家人 ...查看全文",
-          "link": "https://sspai.com/post/89624",
-          "publishedOn": "2024-06-15T09:00:00.000Z",
-          "wordCount": 650,
-          "title": "劝老人体检难过高考？不如先了解一下他们需要的这些细节",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/15/b08fa5abc44b10532b53735569d25d56.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89248",
-          "author": "猴猴说话",
-          "description": "面对人生选择这个难题，如果尽是列出各种职业规划的步骤未免太糊弄，并且还会有充满爹味的说教感，所以我只能尽量用我有限的经历，给迷茫的朋友提供一些灵感和思路。查看全文",
-          "link": "https://sspai.com/post/89248",
-          "publishedOn": "2024-06-15T07:51:36.000Z",
-          "wordCount": 697,
-          "title": "跨专业转行、裸辞、自媒体……活了 34 年我才看清「迷茫」的真相",
-          "imageUrl": "https://cdnfile.sspai.com/2024/05/31/5fad1fe7557a789926677cdbfab27995.png"
-        },
-        {
-          "id": "https://sspai.com/post/89581",
-          "author": "少数派播客",
-          "description": "WWDC24 开幕式上，Apple 除了发布常规的系统更新之外还推出了盛传已久的 AI 能力，在本期节目中，我们就和两颗皮蛋的零号一起围绕 Apple 的各项新功能和新的 Apple Intelligence 展开探讨，聊聊我们对于本次发布会的哪些兴奋、失落和困惑。查看全文",
-          "link": "https://sspai.com/post/89581",
-          "publishedOn": "2024-06-15T03:00:00.000Z",
-          "wordCount": 665,
-          "title": "WWDC24 开幕式，该聊还是得聊两句",
-          "imageUrl": "https://cdnfile.sspai.com/13/06/2024/article/54a8003f-b7d5-b297-f374-25eefb11c160.jpg"
         }
       ]
     },
@@ -1062,6 +1042,86 @@
       "feedUrl": "https://rsshub.app/twitter/user/abskoop",
       "siteUrl": "https://x.com/abskoop",
       "articles": [
+        {
+          "id": "https://twitter.com/abskoop/status/1812417430783967500",
+          "author": "ahhhhfs",
+          "description": "从0-1  微信视频号起号、运营、变现\n👉https://www.ahhhhfs.com/60273/",
+          "link": "https://x.com/abskoop/status/1812417430783967500",
+          "publishedOn": "2024-07-14T09:22:43.000Z",
+          "wordCount": 6,
+          "title": "从0-1 微信视频号起号、运营、变现 👉https://www.ahhhhfs.com/60273/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812160056030289949",
+          "author": "ahhhhfs",
+          "description": "35 个实用养育工具 高效培养孩子自主学习\n👉https://www.ahhhhfs.com/60226/",
+          "link": "https://x.com/abskoop/status/1812160056030289949",
+          "publishedOn": "2024-07-13T16:20:00.000Z",
+          "wordCount": 6,
+          "title": "35 个实用养育工具 高效培养孩子自主学习 👉https://www.ahhhhfs.com/60226/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812151255869120991",
+          "author": "ahhhhfs",
+          "description": "学前教辅资料超级大汇总\n👉 https://www.ahhhhfs.com/60253/",
+          "link": "https://x.com/abskoop/status/1812151255869120991",
+          "publishedOn": "2024-07-13T15:45:02.000Z",
+          "wordCount": 6,
+          "title": "学前教辅资料超级大汇总 👉 https://www.ahhhhfs.com/60253/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812139967411548268",
+          "author": "ahhhhfs",
+          "description": "免费大人小说精选：Jing Ping Mei\n👉https://www.ahhhhfs.com/60249/",
+          "link": "https://x.com/abskoop/status/1812139967411548268",
+          "publishedOn": "2024-07-13T15:00:10.000Z",
+          "wordCount": 6,
+          "title": "免费大人小说精选：Jing Ping Mei 👉https://www.ahhhhfs.com/60249/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812130208998457773",
+          "author": "ahhhhfs",
+          "description": "一个信息查询小tip🙊",
+          "link": "https://x.com/abskoop/status/1812130208998457773",
+          "publishedOn": "2024-07-13T14:21:24.000Z",
+          "wordCount": 6,
+          "title": "一个信息查询小tip🙊",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812110530901135567",
+          "author": "ahhhhfs",
+          "description": "一些 武术教学视频🙊\n👉https://www.ahhhhfs.com/60243/",
+          "link": "https://x.com/abskoop/status/1812110530901135567",
+          "publishedOn": "2024-07-13T13:03:12.000Z",
+          "wordCount": 6,
+          "title": "一些 武术教学视频🙊 👉https://www.ahhhhfs.com/60243/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812078081152315616",
+          "author": "ahhhhfs",
+          "description": "免费的AI抠图工具：鲜艺AI抠图\n不登录、不联网，内嵌 AI 模型，\n快至毫秒级抠图，支持批量抠图\n👉https://www.ahhhhfs.com/60236/",
+          "link": "https://x.com/abskoop/status/1812078081152315616",
+          "publishedOn": "2024-07-13T10:54:15.000Z",
+          "wordCount": 6,
+          "title": "免费的AI抠图工具：鲜艺AI抠图 不登录、不联网，内嵌 AI 模型， 快至毫秒级抠图，支持批量抠图 👉https://www.ahhhhfs.com/60236/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/abskoop/status/1812047255329034697",
+          "author": "ahhhhfs",
+          "description": "粤语会话课程资料\n👉https://www.ahhhhfs.com/60162/",
+          "link": "https://x.com/abskoop/status/1812047255329034697",
+          "publishedOn": "2024-07-13T08:51:46.000Z",
+          "wordCount": 6,
+          "title": "粤语会话课程资料 👉https://www.ahhhhfs.com/60162/",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/abskoop/status/1811817168029515865",
           "author": "ahhhhfs",
@@ -2780,96 +2840,6 @@
           "publishedOn": "2024-06-15T12:58:59.000Z",
           "wordCount": 6,
           "title": "你在什么圈层🫣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801944708207587831",
-          "author": "ahhhhfs",
-          "description": "GoFullPage：免费全屏截图插件（整个网页截图）\n👉https://www.ahhhhfs.com/59188/",
-          "link": "https://x.com/abskoop/status/1801944708207587831",
-          "publishedOn": "2024-06-15T11:47:51.000Z",
-          "wordCount": 6,
-          "title": "GoFullPage：免费全屏截图插件（整个网页截图） 👉https://www.ahhhhfs.com/59188/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801897186000535829",
-          "author": "ahhhhfs",
-          "description": "证件照素材合集\n👉https://www.ahhhhfs.com/59182/",
-          "link": "https://x.com/abskoop/status/1801897186000535829",
-          "publishedOn": "2024-06-15T08:39:01.000Z",
-          "wordCount": 6,
-          "title": "证件照素材合集 👉https://www.ahhhhfs.com/59182/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801640237866881353",
-          "author": "ahhhhfs",
-          "description": "某跨境电商训练营 \n从0-1教你做TikTok小店实战课\n👉https://www.ahhhhfs.com/59161/",
-          "link": "https://x.com/abskoop/status/1801640237866881353",
-          "publishedOn": "2024-06-14T15:38:00.000Z",
-          "wordCount": 6,
-          "title": "某跨境电商训练营 从0-1教你做TikTok小店实战课 👉https://www.ahhhhfs.com/59161/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801633191557742949",
-          "author": "ahhhhfs",
-          "description": "某沙雕动画制作教学课程\n0基础小白到实战演示\n👉https://www.ahhhhfs.com/59174/",
-          "link": "https://x.com/abskoop/status/1801633191557742949",
-          "publishedOn": "2024-06-14T15:10:00.000Z",
-          "wordCount": 6,
-          "title": "某沙雕动画制作教学课程 0基础小白到实战演示 👉https://www.ahhhhfs.com/59174/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801618595421819297",
-          "author": "ahhhhfs",
-          "description": "最强爽文短剧合集XXX部\n👉https://www.ahhhhfs.com/59158/",
-          "link": "https://x.com/abskoop/status/1801618595421819297",
-          "publishedOn": "2024-06-14T14:12:00.000Z",
-          "wordCount": 6,
-          "title": "最强爽文短剧合集XXX部 👉https://www.ahhhhfs.com/59158/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1801601985973784939",
-          "author": "ahhhhfs",
-          "description": "AI科技领域高质量信息源：Awesome AISourceHub\n聚合全网优质信息源，收集一些有观点、有干货、\n一手的AI 科技资讯资源\n 避免信息差和信息茧房\n👉https://www.ahhhhfs.com/59164/",
-          "link": "https://x.com/abskoop/status/1801601985973784939",
-          "publishedOn": "2024-06-14T13:06:00.000Z",
-          "wordCount": 6,
-          "title": "AI科技领域高质量信息源：Awesome AISourceHub 聚合全网优质信息源，收集一些有观点、有干货、 一手的AI 科技资讯资源 避免信息差和信息茧房 👉https://www.ah...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1811865180579786811",
-          "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n某高效磨👂英语听力课\n👉https://www.ahhhhfs.com/59124/",
-          "link": "https://x.com/abskoop/status/1811865180579786811",
-          "publishedOn": "2024-06-13T15:38:00.000Z",
-          "wordCount": 6,
-          "title": "RT ahhhhfs: 某高效磨👂英语听力课 👉https://www.ahhhhfs.com/59124/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1811834990730313918",
-          "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n红抖AI助手：自媒体批量创作、内容提取工具 箱\n支持爆款文案AI批量仿写、视频图片无水印解析下载、\n作品批量解析下载等等功能\n无需动脑快速做爆款\n👉https://www.ahhhhfs.com/59139/",
-          "link": "https://x.com/abskoop/status/1811834990730313918",
-          "publishedOn": "2024-06-13T15:05:00.000Z",
-          "wordCount": 6,
-          "title": "RT ahhhhfs: 红抖AI助手：自媒体批量创作、内容提取工具 箱 支持爆款文案AI批量仿写、视频图片无水印解析下载、 作品批量解析下载等等功能 无需动脑快速做爆款 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/abskoop/status/1811865264293838934",
-          "author": "ahhhhfs",
-          "description": "RT ahhhhfs\n某情侣双修课：口👄 Ai 爱 课\n👉https://www.ahhhhfs.com/59149/",
-          "link": "https://x.com/abskoop/status/1811865264293838934",
-          "publishedOn": "2024-06-13T14:03:00.000Z",
-          "wordCount": 6,
-          "title": "RT ahhhhfs: 某情侣双修课：口👄 Ai 爱 课 👉https://www.ahhhhfs.com/59149/",
           "imageUrl": null
         }
       ]
