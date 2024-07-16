@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-15T00:43:40.305Z</updated>
+    <updated>2024-07-16T00:42:10.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/90492</id>
+        <link href="https://sspai.com/post/90492"/>
+        <updated>2024-07-15T09:50:40.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略]]></title>
+        <id>https://sspai.com/post/90194</id>
+        <link href="https://sspai.com/post/90194"/>
+        <updated>2024-07-15T07:02:24.000Z</updated>
+        <summary type="html"><![CDATA[在这篇文章里，且看我抽丝剥茧，抓住 Linux 打印机配置问题的本质，带大家一步步完成配置，在 Linux 下畅享优质、便捷的打印体验。查看全文]]></summary>
+        <author>
+            <name>爱拼安小匠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[读了等于没读？可能是读书笔记的方法错了]]></title>
+        <id>https://sspai.com/post/89269</id>
+        <link href="https://sspai.com/post/89269"/>
+        <updated>2024-07-15T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[什么时候才算读好了书？查看全文]]></summary>
+        <author>
+            <name>丁东东</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：欧盟 AI 法案发布最终文本，八月生效]]></title>
+        <id>https://sspai.com/post/90474</id>
+        <link href="https://sspai.com/post/90474"/>
+        <updated>2024-07-15T01:01:08.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事欧盟AI法案发布最终文本，八月生效7月12日，欧盟发布了经过两年反复讨论并于今年三月通过的《人工智能法》全文，宣布该法将于8月1日生效。这意味着在欧盟运营的科技公司从八月起将有义务分 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从0-1 微信视频号起号、运营、变现 👉https://www.ahhhhfs.com/60273/]]></title>
         <id>https://twitter.com/abskoop/status/1812417430783967500</id>
@@ -3037,16 +3077,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59218/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | iPadOS 18：史诗级更新「计算器」来了，这些变化也值得一试]]></title>
-        <id>https://sspai.com/post/89644</id>
-        <link href="https://sspai.com/post/89644"/>
-        <updated>2024-06-16T02:43:12.000Z</updated>
-        <summary type="html"><![CDATA[今年的 iPadOS 18 更新总算没落下 iOS 18 里的新功能，我们帮你整理出了 iPadOS 18 中这些值得关注的新特性。查看全文]]></summary>
-        <author>
-            <name>Kostya</name>
         </author>
     </entry>
     <entry>
