@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90413",
+          "author": "爱拼安小匠",
+          "description": "如果你习惯 Photoshop 操作风格的你，只要在 GIMP 的基础上安装 PhotoGIMP，就能丝滑过渡，迎来开源、跨平台的修图体验。查看全文",
+          "link": "https://sspai.com/post/90413",
+          "publishedOn": "2024-07-17T09:35:39.000Z",
+          "wordCount": 910,
+          "title": "App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/15/1e513f48afc59241232c826c11b4764e.png"
+        },
+        {
+          "id": "https://sspai.com/post/90556",
+          "author": "老麦",
+          "description": "在派友们的共同关心和支持下，少数派会员即将走入第四年。会员服务的演变历程，我已经在去年回顾过。简而言之，我们通过几年摸索，逐渐确定了以社区为依托，以内容为锚点，以共创为目标的会员服务框架。时隔一年，结 ...查看全文",
+          "link": "https://sspai.com/post/90556",
+          "publishedOn": "2024-07-17T07:03:11.000Z",
+          "wordCount": 690,
+          "title": "少数派会员第四年：权益升级，优惠回归",
+          "imageUrl": "https://cdnfile.sspai.com/7/17/2024/article/6a8d16ac-b1e4-1abc-cdff-a4536d52bcac.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/90157",
+          "author": "SIMON_",
+          "description": "写在前面「人生に、野遊びを。」六月份伊始，我独自完成北海道第七回自驾游后返回东京。趁着假期仍有富裕，想想来日三年还没去过冲绳，于是说走就走，和朋友约着买好机票，从东京出发，开启我们的冲绳十日行。冲绳本 ...查看全文",
+          "link": "https://sspai.com/post/90157",
+          "publishedOn": "2024-07-17T07:00:06.000Z",
+          "wordCount": 754,
+          "title": "日本浮生录 05：在冲绳的十天，日日与海为伴",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/02/72c6ef80a4a8fb1aa10d5ae9f83b5537.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/90525",
+          "author": "少数派编辑部",
+          "description": "少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文",
+          "link": "https://sspai.com/post/90525",
+          "publishedOn": "2024-07-17T03:30:00.000Z",
+          "wordCount": 1051,
+          "title": "具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试",
+          "imageUrl": "https://cdnfile.sspai.com/7/17/2024/article/beb7498d-d6c6-27ac-8b3d-31889ce20f49.png"
+        },
+        {
+          "id": "https://sspai.com/post/90536",
+          "author": "少数派编辑部",
+          "description": "Apple 相册应用新增「恢复」功能。查看全文",
+          "link": "https://sspai.com/post/90536",
+          "publishedOn": "2024-07-17T00:00:00.000Z",
+          "wordCount": 817,
+          "title": "派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/17/article/aa3b2597-d9d7-fb08-77fe-5180e563f657.png"
+        },
+        {
           "id": "https://sspai.com/prime/story/ppc-history-12",
           "author": "MIG",
           "description": "2001 年新年之际，Motorola 终于带着新工艺和新芯片展现在世人的眼前。但在合作伙伴的持续颓势下，苹果也逐渐将目光转向英特尔。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
@@ -1014,56 +1064,6 @@
           "wordCount": 944,
           "title": "派早报：Meta 发布 Threads API、美国司法部就订阅续费问题起诉 Adobe 等",
           "imageUrl": "https://cdnfile.sspai.com/2024/6/19/article/7e55be23-7f4f-cdb9-09d8-b6764bbe54ba.png"
-        },
-        {
-          "id": "https://sspai.com/post/89696",
-          "author": "吃派的水獭",
-          "description": "好拼、好看、好玩的积木插座。查看全文",
-          "link": "https://sspai.com/post/89696",
-          "publishedOn": "2024-06-18T09:57:42.000Z",
-          "wordCount": 728,
-          "title": "新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/15fdbc56-560f-390b-8b32-d1c59b45e9af.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89710",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/89710",
-          "publishedOn": "2024-06-18T09:15:04.000Z",
-          "wordCount": 892,
-          "title": "社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/f04bd3c7-0e69-d96e-4e5f-ddb0770a9b49.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89629",
-          "author": "化学心情下2",
-          "description": "抛开还没上线的 Apple Intelligence，macOS Sequoia 还有这些功能同样值得一试。查看全文",
-          "link": "https://sspai.com/post/89629",
-          "publishedOn": "2024-06-18T07:00:00.000Z",
-          "wordCount": 977,
-          "title": "具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/15/537a194b8899c757f2686c4ee02d855d.png"
-        },
-        {
-          "id": "https://sspai.com/post/88929",
-          "author": "37丫37",
-          "description": "我从一个两年实际房车用户的角度来聊聊房车上关于电的那些事。查看全文",
-          "link": "https://sspai.com/post/88929",
-          "publishedOn": "2024-06-18T03:32:10.000Z",
-          "wordCount": 719,
-          "title": "移动的家绕不开用电问题：聊聊房车上关于电的那些事",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/18/article/6a956056-8848-68a0-22b4-0a89091e9405.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89685",
-          "author": "少数派编辑部",
-          "description": "麦当劳停止 AI 点单测试，《死侍与金刚狼》国内定档等查看全文",
-          "link": "https://sspai.com/post/89685",
-          "publishedOn": "2024-06-18T00:15:00.000Z",
-          "wordCount": 812,
-          "title": "派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/17/article/80941857-3f05-3b9e-6b88-55a49343199c.png"
         }
       ]
     },

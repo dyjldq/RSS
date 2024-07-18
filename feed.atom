@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-17T00:42:14.797Z</updated>
+    <updated>2024-07-18T00:41:24.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop]]></title>
+        <id>https://sspai.com/post/90413</id>
+        <link href="https://sspai.com/post/90413"/>
+        <updated>2024-07-17T09:35:39.000Z</updated>
+        <summary type="html"><![CDATA[如果你习惯 Photoshop 操作风格的你，只要在 GIMP 的基础上安装 PhotoGIMP，就能丝滑过渡，迎来开源、跨平台的修图体验。查看全文]]></summary>
+        <author>
+            <name>爱拼安小匠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[少数派会员第四年：权益升级，优惠回归]]></title>
+        <id>https://sspai.com/post/90556</id>
+        <link href="https://sspai.com/post/90556"/>
+        <updated>2024-07-17T07:03:11.000Z</updated>
+        <summary type="html"><![CDATA[在派友们的共同关心和支持下，少数派会员即将走入第四年。会员服务的演变历程，我已经在去年回顾过。简而言之，我们通过几年摸索，逐渐确定了以社区为依托，以内容为锚点，以共创为目标的会员服务框架。时隔一年，结 ...查看全文]]></summary>
+        <author>
+            <name>老麦</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本浮生录 05：在冲绳的十天，日日与海为伴]]></title>
+        <id>https://sspai.com/post/90157</id>
+        <link href="https://sspai.com/post/90157"/>
+        <updated>2024-07-17T07:00:06.000Z</updated>
+        <summary type="html"><![CDATA[写在前面「人生に、野遊びを。」六月份伊始，我独自完成北海道第七回自驾游后返回东京。趁着假期仍有富裕，想想来日三年还没去过冲绳，于是说走就走，和朋友约着买好机票，从东京出发，开启我们的冲绳十日行。冲绳本 ...查看全文]]></summary>
+        <author>
+            <name>SIMON_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试]]></title>
+        <id>https://sspai.com/post/90525</id>
+        <link href="https://sspai.com/post/90525"/>
+        <updated>2024-07-17T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等]]></title>
+        <id>https://sspai.com/post/90536</id>
+        <link href="https://sspai.com/post/90536"/>
+        <updated>2024-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple 相册应用新增「恢复」功能。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2001: 让乔布斯下定转向英特尔决心的转折之年]]></title>
         <id>https://sspai.com/prime/story/ppc-history-12</id>
@@ -2844,16 +2894,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新品首发 | 玩出个性桌搭，好拼、好看、好玩的积木插座来了]]></title>
-        <id>https://sspai.com/post/89696</id>
-        <link href="https://sspai.com/post/89696"/>
-        <updated>2024-06-18T09:57:42.000Z</updated>
-        <summary type="html"><![CDATA[好拼、好看、好玩的积木插座。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI文本和图像生成高质量视频：Dream Machine 由 Luma Labs 开发的 AI 模型 可以快速将文本和图像制作成高质量、逼真的视频 👉https://www.ahhhhfs.com/59286/]]></title>
         <id>https://twitter.com/abskoop/status/1802998185822147003</id>
         <link href="https://x.com/abskoop/status/1802998185822147003"/>
@@ -2867,16 +2907,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 049 | 洛阳自驾游、派友升级中以及作者的新玩意]]></title>
-        <id>https://sspai.com/post/89710</id>
-        <link href="https://sspai.com/post/89710"/>
-        <updated>2024-06-18T09:15:04.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某摄影师 IP 营 Pro 版 课程 👉https://www.ahhhhfs.com/59291/]]></title>
         <id>https://twitter.com/abskoop/status/1802965899584184703</id>
         <link href="https://x.com/abskoop/status/1802965899584184703"/>
@@ -2885,36 +2915,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59291/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | macOS Sequoia 首个测试版上线，这些是值得你关注的新功能]]></title>
-        <id>https://sspai.com/post/89629</id>
-        <link href="https://sspai.com/post/89629"/>
-        <updated>2024-06-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[抛开还没上线的 Apple Intelligence，macOS Sequoia 还有这些功能同样值得一试。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移动的家绕不开用电问题：聊聊房车上关于电的那些事]]></title>
-        <id>https://sspai.com/post/88929</id>
-        <link href="https://sspai.com/post/88929"/>
-        <updated>2024-06-18T03:32:10.000Z</updated>
-        <summary type="html"><![CDATA[我从一个两年实际房车用户的角度来聊聊房车上关于电的那些事。查看全文]]></summary>
-        <author>
-            <name>37丫37</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：尼康发布 Z6Ⅲ 相机，软银与 AI 搜索引擎 Perplexity 达成战略合作等]]></title>
-        <id>https://sspai.com/post/89685</id>
-        <link href="https://sspai.com/post/89685"/>
-        <updated>2024-06-18T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[麦当劳停止 AI 点单测试，《死侍与金刚狼》国内定档等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
