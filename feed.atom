@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T00:41:17.046Z</updated>
+    <updated>2024-07-21T00:46:02.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能]]></title>
+        <id>https://sspai.com/post/90618</id>
+        <link href="https://sspai.com/post/90618"/>
+        <updated>2024-07-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[骁游记归来，聊聊我眼里的骁龙]]></title>
         <id>https://sspai.com/post/90638</id>
@@ -2624,27 +2634,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 18 的图标自定义有什么问题？]]></title>
-        <id>https://sspai.com/prime/story/ios-18-tinted-icon-issues</id>
-        <link href="https://sspai.com/prime/story/ios-18-tinted-icon-issues"/>
-        <updated>2024-06-21T10:10:41.000Z</updated>
-        <summary type="html"><![CDATA[千呼万唤始出来的图标变色功能，怎么就翻车了？查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/89815</id>
-        <link href="https://sspai.com/post/89815"/>
-        <updated>2024-06-21T09:57:11.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]排球少年！！垃圾场决战、[电影]头脑特工队2、[国产]天行健、[美剧]龙之家族第二季、[美剧]阿卡普高第三季、[动画]失忆投捕、[纪录片]荒野间谍第二季、[纪录片] ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Melody：我的音乐精灵 帮助你更好地管理音乐 一键解锁变灰歌曲 👉https://www.ahhhhfs.com/59332/]]></title>
         <id>https://twitter.com/abskoop/status/1804072262934630534</id>
         <link href="https://x.com/abskoop/status/1804072262934630534"/>
@@ -2655,16 +2644,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59332/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从应届生到社会人：我的职场生长经验录]]></title>
-        <id>https://sspai.com/post/89736</id>
-        <link href="https://sspai.com/post/89736"/>
-        <updated>2024-06-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[希望大家都能够保护好自己的原则，经营好自己的人设，让你游刃有余地经历所有的大风大浪，最终平安返航。查看全文]]></summary>
-        <author>
-            <name>程天冲</name>
         </author>
     </entry>
     <entry>
@@ -2686,26 +2665,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59384/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验]]></title>
-        <id>https://sspai.com/post/89739</id>
-        <link href="https://sspai.com/post/89739"/>
-        <updated>2024-06-21T03:30:37.000Z</updated>
-        <summary type="html"><![CDATA[编注：《艾尔登法环黄金树幽影》为TGA2022年度游戏《艾尔登法环》本体的扩展资料片(DLC)，游玩需要同时购入《艾尔登法环》本体和《艾尔登法环黄金树幽影》资料片。关联阅读：今年首款「满分神作」？《艾 ...查看全文]]></summary>
-        <author>
-            <name>UCG_Official</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等]]></title>
-        <id>https://sspai.com/post/89783</id>
-        <link href="https://sspai.com/post/89783"/>
-        <updated>2024-06-21T00:59:32.000Z</updated>
-        <summary type="html"><![CDATA[三星确认基于高通处理器的电脑存在兼容性问题，Apple 发布 iPad 版 Final Cut Pro 2 等程序等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>

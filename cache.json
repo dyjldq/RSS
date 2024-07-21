@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90618",
+          "author": "少数派编辑部",
+          "description": "今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文",
+          "link": "https://sspai.com/post/90618",
+          "publishedOn": "2024-07-20T07:00:00.000Z",
+          "wordCount": 1034,
+          "title": "具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能",
+          "imageUrl": "https://cdnfile.sspai.com/2024/06/15/537a194b8899c757f2686c4ee02d855d.png"
+        },
+        {
           "id": "https://sspai.com/post/90638",
           "author": "老麦",
           "description": "骁龙芯片所赋能的智能产品已经跟我们的日常生活融为一体，不知不觉地改变着我们的生活方式。查看全文",
@@ -1024,56 +1034,6 @@
           "wordCount": 949,
           "title": "WWDC24 在现场：我们听到了这些开发者的声音",
           "imageUrl": "https://cdnfile.sspai.com/2024/6/21/article/1ba52c3f-dc9e-5ba4-b9dd-2be4c72413f1.jpeg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/ios-18-tinted-icon-issues",
-          "author": "少数派编辑部",
-          "description": "千呼万唤始出来的图标变色功能，怎么就翻车了？查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/ios-18-tinted-icon-issues",
-          "publishedOn": "2024-06-21T10:10:41.000Z",
-          "wordCount": 969,
-          "title": "iOS 18 的图标自定义有什么问题？",
-          "imageUrl": "https://cdnfile.sspai.com/6/21/2024/article/51043974-5b1c-442f-0f6d-bd857569fc7d.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89815",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]排球少年！！垃圾场决战、[电影]头脑特工队2、[国产]天行健、[美剧]龙之家族第二季、[美剧]阿卡普高第三季、[动画]失忆投捕、[纪录片]荒野间谍第二季、[纪录片] ...查看全文",
-          "link": "https://sspai.com/post/89815",
-          "publishedOn": "2024-06-21T09:57:11.000Z",
-          "wordCount": 950,
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/21/article/b112eb5d-319f-034d-0f9b-862107c788fd.png"
-        },
-        {
-          "id": "https://sspai.com/post/89736",
-          "author": "程天冲",
-          "description": "希望大家都能够保护好自己的原则，经营好自己的人设，让你游刃有余地经历所有的大风大浪，最终平安返航。查看全文",
-          "link": "https://sspai.com/post/89736",
-          "publishedOn": "2024-06-21T07:00:00.000Z",
-          "wordCount": 727,
-          "title": "从应届生到社会人：我的职场生长经验录",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/19/cfaef224fc2357b3c2f992a89344e4e4.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89739",
-          "author": "UCG_Official",
-          "description": "编注：《艾尔登法环黄金树幽影》为TGA2022年度游戏《艾尔登法环》本体的扩展资料片(DLC)，游玩需要同时购入《艾尔登法环》本体和《艾尔登法环黄金树幽影》资料片。关联阅读：今年首款「满分神作」？《艾 ...查看全文",
-          "link": "https://sspai.com/post/89739",
-          "publishedOn": "2024-06-21T03:30:37.000Z",
-          "wordCount": 761,
-          "title": "时隔两年再度封神？《艾尔登法环 黄金树幽影》游玩体验",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/21/article/2f2c1176-acf4-1e01-892b-d8bdd3dc826f.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89783",
-          "author": "少数派编辑部",
-          "description": "三星确认基于高通处理器的电脑存在兼容性问题，Apple 发布 iPad 版 Final Cut Pro 2 等程序等。查看全文",
-          "link": "https://sspai.com/post/89783",
-          "publishedOn": "2024-06-21T00:59:32.000Z",
-          "wordCount": 948,
-          "title": "派早报：Anthropic 发布 Claude 3.5 Sonnet 模型等",
-          "imageUrl": "https://cdnfile.sspai.com/6/21/2024/article/e6f24e3b-c204-f41f-8069-dbeb8a765ba1.png"
         }
       ]
     },
