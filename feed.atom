@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-21T00:46:02.920Z</updated>
+    <updated>2024-07-22T00:43:49.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[看什么 Café | 日剧观看指南：电视台篇]]></title>
+        <id>https://sspai.com/post/90534</id>
+        <link href="https://sspai.com/post/90534"/>
+        <updated>2024-07-21T07:18:01.000Z</updated>
+        <summary type="html"><![CDATA[编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...查看全文]]></summary>
+        <author>
+            <name>知道分子吴先先</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能]]></title>
         <id>https://sspai.com/post/90618</id>
@@ -2542,16 +2552,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59434/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWDC24 在现场：我们听到了这些开发者的声音]]></title>
-        <id>https://sspai.com/post/89816</id>
-        <link href="https://sspai.com/post/89816"/>
-        <updated>2024-06-22T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[时间过得很快，转眼间距WWDC24首日Keynote演讲已经过去了十多天时间，不知道你对于今年AppleOS的更新有什么评价、对于今年的重头戏AppleIntelligence有哪些期待。今年WWDC ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90534",
+          "author": "知道分子吴先先",
+          "description": "编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...查看全文",
+          "link": "https://sspai.com/post/90534",
+          "publishedOn": "2024-07-21T07:18:01.000Z",
+          "wordCount": 995,
+          "title": "看什么 Café | 日剧观看指南：电视台篇",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/17/article/9f31e5e4-ebb6-efc0-e405-b2c7d97e42e9.png"
+        },
+        {
           "id": "https://sspai.com/post/90618",
           "author": "少数派编辑部",
           "description": "今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文",
@@ -1024,16 +1034,6 @@
           "wordCount": 843,
           "title": "派早报：TikTok 就反对美国禁令提交法律意见",
           "imageUrl": "https://cdnfile.sspai.com/6/24/2024/article/0e6b9209-5a79-e312-b245-34258b972d39.png"
-        },
-        {
-          "id": "https://sspai.com/post/89816",
-          "author": "waychane",
-          "description": "时间过得很快，转眼间距WWDC24首日Keynote演讲已经过去了十多天时间，不知道你对于今年AppleOS的更新有什么评价、对于今年的重头戏AppleIntelligence有哪些期待。今年WWDC ...查看全文",
-          "link": "https://sspai.com/post/89816",
-          "publishedOn": "2024-06-22T03:30:00.000Z",
-          "wordCount": 949,
-          "title": "WWDC24 在现场：我们听到了这些开发者的声音",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/21/article/1ba52c3f-dc9e-5ba4-b9dd-2be4c72413f1.jpeg"
         }
       ]
     },
