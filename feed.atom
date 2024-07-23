@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T00:43:49.752Z</updated>
+    <updated>2024-07-23T00:42:23.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/90709</id>
+        <link href="https://sspai.com/post/90709"/>
+        <updated>2024-07-22T10:29:27.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[它的反反复复、你的难以启齿：口腔溃疡二三事]]></title>
+        <id>https://sspai.com/post/90520</id>
+        <link href="https://sspai.com/post/90520"/>
+        <updated>2024-07-22T06:59:19.000Z</updated>
+        <summary type="html"><![CDATA[坏消息：大概率摆脱不了；好消息：还是有处理办法的。查看全文]]></summary>
+        <author>
+            <name>EurekaLab</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库]]></title>
+        <id>https://sspai.com/post/90665</id>
+        <link href="https://sspai.com/post/90665"/>
+        <updated>2024-07-22T03:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>玉树芝兰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：安全软件缺陷导致全球 Windows 设备故障]]></title>
+        <id>https://sspai.com/post/90680</id>
+        <link href="https://sspai.com/post/90680"/>
+        <updated>2024-07-22T01:03:37.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事安全软件缺陷导致全球Windows设备故障7月19日，由于安全软件提供商CrowdStrike的软件更新缺陷，全球约850万台Windows系统设备遭遇蓝屏故障并陷入重启循环，受影响 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看什么 Café | 日剧观看指南：电视台篇]]></title>
         <id>https://sspai.com/post/90534</id>
