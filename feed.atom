@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-23T00:42:23.166Z</updated>
+    <updated>2024-07-24T00:43:04.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务]]></title>
+        <id>https://sspai.com/post/90736</id>
+        <link href="https://sspai.com/post/90736"/>
+        <updated>2024-07-23T09:06:47.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评Ch ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机]]></title>
+        <id>https://sspai.com/post/90673</id>
+        <link href="https://sspai.com/post/90673"/>
+        <updated>2024-07-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在计算机网络安全已得到空前重视的今天，这次席卷全球的 Windows 蓝屏故障究竟是如何发生的呢？查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 使用 Docker 为 iCloud 照片生成本地备份]]></title>
+        <id>https://sspai.com/post/90641</id>
+        <link href="https://sspai.com/post/90641"/>
+        <updated>2024-07-23T03:33:19.000Z</updated>
+        <summary type="html"><![CDATA[让 iCloud 照片在本地多一重保险。查看全文]]></summary>
+        <author>
+            <name>Geekcat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：WPS 与豆包否认 AI 层面任何形式合作等]]></title>
+        <id>https://sspai.com/post/90712</id>
+        <link href="https://sspai.com/post/90712"/>
+        <updated>2024-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国家新闻出版署公示 2024 年 7 月国产网络游戏审批信息，微软称欧盟规定使其无法令 Windows 免受本次事件波及等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/90709</id>
@@ -2455,46 +2495,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         <link href="https://sspai.com/post/89894"/>
         <updated>2024-06-25T00:10:00.000Z</updated>
         <summary type="html"><![CDATA[工信部：今年 5 月家庭户均带宽可达 481Mbps，LG 宣布首款 Tandem OLED 笔记本屏幕量产。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/89889</id>
-        <link href="https://sspai.com/post/89889"/>
-        <updated>2024-06-24T10:02:49.000Z</updated>
-        <summary type="html"><![CDATA[值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的优质App，但仍有不少设计、功能、交互、体验都非常优秀的App，还没有被我们发掘和介绍。它们可能是一款老App，也可能是近期上架的新App， ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有 E3 但新作扎堆：「御三家」的 6 月谁更精彩？]]></title>
-        <id>https://sspai.com/post/89876</id>
-        <link href="https://sspai.com/post/89876"/>
-        <updated>2024-06-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[E3 展已永久停办，但其「精神」并未就此逝去，媒体们将 6 月的各种游戏发布活动归纳到一起、默契地冠名为「Not-E3」，那没有 E3 的聚光灯，今年我们又有哪些值得格外关注、可能也会引起你兴趣的作品呢？查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WWDC 横幅：可能是苹果又一项失传的手艺]]></title>
-        <id>https://sspai.com/post/89448</id>
-        <link href="https://sspai.com/post/89448"/>
-        <updated>2024-06-24T03:31:26.000Z</updated>
-        <summary type="html"><![CDATA[几条小小的横幅，其中也有苹果的匠心独运。查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：TikTok 就反对美国禁令提交法律意见]]></title>
-        <id>https://sspai.com/post/89868</id>
-        <link href="https://sspai.com/post/89868"/>
-        <updated>2024-06-24T00:56:30.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事TikTok就反对美国禁令提交法律意见据路透社报道，6月20日，TikTok就其上月针对美国政府提起的诉讼提交法律意见书，指责美国政府从2022年以后拒绝参与任何严肃谈判。该诉讼针对 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
