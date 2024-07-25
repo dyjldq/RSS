@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90753",
+          "author": "Vio",
+          "description": "注：本文为视频的文字梗概，可以点击文中的时间戳，来空降到相应的位置，也可以直接点击上方链接来观看完整视频。截止到2024年，在国内家用车市场上，新能源车已经占据了四成的份额。但是如你所见，我现在的身份 ...查看全文",
+          "link": "https://sspai.com/post/90753",
+          "publishedOn": "2024-07-24T09:30:00.000Z",
+          "wordCount": 674,
+          "title": "少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/23/19e062aafa398f43f85b6fad9118abe5.png"
+        },
+        {
+          "id": "https://sspai.com/post/90675",
+          "author": "凉糕",
+          "description": "无杖施法才叫帅！查看全文",
+          "link": "https://sspai.com/post/90675",
+          "publishedOn": "2024-07-24T07:00:00.000Z",
+          "wordCount": 858,
+          "title": "在家做一个魔法师，智能家居也可以动「手」不动口",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/22/92c97ee8a1f735137a4557345c18921c.png"
+        },
+        {
+          "id": "https://sspai.com/post/90480",
+          "author": "so1ar",
+          "description": "很多软件会将配置文件或数据文件简单粗暴地放在 Linux 家目录根文件夹里面，导致家目录充满了杂乱无章的文件或文件夹。xdg-ninja 这个项目就是专门用来解决这个问题的。查看全文",
+          "link": "https://sspai.com/post/90480",
+          "publishedOn": "2024-07-24T02:52:17.000Z",
+          "wordCount": 930,
+          "title": "用 xdg-ninja「整治」杂乱的 Linux 家目录",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/17/88bd8eb5933744ec15a3c84056da0761.png"
+        },
+        {
+          "id": "https://sspai.com/post/90755",
+          "author": "少数派编辑部",
+          "description": "Google 放弃弃用第三方 Cookie 的计划，育碧就《刺客信条：影》宣传物料争议致歉。查看全文",
+          "link": "https://sspai.com/post/90755",
+          "publishedOn": "2024-07-23T23:55:52.000Z",
+          "wordCount": 770,
+          "title": "派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/24/article/8313cb3c-1b33-4329-887c-4784d2a8fa37.png"
+        },
+        {
           "id": "https://sspai.com/post/90736",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评Ch ...查看全文",
@@ -1024,56 +1064,6 @@
           "wordCount": 882,
           "title": "派早报：新款 Beats Pill 发布、欧盟对 Apple 展开进一步 DMA 违规调查等",
           "imageUrl": "https://cdnfile.sspai.com/2024/6/26/article/bf1d074b-a219-5496-a386-9801849744c5.png"
-        },
-        {
-          "id": "https://sspai.com/post/89830",
-          "author": "玩具怪咖毛子哥",
-          "description": "一种插座，带来的 N 种玩法查看全文",
-          "link": "https://sspai.com/post/89830",
-          "publishedOn": "2024-06-25T09:00:46.000Z",
-          "wordCount": 721,
-          "title": "重燃了我折腾的心：特洛克积木插座小评",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/22/6c5dc2ddf54ed29decd437191641705c.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89919",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意以及社区产品动态呈现给大 ...查看全文",
-          "link": "https://sspai.com/post/89919",
-          "publishedOn": "2024-06-25T08:48:10.000Z",
-          "wordCount": 1006,
-          "title": "社区速递 050 | 宝宝辅食、类原生系统折腾、好眠技巧以及作者的新玩意",
-          "imageUrl": "https://cdnfile.sspai.com/25/6/2024/article/c0f00bba-809d-2033-d5e5-8a991c060381.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89105",
-          "author": "SIMON_",
-          "description": "编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时， ...查看全文",
-          "link": "https://sspai.com/post/89105",
-          "publishedOn": "2024-06-25T07:00:00.000Z",
-          "wordCount": 789,
-          "title": "印度尼西亚：从布罗莫火山到精灵坠崖的魔幻之旅",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/25/article/23a262f2-37ec-dc02-eae9-2b4a9a1982b6.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89837",
-          "author": "scarleast",
-          "description": "敬畏网络世界，敬畏安全二字。查看全文",
-          "link": "https://sspai.com/post/89837",
-          "publishedOn": "2024-06-25T03:21:17.000Z",
-          "wordCount": 1242,
-          "title": "自力更生 | 自托管前，你考虑过网络安全吗？",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/23/f65be4768e2110f725b1902d2774ad84.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89894",
-          "author": "少数派编辑部",
-          "description": "工信部：今年 5 月家庭户均带宽可达 481Mbps，LG 宣布首款 Tandem OLED 笔记本屏幕量产。查看全文",
-          "link": "https://sspai.com/post/89894",
-          "publishedOn": "2024-06-25T00:10:00.000Z",
-          "wordCount": 839,
-          "title": "派早报：微信推出高考查分渠道等整合服务，Meta 为 Quest 头显推出刷机工具等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/25/article/74dfc35e-c0da-18bc-67e4-3ed9f9d26cda.png"
         }
       ]
     },
