@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90874",
+          "author": "宛潼",
+          "description": "如果单纯地要问我 AI 翻译结果到底怎样，或者要给 AI 翻译下一个结论，那在写完这篇文章之后，我的答案是「没法回答」。查看全文",
+          "link": "https://sspai.com/post/90874",
+          "publishedOn": "2024-07-27T03:30:00.000Z",
+          "wordCount": 1038,
+          "title": "用上大模型翻译之后，机器更像人类了吗？",
+          "imageUrl": "https://cdnfile.sspai.com/7/27/2024/article/f7b7e388-c68b-e70c-66d7-64a79c8bd5d1.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/90868",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[电影]泳者之心、[电影]死侍与金刚狼、[国产]唐朝诡事录之西行、[韩剧]监察、[美剧]湖中女人、[日剧]特搜9第七季、[动画]天穗之咲稻姬、[动画]亦叶亦花、[动画]深夜 ...查看全文",
@@ -1014,56 +1024,6 @@
           "wordCount": 1044,
           "title": "自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题",
           "imageUrl": "https://cdnfile.sspai.com/2024/06/21/b091f7b5f8291b3e1a93f2196634ea4d.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/apple-intelligence-the-making-of",
-          "author": "广陵止息",
-          "description": "挖掘 Apple Intelligence 公开文档中值得一聊的细节，帮你对这个 Apple 今年最重视的领域有更深入的认识。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/apple-intelligence-the-making-of",
-          "publishedOn": "2024-06-28T09:57:58.000Z",
-          "wordCount": 1044,
-          "title": "Apple Intelligence 面面观：「果味」模型是怎样炼成的？",
-          "imageUrl": "https://cdnfile.sspai.com/6/28/2024/article/a3b7b715-d809-01bd-e49d-ad577a1adec0.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90039",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[美剧]金斯顿市长第三季、[西班牙]不再沉默、[日剧]1122好夫妻、[动画]怪人的沙拉碗、[动画]CodeGeass夺还的罗赛、[纪录片]少女邦、[纪录片]环法自行车赛： ...查看全文",
-          "link": "https://sspai.com/post/90039",
-          "publishedOn": "2024-06-28T09:54:17.000Z",
-          "wordCount": 962,
-          "title": "本周看什么 | 最近值得一看的 8 部作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/6/28/article/15a822e6-df17-e5a1-cd59-33c7b7835d0d.png"
-        },
-        {
-          "id": "https://sspai.com/post/90019",
-          "author": "板斧",
-          "description": "近期值得探讨的新游信息、游玩感受汇总，个人角度仅供参考。如果你有其他新作的游玩体验和推荐，也欢迎在评论区进行分享。查看全文",
-          "link": "https://sspai.com/post/90019",
-          "publishedOn": "2024-06-28T07:04:40.000Z",
-          "wordCount": 889,
-          "title": "本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……",
-          "imageUrl": "https://cdnfile.sspai.com/2024/06/28/aad2a8bf72bfedf1cab98d1e5ca8b2f4.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/89981",
-          "author": "拐子狼",
-          "description": "在新增了 iPhone Mirroring、SharePlay Remote Control 之外，还有这些细节更新。查看全文",
-          "link": "https://sspai.com/post/89981",
-          "publishedOn": "2024-06-28T03:30:00.000Z",
-          "wordCount": 929,
-          "title": "你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透",
-          "imageUrl": "https://cdnfile.sspai.com/6/27/2024/article/25c25c8e-9834-3bcf-bb0d-99e52cb5a86d.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90016",
-          "author": "少数派编辑部",
-          "description": "Apple 将加强对第三方配件的支持，Rabbit R1 被曝存在严重的 API 密钥泄露问题等。查看全文",
-          "link": "https://sspai.com/post/90016",
-          "publishedOn": "2024-06-28T00:45:00.000Z",
-          "wordCount": 843,
-          "title": "派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服",
-          "imageUrl": "https://cdnfile.sspai.com/6/28/2024/article/7cf106e6-bc4f-ce43-57ff-e3cd682e01f6.png"
         }
       ]
     },

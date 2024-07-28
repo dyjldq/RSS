@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-27T00:42:05.026Z</updated>
+    <updated>2024-07-28T00:46:20.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用上大模型翻译之后，机器更像人类了吗？]]></title>
+        <id>https://sspai.com/post/90874</id>
+        <link href="https://sspai.com/post/90874"/>
+        <updated>2024-07-27T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[如果单纯地要问我 AI 翻译结果到底怎样，或者要给 AI 翻译下一个结论，那在写完这篇文章之后，我的答案是「没法回答」。查看全文]]></summary>
+        <author>
+            <name>宛潼</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
         <id>https://sspai.com/post/90868</id>
@@ -2265,27 +2275,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Intelligence 面面观：「果味」模型是怎样炼成的？]]></title>
-        <id>https://sspai.com/prime/story/apple-intelligence-the-making-of</id>
-        <link href="https://sspai.com/prime/story/apple-intelligence-the-making-of"/>
-        <updated>2024-06-28T09:57:58.000Z</updated>
-        <summary type="html"><![CDATA[挖掘 Apple Intelligence 公开文档中值得一聊的细节，帮你对这个 Apple 今年最重视的领域有更深入的认识。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>广陵止息</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/90039</id>
-        <link href="https://sspai.com/post/90039"/>
-        <updated>2024-06-28T09:54:17.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[美剧]金斯顿市长第三季、[西班牙]不再沉默、[日剧]1122好夫妻、[动画]怪人的沙拉碗、[动画]CodeGeass夺还的罗赛、[纪录片]少女邦、[纪录片]环法自行车赛： ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某 高情商沟通技巧 课程 👉https://www.ahhhhfs.com/59642/]]></title>
         <id>https://twitter.com/abskoop/status/1806615772900561243</id>
         <link href="https://x.com/abskoop/status/1806615772900561243"/>
@@ -2305,36 +2294,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59637/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本月玩什么 | 觉醒深渊，以及黄金树幽影等大把 DLC……]]></title>
-        <id>https://sspai.com/post/90019</id>
-        <link href="https://sspai.com/post/90019"/>
-        <updated>2024-06-28T07:04:40.000Z</updated>
-        <summary type="html"><![CDATA[近期值得探讨的新游信息、游玩感受汇总，个人角度仅供参考。如果你有其他新作的游玩体验和推荐，也欢迎在评论区进行分享。查看全文]]></summary>
-        <author>
-            <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你可以在 Mac 上使用 iPhone 了：iOS/iPadOS 18 Beta 2 具透]]></title>
-        <id>https://sspai.com/post/89981</id>
-        <link href="https://sspai.com/post/89981"/>
-        <updated>2024-06-28T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[在新增了 iPhone Mirroring、SharePlay Remote Control 之外，还有这些细节更新。查看全文]]></summary>
-        <author>
-            <name>拐子狼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Apple Vision Pro 国行版开售、《魔兽世界》国服将于 8 月 1 日开服]]></title>
-        <id>https://sspai.com/post/90016</id>
-        <link href="https://sspai.com/post/90016"/>
-        <updated>2024-06-28T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple 将加强对第三方配件的支持，Rabbit R1 被曝存在严重的 API 密钥泄露问题等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
