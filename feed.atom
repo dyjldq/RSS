@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T00:46:20.347Z</updated>
+    <updated>2024-07-29T00:44:18.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：沈阳，共和国长子中的硬核担当]]></title>
+        <id>https://sspai.com/post/89947</id>
+        <link href="https://sspai.com/post/89947"/>
+        <updated>2024-07-28T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[历史的余温，时间的沉淀，或一头扎进胡同，或挤入街坊早市，古老而鲜活，硬核且洒脱，这就是这次沈阳之行的印象。查看全文]]></summary>
+        <author>
+            <name>feverlife</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用上大模型翻译之后，机器更像人类了吗？]]></title>
         <id>https://sspai.com/post/90874</id>
@@ -2195,16 +2205,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         <summary type="html"><![CDATA[开源的音乐服务器软件「Navidrome」配合国人开发的音乐播放器程序「音流」，搭建了属于我的音乐库。查看全文]]></summary>
         <author>
             <name>mikusa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自力更生 | 家庭自组服务的 Traefik 反代，大体思路和一些共性问题]]></title>
-        <id>https://sspai.com/post/89784</id>
-        <link href="https://sspai.com/post/89784"/>
-        <updated>2024-06-29T03:43:12.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文入选「自力更生」征文活动。本次征文选题灵活，只要围绕「自托管」展开即可，软件推荐、经验分享、技术科普、观点评论均可投稿，入围作品均可获得稿酬、Zeabur订阅、少数派PRIME会员等奖励。了 ...查看全文]]></summary>
-        <author>
-            <name>艾佛利山的杨博士</name>
         </author>
     </entry>
     <entry>
