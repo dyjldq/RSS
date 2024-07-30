@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-29T00:44:18.901Z</updated>
+    <updated>2024-07-30T00:42:48.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackBerry 如何在 9·11 事件中赢得信赖]]></title>
+        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-3</id>
+        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-3"/>
+        <updated>2024-07-29T09:56:46.000Z</updated>
+        <summary type="html"><![CDATA[在 9·11 事件中的出色表现证明了 RIM 作为电信服务商的坚实可靠，更多人开始认可和信赖 BlackBerry，这也为正被卷入诉讼的 RIM 带来了些许希望。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/90930</id>
+        <link href="https://sspai.com/post/90930"/>
+        <updated>2024-07-29T09:50:48.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[铝型材 DIY 实录：做一个和桌面更搭的电脑支架]]></title>
+        <id>https://sspai.com/post/90884</id>
+        <link href="https://sspai.com/post/90884"/>
+        <updated>2024-07-29T03:34:26.000Z</updated>
+        <summary type="html"><![CDATA[用铝型材自己做一个显示器支架。查看全文]]></summary>
+        <author>
+            <name>Cyan_Zhou</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：淘宝天猫收取软件服务费，放松仅退款规则]]></title>
+        <id>https://sspai.com/post/90898</id>
+        <link href="https://sspai.com/post/90898"/>
+        <updated>2024-07-29T01:01:13.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事淘宝天猫收取软件服务费，放松仅退款规则据《晚点》报道，7月26日，淘天集团宣布对商家规则做出密集调整，重点围绕流量分配、售后服务和平台费用展开。其中最受关注的是，淘天将开始向商家收取 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[城市漫步指南：沈阳，共和国长子中的硬核担当]]></title>
         <id>https://sspai.com/post/89947</id>
@@ -2185,26 +2226,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59661/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一年过半，给去年值得一听的专辑查缺补漏]]></title>
-        <id>https://sspai.com/post/90066</id>
-        <link href="https://sspai.com/post/90066"/>
-        <updated>2024-06-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[周末了，一起听歌吧。这次我们看看你去年有什么好专辑没听。查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navidrome：自建音乐库新选择]]></title>
-        <id>https://sspai.com/post/89420</id>
-        <link href="https://sspai.com/post/89420"/>
-        <updated>2024-06-30T03:01:41.000Z</updated>
-        <summary type="html"><![CDATA[开源的音乐服务器软件「Navidrome」配合国人开发的音乐播放器程序「音流」，搭建了属于我的音乐库。查看全文]]></summary>
-        <author>
-            <name>mikusa</name>
         </author>
     </entry>
     <entry>
