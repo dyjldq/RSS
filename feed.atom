@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-30T00:42:48.106Z</updated>
+    <updated>2024-07-31T00:35:24.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 055 | 你没见过的社区文章、一周最热评、夏日派友翻包]]></title>
+        <id>https://sspai.com/post/90990</id>
+        <link href="https://sspai.com/post/90990"/>
+        <updated>2024-07-30T09:04:17.000Z</updated>
+        <summary type="html"><![CDATA[看报了看报了。查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在曲线中寻找秩序与和谐：跟着 Apple Watch 初识产品工业设计]]></title>
+        <id>https://sspai.com/post/90882</id>
+        <link href="https://sspai.com/post/90882"/>
+        <updated>2024-07-30T06:37:25.000Z</updated>
+        <summary type="html"><![CDATA[圆角和画出圆角的曲线，这些仅仅是一个不起眼的小细节，和其它领域的设计一样，如果不在意，就无须大费周章。一旦在意，在意一根线是否完美，哪怕只是看起来完美，追求便永无止境。查看全文]]></summary>
+        <author>
+            <name>CG艺术实验室</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：闲鱼网页版回归、微软 Xbox 360 游戏商店正式关闭等]]></title>
+        <id>https://sspai.com/post/90967</id>
+        <link href="https://sspai.com/post/90967"/>
+        <updated>2024-07-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《使命召唤》外挂组织收到动视法律声明后停止业务，勒索软件与商业电邮钓鱼成二季度主要网络安全威胁等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackBerry 如何在 9·11 事件中赢得信赖]]></title>
         <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-3</id>
@@ -2031,16 +2061,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/90113</id>
-        <link href="https://sspai.com/post/90113"/>
-        <updated>2024-07-01T10:01:17.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DrissionPage：基于 python 的网页自动化工具 语法简洁 对新手友好 既能控制浏览器，也能收发数据包 可兼顾浏览器自动化的便利性和 requests 的高效率 👉https...]]></title>
         <id>https://twitter.com/abskoop/status/1807714149688070594</id>
         <link href="https://x.com/abskoop/status/1807714149688070594"/>
@@ -2055,26 +2075,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[带在身边的一缕风，让夏天更快乐的 4 款小风扇]]></title>
-        <id>https://sspai.com/post/90075</id>
-        <link href="https://sspai.com/post/90075"/>
-        <updated>2024-07-01T08:31:45.000Z</updated>
-        <summary type="html"><![CDATA[天气已经开始日渐炎热，除了空调能够拯救我们于水深火热之外，在工位、宿舍等许多场景一款可靠的小风扇还是必不可少的夏天单品，我们为你带来了4款素乐的夏日新品，涵盖了不同使用场景和用途，希望可以让你的夏天更 ...查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩音箱，有线和 AirPlay 我全都要：飞傲 SR11]]></title>
-        <id>https://sspai.com/post/89834</id>
-        <link href="https://sspai.com/post/89834"/>
-        <updated>2024-07-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如果你有和我类似的需求不妨考虑 SR11 这样一款产品，花小钱却可以真正搭建起一个高品质的数播系统。查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[140款精美荣誉证书模板 包含图片+PSD+CDR+Word模板 👉https://www.ahhhhfs.com/59778/]]></title>
         <id>https://twitter.com/abskoop/status/1807664181191061736</id>
         <link href="https://x.com/abskoop/status/1807664181191061736"/>
@@ -2084,26 +2084,6 @@ Swift, Rust, Ruby, Kotlin, TS, Dart等代码
 👉https://www.ahhhhfs.com/59778/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想去的地方很多？用 Tripsy 轻松制定旅行计划]]></title>
-        <id>https://sspai.com/post/89705</id>
-        <link href="https://sspai.com/post/89705"/>
-        <updated>2024-07-01T03:36:00.000Z</updated>
-        <summary type="html"><![CDATA[编注我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。虽然我早已 ...查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：多平台宣布处置挑动极端民族主义情绪有害信息]]></title>
-        <id>https://sspai.com/post/90090</id>
-        <link href="https://sspai.com/post/90090"/>
-        <updated>2024-07-01T01:01:38.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事多平台宣布处置挑动极端民族主义情绪有害信息据澎湃新闻报道，近日，多个互联网平台发布「处置挑动极端民族主义情绪有害信息」的公告，其中腾讯、百度、网易等于29日发布，Bilibili、抖 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
