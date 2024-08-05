@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90997",
+          "author": "二一的笔记",
+          "description": "这篇文章介绍了Notion最新动态，如中文版预计2024年8月推出；全球用户突破1亿；AI功能升级采用GPT-4；推出Calendar安卓版；内置完整模板市场；可能开发Mail服务等。这些更新显示Notion正从笔记工具向全面生产力平台转变，持续扩展功能和用户群。\n想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》\n[......]\n查看全文\n本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。",
+          "link": "https://sspai.com/post/90997",
+          "publishedOn": "2024-08-04T12:56:11.000Z",
+          "wordCount": 939,
+          "title": "七月 Notion 动态：中文版或将上线、AI 功能迎来更新",
+          "imageUrl": "https://cdnfile.sspai.com/2024/7/30/article/673210b7-2bd7-be16-f2c4-1cf365347a4b.jpeg"
+        },
+        {
           "id": "https://sspai.com/post/90973",
           "author": "挨石",
           "description": "各位少数派的读者们，大家好，为了创造更多和大家面对面交流的机会，少数派门店从7月开始将每月组织至少一次的线下活动。第一期，我们先来了一场轻松的音乐活动，和大家过了一个放松、愉快又能略有收获的周末下午。 ...查看全文",
@@ -964,26 +974,6 @@
           "wordCount": 743,
           "title": "「都市丽人」小跑一夏：我如何让跑步成为习惯",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/3/article/048a5188-661f-4993-3066-6176fc576114.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90223",
-          "author": "pseudoyu",
-          "description": "这些系统或是工具软件其实终究只能辅助我们进行信息管理和输出，并不能代替我们思考，但构建知识管理系统在取悦自己的同时，也能够让思考变得更加高效，悦己才能达人，从而产出更有价值的输出。查看全文",
-          "link": "https://sspai.com/post/90223",
-          "publishedOn": "2024-07-06T07:00:00.000Z",
-          "wordCount": 906,
-          "title": "Heptabase + Logseq + Readwise：我的知识管理与输出实践",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/5/article/17b7199b-6d74-b209-65cc-32a898302ef3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90240",
-          "author": "吃派的水獭",
-          "description": "少数派门店线下活动第一场，欢迎大家来玩世界音乐～查看全文",
-          "link": "https://sspai.com/post/90240",
-          "publishedOn": "2024-07-06T02:41:52.000Z",
-          "wordCount": 726,
-          "title": "线下活动：节奏与世界｜Asalato 制作工坊及世界音乐即兴音乐会",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/5/article/0cbf00f7-3b31-b632-ed04-de5d816aa50d.jpeg"
         }
       ]
     },

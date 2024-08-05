@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-04T00:46:23.912Z</updated>
+    <updated>2024-08-05T00:44:14.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[七月 Notion 动态：中文版或将上线、AI 功能迎来更新]]></title>
+        <id>https://sspai.com/post/90997</id>
+        <link href="https://sspai.com/post/90997"/>
+        <updated>2024-08-04T12:56:11.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章介绍了Notion最新动态，如中文版预计2024年8月推出；全球用户突破1亿；AI功能升级采用GPT-4；推出Calendar安卓版；内置完整模板市场；可能开发Mail服务等。这些更新显示Notion正从笔记工具向全面生产力平台转变，持续扩展功能和用户群。
+想在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》
+[......]
+查看全文
+本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>二一的笔记</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[线下活动·七夕特别版｜就让花草替我表白]]></title>
         <id>https://sspai.com/post/90973</id>
@@ -1587,26 +1601,6 @@ Intel 首席执行官 Pat Gelsinger 声称，此举是公司复兴计划的一�
 👉https://www.ahhhhfs.com/59957/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heptabase + Logseq + Readwise：我的知识管理与输出实践]]></title>
-        <id>https://sspai.com/post/90223</id>
-        <link href="https://sspai.com/post/90223"/>
-        <updated>2024-07-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[这些系统或是工具软件其实终究只能辅助我们进行信息管理和输出，并不能代替我们思考，但构建知识管理系统在取悦自己的同时，也能够让思考变得更加高效，悦己才能达人，从而产出更有价值的输出。查看全文]]></summary>
-        <author>
-            <name>pseudoyu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线下活动：节奏与世界｜Asalato 制作工坊及世界音乐即兴音乐会]]></title>
-        <id>https://sspai.com/post/90240</id>
-        <link href="https://sspai.com/post/90240"/>
-        <updated>2024-07-06T02:41:52.000Z</updated>
-        <summary type="html"><![CDATA[少数派门店线下活动第一场，欢迎大家来玩世界音乐～查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
         </author>
     </entry>
     <entry>
