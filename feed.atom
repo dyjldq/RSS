@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-09T00:43:23.251Z</updated>
+    <updated>2024-08-10T00:42:52.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「就像是三岁孩子的玩具」：黑莓如何在触屏时代失宠]]></title>
+        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-4</id>
+        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-4"/>
+        <updated>2024-08-09T09:57:37.000Z</updated>
+        <summary type="html"><![CDATA[2008 年，BlackBerry 推出触屏手机 Storm 对抗 iPhone，却因技术缺陷导致百万台设备故障。这次失败不仅造成 5 亿美元损失，更成为 RIM 由盛转衰的转折点。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
+        <id>https://sspai.com/post/91324</id>
+        <link href="https://sspai.com/post/91324"/>
+        <updated>2024-08-09T09:50:02.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[韩剧]好搭档、[英剧]狐狸女士第二季、[电影]旅行者的需求、[动画]好想告诉你第三季、[纪录片]这就是我：席琳·狄翁、[纪录片]西蒙·拜尔斯：再战奥运、[纪录片]小动物大 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六年六万六千公里：这是我的特斯拉 Model 3「完整版」体验]]></title>
+        <id>https://sspai.com/post/91307</id>
+        <link href="https://sspai.com/post/91307"/>
+        <updated>2024-08-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[六年驾驶治好了我的里程焦虑吗？查看全文]]></summary>
+        <author>
+            <name>越3nh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 手机不支持内录？用 Reaper 四步抢救录音效果]]></title>
+        <id>https://sspai.com/post/91097</id>
+        <link href="https://sspai.com/post/91097"/>
+        <updated>2024-08-09T03:20:22.000Z</updated>
+        <summary type="html"><![CDATA[大材也能小用，通过 REAPER 的后期编辑工具，将清晰的录音带回耳畔。查看全文]]></summary>
+        <author>
+            <name>爱拼安小匠</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Disney+ 将开始严厉打击密码共享行为、联发科技发布 Helio G100]]></title>
+        <id>https://sspai.com/post/91308</id>
+        <link href="https://sspai.com/post/91308"/>
+        <updated>2024-08-09T00:24:58.000Z</updated>
+        <summary type="html"><![CDATA[iOS 内置「地图」App 在日本东京上线实时交通信息、《黑神话：悟空》发布最终预告片等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有奖征集：分享你的特洛克 Pixel 65 #桌面小世界#]]></title>
         <id>https://sspai.com/post/91172</id>
@@ -1344,46 +1395,6 @@ Intel 首席执行官 Pat Gelsinger 声称，此举是公司复兴计划的一�
         <link href="https://sspai.com/post/90417"/>
         <updated>2024-07-12T00:55:51.000Z</updated>
         <summary type="html"><![CDATA[影石发布新款 AI 手机稳定器 Flow Pro，iOS 版 Word 将支持 PDF 转换 docx 文档等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 187｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/90396</id>
-        <link href="https://sspai.com/post/90396"/>
-        <updated>2024-07-11T09:28:44.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halide 团队全新力作，专业视频更轻松拍：Kino]]></title>
-        <id>https://sspai.com/post/90314</id>
-        <link href="https://sspai.com/post/90314"/>
-        <updated>2024-07-11T07:05:04.000Z</updated>
-        <summary type="html"><![CDATA[熟悉iPhone手机摄影的朋友对Halide这款应用大多不会感到陌生，这款应用由来自Apple前设计师组成的团队Lux打造，获得了2022年Apple设计大奖。如果你曾经上手过Halide，那一定会对 ...查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诸事皆橙：半年时间个人物品的「黑橙」配色改造]]></title>
-        <id>https://sspai.com/post/90236</id>
-        <link href="https://sspai.com/post/90236"/>
-        <updated>2024-07-11T03:33:26.000Z</updated>
-        <summary type="html"><![CDATA[一切的开始，是春节的时候，情绪不太好，想在新年给自己讨个「诸事皆橙」的好彩头。查看全文]]></summary>
-        <author>
-            <name>孙彬</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：三星推出多款新品、索尼发布 ZV-E10 II 相机等]]></title>
-        <id>https://sspai.com/post/90378</id>
-        <link href="https://sspai.com/post/90378"/>
-        <updated>2024-07-11T00:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Xbox Game Pass 系列订阅价格上涨、Spotify 推出播客评论功能、三家公司联合成立 Palworld 娱乐等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
