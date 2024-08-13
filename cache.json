@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91399",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/91399",
+          "publishedOn": "2024-08-12T09:58:28.000Z",
+          "wordCount": 872,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/12/article/af274d41-486c-b859-3add-a7f4f48f3ade.png"
+        },
+        {
+          "id": "https://sspai.com/post/91385",
+          "author": "克莱德",
+          "description": "立秋也是秋，又是一年 Google 秋季硬件发布会，为什么今年提前了，今年又有哪些看点？查看全文",
+          "link": "https://sspai.com/post/91385",
+          "publishedOn": "2024-08-12T07:00:00.000Z",
+          "wordCount": 1060,
+          "title": "自古逢秋多爆料，今年谷产格外早：Google 秋季硬件发布会前瞻",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/12/article/49586a70-5267-a299-cd19-d0db7f0fdf6f.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91360",
+          "author": "程天冲",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/91360",
+          "publishedOn": "2024-08-12T03:30:00.000Z",
+          "wordCount": 791,
+          "title": "我心中的巴黎奥运会之最——一个线上观众的时差两周的盘点",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/11/cef334c7c738648448543beceac5257a.png"
+        },
+        {
+          "id": "https://sspai.com/post/91376",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事北京发布直播带货合规指引据新华社报道，北京市市场监管局8月9日发布了《北京市直播带货合规指引》，对直播带货平台经营者、直播间运营者、直播带货人员和服务机构等提出具体合规要求，并明确覆 ...查看全文",
+          "link": "https://sspai.com/post/91376",
+          "publishedOn": "2024-08-12T00:50:00.000Z",
+          "wordCount": 1001,
+          "title": "派早报：北京发布直播带货合规指引",
+          "imageUrl": "https://cdnfile.sspai.com/8/12/2024/article/c3393d28-bd16-630c-b56a-78abac4f1227.png"
+        },
+        {
           "id": "https://sspai.com/post/91186",
           "author": "ElijahLee",
           "description": "老牌RSS阅读器Unread迎来了4.0版本的更新，伴随着这次更新，它也推出了基于AppKit和SwiftUI开发的macOS版本，支持桌面小组件、链接稍后读服务等功能。赏心悦目的文章列表Unread ...查看全文",
@@ -954,16 +994,6 @@
           "wordCount": 918,
           "title": "派早报：欧盟 AI 法案发布最终文本，八月生效",
           "imageUrl": "https://cdnfile.sspai.com/7/15/2024/article/129b4a7b-52be-0591-0cbd-057119eef663.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/sv-anecdotes-10",
-          "author": "Kiririn",
-          "description": "本系列前文回顾：01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 | 09\n2024 年 6 月 4 日，Intel 发表声明称，已经与资产管理公司 Apollo Global Management 达成协议，将与爱尔兰 Fab 34 芯片工厂的合资企业 49% 股份作价 110 亿美元出售。\nFab 34 是 Intel 旗下最先进的芯片工厂之一，也是 Intel 的欧洲布局中唯一使用 EUV 光刻技术的芯片工厂。该工厂主要为 Intel 生产晶圆，亦有生产服务器芯片的计划。交易完成后，Intel 仍会保留 51% 的股权，从而维持自身的控股权。\nIntel 首席执行官 Pat Gelsinger 声称，此举是公司复兴计划的一部分，旨在减轻公司财务方面的压力。出售股权所获资金将被投资于新的半导体综合体项目，进而提升自身制造业务的能力，吸引更多的外包客户。不过，由于此前 Intel 商业成绩不尽人意，市场份额的持续流失，外界普遍继续担忧 Intel 前景。上述声明发出后，Intel 股价继续下跌，在 2024 年累计跌幅已有 40%。\n\n    2022 年，正在扩建的 Fab 34 工厂。图源 X@Intel Ireland\n\n中文互联网一直流传着所谓「三流企业卖产品，二流企业卖服务，一流企业卖概念，超级企业卖大楼」的诙谐说法；Intel 卖工厂的新闻让很多人联想到了 2016 年「AMD 出售总部大楼」的传闻。（虽然这则流传已久的消息已被证实为乌龙，但是 AMD 在陷入困境的数年间确实有通过出售房地产和工厂以维持发展的无奈之举。）\n面对 AMD 和 NVIDIA 等直接的竞争对手，Intel 的转型战略依然充满了未知数。\n数字不是一切\n2006 年，AMD 和 Intel 围绕着 64 位体系和多核心处理器展开了新一轮的竞争。Athlon 64…",
-          "link": "https://sspai.com/prime/story/sv-anecdotes-10",
-          "publishedOn": "2024-07-14T07:19:00.000Z",
-          "wordCount": 1575,
-          "title": "决胜时刻，Intel 举棋若定；绝处逢生，AMD 备战未来",
-          "imageUrl": "https://cdnfile.sspai.com/6/17/2024/article/d05b90b8-b150-906e-ba4f-f2ebfe19379f.jpeg"
         }
       ]
     },
