@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/prime/story/izakaya-at-home-base",
+          "author": "Kasper",
+          "description": "得闲饮酒，理性贪杯。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/izakaya-at-home-base",
+          "publishedOn": "2024-08-13T09:59:15.000Z",
+          "wordCount": 1034,
+          "title": "家庭居酒屋备货指南：基酒篇",
+          "imageUrl": "https://cdnfile.sspai.com/8/13/2024/article/e2510fd1-f678-3c03-94c8-4397634a77ca.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91242",
+          "author": "YellowColr",
+          "description": "说起「蝶式键盘」你会想到什么？查看全文",
+          "link": "https://sspai.com/post/91242",
+          "publishedOn": "2024-08-13T09:30:00.000Z",
+          "wordCount": 1218,
+          "title": "蝴蝶终飞去：蝶式键盘的前世今生",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/07/0e5f44b3f4be52f7a0ca704a6053a8fa.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91358",
+          "author": "Kiririn",
+          "description": "16 年过去，那个怪奇小世界的故事终于能继续前行。查看全文",
+          "link": "https://sspai.com/post/91358",
+          "publishedOn": "2024-08-13T07:00:00.000Z",
+          "wordCount": 920,
+          "title": "App+1 | 16 年前「没人玩」的游戏，续作也不按套路走：粘粘世界 2",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/11/e3bffdc417741cc9bc1403b1c3ee5d6b.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/91356",
+          "author": "mivansaka",
+          "description": "兜兜转转了这么多年，我暂时性地找到了能够满足我需求的背包。查看全文",
+          "link": "https://sspai.com/post/91356",
+          "publishedOn": "2024-08-13T02:59:48.000Z",
+          "wordCount": 745,
+          "title": "装满数字生活与青春：我的背包进化史",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/11/ac2959ab7a0698aff8238063f63b7775.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91414",
+          "author": "少数派编辑部",
+          "description": "微软「画图 3D」应用将于 11 月 4 日停更并下架，Meta 与环球音乐更新版权合作协议。查看全文",
+          "link": "https://sspai.com/post/91414",
+          "publishedOn": "2024-08-13T00:00:00.000Z",
+          "wordCount": 844,
+          "title": "派早报：TOM 邮箱将停止免费邮箱服务，蓝洞收购《完美音浪》开发商等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/13/article/1428f449-0323-e912-1ae6-67afa2a918d3.png"
+        },
+        {
           "id": "https://sspai.com/post/91399",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -954,46 +1004,6 @@
           "wordCount": 879,
           "title": "派早报：Google 终止 Android 5.X 的 Google Play 服务支持等",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/16/article/d5d1d7bf-0698-3f2c-1583-39fc5d38f1dd.png"
-        },
-        {
-          "id": "https://sspai.com/post/90492",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/90492",
-          "publishedOn": "2024-07-15T09:50:40.000Z",
-          "wordCount": 895,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/15/article/db85096f-ab9a-a9ee-1ef6-2633f5b8d4b1.png"
-        },
-        {
-          "id": "https://sspai.com/post/90194",
-          "author": "爱拼安小匠",
-          "description": "在这篇文章里，且看我抽丝剥茧，抓住 Linux 打印机配置问题的本质，带大家一步步完成配置，在 Linux 下畅享优质、便捷的打印体验。查看全文",
-          "link": "https://sspai.com/post/90194",
-          "publishedOn": "2024-07-15T07:02:24.000Z",
-          "wordCount": 1543,
-          "title": "终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/15/article/48aa4cdd-2842-18a8-0e1a-40a36af77052.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/89269",
-          "author": "丁东东",
-          "description": "什么时候才算读好了书？查看全文",
-          "link": "https://sspai.com/post/89269",
-          "publishedOn": "2024-07-15T03:34:00.000Z",
-          "wordCount": 667,
-          "title": "读了等于没读？可能是读书笔记的方法错了",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/15/article/a9d93b07-fda7-9ef5-ea3f-d135d8a80bb3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90474",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事欧盟AI法案发布最终文本，八月生效7月12日，欧盟发布了经过两年反复讨论并于今年三月通过的《人工智能法》全文，宣布该法将于8月1日生效。这意味着在欧盟运营的科技公司从八月起将有义务分 ...查看全文",
-          "link": "https://sspai.com/post/90474",
-          "publishedOn": "2024-07-15T01:01:08.000Z",
-          "wordCount": 918,
-          "title": "派早报：欧盟 AI 法案发布最终文本，八月生效",
-          "imageUrl": "https://cdnfile.sspai.com/7/15/2024/article/129b4a7b-52be-0591-0cbd-057119eef663.png"
         }
       ]
     },
