@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:43:47.155Z</updated>
+    <updated>2024-08-15T00:42:05.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一台更实用的「iPhone」：小米 14 半年体验]]></title>
+        <id>https://sspai.com/post/89643</id>
+        <link href="https://sspai.com/post/89643"/>
+        <updated>2024-08-14T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[当手机同质化的现在，更多的人选购新设备时，其实更关心它如何更加高效解决日常的使用需求。查看全文]]></summary>
+        <author>
+            <name>洛世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 057 | 你没见过的社区文章、一周最热评、派友七月买了啥]]></title>
+        <id>https://sspai.com/post/91435</id>
+        <link href="https://sspai.com/post/91435"/>
+        <updated>2024-08-14T07:42:06.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。本期图多字多 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 硬件发布会回顾：Gemini 分量管饱，AI 体验保真]]></title>
+        <id>https://sspai.com/post/91450</id>
+        <link href="https://sspai.com/post/91450"/>
+        <updated>2024-08-14T03:01:23.000Z</updated>
+        <summary type="html"><![CDATA[每年的 Google 硬件发布会就像是「对答案」，并且我们会发现自己之前收到的「小抄」可能是学霸送出来的。查看全文]]></summary>
+        <author>
+            <name>克莱德</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Google 发布 Pixel 9 系列等多款新品、Pantone 7 发布等]]></title>
+        <id>https://sspai.com/post/91445</id>
+        <link href="https://sspai.com/post/91445"/>
+        <updated>2024-08-14T00:28:57.000Z</updated>
+        <summary type="html"><![CDATA[DOS 模拟器 iDOS 3 现已上架 App Store，Apple 强制 Patreon 使用 IAP 交易等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[家庭居酒屋备货指南：基酒篇]]></title>
         <id>https://sspai.com/prime/story/izakaya-at-home-base</id>
@@ -1236,59 +1276,6 @@
         <link href="https://sspai.com/post/90536"/>
         <updated>2024-07-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apple 相册应用新增「恢复」功能。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2001: 让乔布斯下定转向英特尔决心的转折之年]]></title>
-        <id>https://sspai.com/prime/story/ppc-history-12</id>
-        <link href="https://sspai.com/prime/story/ppc-history-12"/>
-        <updated>2024-07-16T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[2001 年新年之际，Motorola 终于带着新工艺和新芯片展现在世人的眼前。但在合作伙伴的持续颓势下，苹果也逐渐将目光转向英特尔。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>MIG</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 053 | 一周最热评、派友六月买了啥汇总]]></title>
-        <id>https://sspai.com/post/90521</id>
-        <link href="https://sspai.com/post/90521"/>
-        <updated>2024-07-16T09:12:52.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评任大 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS / iPadOS 18 Public Beta 公测版来了：升降级指南 & 注意事项]]></title>
-        <id>https://sspai.com/post/90227</id>
-        <link href="https://sspai.com/post/90227"/>
-        <updated>2024-07-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[7 月 16 日，Apple 推送了 iOS 18、iPadOS 18 的首个 Public Beta 公开测试版本，用户可以注册参与 Apple Beta 版软件计划更新公测版系统，提前体验新功能。
-
-由于测试版系统可能存在影响正常使用的 Bug，对于软件的兼容性也无法保证，我们不推荐你现在将主要设备升级到 Public Beta 版本。如果你有合适的设备，想在第一时间体验新系统功能，少数派帮你准备了这份升降级指南。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[系统抽风蹦出的「火星文」，如何帮助推动本地化？]]></title>
-        <id>https://sspai.com/post/90269</id>
-        <link href="https://sspai.com/post/90269"/>
-        <updated>2024-07-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[翻译搞得好，不再锟斤考。查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Google 终止 Android 5.X 的 Google Play 服务支持等]]></title>
-        <id>https://sspai.com/post/90502</id>
-        <link href="https://sspai.com/post/90502"/>
-        <updated>2024-07-16T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[中国联通开测 Wi-Fi 通话，Apple 批准首个 iOS 的 PC 系统模拟器 UTM SE 等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
