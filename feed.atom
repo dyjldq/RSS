@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-15T00:42:05.272Z</updated>
+    <updated>2024-08-16T00:43:17.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事]]></title>
+        <id>https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae</id>
+        <link href="https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae"/>
+        <updated>2024-08-15T09:55:28.000Z</updated>
+        <summary type="html"><![CDATA[以平台和浏览器为分类标准，尽可能全面地介绍本文写作时（2024 年 8 月）我们认为较值得选择的网页广告屏蔽方案。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新玩意 191｜少数派的编辑们最近买了啥？]]></title>
+        <id>https://sspai.com/post/91507</id>
+        <link href="https://sspai.com/post/91507"/>
+        <updated>2024-08-15T09:11:54.000Z</updated>
+        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不当赛博文盲，N 个常见问题解决方案不求人]]></title>
+        <id>https://sspai.com/post/91469</id>
+        <link href="https://sspai.com/post/91469"/>
+        <updated>2024-08-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[引言如今的计算机和手机已经成为人们日常生活中不可或缺的一部分，说是「赛博义肢」也不过分。生活中借助手机购物、聊天、娱乐的场景数不胜数，手机早已脱离通话专属设备的定义范畴。坐到电脑前，我们撰写文档、统计 ...查看全文]]></summary>
+        <author>
+            <name>Voyager_1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长辈们的健康也能被量化：聊聊《中国健康老年人标准》]]></title>
+        <id>https://sspai.com/post/91412</id>
+        <link href="https://sspai.com/post/91412"/>
+        <updated>2024-08-15T02:59:35.000Z</updated>
+        <summary type="html"><![CDATA[见证我们无数成长故事的爷爷奶奶、外公外婆等长辈，我们希望她们能够平平安安、健健康康地享受人间福乐。或许，这并不是一个不切实际的幻想。查看全文]]></summary>
+        <author>
+            <name>桌沿奇思</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 确认将开放 NFC 功能、SteamOS 将支持第三方掌机等]]></title>
+        <id>https://sspai.com/post/91485</id>
+        <link href="https://sspai.com/post/91485"/>
+        <updated>2024-08-15T00:18:02.000Z</updated>
+        <summary type="html"><![CDATA[中国移动联合 SK 电信推出中韩电话卡、多省试点国家预警信息强制提醒触达平台等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一台更实用的「iPhone」：小米 14 半年体验]]></title>
         <id>https://sspai.com/post/89643</id>
@@ -1228,56 +1279,6 @@
         <summary type="html"><![CDATA[转眼间，曾经还在宿舍里用HomeBridge苦苦折腾让一个灯泡接入AppleHomeKit的小屁孩，现在已经住进了一个近百平的小区精装房。从一个设备和几平米的宿舍，演进到一整套智能家居系统和三室两厅的 ...查看全文]]></summary>
         <author>
             <name>宛潼</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | PhotoGIMP：让开源的 GIMP「变身」Photoshop]]></title>
-        <id>https://sspai.com/post/90413</id>
-        <link href="https://sspai.com/post/90413"/>
-        <updated>2024-07-17T09:35:39.000Z</updated>
-        <summary type="html"><![CDATA[如果你习惯 Photoshop 操作风格的你，只要在 GIMP 的基础上安装 PhotoGIMP，就能丝滑过渡，迎来开源、跨平台的修图体验。查看全文]]></summary>
-        <author>
-            <name>爱拼安小匠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派会员第四年：权益升级，优惠回归]]></title>
-        <id>https://sspai.com/post/90556</id>
-        <link href="https://sspai.com/post/90556"/>
-        <updated>2024-07-17T07:03:11.000Z</updated>
-        <summary type="html"><![CDATA[在派友们的共同关心和支持下，少数派会员即将走入第四年。会员服务的演变历程，我已经在去年回顾过。简而言之，我们通过几年摸索，逐渐确定了以社区为依托，以内容为锚点，以共创为目标的会员服务框架。时隔一年，结 ...查看全文]]></summary>
-        <author>
-            <name>老麦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本浮生录 05：在冲绳的十天，日日与海为伴]]></title>
-        <id>https://sspai.com/post/90157</id>
-        <link href="https://sspai.com/post/90157"/>
-        <updated>2024-07-17T07:00:06.000Z</updated>
-        <summary type="html"><![CDATA[写在前面「人生に、野遊びを。」六月份伊始，我独自完成北海道第七回自驾游后返回东京。趁着假期仍有富裕，想想来日三年还没去过冲绳，于是说走就走，和朋友约着买好机票，从东京出发，开启我们的冲绳十日行。冲绳本 ...查看全文]]></summary>
-        <author>
-            <name>SIMON_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | iOS 18 Public Beta 公测版来了，这些功能值得一试]]></title>
-        <id>https://sspai.com/post/90525</id>
-        <link href="https://sspai.com/post/90525"/>
-        <updated>2024-07-17T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：魅族发布魅蓝 20 AI 手机、Claude 推出 Android 版应用等]]></title>
-        <id>https://sspai.com/post/90536</id>
-        <link href="https://sspai.com/post/90536"/>
-        <updated>2024-07-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple 相册应用新增「恢复」功能。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
