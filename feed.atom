@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-16T00:43:17.652Z</updated>
+    <updated>2024-08-17T00:42:09.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
+        <id>https://sspai.com/post/91553</id>
+        <link href="https://sspai.com/post/91553"/>
+        <updated>2024-08-16T09:41:48.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]异形：夺命舰、[电影]地球脉动：极限生存、[电影]名侦探柯南：百万美元的五菱星、[电影]人间诗句、🔦[电影]填词L、[美剧]海豹突击队第七季/最终季、[真人秀]Th ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案]]></title>
+        <id>https://sspai.com/post/91248</id>
+        <link href="https://sspai.com/post/91248"/>
+        <updated>2024-08-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[面对大量的照片导出，你是否有种无从下手的感觉？不妨试试无需订阅就能免费使用的 Lightroom Classic 吧。查看全文]]></summary>
+        <author>
+            <name>谷丰</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于猴痘病毒，你现在需要了解这些]]></title>
+        <id>https://sspai.com/post/74231</id>
+        <link href="https://sspai.com/post/74231"/>
+        <updated>2024-08-16T03:38:45.000Z</updated>
+        <summary type="html"><![CDATA[猴痘病毒在欧美地区爆发，你对这个病毒的理解正确吗？这篇文章为你破除一些关于猴痘的迷思。查看全文]]></summary>
+        <author>
+            <name>一柳繁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Beats Studio Pro 推出 Kim 特别版新配色等]]></title>
+        <id>https://sspai.com/post/91515</id>
+        <link href="https://sspai.com/post/91515"/>
+        <updated>2024-08-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Steam 将降低笑话、梗和字符画评测排序，微软将在 Windows 11 更新中默认启用 BitLocker 等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事]]></title>
         <id>https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae</id>
@@ -1239,46 +1279,6 @@
         <summary type="html"><![CDATA[Apple 回应其开源模型使用 YouTube 资源训练事件，微软发布 iOS/Android 版 Microsoft Designer 应用等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 188｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/90584</id>
-        <link href="https://sspai.com/post/90584"/>
-        <updated>2024-07-18T09:12:00.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为了更懂你的 watchOS 11 做了什么？我们与 Apple 工程师聊了聊]]></title>
-        <id>https://sspai.com/post/90588</id>
-        <link href="https://sspai.com/post/90588"/>
-        <updated>2024-07-18T08:37:11.000Z</updated>
-        <summary type="html"><![CDATA[第一代AppleWatch发布于2015年，距今已经走过了10个年头。而在这十年间，我们也看到AppleWatch作为一款专为你健康打造的可穿戴设备，硬件功能越来越全面，软件体验也越来越丰富。在刚刚过 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | iPadOS 18：史诗级更新‍「计算器」‍来了，还有这些值得一试的亮点功能]]></title>
-        <id>https://sspai.com/post/90553</id>
-        <link href="https://sspai.com/post/90553"/>
-        <updated>2024-07-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年的 iPadOS 18 更新总算没落下 iOS 18 里的新功能，我们帮你整理出了 iPadOS 18 中这些值得关注的新特性。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精装房里「塞满」Apple Home 智能家居，这是我的思路与方案]]></title>
-        <id>https://sspai.com/post/90442</id>
-        <link href="https://sspai.com/post/90442"/>
-        <updated>2024-07-18T02:58:13.000Z</updated>
-        <summary type="html"><![CDATA[转眼间，曾经还在宿舍里用HomeBridge苦苦折腾让一个灯泡接入AppleHomeKit的小屁孩，现在已经住进了一个近百平的小区精装房。从一个设备和几平米的宿舍，演进到一整套智能家居系统和三室两厅的 ...查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
         </author>
     </entry>
     <entry>
