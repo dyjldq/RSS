@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-17T00:42:09.433Z</updated>
+    <updated>2024-08-18T00:47:01.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[从游泳、骑行到跑步：浅析奥运金牌背后的科技变革]]></title>
+        <id>https://sspai.com/post/91394</id>
+        <link href="https://sspai.com/post/91394"/>
+        <updated>2024-08-17T12:53:05.000Z</updated>
+        <summary type="html"><![CDATA[更高、更快、更远，这是奥林匹克精神，巴黎奥运上各项世界纪录接连被打破，除了高涨的民族情绪外，这些世界纪录和我们又有什么关系呢？作为一个热爱运动的数据器材党，今天以我熟悉的游泳、骑行和跑步为切入点浅析一 ...查看全文]]></summary>
+        <author>
+            <name>写小黑文的Alex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑神话：悟空》评测：敢问路在何方，路在脚下]]></title>
+        <id>https://sspai.com/post/91560</id>
+        <link href="https://sspai.com/post/91560"/>
+        <updated>2024-08-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《黑神话：悟空》是真正意义上放在全球市场也极具竞争力的国产游戏，我相信它会成为今年年度游戏的有力竞争者，而游戏科学也将在此役之后毫无疑问成为全球顶尖 ARPG 游戏开发商之一。查看全文]]></summary>
+        <author>
+            <name>IGN中国</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
         <id>https://sspai.com/post/91553</id>
@@ -1217,66 +1237,6 @@
         <link href="https://sspai.com/post/90618"/>
         <updated>2024-07-20T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[骁游记归来，聊聊我眼里的骁龙]]></title>
-        <id>https://sspai.com/post/90638</id>
-        <link href="https://sspai.com/post/90638"/>
-        <updated>2024-07-19T10:30:34.000Z</updated>
-        <summary type="html"><![CDATA[骁龙芯片所赋能的智能产品已经跟我们的日常生活融为一体，不知不觉地改变着我们的生活方式。查看全文]]></summary>
-        <author>
-            <name>老麦</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
-        <id>https://sspai.com/post/90624</id>
-        <link href="https://sspai.com/post/90624"/>
-        <updated>2024-07-19T10:26:09.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]落凡尘、[日剧]如虎添翼、[韩剧]政坛旋风、[日剧]黑色止血钳2、[美剧]毒蛇王后第二季、[电影]十字路口的猪、[动画]败北女角太多了！、[动画]擅长逃跑的殿下、[ ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两天时间兜个小圈子，用自驾的方式认识贵州]]></title>
-        <id>https://sspai.com/post/90363</id>
-        <link href="https://sspai.com/post/90363"/>
-        <updated>2024-07-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[贵州是个很值得来玩的地方，但作为本地人要给的第一个建议就是你得有预期想怎么玩。如果只是三五天的休闲游，待在贵阳是个很不错的选择。且不论各种街角巷落的正餐、小吃，还是城区的森林公园、城边的青岩古镇，乃至 ...查看全文]]></summary>
-        <author>
-            <name>Microhoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | 精心细调更懂你：watchOS 11 中值得关注的更新]]></title>
-        <id>https://sspai.com/post/90582</id>
-        <link href="https://sspai.com/post/90582"/>
-        <updated>2024-07-19T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[除了生命体征、运动负荷，你还能在 watchOS 11 还带来了更智能的叠放、实时通知、改进后的照片表盘以及可以随时暂停的三环。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四条线路，带你成为上海书店游民]]></title>
-        <id>https://sspai.com/post/90123</id>
-        <link href="https://sspai.com/post/90123"/>
-        <updated>2024-07-19T02:25:30.000Z</updated>
-        <summary type="html"><![CDATA[搬到了哪里，就在哪附近寻找一种可能性，去阅读、去散步、去光顾小店，去建筑一种没有他人情绪污染、也不会惊扰他人的房间。查看全文]]></summary>
-        <author>
-            <name>美仪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：美光推出英睿达 P310 固态硬盘、英伟达宣布全面转向开源……]]></title>
-        <id>https://sspai.com/post/90603</id>
-        <link href="https://sspai.com/post/90603"/>
-        <updated>2024-07-19T00:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Apple 回应其开源模型使用 YouTube 资源训练事件，微软发布 iOS/Android 版 Microsoft Designer 应用等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
