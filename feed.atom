@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-18T00:47:01.904Z</updated>
+    <updated>2024-08-19T00:44:27.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不买可以先收藏 15：如何做一锅好吃的米饭]]></title>
+        <id>https://sspai.com/post/91338</id>
+        <link href="https://sspai.com/post/91338"/>
+        <updated>2024-08-18T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[关于如何做一碗米饭，这些就是我目前的全部认知了。查看全文]]></summary>
+        <author>
+            <name>真叫浩南</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从游泳、骑行到跑步：浅析奥运金牌背后的科技变革]]></title>
         <id>https://sspai.com/post/91394</id>
@@ -1229,16 +1239,6 @@
         <summary type="html"><![CDATA[编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...查看全文]]></summary>
         <author>
             <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具透 | macOS Sequoia Public Beta 公测版来了，这些是值得你关注的新功能]]></title>
-        <id>https://sspai.com/post/90618</id>
-        <link href="https://sspai.com/post/90618"/>
-        <updated>2024-07-20T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
