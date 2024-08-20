@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-19T00:44:27.240Z</updated>
+    <updated>2024-08-20T00:42:40.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/91620</id>
+        <link href="https://sspai.com/post/91620"/>
+        <updated>2024-08-19T10:22:48.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八个月里数台数码新品，我们用「众测」发现了骁龙芯片的更多惊喜]]></title>
+        <id>https://sspai.com/post/91496</id>
+        <link href="https://sspai.com/post/91496"/>
+        <updated>2024-08-19T07:53:07.000Z</updated>
+        <summary type="html"><![CDATA[骁龙作为移动创新科技品牌，从智能手机、PC、汽车、XR和智能穿戴设备，为人们喜爱的智能终端提供核「芯」动力，带来领先的移动体验，让生活更加丰富多彩。而为了让热爱探索的骁友第一时间获得新奇前沿的科技产品 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻源大圣：黑神话悟空背后的民俗及文化起源]]></title>
+        <id>https://sspai.com/post/91582</id>
+        <link href="https://sspai.com/post/91582"/>
+        <updated>2024-08-19T06:59:56.000Z</updated>
+        <summary type="html"><![CDATA[为了探究大圣信仰到底是一种怎样的存在，我们在七月末开启了一场「寻源大圣」之旅，实地见证和考察了大圣信仰的源流和庙宇。查看全文]]></summary>
+        <author>
+            <name>张奕源Nick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报]]></title>
+        <id>https://sspai.com/post/91424</id>
+        <link href="https://sspai.com/post/91424"/>
+        <updated>2024-08-19T03:28:34.000Z</updated>
+        <summary type="html"><![CDATA[既然只瞄一眼标题就能判断要不要听，这事儿 AI 难道不能做吗？我可以继续听头条频道，只是让 AI 帮我滤掉一道，可不可行？这个想法一冒出来，就完全停不下来了。查看全文]]></summary>
+        <author>
+            <name>Victor_42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：《堡垒之夜》通过 Epic 商店重返 iOS]]></title>
+        <id>https://sspai.com/post/91600</id>
+        <link href="https://sspai.com/post/91600"/>
+        <updated>2024-08-19T00:54:40.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事《堡垒之夜》通过Epic商店重返iOS8月16日，在被AppStore下架超过四年后，《堡垒之夜》宣布通过Epic开设的独立应用商店重返iOS平台。但该商店仅限欧盟用户下载，因为只有 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不买可以先收藏 15：如何做一锅好吃的米饭]]></title>
         <id>https://sspai.com/post/91338</id>
@@ -77,6 +127,42 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[某从小白到销冠的修炼手册 👉https://www.ahhhhfs.com/61482/]]></title>
+        <id>https://twitter.com/abskoop/status/1824070034014261692</id>
+        <link href="https://x.com/abskoop/status/1824070034014261692"/>
+        <updated>2024-08-15T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[某从小白到销冠的修炼手册
+👉https://www.ahhhhfs.com/61482/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Excel：开源、快速、简洁、解决大文件内存溢出的Excel处理工具 能让你在不用考虑性能、内存的等因素的情况下 快速完成Excel的读、写等功能 👉https://www...]]></title>
+        <id>https://twitter.com/abskoop/status/1824054431001817419</id>
+        <link href="https://x.com/abskoop/status/1824054431001817419"/>
+        <updated>2024-08-15T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Easy Excel：开源、快速、简洁、解决大文件内存溢出的Excel处理工具
+能让你在不用考虑性能、内存的等因素的情况下
+快速完成Excel的读、写等功能
+👉https://www.ahhhhfs.com/61455/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIResumeBuilder：免费在线AI简历生成器 提供免费简历模板、专业简历示例以及AI指导 👉https://www.ahhhhfs.com/61391/]]></title>
+        <id>https://twitter.com/abskoop/status/1824023637680419110</id>
+        <link href="https://x.com/abskoop/status/1824023637680419110"/>
+        <updated>2024-08-15T10:01:38.000Z</updated>
+        <summary type="html"><![CDATA[AIResumeBuilder：免费在线AI简历生成器
+提供免费简历模板、专业简历示例以及AI指导
+👉https://www.ahhhhfs.com/61391/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 年屏蔽网页广告哪家强，以及一些本不该你操心的琐事]]></title>
         <id>https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae</id>
         <link href="https://sspai.com/prime/story/adblocking-in-2024-recommendation-and-minutiae"/>
@@ -98,6 +184,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Music Immm：在线音乐播放器 简洁无广告 开箱即用🙊 👉https://www.ahhhhfs.com/61447/]]></title>
+        <id>https://twitter.com/abskoop/status/1824006990311645433</id>
+        <link href="https://x.com/abskoop/status/1824006990311645433"/>
+        <updated>2024-08-15T08:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Music Immm：在线音乐播放器 简洁无广告
+开箱即用🙊
+👉https://www.ahhhhfs.com/61447/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[不当赛博文盲，N 个常见问题解决方案不求人]]></title>
         <id>https://sspai.com/post/91469</id>
         <link href="https://sspai.com/post/91469"/>
@@ -105,6 +203,18 @@
         <summary type="html"><![CDATA[引言如今的计算机和手机已经成为人们日常生活中不可或缺的一部分，说是「赛博义肢」也不过分。生活中借助手机购物、聊天、娱乐的场景数不胜数，手机早已脱离通话专属设备的定义范畴。坐到电脑前，我们撰写文档、统计 ...查看全文]]></summary>
         <author>
             <name>Voyager_1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某拼多多爆款特训营 全维度讲解拼多多运营逻辑 👉https://www.ahhhhfs.com/61443/]]></title>
+        <id>https://twitter.com/abskoop/status/1823976642634768734</id>
+        <link href="https://x.com/abskoop/status/1823976642634768734"/>
+        <updated>2024-08-15T06:54:54.000Z</updated>
+        <summary type="html"><![CDATA[某拼多多爆款特训营
+全维度讲解拼多多运营逻辑
+👉https://www.ahhhhfs.com/61443/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
@@ -128,6 +238,76 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从0⃣进阶AI人工智能辅助建筑设计 👉https://www.ahhhhfs.com/61421/]]></title>
+        <id>https://twitter.com/abskoop/status/1823753858977554942</id>
+        <link href="https://x.com/abskoop/status/1823753858977554942"/>
+        <updated>2024-08-14T16:09:38.000Z</updated>
+        <summary type="html"><![CDATA[从0⃣进阶AI人工智能辅助建筑设计
+👉https://www.ahhhhfs.com/61421/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某全能英语三合一教学视频课程 👉https://www.ahhhhfs.com/61406/]]></title>
+        <id>https://twitter.com/abskoop/status/1823745394351763805</id>
+        <link href="https://x.com/abskoop/status/1823745394351763805"/>
+        <updated>2024-08-14T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[某全能英语三合一教学视频课程
+👉https://www.ahhhhfs.com/61406/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Image AI：一站式AI图片工具平台 AI换脸、人脸修复、图片去水印等等 👉https://www.ahhhhfs.com/61395/]]></title>
+        <id>https://twitter.com/abskoop/status/1823736839058153848</id>
+        <link href="https://x.com/abskoop/status/1823736839058153848"/>
+        <updated>2024-08-14T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Image AI：一站式AI图片工具平台 
+AI换脸、人脸修复、图片去水印等等
+👉https://www.ahhhhfs.com/61395/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某外卖认知颠覆课 基础篇-推广篇-特权篇-技巧篇等等 👉https://www.ahhhhfs.com/61416/]]></title>
+        <id>https://twitter.com/abskoop/status/1823728786120257846</id>
+        <link href="https://x.com/abskoop/status/1823728786120257846"/>
+        <updated>2024-08-14T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[某外卖认知颠覆课
+基础篇-推广篇-特权篇-技巧篇等等
+👉https://www.ahhhhfs.com/61416/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riffo：AI批量文件重命名工具 能够在几秒钟内根据文件内容 自动重命名杂乱文件夹中的文件 👉https://www.ahhhhfs.com/61380/]]></title>
+        <id>https://twitter.com/abskoop/status/1823710413839577226</id>
+        <link href="https://x.com/abskoop/status/1823710413839577226"/>
+        <updated>2024-08-14T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Riffo：AI批量文件重命名工具
+能够在几秒钟内根据文件内容
+自动重命名杂乱文件夹中的文件
+👉https://www.ahhhhfs.com/61380/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XX招带你玩转自媒体 新手小白一看就会 👉https://www.ahhhhfs.com/61412/]]></title>
+        <id>https://twitter.com/abskoop/status/1823680215366951043</id>
+        <link href="https://x.com/abskoop/status/1823680215366951043"/>
+        <updated>2024-08-14T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[XX招带你玩转自媒体 新手小白一看就会
+👉https://www.ahhhhfs.com/61412/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一台更实用的「iPhone」：小米 14 半年体验]]></title>
         <id>https://sspai.com/post/89643</id>
         <link href="https://sspai.com/post/89643"/>
@@ -135,6 +315,19 @@
         <summary type="html"><![CDATA[当手机同质化的现在，更多的人选购新设备时，其实更关心它如何更加高效解决日常的使用需求。查看全文]]></summary>
         <author>
             <name>洛世</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headcanon Generator：角色脑补设定生成器 通过输入角色名字 生成独特且详细的角色特征和性格特点 👉https://www.ahhhhfs.com/61376/]]></title>
+        <id>https://twitter.com/abskoop/status/1823649513183305980</id>
+        <link href="https://x.com/abskoop/status/1823649513183305980"/>
+        <updated>2024-08-14T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Headcanon Generator：角色脑补设定生成器
+通过输入角色名字
+生成独特且详细的角色特征和性格特点
+👉https://www.ahhhhfs.com/61376/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
@@ -1229,81 +1422,6 @@
         <summary type="html"><![CDATA[你可能错过的新鲜事安全软件缺陷导致全球Windows设备故障7月19日，由于安全软件提供商CrowdStrike的软件更新缺陷，全球约850万台Windows系统设备遭遇蓝屏故障并陷入重启循环，受影响 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看什么 Café | 日剧观看指南：电视台篇]]></title>
-        <id>https://sspai.com/post/90534</id>
-        <link href="https://sspai.com/post/90534"/>
-        <updated>2024-07-21T07:18:01.000Z</updated>
-        <summary type="html"><![CDATA[编者按：1895年在巴黎卡普辛路14号的大咖啡馆，卢米埃尔兄弟的短片成了咖啡馆的助兴节目，而咖啡馆也正是那时人们谈论电影和艺术的重要场所。「看什么Café」作为「本周看什么」栏目的衍生，旨在为热爱影视 ...查看全文]]></summary>
-        <author>
-            <name>知道分子吴先先</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从0-1 微信视频号起号、运营、变现 👉https://www.ahhhhfs.com/60273/]]></title>
-        <id>https://twitter.com/abskoop/status/1812417430783967500</id>
-        <link href="https://x.com/abskoop/status/1812417430783967500"/>
-        <updated>2024-07-14T09:22:43.000Z</updated>
-        <summary type="html"><![CDATA[从0-1  微信视频号起号、运营、变现
-👉https://www.ahhhhfs.com/60273/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[35 个实用养育工具 高效培养孩子自主学习 👉https://www.ahhhhfs.com/60226/]]></title>
-        <id>https://twitter.com/abskoop/status/1812160056030289949</id>
-        <link href="https://x.com/abskoop/status/1812160056030289949"/>
-        <updated>2024-07-13T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[35 个实用养育工具 高效培养孩子自主学习
-👉https://www.ahhhhfs.com/60226/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学前教辅资料超级大汇总 👉 https://www.ahhhhfs.com/60253/]]></title>
-        <id>https://twitter.com/abskoop/status/1812151255869120991</id>
-        <link href="https://x.com/abskoop/status/1812151255869120991"/>
-        <updated>2024-07-13T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[学前教辅资料超级大汇总
-👉 https://www.ahhhhfs.com/60253/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费大人小说精选：Jing Ping Mei 👉https://www.ahhhhfs.com/60249/]]></title>
-        <id>https://twitter.com/abskoop/status/1812139967411548268</id>
-        <link href="https://x.com/abskoop/status/1812139967411548268"/>
-        <updated>2024-07-13T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[免费大人小说精选：Jing Ping Mei
-👉https://www.ahhhhfs.com/60249/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个信息查询小tip🙊]]></title>
-        <id>https://twitter.com/abskoop/status/1812130208998457773</id>
-        <link href="https://x.com/abskoop/status/1812130208998457773"/>
-        <updated>2024-07-13T14:21:24.000Z</updated>
-        <summary type="html"><![CDATA[一个信息查询小tip🙊]]></summary>
-        <author>
-            <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些 武术教学视频🙊 👉https://www.ahhhhfs.com/60243/]]></title>
-        <id>https://twitter.com/abskoop/status/1812110530901135567</id>
-        <link href="https://x.com/abskoop/status/1812110530901135567"/>
-        <updated>2024-07-13T13:03:12.000Z</updated>
-        <summary type="html"><![CDATA[一些 武术教学视频🙊
-👉https://www.ahhhhfs.com/60243/]]></summary>
-        <author>
-            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
