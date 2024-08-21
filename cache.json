@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91639",
+          "author": "Matrix机器人",
+          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评来自 ...查看全文",
+          "link": "https://sspai.com/post/91639",
+          "publishedOn": "2024-08-20T08:47:00.000Z",
+          "wordCount": 1088,
+          "title": "社区速递 058 | 你没见过的社区文章、一周最热评、派友在用的电纸书",
+          "imageUrl": "https://cdnfile.sspai.com/20/8/2024/article/b27fff07-42d1-90d2-cd1c-a3114cd0ee7d.png"
+        },
+        {
+          "id": "https://sspai.com/post/80972",
+          "author": "二一的笔记",
+          "description": "我常为 Notion 感到惋惜，太多人还来不及感受它的美好，就因为各种原因而放弃。或许天性使然，我们总是容易对看似复杂的东西心生畏惧，也或者只是纯粹感到麻烦而已。想起来我也讨厌吃需要剥壳的螃蟹，也就不是不能理解了。\n所以我一直在想一个问题，怎样才是 Notion 正确的打开方式呢？\n说到底每个人的笔记需求、以及笔记习惯都不一样，所以正确且唯一的答案大概率是不存在的。不过，排除错误概率更大的选项总是简单些。所以在正式进入 Notion 的栏目之前，我想先描绘一下，通常一个新手是怎么放弃使用 Notion 的。\n在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》\n[......]\n查看全文\n本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。",
+          "link": "https://sspai.com/post/80972",
+          "publishedOn": "2024-08-20T06:32:45.000Z",
+          "wordCount": 918,
+          "title": "中文版全新上线，这 5 条建议伴你高效上手 Notion",
+          "imageUrl": "https://cdnfile.sspai.com/9/7/2023/article/210695f8-4bcd-3712-06dd-c0b87e28346d.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/91498",
+          "author": "少数派编辑部",
+          "description": "夏日高温还在，恰如记忆中海水的湛蓝那样清晰，如果你也曾被阳光下的海浪所吸引，却未曾勇敢踏出那一步，不妨看看这些电影吧。本期我们就以「夏日海边」为主题，挑选了7部影视作品，这里有平实的生活记录、浪漫的爱 ...查看全文",
+          "link": "https://sspai.com/post/91498",
+          "publishedOn": "2024-08-20T03:30:00.000Z",
+          "wordCount": 620,
+          "title": "不等一个阳光明媚的晴天，让这些电影带你去海边",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/16/article/75eb9a4e-b964-c930-0df3-ab4f7025b6a3.png"
+        },
+        {
+          "id": "https://sspai.com/post/91626",
+          "author": "少数派编辑部",
+          "description": "微软已封堵绕过 Win11 硬件检查命令,Meta Quest 头显上线 HDMI Link 应用等查看全文",
+          "link": "https://sspai.com/post/91626",
+          "publishedOn": "2024-08-20T00:00:00.000Z",
+          "wordCount": 751,
+          "title": "派早报：Procreate 明确拒绝生成式 AI，网易云音乐发生服务器故障等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/20/article/f4f2f24c-126c-237d-2a53-a8c83f9e0a91.png"
+        },
+        {
           "id": "https://sspai.com/post/91620",
           "author": "少数派编辑部",
           "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
@@ -954,46 +994,6 @@
           "wordCount": 891,
           "title": "派早报：WPS 与豆包否认 AI 层面任何形式合作等",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/23/article/64f9c370-4dec-ae6e-f1e6-c5fe4458d663.png"
-        },
-        {
-          "id": "https://sspai.com/post/90709",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
-          "link": "https://sspai.com/post/90709",
-          "publishedOn": "2024-07-22T10:29:27.000Z",
-          "wordCount": 1015,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/22/article/3f1784fb-8279-0202-894f-2a0e2481d8cd.png"
-        },
-        {
-          "id": "https://sspai.com/post/90520",
-          "author": "EurekaLab",
-          "description": "坏消息：大概率摆脱不了；好消息：还是有处理办法的。查看全文",
-          "link": "https://sspai.com/post/90520",
-          "publishedOn": "2024-07-22T06:59:19.000Z",
-          "wordCount": 715,
-          "title": "它的反反复复、你的难以启齿：口腔溃疡二三事",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/19/article/6b3c1922-197b-94ff-acf6-11aed14307e3.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90665",
-          "author": "玉树芝兰",
-          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "link": "https://sspai.com/post/90665",
-          "publishedOn": "2024-07-22T03:29:36.000Z",
-          "wordCount": 947,
-          "title": "GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/21/3a4b9b7234c4a0589826a3618828cbff.png"
-        },
-        {
-          "id": "https://sspai.com/post/90680",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事安全软件缺陷导致全球Windows设备故障7月19日，由于安全软件提供商CrowdStrike的软件更新缺陷，全球约850万台Windows系统设备遭遇蓝屏故障并陷入重启循环，受影响 ...查看全文",
-          "link": "https://sspai.com/post/90680",
-          "publishedOn": "2024-07-22T01:03:37.000Z",
-          "wordCount": 1026,
-          "title": "派早报：安全软件缺陷导致全球 Windows 设备故障",
-          "imageUrl": "https://cdnfile.sspai.com/7/22/2024/article/d472847b-6e1b-0bea-0db7-084dfac676f0.png"
         }
       ]
     },
