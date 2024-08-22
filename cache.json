@@ -6,6 +6,46 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91597",
+          "author": "Jamel",
+          "description": "在贾维斯到达地球之前，「阅小结」作为一个传统的目标导向的 AI 工具，请提前为贾维斯做些事吧。查看全文",
+          "link": "https://sspai.com/post/91597",
+          "publishedOn": "2024-08-21T09:33:35.000Z",
+          "wordCount": 380,
+          "title": "不用等苹果上线，用快捷指令实现 AI 陪读",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/19/6a4ffbd57c6a87fd5f86d1483fb7d776.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/91608",
+          "author": "千啾略",
+          "description": "如何高效搭建个人工作室的摄影、选片、后期和存档的工作流？在 Aftershot 的帮助下，我找到了更有效率的新方法。查看全文",
+          "link": "https://sspai.com/post/91608",
+          "publishedOn": "2024-08-21T07:00:00.000Z",
+          "wordCount": 387,
+          "title": "App+1 | 用 AI 选出好照片：基于 Aftershoot 和 Lightroom 的人像摄影工作流",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/19/1618b4a7fea8d34cd3d17f4d221093e3.JPG"
+        },
+        {
+          "id": "https://sspai.com/post/91147",
+          "author": "王牌猎人爱上奥妮克希亚",
+          "description": "编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文",
+          "link": "https://sspai.com/post/91147",
+          "publishedOn": "2024-08-21T03:49:47.000Z",
+          "wordCount": 320,
+          "title": "基于「在途时间」作旅行规划，这是我的方法和工具",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/05/fdd3290b35a25391a2abb6479e389863.jpg"
+        },
+        {
+          "id": "https://sspai.com/post/91658",
+          "author": "少数派编辑部",
+          "description": "高通发布骁龙 7s Gen3，《最终幻想 16》PC 版将于 9 月 17 日上线。查看全文",
+          "link": "https://sspai.com/post/91658",
+          "publishedOn": "2024-08-21T00:00:00.000Z",
+          "wordCount": 393,
+          "title": "派早报：网页版 Apple Podcasts 上线、树莓派 5 推出 2GB 版本等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/21/article/c157c6f5-b3ac-604a-4a7e-1197082249d4.png"
+        },
+        {
           "id": "https://sspai.com/post/91639",
           "author": "Matrix机器人",
           "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评来自 ...查看全文",
@@ -954,46 +994,6 @@
           "wordCount": 770,
           "title": "派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等",
           "imageUrl": "https://cdnfile.sspai.com/2024/7/24/article/8313cb3c-1b33-4329-887c-4784d2a8fa37.png"
-        },
-        {
-          "id": "https://sspai.com/post/90736",
-          "author": "Matrix机器人",
-          "description": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评Ch ...查看全文",
-          "link": "https://sspai.com/post/90736",
-          "publishedOn": "2024-07-23T09:06:47.000Z",
-          "wordCount": 946,
-          "title": "社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务",
-          "imageUrl": "https://cdnfile.sspai.com/23/7/2024/article/d7b5a29e-bb98-8a43-0360-d48d9dfdb916.gif"
-        },
-        {
-          "id": "https://sspai.com/post/90673",
-          "author": "化学心情下2",
-          "description": "在计算机网络安全已得到空前重视的今天，这次席卷全球的 Windows 蓝屏故障究竟是如何发生的呢？查看全文",
-          "link": "https://sspai.com/post/90673",
-          "publishedOn": "2024-07-23T07:00:00.000Z",
-          "wordCount": 851,
-          "title": "盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机",
-          "imageUrl": "https://cdnfile.sspai.com/7/23/2024/article/c29ba108-d6b8-88de-4bf9-80c272d474d8.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90641",
-          "author": "Geekcat",
-          "description": "让 iCloud 照片在本地多一重保险。查看全文",
-          "link": "https://sspai.com/post/90641",
-          "publishedOn": "2024-07-23T03:33:19.000Z",
-          "wordCount": 768,
-          "title": "一日一技 | 使用 Docker 为 iCloud 照片生成本地备份",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/23/article/da47dd8d-edc5-0133-7479-7156e3db6911.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90712",
-          "author": "少数派编辑部",
-          "description": "国家新闻出版署公示 2024 年 7 月国产网络游戏审批信息，微软称欧盟规定使其无法令 Windows 免受本次事件波及等查看全文",
-          "link": "https://sspai.com/post/90712",
-          "publishedOn": "2024-07-23T00:00:00.000Z",
-          "wordCount": 891,
-          "title": "派早报：WPS 与豆包否认 AI 层面任何形式合作等",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/23/article/64f9c370-4dec-ae6e-f1e6-c5fe4458d663.png"
         }
       ]
     },

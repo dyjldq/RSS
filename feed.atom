@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T00:43:45.026Z</updated>
+    <updated>2024-08-22T00:44:36.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不用等苹果上线，用快捷指令实现 AI 陪读]]></title>
+        <id>https://sspai.com/post/91597</id>
+        <link href="https://sspai.com/post/91597"/>
+        <updated>2024-08-21T09:33:35.000Z</updated>
+        <summary type="html"><![CDATA[在贾维斯到达地球之前，「阅小结」作为一个传统的目标导向的 AI 工具，请提前为贾维斯做些事吧。查看全文]]></summary>
+        <author>
+            <name>Jamel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 用 AI 选出好照片：基于 Aftershoot 和 Lightroom 的人像摄影工作流]]></title>
+        <id>https://sspai.com/post/91608</id>
+        <link href="https://sspai.com/post/91608"/>
+        <updated>2024-08-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如何高效搭建个人工作室的摄影、选片、后期和存档的工作流？在 Aftershot 的帮助下，我找到了更有效率的新方法。查看全文]]></summary>
+        <author>
+            <name>千啾略</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于「在途时间」作旅行规划，这是我的方法和工具]]></title>
+        <id>https://sspai.com/post/91147</id>
+        <link href="https://sspai.com/post/91147"/>
+        <updated>2024-08-21T03:49:47.000Z</updated>
+        <summary type="html"><![CDATA[编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文]]></summary>
+        <author>
+            <name>王牌猎人爱上奥妮克希亚</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：网页版 Apple Podcasts 上线、树莓派 5 推出 2GB 版本等]]></title>
+        <id>https://sspai.com/post/91658</id>
+        <link href="https://sspai.com/post/91658"/>
+        <updated>2024-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高通发布骁龙 7s Gen3，《最终幻想 16》PC 版将于 9 月 17 日上线。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 058 | 你没见过的社区文章、一周最热评、派友在用的电纸书]]></title>
         <id>https://sspai.com/post/91639</id>
@@ -1386,46 +1426,6 @@ AI换脸、人脸修复、图片去水印等等
         <link href="https://sspai.com/post/90755"/>
         <updated>2024-07-23T23:55:52.000Z</updated>
         <summary type="html"><![CDATA[Google 放弃弃用第三方 Cookie 的计划，育碧就《刺客信条：影》宣传物料争议致歉。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务]]></title>
-        <id>https://sspai.com/post/90736</id>
-        <link href="https://sspai.com/post/90736"/>
-        <updated>2024-07-23T09:06:47.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评Ch ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机]]></title>
-        <id>https://sspai.com/post/90673</id>
-        <link href="https://sspai.com/post/90673"/>
-        <updated>2024-07-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在计算机网络安全已得到空前重视的今天，这次席卷全球的 Windows 蓝屏故障究竟是如何发生的呢？查看全文]]></summary>
-        <author>
-            <name>化学心情下2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 使用 Docker 为 iCloud 照片生成本地备份]]></title>
-        <id>https://sspai.com/post/90641</id>
-        <link href="https://sspai.com/post/90641"/>
-        <updated>2024-07-23T03:33:19.000Z</updated>
-        <summary type="html"><![CDATA[让 iCloud 照片在本地多一重保险。查看全文]]></summary>
-        <author>
-            <name>Geekcat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：WPS 与豆包否认 AI 层面任何形式合作等]]></title>
-        <id>https://sspai.com/post/90712</id>
-        <link href="https://sspai.com/post/90712"/>
-        <updated>2024-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[国家新闻出版署公示 2024 年 7 月国产网络游戏审批信息，微软称欧盟规定使其无法令 Windows 免受本次事件波及等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
