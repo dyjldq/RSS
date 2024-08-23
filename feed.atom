@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T00:44:36.171Z</updated>
+    <updated>2024-08-23T00:43:37.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[时间不贫困：如何便捷、准确地记录自己的一天]]></title>
+        <id>https://sspai.com/prime/story/ios-time-logging-suite</id>
+        <link href="https://sspai.com/prime/story/ios-time-logging-suite"/>
+        <updated>2024-08-22T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[当时间记录变成一个习惯后，对时间的判断会越来越准确，从而能更加自由支配时间。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>阿森</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[把女朋友拍好看，技巧可能没有你以为的那么重要]]></title>
+        <id>https://sspai.com/post/90666</id>
+        <link href="https://sspai.com/post/90666"/>
+        <updated>2024-08-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写在前面本文会出现三位女性模特。但其中只有一位是女朋友。谢谢她们给予的信任、鼓励和支持，以及愿意在镜头前展现美好的自己。我很喜欢拍照，也自认为拍摄不同题材照片都积累了一些经验。但是对于我来说，拍人比拍 ...查看全文]]></summary>
+        <author>
+            <name>Hermanchannn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[键盘鼠标都最低，派商店 Keychron 系列清仓促销专场]]></title>
+        <id>https://sspai.com/post/91677</id>
+        <link href="https://sspai.com/post/91677"/>
+        <updated>2024-08-22T08:09:02.000Z</updated>
+        <summary type="html"><![CDATA[活动时间：即日起至8.29省流版：少数派定制KeychronK3史低¥338起售少数派定制KeychronQ1系列史低仅需¥769KeychronM系列鼠标¥179起购买K3系列赠送捣蛋獭贴纸我们曾与 ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一派 | 天命人，来聊聊你的《黑神话：悟空》游玩体验]]></title>
+        <id>https://sspai.com/post/91709</id>
+        <link href="https://sspai.com/post/91709"/>
+        <updated>2024-08-22T07:20:54.000Z</updated>
+        <summary type="html"><![CDATA[「上香」之余想来点新鲜空气？本文所述的游戏体验应该能为你提供一些参考。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线下活动：不止于玩 |《黑神话：悟空》探索工坊及 3A 游戏差异视角研讨会]]></title>
+        <id>https://sspai.com/post/91700</id>
+        <link href="https://sspai.com/post/91700"/>
+        <updated>2024-08-22T04:39:52.000Z</updated>
+        <summary type="html"><![CDATA[在《黑神话：悟空》正式发售第一个星期的周末，我们组织这场活动，和我派读者及相关感兴趣的朋友一起面对面的交流。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动应用创新赛开赛，今年都有哪些新看点]]></title>
+        <id>https://sspai.com/post/91683</id>
+        <link href="https://sspai.com/post/91683"/>
+        <updated>2024-08-22T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在接下来的三个月时间里，各自参赛队伍也将进入如火如荼的开发和准备阶段，争取用自己的 app 在移动应用创新赛拿到一个好的成绩。查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：PICO 4 Ultra 发布、《纪念碑谷 3》首发 Netflix 等]]></title>
+        <id>https://sspai.com/post/91697</id>
+        <link href="https://sspai.com/post/91697"/>
+        <updated>2024-08-22T00:48:10.000Z</updated>
+        <summary type="html"><![CDATA[雅达利发布 Atari 7800+ 游戏主机、铁路 12306上线学生预约购票服务等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不用等苹果上线，用快捷指令实现 AI 陪读]]></title>
         <id>https://sspai.com/post/91597</id>
@@ -1386,46 +1457,6 @@ AI换脸、人脸修复、图片去水印等等
         <link href="https://sspai.com/post/90793"/>
         <updated>2024-07-25T00:29:43.000Z</updated>
         <summary type="html"><![CDATA[Meta 发布 Llama 3.1 开源大语言模型，首届电竞奥运会将于 2025 年在沙特举办等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派开啥车｜捡漏还是血亏？13年前的大众甲壳虫还能买吗？]]></title>
-        <id>https://sspai.com/post/90753</id>
-        <link href="https://sspai.com/post/90753"/>
-        <updated>2024-07-24T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[注：本文为视频的文字梗概，可以点击文中的时间戳，来空降到相应的位置，也可以直接点击上方链接来观看完整视频。截止到2024年，在国内家用车市场上，新能源车已经占据了四成的份额。但是如你所见，我现在的身份 ...查看全文]]></summary>
-        <author>
-            <name>Vio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在家做一个魔法师，智能家居也可以动「手」不动口]]></title>
-        <id>https://sspai.com/post/90675</id>
-        <link href="https://sspai.com/post/90675"/>
-        <updated>2024-07-24T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[无杖施法才叫帅！查看全文]]></summary>
-        <author>
-            <name>凉糕</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 xdg-ninja「整治」杂乱的 Linux 家目录]]></title>
-        <id>https://sspai.com/post/90480</id>
-        <link href="https://sspai.com/post/90480"/>
-        <updated>2024-07-24T02:52:17.000Z</updated>
-        <summary type="html"><![CDATA[很多软件会将配置文件或数据文件简单粗暴地放在 Linux 家目录根文件夹里面，导致家目录充满了杂乱无章的文件或文件夹。xdg-ninja 这个项目就是专门用来解决这个问题的。查看全文]]></summary>
-        <author>
-            <name>so1ar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等]]></title>
-        <id>https://sspai.com/post/90755</id>
-        <link href="https://sspai.com/post/90755"/>
-        <updated>2024-07-23T23:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Google 放弃弃用第三方 Cookie 的计划，育碧就《刺客信条：影》宣传物料争议致歉。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
