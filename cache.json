@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91152",
+          "author": "MonkeyS",
+          "description": "编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文",
+          "link": "https://sspai.com/post/91152",
+          "publishedOn": "2024-08-24T03:33:13.000Z",
+          "wordCount": 326,
+          "title": "武功山穿越指南：「坚持」是最好的技巧",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/05/22844c74d7672e442d2bbb0d7b31167c.jpg"
+        },
+        {
           "id": "https://sspai.com/post/91745",
           "author": "少数派编辑部",
           "description": "☕️TL;DR近期佳作推荐：[国产]边水往事、[电影]因果报应、[电影]希尔玛、[动画]拳愿阿修罗第二季第2部分、[动画]外星也难民第五季、[纪录片]海洋探索者号、[真人秀]曼哈顿金牌经济几则精彩预告 ...查看全文",
@@ -974,56 +984,6 @@
           "wordCount": 1038,
           "title": "用上大模型翻译之后，机器更像人类了吗？",
           "imageUrl": "https://cdnfile.sspai.com/7/27/2024/article/f7b7e388-c68b-e70c-66d7-64a79c8bd5d1.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90868",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[电影]泳者之心、[电影]死侍与金刚狼、[国产]唐朝诡事录之西行、[韩剧]监察、[美剧]湖中女人、[日剧]特搜9第七季、[动画]天穗之咲稻姬、[动画]亦叶亦花、[动画]深夜 ...查看全文",
-          "link": "https://sspai.com/post/90868",
-          "publishedOn": "2024-07-26T10:31:58.000Z",
-          "wordCount": 990,
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/7/26/article/a7a46a8c-1123-041e-f000-91801123c9a3.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/zhuanglesha-240726",
-          "author": "少数派编辑部",
-          "description": "编辑部的几位成员介绍了 AI 工具在日常工作中的实际应用。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/zhuanglesha-240726",
-          "publishedOn": "2024-07-26T10:18:02.000Z",
-          "wordCount": 1023,
-          "title": "少数派编辑部怎么用 AI 打工？",
-          "imageUrl": "https://cdnfile.sspai.com/7/26/2024/article/f1068756-1b53-ba60-0e27-05e72b74df54.png"
-        },
-        {
-          "id": "https://sspai.com/post/90816",
-          "author": "JIgsaw",
-          "description": "输入法是为了输入文字而存在，文字所承载的知识才是人类通天的阶梯。查看全文",
-          "link": "https://sspai.com/post/90816",
-          "publishedOn": "2024-07-26T07:00:00.000Z",
-          "wordCount": 730,
-          "title": "结绳计算远古事，临鱼摹鸟象字生：如何制作一款字形输入法",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/25/2791cd736dbd65fe176a582afc8bca8b.png"
-        },
-        {
-          "id": "https://sspai.com/post/90765",
-          "author": "程天冲",
-          "description": "在你想要开始做一个复合创作者之前，请先听我跟你聊一聊。查看全文",
-          "link": "https://sspai.com/post/90765",
-          "publishedOn": "2024-07-26T03:30:27.000Z",
-          "wordCount": 770,
-          "title": "业余复合创作者的旅程：如何开始并坚持做一个小内容生产者",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/24/c8bbca0c58cd2047545bc1f50cba65be.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/90837",
-          "author": "少数派编辑部",
-          "description": "WPS 上线「AI 伴写」功能、Anthropic 被指违反网站反爬虫协议等。查看全文",
-          "link": "https://sspai.com/post/90837",
-          "publishedOn": "2024-07-26T00:21:51.000Z",
-          "wordCount": 877,
-          "title": "派早报：Apple 宣布推出 Apple Maps 网页版、Gemini 1.5 Flash 开放等",
-          "imageUrl": "https://cdnfile.sspai.com/26/07/2024/article/705d1ace-9cd0-8143-ac9f-45cc0503eb86.jpg"
         }
       ]
     },
