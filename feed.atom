@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-25T00:48:20.624Z</updated>
+    <updated>2024-08-26T00:44:24.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队]]></title>
+        <id>https://sspai.com/post/91777</id>
+        <link href="https://sspai.com/post/91777"/>
+        <updated>2024-08-25T09:45:48.000Z</updated>
+        <summary type="html"><![CDATA[引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[武功山穿越指南：「坚持」是最好的技巧]]></title>
         <id>https://sspai.com/post/91152</id>
@@ -1636,16 +1646,6 @@ AI换脸、人脸修复、图片去水印等等
         <summary type="html"><![CDATA[历史的余温，时间的沉淀，或一头扎进胡同，或挤入街坊早市，古老而鲜活，硬核且洒脱，这就是这次沈阳之行的印象。查看全文]]></summary>
         <author>
             <name>feverlife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用上大模型翻译之后，机器更像人类了吗？]]></title>
-        <id>https://sspai.com/post/90874</id>
-        <link href="https://sspai.com/post/90874"/>
-        <updated>2024-07-27T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[如果单纯地要问我 AI 翻译结果到底怎样，或者要给 AI 翻译下一个结论，那在写完这篇文章之后，我的答案是「没法回答」。查看全文]]></summary>
-        <author>
-            <name>宛潼</name>
         </author>
     </entry>
     <entry>

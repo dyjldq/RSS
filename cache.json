@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91777",
+          "author": "少数派编辑部",
+          "description": "引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文",
+          "link": "https://sspai.com/post/91777",
+          "publishedOn": "2024-08-25T09:45:48.000Z",
+          "wordCount": 484,
+          "title": "一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队",
+          "imageUrl": "https://cdnfile.sspai.com/8/25/2024/article/a71ddbd9-1b28-1e33-747f-caba2e61f3f9.png"
+        },
+        {
           "id": "https://sspai.com/post/91152",
           "author": "MonkeyS",
           "description": "编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文",
@@ -974,16 +984,6 @@
           "wordCount": 726,
           "title": "城市漫步指南：沈阳，共和国长子中的硬核担当",
           "imageUrl": "https://cdnfile.sspai.com/2024/07/04/150755c8d93d930a9e65ebddccb4bfa3.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/90874",
-          "author": "宛潼",
-          "description": "如果单纯地要问我 AI 翻译结果到底怎样，或者要给 AI 翻译下一个结论，那在写完这篇文章之后，我的答案是「没法回答」。查看全文",
-          "link": "https://sspai.com/post/90874",
-          "publishedOn": "2024-07-27T03:30:00.000Z",
-          "wordCount": 1038,
-          "title": "用上大模型翻译之后，机器更像人类了吗？",
-          "imageUrl": "https://cdnfile.sspai.com/7/27/2024/article/f7b7e388-c68b-e70c-66d7-64a79c8bd5d1.jpeg"
         }
       ]
     },
