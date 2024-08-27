@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/91806",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/91806",
+          "publishedOn": "2024-08-26T09:58:04.000Z",
+          "wordCount": 437,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/8/26/article/ac44ce86-bdf2-5105-ad8c-ccb44c59e4c3.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-5",
+          "author": "Kiririn",
+          "description": "从 2010 年开始，RIM 已经将 Apple 列为了头号敌人，他们需要全面对标的产品，用传统的精英形象对抗新潮的别致优雅。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-5",
+          "publishedOn": "2024-08-26T09:50:52.000Z",
+          "wordCount": 565,
+          "title": "Torch 和 PlayBook：黑莓追赶多点触控的两次尴尬尝试",
+          "imageUrl": "https://cdnfile.sspai.com/8/26/2024/article/5d89d7a9-5b97-1ad4-f03e-ba96d197bf41.png"
+        },
+        {
+          "id": "https://sspai.com/post/91416",
+          "author": "一只兔子先生",
+          "description": "路线是exping最受欢迎的功能之一。当你在AppStore搜索「路线」时，exping会是最常出现的的身影。在最近的更新中，exping为交通路线注入了前所未有的细腻度。交通路线有了更多的细节，用户 ...查看全文",
+          "link": "https://sspai.com/post/91416",
+          "publishedOn": "2024-08-26T06:50:38.000Z",
+          "wordCount": 286,
+          "title": "重塑旅行体验：Exping 城市路线探索的幕后故事",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/13/a95d8fc37fe219cc856d14a35840dc68.png"
+        },
+        {
+          "id": "https://sspai.com/post/91347",
+          "author": "SUNTRISE",
+          "description": "当安装捆绑软件被做成了游戏，你能通关多少？查看全文",
+          "link": "https://sspai.com/post/91347",
+          "publishedOn": "2024-08-26T03:32:17.000Z",
+          "wordCount": 283,
+          "title": "Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/13/f3307dbd54dfbf3ed007dd03fe687e96.png"
+        },
+        {
+          "id": "https://sspai.com/post/91788",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事专家回应网号、网证热点问题据新华社报道，近期，公安部、国家网信办等研究起草《国家网络身份认证公共服务管理办法（征求意见稿）》，向社会公开征求意见，引发广泛关注。新华社记者梳理当前公众 ...查看全文",
+          "link": "https://sspai.com/post/91788",
+          "publishedOn": "2024-08-26T01:02:51.000Z",
+          "wordCount": 496,
+          "title": "派早报：专家回应网号、网证热点问题",
+          "imageUrl": "https://cdnfile.sspai.com/8/26/2024/article/5ca993f4-944f-96dd-e60a-e22fd65cf7c5.png"
+        },
+        {
           "id": "https://sspai.com/post/91777",
           "author": "少数派编辑部",
           "description": "引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文",
@@ -974,16 +1024,6 @@
           "wordCount": 990,
           "title": "派早报：淘宝天猫收取软件服务费，放松仅退款规则",
           "imageUrl": "https://cdnfile.sspai.com/7/29/2024/article/862e0f98-cb45-9b1b-8375-4c3739917187.png"
-        },
-        {
-          "id": "https://sspai.com/post/89947",
-          "author": "feverlife",
-          "description": "历史的余温，时间的沉淀，或一头扎进胡同，或挤入街坊早市，古老而鲜活，硬核且洒脱，这就是这次沈阳之行的印象。查看全文",
-          "link": "https://sspai.com/post/89947",
-          "publishedOn": "2024-07-28T03:00:00.000Z",
-          "wordCount": 726,
-          "title": "城市漫步指南：沈阳，共和国长子中的硬核担当",
-          "imageUrl": "https://cdnfile.sspai.com/2024/07/04/150755c8d93d930a9e65ebddccb4bfa3.jpg"
         }
       ]
     },
