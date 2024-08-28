@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-27T00:44:41.211Z</updated>
+    <updated>2024-08-28T00:44:47.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 059 | 你没见过的社区文章、一周最热评、派友的黑神话体验]]></title>
+        <id>https://sspai.com/post/91831</id>
+        <link href="https://sspai.com/post/91831"/>
+        <updated>2024-08-27T08:58:15.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和控制面板说再见：Windows 系统设置的迁移之路]]></title>
+        <id>https://sspai.com/post/88491</id>
+        <link href="https://sspai.com/post/88491"/>
+        <updated>2024-08-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[尽管「设置」应用并非完美，但与两套「设置」共存的局面相比，合二为一到「设置」应用的选择也容易让人接受。查看全文]]></summary>
+        <author>
+            <name>SUNTRISE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 用你可能也想要的细节，做一款更现代的倒数日应用：Pinning]]></title>
+        <id>https://sspai.com/post/91599</id>
+        <link href="https://sspai.com/post/91599"/>
+        <updated>2024-08-27T03:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Pinning 现在的形式是我最初未预想到的——它没有任何一个功能是特别的，但所有的功能和设计聚合在一起，它就是独一无二的。查看全文]]></summary>
+        <author>
+            <name>francisfeng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：国内无线充电新规即将施行，奇安信公布 Steam 被攻击细节等]]></title>
+        <id>https://sspai.com/post/91816</id>
+        <link href="https://sspai.com/post/91816"/>
+        <updated>2024-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IBM 中国撤出所有研发工作，上海电信出现宽带网络故障等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/91806</id>
@@ -58,6 +98,86 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[商业模式设计底层逻辑课程 👉https://www.ahhhhfs.com/61836/]]></title>
+        <id>https://twitter.com/abskoop/status/1827742734331056597</id>
+        <link href="https://x.com/abskoop/status/1827742734331056597"/>
+        <updated>2024-08-25T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[商业模式设计底层逻辑课程
+👉https://www.ahhhhfs.com/61836/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某游戏专题合集 ：加速器 修改器等等🙊 👉https://www.ahhhhfs.com/61830/]]></title>
+        <id>https://twitter.com/abskoop/status/1827732164588478480</id>
+        <link href="https://x.com/abskoop/status/1827732164588478480"/>
+        <updated>2024-08-25T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[某游戏专题合集 ：加速器 修改器等等🙊
+👉https://www.ahhhhfs.com/61830/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费flux 1 文本转图像生成器：Free AI FLUX Image Generator 无限次数 👉https://www.ahhhhfs.com/61820/]]></title>
+        <id>https://twitter.com/abskoop/status/1827723357242233079</id>
+        <link href="https://x.com/abskoop/status/1827723357242233079"/>
+        <updated>2024-08-25T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[免费flux 1 文本转图像生成器：Free AI FLUX Image Generator
+无限次数
+👉https://www.ahhhhfs.com/61820/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些经典学习资料🙊 👉https://www.ahhhhfs.com/61825/]]></title>
+        <id>https://twitter.com/abskoop/status/1827715053304623198</id>
+        <link href="https://x.com/abskoop/status/1827715053304623198"/>
+        <updated>2024-08-25T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[一些经典学习资料🙊
+👉https://www.ahhhhfs.com/61825/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Library STC：Philosophy Documentation Center(PDC)论文搜索引擎 可以搜索下载PDC从创立到2023年的论文资料 👉https://www.ahhhhfs.com/61810/]]></title>
+        <id>https://twitter.com/abskoop/status/1827697716778197186</id>
+        <link href="https://x.com/abskoop/status/1827697716778197186"/>
+        <updated>2024-08-25T13:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Library STC：Philosophy Documentation Center(PDC)论文搜索引擎
+可以搜索下载PDC从创立到2023年的论文资料
+👉https://www.ahhhhfs.com/61810/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWESOME-DIGITAL-HUMAN：基于Dify的开源AI数字人工具 支持Docker 快速部署、超轻量级和低配置要求 👉https://www.ahhhhfs.com/61806/]]></title>
+        <id>https://twitter.com/abskoop/status/1827679649419473148</id>
+        <link href="https://x.com/abskoop/status/1827679649419473148"/>
+        <updated>2024-08-25T12:09:19.000Z</updated>
+        <summary type="html"><![CDATA[AWESOME-DIGITAL-HUMAN：基于Dify的开源AI数字人工具
+支持Docker 快速部署、超轻量级和低配置要求
+👉https://www.ahhhhfs.com/61806/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音TikTok无水印视频下载工具：Snap Douyin 👉https://www.ahhhhfs.com/61802/]]></title>
+        <id>https://twitter.com/abskoop/status/1827647897053384995</id>
+        <link href="https://x.com/abskoop/status/1827647897053384995"/>
+        <updated>2024-08-25T10:03:09.000Z</updated>
+        <summary type="html"><![CDATA[抖音TikTok无水印视频下载工具：Snap Douyin
+👉https://www.ahhhhfs.com/61802/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队]]></title>
         <id>https://sspai.com/post/91777</id>
         <link href="https://sspai.com/post/91777"/>
@@ -65,6 +185,40 @@
         <summary type="html"><![CDATA[引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某Python运维自动化课程 👉https://www.ahhhhfs.com/61798/]]></title>
+        <id>https://twitter.com/abskoop/status/1827605392148590603</id>
+        <link href="https://x.com/abskoop/status/1827605392148590603"/>
+        <updated>2024-08-25T07:14:15.000Z</updated>
+        <summary type="html"><![CDATA[某Python运维自动化课程
+👉https://www.ahhhhfs.com/61798/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某小红书精准引流矩阵陪跑计划 教你从0到1玩转小红书引流 👉https://www.ahhhhfs.com/61788/]]></title>
+        <id>https://twitter.com/abskoop/status/1827380346452897933</id>
+        <link href="https://x.com/abskoop/status/1827380346452897933"/>
+        <updated>2024-08-24T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[某小红书精准引流矩阵陪跑计划
+教你从0到1玩转小红书引流
+👉https://www.ahhhhfs.com/61788/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某亲密关系 高情商攻略 课程 👉https://www.ahhhhfs.com/61779/]]></title>
+        <id>https://twitter.com/abskoop/status/1827370279644856745</id>
+        <link href="https://x.com/abskoop/status/1827370279644856745"/>
+        <updated>2024-08-24T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[某亲密关系 高情商攻略 课程
+👉https://www.ahhhhfs.com/61779/]]></summary>
+        <author>
+            <name>ahhhhfs</name>
         </author>
     </entry>
     <entry>
@@ -1644,47 +1798,6 @@ AI换脸、人脸修复、图片去水印等等
         <link href="https://sspai.com/post/90967"/>
         <updated>2024-07-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[《使命召唤》外挂组织收到动视法律声明后停止业务，勒索软件与商业电邮钓鱼成二季度主要网络安全威胁等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackBerry 如何在 9·11 事件中赢得信赖]]></title>
-        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-3</id>
-        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-3"/>
-        <updated>2024-07-29T09:56:46.000Z</updated>
-        <summary type="html"><![CDATA[在 9·11 事件中的出色表现证明了 RIM 作为电信服务商的坚实可靠，更多人开始认可和信赖 BlackBerry，这也为正被卷入诉讼的 RIM 带来了些许希望。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Kiririn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/90930</id>
-        <link href="https://sspai.com/post/90930"/>
-        <updated>2024-07-29T09:50:48.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铝型材 DIY 实录：做一个和桌面更搭的电脑支架]]></title>
-        <id>https://sspai.com/post/90884</id>
-        <link href="https://sspai.com/post/90884"/>
-        <updated>2024-07-29T03:34:26.000Z</updated>
-        <summary type="html"><![CDATA[用铝型材自己做一个显示器支架。查看全文]]></summary>
-        <author>
-            <name>Cyan_Zhou</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：淘宝天猫收取软件服务费，放松仅退款规则]]></title>
-        <id>https://sspai.com/post/90898</id>
-        <link href="https://sspai.com/post/90898"/>
-        <updated>2024-07-29T01:01:13.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事淘宝天猫收取软件服务费，放松仅退款规则据《晚点》报道，7月26日，淘天集团宣布对商家规则做出密集调整，重点围绕流量分配、售后服务和平台费用展开。其中最受关注的是，淘天将开始向商家收取 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
