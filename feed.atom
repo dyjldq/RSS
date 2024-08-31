@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-30T00:45:14.829Z</updated>
+    <updated>2024-08-31T00:45:15.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
+        <id>https://sspai.com/post/91920</id>
+        <link href="https://sspai.com/post/91920"/>
+        <updated>2024-08-30T09:28:40.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]姥姥的外孙、[美剧]大楼里只有谋杀第四季、[美剧]投行风云第三季、[美剧]维京传奇：英灵神殿第三季/最终季、[韩剧]法官大人、[日剧]量产型璃子-最后的模型女子的人 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App+1 | 捏个朋友一起专注，主打陪伴的番茄钟：gogh]]></title>
+        <id>https://sspai.com/post/91696</id>
+        <link href="https://sspai.com/post/91696"/>
+        <updated>2024-08-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[捏个朋友和你一起专心工作，会不会更专注一点点？查看全文]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给人生经历加点料：打工人的低成本留学之旅]]></title>
+        <id>https://sspai.com/post/91741</id>
+        <link href="https://sspai.com/post/91741"/>
+        <updated>2024-08-30T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[欣然选择了出国留学两年，从一眼望得到头的人生轨迹去到了一个又有许多不确定的事情且充满未知的人生道路。查看全文]]></summary>
+        <author>
+            <name>Junio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Telegram CEO 获得保释，加州通过 AI 安全法案]]></title>
+        <id>https://sspai.com/post/91907</id>
+        <link href="https://sspai.com/post/91907"/>
+        <updated>2024-08-30T00:03:03.000Z</updated>
+        <summary type="html"><![CDATA[任天堂宣布停止 New 3DS 的维修服务，Apple 支持导出 Apple Music 播放列表查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想要轻松坚持运动，我给自己做了《运动派对》]]></title>
         <id>https://sspai.com/post/91849</id>
@@ -1768,46 +1808,6 @@ AI换脸、人脸修复、图片去水印等等
         <link href="https://sspai.com/post/91093"/>
         <updated>2024-08-02T00:36:07.000Z</updated>
         <summary type="html"><![CDATA[高通称到 2025 年 Arm 电脑零售价可低至 700 美元，国家网络身份认证公共服务试点。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 通话录音姗姗来迟，但好像和其他手机不太一样]]></title>
-        <id>https://sspai.com/post/91078</id>
-        <link href="https://sspai.com/post/91078"/>
-        <updated>2024-08-01T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhone 内置通话录音了，但要不要提醒这件事好像有些门道。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新玩意 190｜少数派的编辑们最近买了啥？]]></title>
-        <id>https://sspai.com/post/91073</id>
-        <link href="https://sspai.com/post/91073"/>
-        <updated>2024-08-01T06:50:52.000Z</updated>
-        <summary type="html"><![CDATA[关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vivo X100 Ultra: 「100」尺杆头，愿影像更进步]]></title>
-        <id>https://sspai.com/post/90906</id>
-        <link href="https://sspai.com/post/90906"/>
-        <updated>2024-08-01T03:59:29.000Z</updated>
-        <summary type="html"><![CDATA[编注：本文为少数派×骁龙骁友会「先享体验计划」第四期众测的入围文章，少数派联手骁龙骁友会的先享体验计划，深入到数字生活的不同方面，通过半年时间的有奖众测，为各位带来最新奇、最前沿的科技产品体验，与充满 ...查看全文]]></summary>
-        <author>
-            <name>Hermanchannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Nothing Phone (2a) Plus 发布、高通推出第二代骁龙 4s 平台等]]></title>
-        <id>https://sspai.com/post/91061</id>
-        <link href="https://sspai.com/post/91061"/>
-        <updated>2024-08-01T00:30:09.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 向部分用户开放 GPT-4o 语音模式、Adobe 推出 Windows on Arm 版 Illustrator。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
