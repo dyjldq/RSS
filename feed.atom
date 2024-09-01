@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-31T00:45:15.360Z</updated>
+    <updated>2024-09-01T00:54:48.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[个性、好拼又好看的积木插座，TA 们这样玩]]></title>
+        <id>https://sspai.com/post/91899</id>
+        <link href="https://sspai.com/post/91899"/>
+        <updated>2024-08-31T06:07:38.000Z</updated>
+        <summary type="html"><![CDATA[来看看少数派用户们对特洛克积木插座 Pixel 65 天马行空的创想。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
         <id>https://sspai.com/post/91920</id>
@@ -1760,56 +1770,6 @@ AI换脸、人脸修复、图片去水印等等
         <summary type="html"><![CDATA[各位少数派的读者们，大家好，为了创造更多和大家面对面交流的机会，少数派门店从7月开始将每月组织至少一次的线下活动。第一期，我们先来了一场轻松的音乐活动，和大家过了一个放松、愉快又能略有收获的周末下午。 ...查看全文]]></summary>
         <author>
             <name>挨石</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/91111</id>
-        <link href="https://sspai.com/post/91111"/>
-        <updated>2024-08-02T10:04:18.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]从21世纪安全撤离、[电影]伟大的莉莲·霍尔、[电影]黎明的一切、[电影]风之王国、[德剧]克丽欧的红色复仇第二季、[动画]飞出个未来第十二季、[纪录片]费德勒：最 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[七夕送礼不抓狂，这是派商店为你准备的送礼清单]]></title>
-        <id>https://sspai.com/post/91092</id>
-        <link href="https://sspai.com/post/91092"/>
-        <updated>2024-08-02T08:47:21.000Z</updated>
-        <summary type="html"><![CDATA[下周六七夕节即将到来，我们又为你筛选了一系列商店新品。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「空调救命」不是玩笑话，聊聊中暑的预防、发现与救治]]></title>
-        <id>https://sspai.com/post/74761</id>
-        <link href="https://sspai.com/post/74761"/>
-        <updated>2024-08-02T07:15:11.000Z</updated>
-        <summary type="html"><![CDATA[入夏之后，高温天气屡见不鲜。无论环境怎样，都希望大家能够增加防护，把高温对身体的伤害降到最低。查看全文]]></summary>
-        <author>
-            <name>一柳繁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年，我是如何使用 Windows PC 的]]></title>
-        <id>https://sspai.com/post/90272</id>
-        <link href="https://sspai.com/post/90272"/>
-        <updated>2024-08-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[工欲善其事，必先利其器。利用工具想做好一件事，首先要对工具本身足够了解掌握。充分利用计算机自身的特性，再加上保持良好的习惯，最终一定会从日积月累的行动中受益。查看全文]]></summary>
-        <author>
-            <name>CG艺术实验室</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Google 发布三款开放式 AI 模型、Ampere 推出 AmpereOne Aurora 处理器]]></title>
-        <id>https://sspai.com/post/91093</id>
-        <link href="https://sspai.com/post/91093"/>
-        <updated>2024-08-02T00:36:07.000Z</updated>
-        <summary type="html"><![CDATA[高通称到 2025 年 Arm 电脑零售价可低至 700 美元，国家网络身份认证公共服务试点。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
