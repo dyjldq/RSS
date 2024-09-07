@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-06T00:45:45.339Z</updated>
+    <updated>2024-09-07T00:44:55.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
+        <id>https://sspai.com/post/92082</id>
+        <link href="https://sspai.com/post/92082"/>
+        <updated>2024-09-06T09:51:33.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]流人第四季、[美剧]弹子球游戏第二季、[日剧]ÀTable！～怀旧的假日～、[印度]科塔工厂第三季、[电影]过季、[动画]义妹生活、[真人秀]妈妈，要和我单独去旅行 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「空气炸锅真是伟大的发明」]]></title>
+        <id>https://sspai.com/prime/story/air-fryer-recipes</id>
+        <link href="https://sspai.com/prime/story/air-fryer-recipes"/>
+        <updated>2024-09-06T09:18:43.000Z</updated>
+        <summary type="html"><![CDATA[一起试试，熟练之后，你也会开始好奇，空气炸锅之前是怎么闲置到在角落落灰的。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>潘誉晗</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器]]></title>
+        <id>https://sspai.com/post/92069</id>
+        <link href="https://sspai.com/post/92069"/>
+        <updated>2024-09-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「你已经是个成熟的笔记本了，应该学会自己整理笔记自己复习了。」如果正在读书的你，也曾有过这样的「梦想」，MarginNote能在很大程度上满足你。传统的PDF阅读器和笔记软件，可以通过下划线、高亮、批 ...查看全文]]></summary>
+        <author>
+            <name>福利派</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让家的智能符合期待，他们选择了 Apple Home]]></title>
+        <id>https://sspai.com/post/91922</id>
+        <link href="https://sspai.com/post/91922"/>
+        <updated>2024-09-06T06:35:49.000Z</updated>
+        <summary type="html"><![CDATA[智能家居一直是少数派上热度颇高的话题，其中AppleHome又以简洁易用的交互界面、协同一致的生态体验，获得了不少拥趸。众所周知，要想实现随时在线、随处可控的AppleHome智能化体验，家中就得有一 ...查看全文]]></summary>
+        <author>
+            <name>waychane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活处处是投资，这档节目教你让钱包和生活都变得确定]]></title>
+        <id>https://sspai.com/post/92054</id>
+        <link href="https://sspai.com/post/92054"/>
+        <updated>2024-09-06T03:30:35.000Z</updated>
+        <summary type="html"><![CDATA[日历翻到九月，也就意味着这一年进入了最后三分之一。2024年，我们依然处在巨大的不确定性中。或许你还是一名「学生党」，正在探索自己的学业和职业规划，以及如何将自己的小积蓄用得更有意义；又或许你已经是一 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等]]></title>
+        <id>https://sspai.com/post/92062</id>
+        <link href="https://sspai.com/post/92062"/>
+        <updated>2024-09-06T00:03:36.000Z</updated>
+        <summary type="html"><![CDATA[蓝牙技术联盟发布蓝牙 6.0 核心规范，华硕推出 NUC 14 Pro AI 迷你 PC 等查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源将Markdown 可视化为思维导图工具：markmap 👉https://www.ahhhhfs.com/62235/]]></title>
         <id>https://twitter.com/abskoop/status/1831668997638787269</id>
@@ -2034,56 +2095,6 @@ AI换脸、人脸修复、图片去水印等等
         <link href="https://sspai.com/post/91308"/>
         <updated>2024-08-09T00:24:58.000Z</updated>
         <summary type="html"><![CDATA[iOS 内置「地图」App 在日本东京上线实时交通信息、《黑神话：悟空》发布最终预告片等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有奖征集：分享你的特洛克 Pixel 65 #桌面小世界#]]></title>
-        <id>https://sspai.com/post/91172</id>
-        <link href="https://sspai.com/post/91172"/>
-        <updated>2024-08-08T09:55:08.000Z</updated>
-        <summary type="html"><![CDATA[特洛克Pixel65发售后，我们收到了不少来自用户的投稿，分享了自己将这款积木插座改造的成果，我们也想激励更多用户，来分享自己对于这款产品的用法/玩法，因此联合特洛克官方，发起了这次#桌面小世界#桌面 ...查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心中无工作天天放假，手边有鱼摸劳逸结合]]></title>
-        <id>https://sspai.com/post/91280</id>
-        <link href="https://sspai.com/post/91280"/>
-        <updated>2024-08-08T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[下个假期太远，这些摸鱼小工具帮你找点乐子查看全文]]></summary>
-        <author>
-            <name>北鸮</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 年 223 场演出，为你总结这份 Livehouse 观演指南]]></title>
-        <id>https://sspai.com/post/91212</id>
-        <link href="https://sspai.com/post/91212"/>
-        <updated>2024-08-08T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[写在前面1973年，第一家真正意义上的Livehouse——CoffeeHouseJittoku（中文翻译为拾得）在日本京都诞生。与酒吧不同，Livehouse的声场、灯光专业，以站立式观看为主，可容 ...查看全文]]></summary>
-        <author>
-            <name>Wonz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻源大圣之旅：就像是一场梦，醒来以后还是很感动]]></title>
-        <id>https://sspai.com/post/91218</id>
-        <link href="https://sspai.com/post/91218"/>
-        <updated>2024-08-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[前不久，我们去往了大圣信仰的发源地福建，亲眼见证了大圣信仰的源流。旅途中，我们还遇见了许多神奇的缘分，学到了很多冷门的民俗知识。本期播客就是我们对于本次旅途的总结和回顾。查看全文]]></summary>
-        <author>
-            <name>少数派播客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：英特尔公布第 13、14 代桌面处理器延保细节、NVMe 2.1 规范发布等]]></title>
-        <id>https://sspai.com/post/91271</id>
-        <link href="https://sspai.com/post/91271"/>
-        <updated>2024-08-08T00:32:02.000Z</updated>
-        <summary type="html"><![CDATA[罗技 G 魔方掌机国行版发布、美光推出 PCIe Gen 6 的固态硬盘等。查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
