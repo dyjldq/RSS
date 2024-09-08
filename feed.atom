@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-07T00:44:55.128Z</updated>
+    <updated>2024-09-08T00:51:38.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿]]></title>
+        <id>https://sspai.com/post/92084</id>
+        <link href="https://sspai.com/post/92084"/>
+        <updated>2024-09-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[《黑神话：悟空》是近期突破了各个次元壁的现象级话题，也是每个游戏玩家都不得不聊的佳作。在本期节目中，《少数派播客》再次与《皮蛋漫游记》激情联动，并且拉来了游戏博主阿平 Yves，四个人一起聊聊这部游戏的里里外外和个人感受。查看全文]]></summary>
+        <author>
+            <name>少数派播客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
         <id>https://sspai.com/post/92082</id>
@@ -2046,57 +2056,6 @@ AI换脸、人脸修复、图片去水印等等
         <summary type="html"><![CDATA[七夕听这歌，会不会太痛了？查看全文]]></summary>
         <author>
             <name>板斧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「就像是三岁孩子的玩具」：黑莓如何在触屏时代失宠]]></title>
-        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-4</id>
-        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-4"/>
-        <updated>2024-08-09T09:57:37.000Z</updated>
-        <summary type="html"><![CDATA[2008 年，BlackBerry 推出触屏手机 Storm 对抗 iPhone，却因技术缺陷导致百万台设备故障。这次失败不仅造成 5 亿美元损失，更成为 RIM 由盛转衰的转折点。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Kiririn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/91324</id>
-        <link href="https://sspai.com/post/91324"/>
-        <updated>2024-08-09T09:50:02.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[韩剧]好搭档、[英剧]狐狸女士第二季、[电影]旅行者的需求、[动画]好想告诉你第三季、[纪录片]这就是我：席琳·狄翁、[纪录片]西蒙·拜尔斯：再战奥运、[纪录片]小动物大 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六年六万六千公里：这是我的特斯拉 Model 3「完整版」体验]]></title>
-        <id>https://sspai.com/post/91307</id>
-        <link href="https://sspai.com/post/91307"/>
-        <updated>2024-08-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[六年驾驶治好了我的里程焦虑吗？查看全文]]></summary>
-        <author>
-            <name>越3nh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一日一技 | 手机不支持内录？用 Reaper 四步抢救录音效果]]></title>
-        <id>https://sspai.com/post/91097</id>
-        <link href="https://sspai.com/post/91097"/>
-        <updated>2024-08-09T03:20:22.000Z</updated>
-        <summary type="html"><![CDATA[大材也能小用，通过 REAPER 的后期编辑工具，将清晰的录音带回耳畔。查看全文]]></summary>
-        <author>
-            <name>爱拼安小匠</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Disney+ 将开始严厉打击密码共享行为、联发科技发布 Helio G100]]></title>
-        <id>https://sspai.com/post/91308</id>
-        <link href="https://sspai.com/post/91308"/>
-        <updated>2024-08-09T00:24:58.000Z</updated>
-        <summary type="html"><![CDATA[iOS 内置「地图」App 在日本东京上线实时交通信息、《黑神话：悟空》发布最终预告片等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
