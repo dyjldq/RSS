@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T00:45:46.286Z</updated>
+    <updated>2024-09-15T00:53:12.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[抚慰身心的深夜食堂：5 位少数派的夜宵美食与故事]]></title>
+        <id>https://sspai.com/post/92242</id>
+        <link href="https://sspai.com/post/92242"/>
+        <updated>2024-09-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不知不觉加班到深夜，饿得头昏眼花的时刻，清淡的饭团和滋啦啦的炸串，你会选哪一个？晚风吹过烟雾缭绕的烧烤摊，那个戴着耳机、独自吃饭的人在想什么？睡前在社媒刷到别人垂涎欲滴的大餐，然后打开外卖软件的你，脑 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顺风车司机初体验：劝退油车通勤人士]]></title>
+        <id>https://sspai.com/post/92087</id>
+        <link href="https://sspai.com/post/92087"/>
+        <updated>2024-09-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[顺风车原本是一个极其理想的「共享经济」模型，却因为监管、安全等多种不可控因素而酿成悲剧，甚至一度消失在人们的视野之中。近几年，我发现各大平台又重新上线了顺风车产品，恰好我又因为特殊原因，需要接受半个多 ...查看全文]]></summary>
+        <author>
+            <name>东眠的熊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功能变革、订阅终行：老牌阅读器 Reeder 重焕新生]]></title>
+        <id>https://sspai.com/post/92205</id>
+        <link href="https://sspai.com/post/92205"/>
+        <updated>2024-09-14T03:38:41.000Z</updated>
+        <summary type="html"><![CDATA[作为元老级的RSS应用，Reeder凭借简约的设计、实用的操作以及持续推出的创新功能，在同类应用中一直都有很高的人气。我使用的第一款RSS工具正是Reeder3。而这么多年过去，如果要说最好用的RSS ...查看全文]]></summary>
+        <author>
+            <name>ElijahLee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 9 部作品]]></title>
         <id>https://sspai.com/post/92277</id>
@@ -2349,46 +2379,6 @@ xx教你会说话、会办事、办成事
         <summary type="html"><![CDATA[《黑神话：悟空》是真正意义上放在全球市场也极具竞争力的国产游戏，我相信它会成为今年年度游戏的有力竞争者，而游戏科学也将在此役之后毫无疑问成为全球顶尖 ARPG 游戏开发商之一。查看全文]]></summary>
         <author>
             <name>IGN中国</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
-        <id>https://sspai.com/post/91553</id>
-        <link href="https://sspai.com/post/91553"/>
-        <updated>2024-08-16T09:41:48.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]异形：夺命舰、[电影]地球脉动：极限生存、[电影]名侦探柯南：百万美元的五菱星、[电影]人间诗句、🔦[电影]填词L、[美剧]海豹突击队第七季/最终季、[真人秀]Th ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你的回忆井然有序：不用花钱的 Lightroom Classic 照片整理方案]]></title>
-        <id>https://sspai.com/post/91248</id>
-        <link href="https://sspai.com/post/91248"/>
-        <updated>2024-08-16T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[面对大量的照片导出，你是否有种无从下手的感觉？不妨试试无需订阅就能免费使用的 Lightroom Classic 吧。查看全文]]></summary>
-        <author>
-            <name>谷丰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于猴痘病毒，你现在需要了解这些]]></title>
-        <id>https://sspai.com/post/74231</id>
-        <link href="https://sspai.com/post/74231"/>
-        <updated>2024-08-16T03:38:45.000Z</updated>
-        <summary type="html"><![CDATA[猴痘病毒在欧美地区爆发，你对这个病毒的理解正确吗？这篇文章为你破除一些关于猴痘的迷思。查看全文]]></summary>
-        <author>
-            <name>一柳繁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Beats Studio Pro 推出 Kim 特别版新配色等]]></title>
-        <id>https://sspai.com/post/91515</id>
-        <link href="https://sspai.com/post/91515"/>
-        <updated>2024-08-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Steam 将降低笑话、梗和字符画评测排序，微软将在 Windows 11 更新中默认启用 BitLocker 等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
