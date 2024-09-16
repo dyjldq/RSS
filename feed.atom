@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-15T00:53:12.366Z</updated>
+    <updated>2024-09-16T00:50:56.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：关西的夏日重现]]></title>
+        <id>https://sspai.com/post/91511</id>
+        <link href="https://sspai.com/post/91511"/>
+        <updated>2024-09-15T04:15:22.000Z</updated>
+        <summary type="html"><![CDATA[島のどこにても、潮の音が聞こえる。その音を追えば、会える気がした。不管在岛的哪里，都能听见潮水的声音。感觉跟着这个声音，就能遇见她。——《夏日重现》夏日就要去海边啊。今年夏天去日本是我们一早就决定的。 ...查看全文]]></summary>
+        <author>
+            <name>Journey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抚慰身心的深夜食堂：5 位少数派的夜宵美食与故事]]></title>
         <id>https://sspai.com/post/92242</id>
@@ -2369,16 +2379,6 @@ xx教你会说话、会办事、办成事
         <summary type="html"><![CDATA[更高、更快、更远，这是奥林匹克精神，巴黎奥运上各项世界纪录接连被打破，除了高涨的民族情绪外，这些世界纪录和我们又有什么关系呢？作为一个热爱运动的数据器材党，今天以我熟悉的游泳、骑行和跑步为切入点浅析一 ...查看全文]]></summary>
         <author>
             <name>写小黑文的Alex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《黑神话：悟空》评测：敢问路在何方，路在脚下]]></title>
-        <id>https://sspai.com/post/91560</id>
-        <link href="https://sspai.com/post/91560"/>
-        <updated>2024-08-17T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[《黑神话：悟空》是真正意义上放在全球市场也极具竞争力的国产游戏，我相信它会成为今年年度游戏的有力竞争者，而游戏科学也将在此役之后毫无疑问成为全球顶尖 ARPG 游戏开发商之一。查看全文]]></summary>
-        <author>
-            <name>IGN中国</name>
         </author>
     </entry>
     <entry>
