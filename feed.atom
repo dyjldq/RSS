@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T00:39:23.830Z</updated>
+    <updated>2024-09-18T00:46:26.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[具透 |  iOS 18 正式版来了，升级后记得试试这些新功能]]></title>
+        <id>https://sspai.com/post/91789</id>
+        <link href="https://sspai.com/post/91789"/>
+        <updated>2024-09-17T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[少数派在体验了新版系统之后，帮你整理了 iOS 18 中值得关注的新功能和新特性，希望帮你能完全了解新版系统的方方面面。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计小调整，功能大进步：AirPods 4 首发体验]]></title>
         <id>https://sspai.com/post/92323</id>
@@ -2317,56 +2327,6 @@ xx教你会说话、会办事、办成事
         <link href="https://sspai.com/post/91626"/>
         <updated>2024-08-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[微软已封堵绕过 Win11 硬件检查命令,Meta Quest 头显上线 HDMI Link 应用等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/91620</id>
-        <link href="https://sspai.com/post/91620"/>
-        <updated>2024-08-19T10:22:48.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[八个月里数台数码新品，我们用「众测」发现了骁龙芯片的更多惊喜]]></title>
-        <id>https://sspai.com/post/91496</id>
-        <link href="https://sspai.com/post/91496"/>
-        <updated>2024-08-19T07:53:07.000Z</updated>
-        <summary type="html"><![CDATA[骁龙作为移动创新科技品牌，从智能手机、PC、汽车、XR和智能穿戴设备，为人们喜爱的智能终端提供核「芯」动力，带来领先的移动体验，让生活更加丰富多彩。而为了让热爱探索的骁友第一时间获得新奇前沿的科技产品 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻源大圣：黑神话悟空背后的民俗及文化起源]]></title>
-        <id>https://sspai.com/post/91582</id>
-        <link href="https://sspai.com/post/91582"/>
-        <updated>2024-08-19T06:59:56.000Z</updated>
-        <summary type="html"><![CDATA[为了探究大圣信仰到底是一种怎样的存在，我们在七月末开启了一场「寻源大圣」之旅，实地见证和考察了大圣信仰的源流和庙宇。查看全文]]></summary>
-        <author>
-            <name>张奕源Nick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 AI 给新闻把把关：基于 Tasker 的资讯过滤与播报]]></title>
-        <id>https://sspai.com/post/91424</id>
-        <link href="https://sspai.com/post/91424"/>
-        <updated>2024-08-19T03:28:34.000Z</updated>
-        <summary type="html"><![CDATA[既然只瞄一眼标题就能判断要不要听，这事儿 AI 难道不能做吗？我可以继续听头条频道，只是让 AI 帮我滤掉一道，可不可行？这个想法一冒出来，就完全停不下来了。查看全文]]></summary>
-        <author>
-            <name>Victor_42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：《堡垒之夜》通过 Epic 商店重返 iOS]]></title>
-        <id>https://sspai.com/post/91600</id>
-        <link href="https://sspai.com/post/91600"/>
-        <updated>2024-08-19T00:54:40.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事《堡垒之夜》通过Epic商店重返iOS8月16日，在被AppStore下架超过四年后，《堡垒之夜》宣布通过Epic开设的独立应用商店重返iOS平台。但该商店仅限欧盟用户下载，因为只有 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
