@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T00:46:26.427Z</updated>
+    <updated>2024-09-19T00:47:28.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败]]></title>
+        <id>https://sspai.com/post/91950</id>
+        <link href="https://sspai.com/post/91950"/>
+        <updated>2024-09-18T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在上篇中，我们探寻了AppleWatch背后的故事，回顾了AppleWatch从「时尚」向「健康」转变产品定位的过程，聊到了「智能手表界的iPhone4」——AppleWatchSeries4。在下篇 ...查看全文]]></summary>
+        <author>
+            <name>YellowColr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新品 | 不割手的水獭刀，随身带着随时用]]></title>
+        <id>https://sspai.com/post/91966</id>
+        <link href="https://sspai.com/post/91966"/>
+        <updated>2024-09-18T08:00:31.000Z</updated>
+        <summary type="html"><![CDATA[在2021年以及今年1月份，我们曾经先后两次向大家推荐过来自Slice的小刀产品，而作为一款以「安全」为主要卖点的产品，Slice独特不伤手的设计，受到大家的欢迎。仅作展示，请勿模仿切割皮肤而Slic ...查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[环阿尔卑斯七国，三千公里的山与海]]></title>
+        <id>https://sspai.com/post/91374</id>
+        <link href="https://sspai.com/post/91374"/>
+        <updated>2024-09-18T07:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>Blannnk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | iPadOS 18：除了新设计、新交互，还有这些值得一试的亮点功能]]></title>
+        <id>https://sspai.com/post/92015</id>
+        <link href="https://sspai.com/post/92015"/>
+        <updated>2024-09-18T03:32:16.000Z</updated>
+        <summary type="html"><![CDATA[今年的 iPadOS 18 更新总算没落下 iOS 18 里的新功能，我们帮你整理出了 iPadOS 18 中这些值得关注的新特性。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：2024 年国庆假期火车票开售、Edge 放弃标签圆角矩形设计等]]></title>
+        <id>https://sspai.com/post/92350</id>
+        <link href="https://sspai.com/post/92350"/>
+        <updated>2024-09-18T00:51:23.000Z</updated>
+        <summary type="html"><![CDATA[商务部征求废旧家电估值行业标准，Bose 推出新款 QuietComfort 降噪耳机等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具透 |  iOS 18 正式版来了，升级后记得试试这些新功能]]></title>
         <id>https://sspai.com/post/91789</id>
@@ -2281,52 +2331,6 @@ xx教你会说话、会办事、办成事
         <link href="https://sspai.com/post/91658"/>
         <updated>2024-08-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[高通发布骁龙 7s Gen3，《最终幻想 16》PC 版将于 9 月 17 日上线。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 058 | 你没见过的社区文章、一周最热评、派友在用的电纸书]]></title>
-        <id>https://sspai.com/post/91639</id>
-        <link href="https://sspai.com/post/91639"/>
-        <updated>2024-08-20T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。一周热评来自 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中文版全新上线，这 5 条建议伴你高效上手 Notion]]></title>
-        <id>https://sspai.com/post/80972</id>
-        <link href="https://sspai.com/post/80972"/>
-        <updated>2024-08-20T06:32:45.000Z</updated>
-        <summary type="html"><![CDATA[我常为 Notion 感到惋惜，太多人还来不及感受它的美好，就因为各种原因而放弃。或许天性使然，我们总是容易对看似复杂的东西心生畏惧，也或者只是纯粹感到麻烦而已。想起来我也讨厌吃需要剥壳的螃蟹，也就不是不能理解了。
-所以我一直在想一个问题，怎样才是 Notion 正确的打开方式呢？
-说到底每个人的笔记需求、以及笔记习惯都不一样，所以正确且唯一的答案大概率是不存在的。不过，排除错误概率更大的选项总是简单些。所以在正式进入 Notion 的栏目之前，我想先描绘一下，通常一个新手是怎么放弃使用 Notion 的。
-在购买前更深度了解栏目内容？欢迎前往阅读试读文章：《万字解析 | 十年磨一剑，Notion 的过去、现在与将来》
-[......]
-查看全文
-本文为付费栏目文章，出自《Notion All in One：搭建高能效率系统》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>二一的笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不等一个阳光明媚的晴天，让这些电影带你去海边]]></title>
-        <id>https://sspai.com/post/91498</id>
-        <link href="https://sspai.com/post/91498"/>
-        <updated>2024-08-20T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[夏日高温还在，恰如记忆中海水的湛蓝那样清晰，如果你也曾被阳光下的海浪所吸引，却未曾勇敢踏出那一步，不妨看看这些电影吧。本期我们就以「夏日海边」为主题，挑选了7部影视作品，这里有平实的生活记录、浪漫的爱 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Procreate 明确拒绝生成式 AI，网易云音乐发生服务器故障等]]></title>
-        <id>https://sspai.com/post/91626</id>
-        <link href="https://sspai.com/post/91626"/>
-        <updated>2024-08-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[微软已封堵绕过 Win11 硬件检查命令,Meta Quest 头显上线 HDMI Link 应用等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
