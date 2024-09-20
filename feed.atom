@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T00:47:28.273Z</updated>
+    <updated>2024-09-20T00:47:25.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山]]></title>
+        <id>https://sspai.com/post/90479</id>
+        <link href="https://sspai.com/post/90479"/>
+        <updated>2024-09-19T09:11:36.000Z</updated>
+        <summary type="html"><![CDATA[拟定在七月初进行一个10天左右的旅行，我和同伴不约而同想到了新西兰。选择在北半球的6、7、8三个月去新西兰，大半是为了避暑；小半是因为相较于澳洲，新西兰更适合短途旅行。签证：雄心壮志→当头棒喝→雨后天 ...查看全文]]></summary>
+        <author>
+            <name>HarperMua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六年之后的再升级：我的 iPad Pro (M4) + Apple Pencil Pro 使用体验]]></title>
+        <id>https://sspai.com/post/92354</id>
+        <link href="https://sspai.com/post/92354"/>
+        <updated>2024-09-19T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今年5月份，Apple发布了新一代配备M4芯片的iPadPro系列。我在8月购买了11英寸的版本，以取代原先使用的2018款iPadPro，并且配套购买了全新的ApplePencilPro。在这篇文章 ...查看全文]]></summary>
+        <author>
+            <name>ElijahLee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | 精心细调更懂你：watchOS 11 中值得关注的更新]]></title>
+        <id>https://sspai.com/post/92010</id>
+        <link href="https://sspai.com/post/92010"/>
+        <updated>2024-09-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[除了生命体征、运动负荷，你还能在 watchOS 11 里找到更智能的叠放、实时通知、改进后的照片表盘以及可以随时暂停的三环。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：Apple 为 iPhone 16 系列带来无线恢复功能等]]></title>
+        <id>https://sspai.com/post/92378</id>
+        <link href="https://sspai.com/post/92378"/>
+        <updated>2024-09-19T00:39:03.000Z</updated>
+        <summary type="html"><![CDATA[肯辛顿发布 Thunderbolt 5 扩展坞，Logitech G 发布多款硬件新品等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Watch 的十年一剑（下）：稳坐龙头，独孤求败]]></title>
         <id>https://sspai.com/post/91950</id>
@@ -2293,46 +2333,6 @@ xx教你会说话、会办事、办成事
 👉https://www.ahhhhfs.com/61670/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用等苹果上线，用快捷指令实现 AI 陪读]]></title>
-        <id>https://sspai.com/post/91597</id>
-        <link href="https://sspai.com/post/91597"/>
-        <updated>2024-08-21T09:33:35.000Z</updated>
-        <summary type="html"><![CDATA[在贾维斯到达地球之前，「阅小结」作为一个传统的目标导向的 AI 工具，请提前为贾维斯做些事吧。查看全文]]></summary>
-        <author>
-            <name>Jamel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 用 AI 选出好照片：基于 Aftershoot 和 Lightroom 的人像摄影工作流]]></title>
-        <id>https://sspai.com/post/91608</id>
-        <link href="https://sspai.com/post/91608"/>
-        <updated>2024-08-21T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[如何高效搭建个人工作室的摄影、选片、后期和存档的工作流？在 Aftershot 的帮助下，我找到了更有效率的新方法。查看全文]]></summary>
-        <author>
-            <name>千啾略</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于「在途时间」作旅行规划，这是我的方法和工具]]></title>
-        <id>https://sspai.com/post/91147</id>
-        <link href="https://sspai.com/post/91147"/>
-        <updated>2024-08-21T03:49:47.000Z</updated>
-        <summary type="html"><![CDATA[编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文]]></summary>
-        <author>
-            <name>王牌猎人爱上奥妮克希亚</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：网页版 Apple Podcasts 上线、树莓派 5 推出 2GB 版本等]]></title>
-        <id>https://sspai.com/post/91658</id>
-        <link href="https://sspai.com/post/91658"/>
-        <updated>2024-08-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[高通发布骁龙 7s Gen3，《最终幻想 16》PC 版将于 9 月 17 日上线。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
