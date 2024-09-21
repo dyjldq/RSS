@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T00:47:25.652Z</updated>
+    <updated>2024-09-21T00:46:25.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
+        <id>https://sspai.com/post/92433</id>
+        <link href="https://sspai.com/post/92433"/>
+        <updated>2024-09-20T10:09:44.000Z</updated>
+        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：🔦[电影]出走的决心、[美剧]企鹅人、[台剧]听海涌、[美剧]塔尔萨之王第二季、[电影]荒野机器人、[美剧]战斗之夜：百万美元大盗、[日剧]反正与我无关～某律师的真实工作～ ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[收藏不等于有用，6 条准则助我高效管理书签]]></title>
+        <id>https://sspai.com/post/92312</id>
+        <link href="https://sspai.com/post/92312"/>
+        <updated>2024-09-20T07:33:07.000Z</updated>
+        <summary type="html"><![CDATA[书签管理并不是一蹴而就的事情，可能需要不断调整和优化。但只要坚持，最终一定会看到成效。查看全文]]></summary>
+        <author>
+            <name>独行虾FreeShrimp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | macOS Sequoia 正式版来了，升级后记得试试这些新功能]]></title>
+        <id>https://sspai.com/post/91855</id>
+        <link href="https://sspai.com/post/91855"/>
+        <updated>2024-09-20T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今年 Apple 不仅为 macOS Sequoia 带来了原生窗口分屏、独立的「密码」应用，还对系统内置的 Safari、日历、备忘录等软件带来了不少新功能。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：乐道正式发布 L60 电动 SUV、任天堂起诉《幻兽帕鲁》开发商等]]></title>
+        <id>https://sspai.com/post/92403</id>
+        <link href="https://sspai.com/post/92403"/>
+        <updated>2024-09-20T00:28:20.000Z</updated>
+        <summary type="html"><![CDATA[大疆发布 Osmo Action 5 Pro 运动相机、HTC 推出 Vive Focus Vision 头显等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[城市漫步指南：十天，看尽新西兰的牛羊、草原和雪山]]></title>
         <id>https://sspai.com/post/90479</id>
@@ -2220,37 +2260,6 @@ xx教你会说话、会办事、办成事
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[时间不贫困：如何便捷、准确地记录自己的一天]]></title>
-        <id>https://sspai.com/prime/story/ios-time-logging-suite</id>
-        <link href="https://sspai.com/prime/story/ios-time-logging-suite"/>
-        <updated>2024-08-22T09:30:13.000Z</updated>
-        <summary type="html"><![CDATA[当时间记录变成一个习惯后，对时间的判断会越来越准确，从而能更加自由支配时间。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>阿森</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把女朋友拍好看，技巧可能没有你以为的那么重要]]></title>
-        <id>https://sspai.com/post/90666</id>
-        <link href="https://sspai.com/post/90666"/>
-        <updated>2024-08-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[写在前面本文会出现三位女性模特。但其中只有一位是女朋友。谢谢她们给予的信任、鼓励和支持，以及愿意在镜头前展现美好的自己。我很喜欢拍照，也自认为拍摄不同题材照片都积累了一些经验。但是对于我来说，拍人比拍 ...查看全文]]></summary>
-        <author>
-            <name>Hermanchannn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[键盘鼠标都最低，派商店 Keychron 系列清仓促销专场]]></title>
-        <id>https://sspai.com/post/91677</id>
-        <link href="https://sspai.com/post/91677"/>
-        <updated>2024-08-22T08:09:02.000Z</updated>
-        <summary type="html"><![CDATA[活动时间：即日起至8.29省流版：少数派定制KeychronK3史低¥338起售少数派定制KeychronQ1系列史低仅需¥769KeychronM系列鼠标¥179起购买K3系列赠送捣蛋獭贴纸我们曾与 ...查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某ChatGPT运营秘诀与变现攻略 👉https://www.ahhhhfs.com/61685/]]></title>
         <id>https://twitter.com/abskoop/status/1826528153352974436</id>
         <link href="https://x.com/abskoop/status/1826528153352974436"/>
@@ -2259,46 +2268,6 @@ xx教你会说话、会办事、办成事
 👉https://www.ahhhhfs.com/61685/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一派 | 天命人，来聊聊你的《黑神话：悟空》游玩体验]]></title>
-        <id>https://sspai.com/post/91709</id>
-        <link href="https://sspai.com/post/91709"/>
-        <updated>2024-08-22T07:20:54.000Z</updated>
-        <summary type="html"><![CDATA[「上香」之余想来点新鲜空气？本文所述的游戏体验应该能为你提供一些参考。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线下活动：不止于玩 |《黑神话：悟空》探索工坊及 3A 游戏差异视角研讨会]]></title>
-        <id>https://sspai.com/post/91700</id>
-        <link href="https://sspai.com/post/91700"/>
-        <updated>2024-08-22T04:39:52.000Z</updated>
-        <summary type="html"><![CDATA[在《黑神话：悟空》正式发售第一个星期的周末，我们组织这场活动，和我派读者及相关感兴趣的朋友一起面对面的交流。查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[移动应用创新赛开赛，今年都有哪些新看点]]></title>
-        <id>https://sspai.com/post/91683</id>
-        <link href="https://sspai.com/post/91683"/>
-        <updated>2024-08-22T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[在接下来的三个月时间里，各自参赛队伍也将进入如火如荼的开发和准备阶段，争取用自己的 app 在移动应用创新赛拿到一个好的成绩。查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：PICO 4 Ultra 发布、《纪念碑谷 3》首发 Netflix 等]]></title>
-        <id>https://sspai.com/post/91697</id>
-        <link href="https://sspai.com/post/91697"/>
-        <updated>2024-08-22T00:48:10.000Z</updated>
-        <summary type="html"><![CDATA[雅达利发布 Atari 7800+ 游戏主机、铁路 12306上线学生预约购票服务等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
