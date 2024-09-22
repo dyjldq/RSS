@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T00:46:25.892Z</updated>
+    <updated>2024-09-22T00:53:20.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 借助 RTSP 协议将摄像头统一接入监控系统]]></title>
+        <id>https://sspai.com/post/92327</id>
+        <link href="https://sspai.com/post/92327"/>
+        <updated>2024-09-21T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[实时流协议（Real Time Streaming Protocol，RTSP）是一种通用的网络协议，有相当多品牌的摄像头均支持以 RTSP 接入到监控系统中。查看全文]]></summary>
+        <author>
+            <name>JamesHopbourn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
         <id>https://sspai.com/post/92433</id>
@@ -2128,16 +2138,6 @@ xx教你会说话、会办事、办成事
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
-        <id>https://sspai.com/post/91745</id>
-        <link href="https://sspai.com/post/91745"/>
-        <updated>2024-08-23T10:00:16.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[国产]边水往事、[电影]因果报应、[电影]希尔玛、[动画]拳愿阿修罗第二季第2部分、[动画]外星也难民第五季、[纪录片]海洋探索者号、[真人秀]曼哈顿金牌经济几则精彩预告 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某0基础入门做影视解说培 👉https://www.ahhhhfs.com/61737/]]></title>
         <id>https://twitter.com/abskoop/status/1826887367397179765</id>
         <link href="https://x.com/abskoop/status/1826887367397179765"/>
@@ -2146,36 +2146,6 @@ xx教你会说话、会办事、办成事
 👉https://www.ahhhhfs.com/61737/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用快捷指令和 Python，做一个极简的时间记录器]]></title>
-        <id>https://sspai.com/post/91260</id>
-        <link href="https://sspai.com/post/91260"/>
-        <updated>2024-08-23T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[快捷指令比我想象中好用太多，其实本质上就是傻瓜式编程的软件，或者可以理解成现在流行的「无代码编程」，而且能生成一个类似于 app 的图标放在主屏，甚至这个图标还可以用自己的图片！能拥有自己定制的 logo 真是太美好了。这几乎就是做一个自己的小 app。查看全文]]></summary>
-        <author>
-            <name>钟二的伪电气白兰</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与 AI 共个创：无代码经验的我开发了一款图文卡片小工具]]></title>
-        <id>https://sspai.com/post/91443</id>
-        <link href="https://sspai.com/post/91443"/>
-        <updated>2024-08-23T02:58:13.000Z</updated>
-        <summary type="html"><![CDATA[这次的工具开发，让我实践了一次从想法到产品落地的全过程，以及体验到其中的乐趣。同时，这是通过 AI 写代码开发产品的一次尝试，AI 的强大超出想象，发挥的作用远不止于此。查看全文]]></summary>
-        <author>
-            <name>炒饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Windows 11 Recall 将在 10 月开启公测、贝锐推出自研操作系统 OrayOS]]></title>
-        <id>https://sspai.com/post/91724</id>
-        <link href="https://sspai.com/post/91724"/>
-        <updated>2024-08-23T00:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Apple 将对 App Store 团队进行重组，OpenAI 首席战略官反对加州 AI 安全法案。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
