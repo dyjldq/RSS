@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/92490",
+          "author": "少数派编辑部",
+          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文",
+          "link": "https://sspai.com/post/92490",
+          "publishedOn": "2024-09-23T10:06:26.000Z",
+          "wordCount": 938,
+          "title": "派评 | 近期值得关注的 App",
+          "imageUrl": "https://cdnfile.sspai.com/2024/9/23/article/751ac46a-6e98-77cd-0867-8271d30ae89a.png"
+        },
+        {
+          "id": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-6",
+          "author": "Kiririn",
+          "description": "最后的 Passport 和 Q20 出师不利，BlackBerry 作为一个品牌活了下来，但作为一个消费产品停留在了历史中。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "link": "https://sspai.com/prime/story/vintage-tech-stories-blackberry-6",
+          "publishedOn": "2024-09-23T09:34:05.000Z",
+          "wordCount": 1174,
+          "title": "BlackBerry 10 的最后时光与 RIM 的全面转向",
+          "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/f108b004-dd0b-1d48-4459-07be76e5bd93.png"
+        },
+        {
+          "id": "https://sspai.com/post/92306",
+          "author": "PlatyHsu",
+          "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "link": "https://sspai.com/post/92306",
+          "publishedOn": "2024-09-23T03:41:08.000Z",
+          "wordCount": 998,
+          "title": "如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录",
+          "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/ac5d1368-8775-74c0-9781-92f3c55c6f11.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91866",
+          "author": "少数派编辑部",
+          "description": "visionOS 2 的表现更像是 visionOS 1 的完全体，在优化细节的同时还引入了这些新功能。查看全文",
+          "link": "https://sspai.com/post/91866",
+          "publishedOn": "2024-09-23T03:30:00.000Z",
+          "wordCount": 929,
+          "title": "具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能",
+          "imageUrl": "https://cdnfile.sspai.com/6/19/2024/article/90d2ce9c-a0e4-d73a-74df-a871b5a69ce3.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/92468",
+          "author": "少数派编辑部",
+          "description": "你可能错过的新鲜事高通接触英特尔探讨收购意向据《华尔街日报》报道，高通近期接洽英特尔，提议收购。若交易达成，将成为近年来规模最大、影响最深远的科技行业并购案，价值也可能创下历史新高。英特尔曾是全球市值 ...查看全文",
+          "link": "https://sspai.com/post/92468",
+          "publishedOn": "2024-09-23T00:58:00.000Z",
+          "wordCount": 734,
+          "title": "派早报：高通接触英特尔探讨收购意向",
+          "imageUrl": "https://cdnfile.sspai.com/9/23/2024/article/25905ed1-6e3b-2a13-c286-4d6ab3e0dfd6.png"
+        },
+        {
           "id": "https://sspai.com/post/92361",
           "author": "食肉库玛老师傅",
           "description": "这只不到 800 块的镜头就是新手摄影师极好的入门搭档。查看全文",
@@ -944,16 +994,6 @@
           "wordCount": 496,
           "title": "派早报：专家回应网号、网证热点问题",
           "imageUrl": "https://cdnfile.sspai.com/8/26/2024/article/5ca993f4-944f-96dd-e60a-e22fd65cf7c5.png"
-        },
-        {
-          "id": "https://sspai.com/post/91777",
-          "author": "少数派编辑部",
-          "description": "引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文",
-          "link": "https://sspai.com/post/91777",
-          "publishedOn": "2024-08-25T09:45:48.000Z",
-          "wordCount": 484,
-          "title": "一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队",
-          "imageUrl": "https://cdnfile.sspai.com/8/25/2024/article/a71ddbd9-1b28-1e33-747f-caba2e61f3f9.png"
         }
       ]
     },

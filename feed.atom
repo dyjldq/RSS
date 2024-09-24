@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T00:50:01.837Z</updated>
+    <updated>2024-09-24T00:49:34.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
+        <id>https://sspai.com/post/92490</id>
+        <link href="https://sspai.com/post/92490"/>
+        <updated>2024-09-23T10:06:26.000Z</updated>
+        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlackBerry 10 的最后时光与 RIM 的全面转向]]></title>
+        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-6</id>
+        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-6"/>
+        <updated>2024-09-23T09:34:05.000Z</updated>
+        <summary type="html"><![CDATA[最后的 Passport 和 Q20 出师不利，BlackBerry 作为一个品牌活了下来，但作为一个消费产品停留在了历史中。查看全文
+本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
+        <author>
+            <name>Kiririn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何获取美亚纸版书的 PDF：寄送扫描服务及手工优化记录]]></title>
+        <id>https://sspai.com/post/92306</id>
+        <link href="https://sspai.com/post/92306"/>
+        <updated>2024-09-23T03:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文]]></summary>
+        <author>
+            <name>PlatyHsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具透 | 这或许才是完全体，visionOS 2 中值得你关注的新功能]]></title>
+        <id>https://sspai.com/post/91866</id>
+        <link href="https://sspai.com/post/91866"/>
+        <updated>2024-09-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[visionOS 2 的表现更像是 visionOS 1 的完全体，在优化细节的同时还引入了这些新功能。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：高通接触英特尔探讨收购意向]]></title>
+        <id>https://sspai.com/post/92468</id>
+        <link href="https://sspai.com/post/92468"/>
+        <updated>2024-09-23T00:58:00.000Z</updated>
+        <summary type="html"><![CDATA[你可能错过的新鲜事高通接触英特尔探讨收购意向据《华尔街日报》报道，高通近期接洽英特尔，提议收购。若交易达成，将成为近年来规模最大、影响最深远的科技行业并购案，价值也可能创下历史新高。英特尔曾是全球市值 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全能又有性价比：唯卓仕索尼 E 口 40 f/2.5 镜头体验]]></title>
         <id>https://sspai.com/post/92361</id>
@@ -2000,16 +2051,6 @@ xx教你会说话、会办事、办成事
 👉https://www.ahhhhfs.com/61802/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场高中生唱主角的黑客松：访谈 AdventureX 核心团队及优秀作品团队]]></title>
-        <id>https://sspai.com/post/91777</id>
-        <link href="https://sspai.com/post/91777"/>
-        <updated>2024-08-25T09:45:48.000Z</updated>
-        <summary type="html"><![CDATA[引言今年五月时，少数派播客曾经访谈过一群特别的高中生，和他们聊了聊在即将到来的夏天中的一场「大策划」——办一场全球性的「黑客松」。Audio访谈中，主创成员之一Ryan告诉我们，AdventureX从 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
