@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T00:49:34.962Z</updated>
+    <updated>2024-09-25T00:50:26.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[派早报：iQOO Z9 Turbo+、华为 WATCH GT 5 系列发布等]]></title>
+        <id>https://sspai.com/post/92527</id>
+        <link href="https://sspai.com/post/92527"/>
+        <updated>2024-09-24T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[字节跳动发布豆包视频生成大模型，育碧取消 2024 东京电玩展直播节目等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[社区速递 062 | 你没见过的社区文章、一周最热评、派友给大学新生的贴士]]></title>
+        <id>https://sspai.com/post/92508</id>
+        <link href="https://sspai.com/post/92508"/>
+        <updated>2024-09-24T09:02:52.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写在闲鱼收取普遍服务费后，闲置交易平台的用户体验变化了吗？]]></title>
+        <id>https://sspai.com/post/92423</id>
+        <link href="https://sspai.com/post/92423"/>
+        <updated>2024-09-24T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[闲鱼经过多年的运营和进化，已经从一个二手交易为主的个人交易平台，发展成了一个宏观价格低、开店成本低、有稳定客群和流量，即有社区化内容，又有交易氛围的综合交易平台，并且是这一领域独占鳌头的存在，依靠着阿 ...查看全文]]></summary>
+        <author>
+            <name>老木曾雪菜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[采访 | 好用不伤手的秘密！我们和 Slice CEO 聊了聊]]></title>
+        <id>https://sspai.com/post/92489</id>
+        <link href="https://sspai.com/post/92489"/>
+        <updated>2024-09-24T06:59:45.000Z</updated>
+        <summary type="html"><![CDATA[少数派采访到了 Slice 创始人兼首席执行官 TJ Scimone 先生，一起聊聊简单产品背后的伟大故事。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑日语输入简明指南]]></title>
+        <id>https://sspai.com/post/92346</id>
+        <link href="https://sspai.com/post/92346"/>
+        <updated>2024-09-24T03:30:03.000Z</updated>
+        <summary type="html"><![CDATA[衷心希望这篇文章能够帮到有在电脑上输入日语需求的用户，也欢迎比我更有经验的人来贡献更加准确可信或是更具实用价值的相关内容。查看全文]]></summary>
+        <author>
+            <name>WangMT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派早报：微软弃用 WSUS 更新服务，工信部调整汽车制动系统国标意见等]]></title>
+        <id>https://sspai.com/post/92498</id>
+        <link href="https://sspai.com/post/92498"/>
+        <updated>2024-09-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Steam 在线人数 3836 万人再创新高，三星宣布最快 PCIe 5.0 SSD 量产等。查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
         <id>https://sspai.com/post/92490</id>
@@ -1918,57 +1978,6 @@ xx教你会说话、会办事、办成事
         <link href="https://sspai.com/post/91816"/>
         <updated>2024-08-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[IBM 中国撤出所有研发工作，上海电信出现宽带网络故障等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/91806</id>
-        <link href="https://sspai.com/post/91806"/>
-        <updated>2024-08-26T09:58:04.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torch 和 PlayBook：黑莓追赶多点触控的两次尴尬尝试]]></title>
-        <id>https://sspai.com/prime/story/vintage-tech-stories-blackberry-5</id>
-        <link href="https://sspai.com/prime/story/vintage-tech-stories-blackberry-5"/>
-        <updated>2024-08-26T09:50:52.000Z</updated>
-        <summary type="html"><![CDATA[从 2010 年开始，RIM 已经将 Apple 列为了头号敌人，他们需要全面对标的产品，用传统的精英形象对抗新潮的别致优雅。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>Kiririn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重塑旅行体验：Exping 城市路线探索的幕后故事]]></title>
-        <id>https://sspai.com/post/91416</id>
-        <link href="https://sspai.com/post/91416"/>
-        <updated>2024-08-26T06:50:38.000Z</updated>
-        <summary type="html"><![CDATA[路线是exping最受欢迎的功能之一。当你在AppStore搜索「路线」时，exping会是最常出现的的身影。在最近的更新中，exping为交通路线注入了前所未有的细腻度。交通路线有了更多的细节，用户 ...查看全文]]></summary>
-        <author>
-            <name>一只兔子先生</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game+1 | 希望永无二周目：把流氓软件做成游戏是什么体验？]]></title>
-        <id>https://sspai.com/post/91347</id>
-        <link href="https://sspai.com/post/91347"/>
-        <updated>2024-08-26T03:32:17.000Z</updated>
-        <summary type="html"><![CDATA[当安装捆绑软件被做成了游戏，你能通关多少？查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：专家回应网号、网证热点问题]]></title>
-        <id>https://sspai.com/post/91788</id>
-        <link href="https://sspai.com/post/91788"/>
-        <updated>2024-08-26T01:02:51.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事专家回应网号、网证热点问题据新华社报道，近期，公安部、国家网信办等研究起草《国家网络身份认证公共服务管理办法（征求意见稿）》，向社会公开征求意见，引发广泛关注。新华社记者梳理当前公众 ...查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
