@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-25T00:50:26.758Z</updated>
+    <updated>2024-09-26T00:48:52.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为日常增添「幸福感」：他们分享了 6 个生活好物]]></title>
+        <id>https://sspai.com/post/92382</id>
+        <link href="https://sspai.com/post/92382"/>
+        <updated>2024-09-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[在日复一日的生活中，我们总需要有「幸福感」来让我们的每一天变得如此不同。如果要你说一个能够提升「幸福感」的物件，你会想到什么？是「颜值即正义」的钥匙扣，还是让生活更多彩的植物们，亦或是那些让工作效率倍 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线下活动：感知色彩与材质世界 | CMF 设计探索工坊及 Nothing 产品交流会]]></title>
+        <id>https://sspai.com/post/92530</id>
+        <link href="https://sspai.com/post/92530"/>
+        <updated>2024-09-25T07:35:03.000Z</updated>
+        <summary type="html"><![CDATA[我们邀请到 Nothing Technology 中国区 CMF 设计负责人 Jenny，在我派线下空间和大家一起聊聊。查看全文]]></summary>
+        <author>
+            <name>吃派的水獭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接纳不等于忍受，这是我的 Windows 11 设置思路]]></title>
+        <id>https://sspai.com/post/92064</id>
+        <link href="https://sspai.com/post/92064"/>
+        <updated>2024-09-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 适合大多数普通用户，即便个人需求不同，也可以在此基础上进一步调整。查看全文]]></summary>
+        <author>
+            <name>Chryz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 用 Tasker 切换三星「即圈即搜」搜索源]]></title>
+        <id>https://sspai.com/post/92193</id>
+        <link href="https://sspai.com/post/92193"/>
+        <updated>2024-09-25T03:59:07.000Z</updated>
+        <summary type="html"><![CDATA[百度还是 Google？你说了算。查看全文]]></summary>
+        <author>
+            <name>Fairyex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派早报：iQOO Z9 Turbo+、华为 WATCH GT 5 系列发布等]]></title>
         <id>https://sspai.com/post/92527</id>
@@ -1938,46 +1978,6 @@ xx教你会说话、会办事、办成事
         <link href="https://sspai.com/post/91840"/>
         <updated>2024-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[索尼推出入门级真无线耳机 WF-C510，Google 将限制部分用户访问 AI 功能等。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区速递 059 | 你没见过的社区文章、一周最热评、派友的黑神话体验]]></title>
-        <id>https://sspai.com/post/91831</id>
-        <link href="https://sspai.com/post/91831"/>
-        <updated>2024-08-27T08:58:15.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和控制面板说再见：Windows 系统设置的迁移之路]]></title>
-        <id>https://sspai.com/post/88491</id>
-        <link href="https://sspai.com/post/88491"/>
-        <updated>2024-08-27T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[尽管「设置」应用并非完美，但与两套「设置」共存的局面相比，合二为一到「设置」应用的选择也容易让人接受。查看全文]]></summary>
-        <author>
-            <name>SUNTRISE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 用你可能也想要的细节，做一款更现代的倒数日应用：Pinning]]></title>
-        <id>https://sspai.com/post/91599</id>
-        <link href="https://sspai.com/post/91599"/>
-        <updated>2024-08-27T03:03:59.000Z</updated>
-        <summary type="html"><![CDATA[Pinning 现在的形式是我最初未预想到的——它没有任何一个功能是特别的，但所有的功能和设计聚合在一起，它就是独一无二的。查看全文]]></summary>
-        <author>
-            <name>francisfeng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：国内无线充电新规即将施行，奇安信公布 Steam 被攻击细节等]]></title>
-        <id>https://sspai.com/post/91816</id>
-        <link href="https://sspai.com/post/91816"/>
-        <updated>2024-08-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IBM 中国撤出所有研发工作，上海电信出现宽带网络故障等查看全文]]></summary>
         <author>
             <name>少数派编辑部</name>
         </author>
