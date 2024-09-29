@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T00:48:46.737Z</updated>
+    <updated>2024-09-29T00:54:14.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一日一技｜为升级到 DSM 7.2.2 的群晖装回 Video Station 套件]]></title>
+        <id>https://sspai.com/post/92455</id>
+        <link href="https://sspai.com/post/92455"/>
+        <updated>2024-09-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[把简单易用的 Video Station 在 DSM 7.2.2 救回来！查看全文]]></summary>
+        <author>
+            <name>化学心情下2</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本周看什么 | 最近值得一看的 10 部作品]]></title>
         <id>https://sspai.com/post/92597</id>
@@ -1962,46 +1972,6 @@ xx教你会说话、会办事、办成事
         <summary type="html"><![CDATA[来看看少数派用户们对特洛克积木插座 Pixel 65 天马行空的创想。查看全文]]></summary>
         <author>
             <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 8 部作品]]></title>
-        <id>https://sspai.com/post/91920</id>
-        <link href="https://sspai.com/post/91920"/>
-        <updated>2024-08-30T09:28:40.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[电影]姥姥的外孙、[美剧]大楼里只有谋杀第四季、[美剧]投行风云第三季、[美剧]维京传奇：英灵神殿第三季/最终季、[韩剧]法官大人、[日剧]量产型璃子-最后的模型女子的人 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App+1 | 捏个朋友一起专注，主打陪伴的番茄钟：gogh]]></title>
-        <id>https://sspai.com/post/91696</id>
-        <link href="https://sspai.com/post/91696"/>
-        <updated>2024-08-30T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[捏个朋友和你一起专心工作，会不会更专注一点点？查看全文]]></summary>
-        <author>
-            <name>Kiririn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给人生经历加点料：打工人的低成本留学之旅]]></title>
-        <id>https://sspai.com/post/91741</id>
-        <link href="https://sspai.com/post/91741"/>
-        <updated>2024-08-30T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[欣然选择了出国留学两年，从一眼望得到头的人生轨迹去到了一个又有许多不确定的事情且充满未知的人生道路。查看全文]]></summary>
-        <author>
-            <name>Junio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Telegram CEO 获得保释，加州通过 AI 安全法案]]></title>
-        <id>https://sspai.com/post/91907</id>
-        <link href="https://sspai.com/post/91907"/>
-        <updated>2024-08-30T00:03:03.000Z</updated>
-        <summary type="html"><![CDATA[任天堂宣布停止 New 3DS 的维修服务，Apple 支持导出 Apple Music 播放列表查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
