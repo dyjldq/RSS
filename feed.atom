@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T00:54:57.175Z</updated>
+    <updated>2024-10-02T00:49:21.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥]]></title>
+        <id>https://sspai.com/post/92669</id>
+        <link href="https://sspai.com/post/92669"/>
+        <updated>2024-10-01T08:11:25.000Z</updated>
+        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文]]></summary>
+        <author>
+            <name>Matrix机器人</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入 iPhone 16 Plus：距离完美的最后一步]]></title>
         <id>https://sspai.com/post/92648</id>
@@ -1851,16 +1861,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[派评 | 近期值得关注的 App]]></title>
-        <id>https://sspai.com/post/91972</id>
-        <link href="https://sspai.com/post/91972"/>
-        <updated>2024-09-02T10:06:11.000Z</updated>
-        <summary type="html"><![CDATA[欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的App或者关注的话题，也欢迎在评论区和我们进行讨论。值得关注的新App虽然少数派一直在为大家发现和介绍各平台上的 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本地无损视频压缩工具：tools cosrod 👉https://www.ahhhhfs.com/62061/]]></title>
         <id>https://twitter.com/abskoop/status/1830527988003405999</id>
         <link href="https://x.com/abskoop/status/1830527988003405999"/>
@@ -1872,16 +1872,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我怎样搭建舒适的写作环境]]></title>
-        <id>https://sspai.com/post/91791</id>
-        <link href="https://sspai.com/post/91791"/>
-        <updated>2024-09-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本文中，我想向你介绍一下我最近为了改善写作体验而作出的努力。查看全文]]></summary>
-        <author>
-            <name>Nightcanoe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某AI大模型课程 👉https://www.ahhhhfs.com/62118/]]></title>
         <id>https://twitter.com/abskoop/status/1830493432932192262</id>
         <link href="https://x.com/abskoop/status/1830493432932192262"/>
@@ -1890,26 +1880,6 @@
 👉https://www.ahhhhfs.com/62118/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[少数派线下 | Apple「高光时刻」即将到来，欢迎你来和我们一起看]]></title>
-        <id>https://sspai.com/post/91958</id>
-        <link href="https://sspai.com/post/91958"/>
-        <updated>2024-09-02T03:43:24.000Z</updated>
-        <summary type="html"><![CDATA[北京时间9月10日凌晨，Apple一年一度的秋季特别活动将正式拉开帷幕，我们将在Keynote讲演环节中见到新一年度的iPhone、AppleWatch等多个新品。今年不仅有AppleIntellig ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：市场监管总局督导阿里完成三年整改]]></title>
-        <id>https://sspai.com/post/91952</id>
-        <link href="https://sspai.com/post/91952"/>
-        <updated>2024-09-02T00:55:30.000Z</updated>
-        <summary type="html"><![CDATA[你可能错过的新鲜事市场监管总局督导阿里完成三年整改据澎湃新闻报道，8月30日，市场监管总局表示已完成督导阿里巴巴集团三年整改。市场监管总局称，2021年4月，其依法对阿里巴巴集团在中国境内网络零售平台 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
