@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T00:49:21.244Z</updated>
+    <updated>2024-10-03T00:49:18.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小长假不片荒，精选好剧助你刷够 7 天乐]]></title>
+        <id>https://sspai.com/post/92632</id>
+        <link href="https://sspai.com/post/92632"/>
+        <updated>2024-10-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如果这个国庆假期你没有出行计划，不妨和家人朋友一起追追那些错过的好剧。我们准备了粤语童年经典、老少咸宜的家庭剧、悬疑寻宝剧、诈骗智斗剧，以及有知识也有故事的纪录片、真人秀作品，希望能伴你度过一段假期愉 ...查看全文]]></summary>
+        <author>
+            <name>少数派编辑部</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社区速递 063 | 你没见过的社区文章、一周最热评、派友八月买的啥]]></title>
         <id>https://sspai.com/post/92669</id>
@@ -1706,16 +1716,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[社区速递 060 | 你没见过的社区文章、一周最热评、中秋国庆去哪玩]]></title>
-        <id>https://sspai.com/post/91985</id>
-        <link href="https://sspai.com/post/91985"/>
-        <updated>2024-09-03T09:06:49.000Z</updated>
-        <summary type="html"><![CDATA[除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。🔥一周热评来 ...查看全文]]></summary>
-        <author>
-            <name>Matrix机器人</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开源在线签名工具：Signature animation 输入名字自动动画生成签名 👉https://www.ahhhhfs.com/62126/]]></title>
         <id>https://twitter.com/abskoop/status/1830889720152199578</id>
         <link href="https://x.com/abskoop/status/1830889720152199578"/>
@@ -1728,26 +1728,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple 发布会前瞻：屏幕更大、AI 更强，除了 iPhone 还有哪些看点？]]></title>
-        <id>https://sspai.com/post/91989</id>
-        <link href="https://sspai.com/post/91989"/>
-        <updated>2024-09-03T07:31:51.000Z</updated>
-        <summary type="html"><![CDATA[根据最近一段时间国内外的各种爆料，我整理了传闻中发布会上可能会出现的新产品和新特性，带大家一起看看今年可能会有哪些亮点。查看全文]]></summary>
-        <author>
-            <name>Vanilla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线下活动：漫谈人工智能 | 在情绪潮水消退后，回顾 AI 的本质]]></title>
-        <id>https://sspai.com/post/91983</id>
-        <link href="https://sspai.com/post/91983"/>
-        <updated>2024-09-03T06:37:39.000Z</updated>
-        <summary type="html"><![CDATA[各位少数派的读者们，大家好，为了创造更多和大家面对面交流的机会，少数派门店计划从7月开始每月组织至少一次的线下活动。前三期，从音乐品析、手工花艺，再到游戏研讨，我们无所不谈。一起度过了几个放松、愉快又 ...查看全文]]></summary>
-        <author>
-            <name>吃派的水獭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某淘系高阶运营手册 从选品开始，完整做店技巧 👉https://www.ahhhhfs.com/62149/]]></title>
         <id>https://twitter.com/abskoop/status/1830855998476869979</id>
         <link href="https://x.com/abskoop/status/1830855998476869979"/>
@@ -1757,26 +1737,6 @@
 👉https://www.ahhhhfs.com/62149/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市漫步指南：和中日作家们一起，来一趟日本推理圣地巡礼]]></title>
-        <id>https://sspai.com/post/89572</id>
-        <link href="https://sspai.com/post/89572"/>
-        <updated>2024-09-03T03:36:08.000Z</updated>
-        <summary type="html"><![CDATA[编注：我们启动了「FUN开玩」户外生活专题，欢迎大家前来分享与之有关的旅行、露营、徒步乃至摄影和户外好物等内容，大家可以带上「FUN开玩」标签投稿相关文章，除了稿酬可拿，我们还会提供神秘惊喜。与此同时 ...查看全文]]></summary>
-        <author>
-            <name>Sholmes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：高通发布骁龙 6 Gen 3，法院驳回滥用七天无理由男子主张权益等]]></title>
-        <id>https://sspai.com/post/91978</id>
-        <link href="https://sspai.com/post/91978"/>
-        <updated>2024-09-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韩国警方对 Telegram 实施立案前调查微软声明，Windows 11 新功能 Recall 不可卸载等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
