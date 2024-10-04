@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/92219",
+          "author": "王隐",
+          "description": "布兰奇这样的计算士们，她们的历史地位其实非常尴尬，她们见证了人工计算的辉煌时期，让世人认识到计算的伟大与重要性。然而，随着计算机的迅速发展，她们似乎即将退出历史舞台。但实际上，正是因为她们将计算推向了极限，才让世界意识到「更强大算力及设备必须要出现」。查看全文",
+          "link": "https://sspai.com/post/92219",
+          "publishedOn": "2024-10-03T03:00:00.000Z",
+          "wordCount": 835,
+          "title": "当女孩成为武器：追忆被遗忘的战时人工算力",
+          "imageUrl": "https://cdnfile.sspai.com/2024/09/13/8424c1d5ee96ba616974541cdfd27502.png"
+        },
+        {
           "id": "https://sspai.com/post/92632",
           "author": "少数派编辑部",
           "description": "如果这个国庆假期你没有出行计划，不妨和家人朋友一起追追那些错过的好剧。我们准备了粤语童年经典、老少咸宜的家庭剧、悬疑寻宝剧、诈骗智斗剧，以及有知识也有故事的纪录片、真人秀作品，希望能伴你度过一段假期愉 ...查看全文",
@@ -934,56 +944,6 @@
           "wordCount": 516,
           "title": "派早报：英特尔发布酷睿 Ultra 200V 系列处理器、淘宝将接入微信支付等",
           "imageUrl": "https://cdnfile.sspai.com/05/09/2024/article/59a1ad94-249a-68c4-bab3-81d84ea27773.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91846",
-          "author": "YellowColr",
-          "description": "在第十代 Apple Watch 到来前，我们聊聊它前四代的故事。查看全文",
-          "link": "https://sspai.com/post/91846",
-          "publishedOn": "2024-09-04T09:30:00.000Z",
-          "wordCount": 842,
-          "title": "Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」",
-          "imageUrl": "https://cdnfile.sspai.com/2024/08/28/1909c95f91620dc83d92f8fb1c95a74c.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91979",
-          "author": "ElijahLee",
-          "description": "古典风格搭配科技智能化居住体验，我终于住进了喜欢的家。查看全文",
-          "link": "https://sspai.com/post/91979",
-          "publishedOn": "2024-09-04T07:21:27.000Z",
-          "wordCount": 404,
-          "title": "仅靠软装，我打造了一个「轻度极繁主义」的家",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/4/article/37291e38-0f6f-eede-312b-87f43ba28ef4.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91725",
-          "author": "蔡菜寀",
-          "description": "编注：说到音乐、音频，我们一直倡导「真声音，还得自己听」，因此除了以文章和视频介绍，我们也一直在思考如何让更多人能真正听得到更有品质的声音。现在我们终于迈出了一小步，联合我派的老朋友飞傲，陆续邀请了我 ...查看全文",
-          "link": "https://sspai.com/post/91725",
-          "publishedOn": "2024-09-04T03:00:00.000Z",
-          "wordCount": 358,
-          "title": "在无线入耳时代上手一副有线平头耳塞",
-          "imageUrl": "https://cdnfile.sspai.com/2024/08/23/34e893dd50019fabfd4cb308ff8a9c2a.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/92005",
-          "author": "少数派编辑部",
-          "description": "淘宝将减免卖家直播软件服务费 1 年，《星鸣特攻》宣布下线并停止销售。查看全文",
-          "link": "https://sspai.com/post/92005",
-          "publishedOn": "2024-09-04T00:00:00.000Z",
-          "wordCount": 455,
-          "title": "派早报：真我 13 Pro、Beoplay H100 头戴式耳机等新品发布",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/4/article/34c817e7-b397-4fd2-fcf1-a1c74ea3e07c.jpeg"
-        },
-        {
-          "id": "https://sspai.com/prime/story/hdr-photo-issues",
-          "author": "广陵止息",
-          "description": "聊聊 HDR 照片显示要克服的这些「重重障碍」，以及苹果是如何通过软硬件功能试图克服这些障碍的。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/hdr-photo-issues",
-          "publishedOn": "2024-09-03T13:12:30.000Z",
-          "wordCount": 324,
-          "title": "正确显示 HDR 照片，怎么就这么难？",
-          "imageUrl": "https://cdnfile.sspai.com/9/3/2024/article/90080ae2-bc46-7710-a2c8-691c421a2e38.jpeg"
         }
       ]
     },

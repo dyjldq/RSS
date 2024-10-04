@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T00:49:18.713Z</updated>
+    <updated>2024-10-04T00:49:30.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[当女孩成为武器：追忆被遗忘的战时人工算力]]></title>
+        <id>https://sspai.com/post/92219</id>
+        <link href="https://sspai.com/post/92219"/>
+        <updated>2024-10-03T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[布兰奇这样的计算士们，她们的历史地位其实非常尴尬，她们见证了人工计算的辉煌时期，让世人认识到计算的伟大与重要性。然而，随着计算机的迅速发展，她们似乎即将退出历史舞台。但实际上，正是因为她们将计算推向了极限，才让世界意识到「更强大算力及设备必须要出现」。查看全文]]></summary>
+        <author>
+            <name>王隐</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小长假不片荒，精选好剧助你刷够 7 天乐]]></title>
         <id>https://sspai.com/post/92632</id>
@@ -1574,16 +1584,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Watch 的十年一剑（上）：从跨界新秀到可穿戴「大腕」]]></title>
-        <id>https://sspai.com/post/91846</id>
-        <link href="https://sspai.com/post/91846"/>
-        <updated>2024-09-04T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[在第十代 Apple Watch 到来前，我们聊聊它前四代的故事。查看全文]]></summary>
-        <author>
-            <name>YellowColr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI 动画图片生成器：AnimeGen 基于 Flux 根据提供的文本提示生成动漫风格图片 👉https://www.ahhhhfs.com/62199/]]></title>
         <id>https://twitter.com/abskoop/status/1831248585536737591</id>
         <link href="https://x.com/abskoop/status/1831248585536737591"/>
@@ -1596,16 +1596,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[仅靠软装，我打造了一个「轻度极繁主义」的家]]></title>
-        <id>https://sspai.com/post/91979</id>
-        <link href="https://sspai.com/post/91979"/>
-        <updated>2024-09-04T07:21:27.000Z</updated>
-        <summary type="html"><![CDATA[古典风格搭配科技智能化居住体验，我终于住进了喜欢的家。查看全文]]></summary>
-        <author>
-            <name>ElijahLee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[某本地生活团购达人课程 👉https://www.ahhhhfs.com/62191/]]></title>
         <id>https://twitter.com/abskoop/status/1831218135069778330</id>
         <link href="https://x.com/abskoop/status/1831218135069778330"/>
@@ -1614,26 +1604,6 @@
 👉https://www.ahhhhfs.com/62191/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在无线入耳时代上手一副有线平头耳塞]]></title>
-        <id>https://sspai.com/post/91725</id>
-        <link href="https://sspai.com/post/91725"/>
-        <updated>2024-09-04T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[编注：说到音乐、音频，我们一直倡导「真声音，还得自己听」，因此除了以文章和视频介绍，我们也一直在思考如何让更多人能真正听得到更有品质的声音。现在我们终于迈出了一小步，联合我派的老朋友飞傲，陆续邀请了我 ...查看全文]]></summary>
-        <author>
-            <name>蔡菜寀</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：真我 13 Pro、Beoplay H100 头戴式耳机等新品发布]]></title>
-        <id>https://sspai.com/post/92005</id>
-        <link href="https://sspai.com/post/92005"/>
-        <updated>2024-09-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[淘宝将减免卖家直播软件服务费 1 年，《星鸣特攻》宣布下线并停止销售。查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
@@ -1678,17 +1648,6 @@
 👉https://www.ahhhhfs.com/62182/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正确显示 HDR 照片，怎么就这么难？]]></title>
-        <id>https://sspai.com/prime/story/hdr-photo-issues</id>
-        <link href="https://sspai.com/prime/story/hdr-photo-issues"/>
-        <updated>2024-09-03T13:12:30.000Z</updated>
-        <summary type="html"><![CDATA[聊聊 HDR 照片显示要克服的这些「重重障碍」，以及苹果是如何通过软硬件功能试图克服这些障碍的。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>广陵止息</name>
         </author>
     </entry>
     <entry>
