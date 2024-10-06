@@ -6,6 +6,26 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/90963",
+          "author": "AlexTheNomad",
+          "description": "正如标题所言，读书之「道」，这篇文章就聊点「形而上」的东西，结合这些年我读书生活产生的经验感悟，说说我对读书这件事的认识，以及人和书之间的相互关系。查看全文",
+          "link": "https://sspai.com/post/90963",
+          "publishedOn": "2024-10-05T07:00:00.000Z",
+          "wordCount": 607,
+          "title": "重新认识读书这件小事：谈我的「读书之道」",
+          "imageUrl": "https://cdnfile.sspai.com/2024/07/29/f41c4f727f51a2026db230acf3fdccef.png"
+        },
+        {
+          "id": "https://sspai.com/post/92610",
+          "author": "海拉鲁",
+          "description": "借助 iOS 的原生功能，结合当今蓬勃发展的大语言模型技术，打造一个更加智能、高效的闪念捕捉系统。这个系统不仅能满足快速记录的需求，还能进一步提升内容的质量和可用性。查看全文",
+          "link": "https://sspai.com/post/92610",
+          "publishedOn": "2024-10-05T05:33:08.000Z",
+          "wordCount": 664,
+          "title": "一日一技 | 用 iOS 快捷指令和 AI，DIY 一个更好用的「闪念笔记」",
+          "imageUrl": "https://cdnfile.sspai.com/2024/09/28/a42e478b7daa8320032a608bc43a048c.png"
+        },
+        {
           "id": "https://sspai.com/post/92219",
           "author": "王隐",
           "description": "布兰奇这样的计算士们，她们的历史地位其实非常尴尬，她们见证了人工计算的辉煌时期，让世人认识到计算的伟大与重要性。然而，随着计算机的迅速发展，她们似乎即将退出历史舞台。但实际上，正是因为她们将计算推向了极限，才让世界意识到「更强大算力及设备必须要出现」。查看全文",
@@ -834,66 +854,6 @@
           "wordCount": 247,
           "title": "《黑神话：悟空》欢乐圆桌：聊聊游戏内外的趣事儿",
           "imageUrl": "https://cdnfile.sspai.com/06/09/2024/article/9f1b93e3-c146-3bae-da58-86054891fb0b.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/92082",
-          "author": "少数派编辑部",
-          "description": "☕️TL;DR近期佳作推荐：[英剧]流人第四季、[美剧]弹子球游戏第二季、[日剧]ÀTable！～怀旧的假日～、[印度]科塔工厂第三季、[电影]过季、[动画]义妹生活、[真人秀]妈妈，要和我单独去旅行 ...查看全文",
-          "link": "https://sspai.com/post/92082",
-          "publishedOn": "2024-09-06T09:51:33.000Z",
-          "wordCount": 560,
-          "title": "本周看什么 | 最近值得一看的 7 部作品",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/6/article/3ba4be23-ac68-0422-5c82-27d7ab6ee310.png"
-        },
-        {
-          "id": "https://sspai.com/prime/story/air-fryer-recipes",
-          "author": "潘誉晗",
-          "description": "一起试试，熟练之后，你也会开始好奇，空气炸锅之前是怎么闲置到在角落落灰的。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "link": "https://sspai.com/prime/story/air-fryer-recipes",
-          "publishedOn": "2024-09-06T09:18:43.000Z",
-          "wordCount": 607,
-          "title": "「空气炸锅真是伟大的发明」",
-          "imageUrl": "https://cdnfile.sspai.com/9/6/2024/article/7d9ede2a-bd72-5caf-920c-f3ef09a1e9fd.png"
-        },
-        {
-          "id": "https://sspai.com/post/92069",
-          "author": "福利派",
-          "description": "「你已经是个成熟的笔记本了，应该学会自己整理笔记自己复习了。」如果正在读书的你，也曾有过这样的「梦想」，MarginNote能在很大程度上满足你。传统的PDF阅读器和笔记软件，可以通过下划线、高亮、批 ...查看全文",
-          "link": "https://sspai.com/post/92069",
-          "publishedOn": "2024-09-06T07:00:00.000Z",
-          "wordCount": 456,
-          "title": "开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/6/article/8810b0c4-7b0f-a760-1052-f3a41901f8ed.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/91922",
-          "author": "waychane",
-          "description": "智能家居一直是少数派上热度颇高的话题，其中AppleHome又以简洁易用的交互界面、协同一致的生态体验，获得了不少拥趸。众所周知，要想实现随时在线、随处可控的AppleHome智能化体验，家中就得有一 ...查看全文",
-          "link": "https://sspai.com/post/91922",
-          "publishedOn": "2024-09-06T06:35:49.000Z",
-          "wordCount": 829,
-          "title": "让家的智能符合期待，他们选择了 Apple Home",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/6/article/642a6260-41c7-96cc-e22b-3e2184d24bd1.png"
-        },
-        {
-          "id": "https://sspai.com/post/92054",
-          "author": "少数派编辑部",
-          "description": "日历翻到九月，也就意味着这一年进入了最后三分之一。2024年，我们依然处在巨大的不确定性中。或许你还是一名「学生党」，正在探索自己的学业和职业规划，以及如何将自己的小积蓄用得更有意义；又或许你已经是一 ...查看全文",
-          "link": "https://sspai.com/post/92054",
-          "publishedOn": "2024-09-06T03:30:35.000Z",
-          "wordCount": 252,
-          "title": "生活处处是投资，这档节目教你让钱包和生活都变得确定",
-          "imageUrl": "https://cdnfile.sspai.com/9/5/2024/article/3a7aa3d6-a6d2-eac6-10bb-6bdadfc9a6ab.png"
-        },
-        {
-          "id": "https://sspai.com/post/92062",
-          "author": "少数派编辑部",
-          "description": "蓝牙技术联盟发布蓝牙 6.0 核心规范，华硕推出 NUC 14 Pro AI 迷你 PC 等查看全文",
-          "link": "https://sspai.com/post/92062",
-          "publishedOn": "2024-09-06T00:03:36.000Z",
-          "wordCount": 588,
-          "title": "派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等",
-          "imageUrl": "https://cdnfile.sspai.com/9/6/2024/article/f150f890-e551-6ae2-5487-5c86103b7ee7.png"
         }
       ]
     },

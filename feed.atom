@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T00:48:34.437Z</updated>
+    <updated>2024-10-06T00:53:51.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[重新认识读书这件小事：谈我的「读书之道」]]></title>
+        <id>https://sspai.com/post/90963</id>
+        <link href="https://sspai.com/post/90963"/>
+        <updated>2024-10-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[正如标题所言，读书之「道」，这篇文章就聊点「形而上」的东西，结合这些年我读书生活产生的经验感悟，说说我对读书这件事的认识，以及人和书之间的相互关系。查看全文]]></summary>
+        <author>
+            <name>AlexTheNomad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一日一技 | 用 iOS 快捷指令和 AI，DIY 一个更好用的「闪念笔记」]]></title>
+        <id>https://sspai.com/post/92610</id>
+        <link href="https://sspai.com/post/92610"/>
+        <updated>2024-10-05T05:33:08.000Z</updated>
+        <summary type="html"><![CDATA[借助 iOS 的原生功能，结合当今蓬勃发展的大语言模型技术，打造一个更加智能、高效的闪念捕捉系统。这个系统不仅能满足快速记录的需求，还能进一步提升内容的质量和可用性。查看全文]]></summary>
+        <author>
+            <name>海拉鲁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当女孩成为武器：追忆被遗忘的战时人工算力]]></title>
         <id>https://sspai.com/post/92219</id>
@@ -1370,27 +1390,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周看什么 | 最近值得一看的 7 部作品]]></title>
-        <id>https://sspai.com/post/92082</id>
-        <link href="https://sspai.com/post/92082"/>
-        <updated>2024-09-06T09:51:33.000Z</updated>
-        <summary type="html"><![CDATA[☕️TL;DR近期佳作推荐：[英剧]流人第四季、[美剧]弹子球游戏第二季、[日剧]ÀTable！～怀旧的假日～、[印度]科塔工厂第三季、[电影]过季、[动画]义妹生活、[真人秀]妈妈，要和我单独去旅行 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「空气炸锅真是伟大的发明」]]></title>
-        <id>https://sspai.com/prime/story/air-fryer-recipes</id>
-        <link href="https://sspai.com/prime/story/air-fryer-recipes"/>
-        <updated>2024-09-06T09:18:43.000Z</updated>
-        <summary type="html"><![CDATA[一起试试，熟练之后，你也会开始好奇，空气炸锅之前是怎么闲置到在角落落灰的。查看全文
-本文为会员文章，出自《单篇文章》，订阅后可阅读全文。]]></summary>
-        <author>
-            <name>潘誉晗</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无需安装flash游戏即可游玩的小游戏站点：oldswf 目前收录50000+款各种类型的flash小游戏 手机支持虚拟键盘，在线即可玩 👉https://www.ahhhhfs.com/62253/]]></title>
         <id>https://twitter.com/abskoop/status/1831982672572514393</id>
         <link href="https://x.com/abskoop/status/1831982672572514393"/>
@@ -1401,46 +1400,6 @@
 👉https://www.ahhhhfs.com/62253/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开学季 | MarginNote 4 工具升值包限时上架优惠：你的高效学习利器]]></title>
-        <id>https://sspai.com/post/92069</id>
-        <link href="https://sspai.com/post/92069"/>
-        <updated>2024-09-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「你已经是个成熟的笔记本了，应该学会自己整理笔记自己复习了。」如果正在读书的你，也曾有过这样的「梦想」，MarginNote能在很大程度上满足你。传统的PDF阅读器和笔记软件，可以通过下划线、高亮、批 ...查看全文]]></summary>
-        <author>
-            <name>福利派</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让家的智能符合期待，他们选择了 Apple Home]]></title>
-        <id>https://sspai.com/post/91922</id>
-        <link href="https://sspai.com/post/91922"/>
-        <updated>2024-09-06T06:35:49.000Z</updated>
-        <summary type="html"><![CDATA[智能家居一直是少数派上热度颇高的话题，其中AppleHome又以简洁易用的交互界面、协同一致的生态体验，获得了不少拥趸。众所周知，要想实现随时在线、随处可控的AppleHome智能化体验，家中就得有一 ...查看全文]]></summary>
-        <author>
-            <name>waychane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活处处是投资，这档节目教你让钱包和生活都变得确定]]></title>
-        <id>https://sspai.com/post/92054</id>
-        <link href="https://sspai.com/post/92054"/>
-        <updated>2024-09-06T03:30:35.000Z</updated>
-        <summary type="html"><![CDATA[日历翻到九月，也就意味着这一年进入了最后三分之一。2024年，我们依然处在巨大的不确定性中。或许你还是一名「学生党」，正在探索自己的学业和职业规划，以及如何将自己的小积蓄用得更有意义；又或许你已经是一 ...查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派早报：Remarkable 发布 Paper Pro 墨水屏电子阅读器等]]></title>
-        <id>https://sspai.com/post/92062</id>
-        <link href="https://sspai.com/post/92062"/>
-        <updated>2024-09-06T00:03:36.000Z</updated>
-        <summary type="html"><![CDATA[蓝牙技术联盟发布蓝牙 6.0 核心规范，华硕推出 NUC 14 Pro AI 迷你 PC 等查看全文]]></summary>
-        <author>
-            <name>少数派编辑部</name>
         </author>
     </entry>
     <entry>
