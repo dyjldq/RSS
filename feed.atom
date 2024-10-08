@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dyjldq.github.io/RSS/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T00:51:42.250Z</updated>
+    <updated>2024-10-08T00:49:03.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://dyjldq.github.io/RSS/index.html"/>
     <link rel="self" href="https://dyjldq.github.io/RSS/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[善用 Logseq 复盘每周 DailyLog 笔记]]></title>
+        <id>https://sspai.com/post/92446</id>
+        <link href="https://sspai.com/post/92446"/>
+        <updated>2024-10-07T06:41:24.000Z</updated>
+        <summary type="html"><![CDATA[利用 Logseq 分类汇总每周的 DailyLog 笔记，使用「记忆卡片」功能复习知识点。查看全文]]></summary>
+        <author>
+            <name>小胡小胡0009</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱好的保鲜和培养：成年人也要好好活着]]></title>
         <id>https://sspai.com/post/90445</id>
@@ -1278,16 +1288,6 @@
 👉https://www.ahhhhfs.com/62299/]]></summary>
         <author>
             <name>ahhhhfs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贾想请继续：不带立场，感知风流]]></title>
-        <id>https://sspai.com/post/92085</id>
-        <link href="https://sspai.com/post/92085"/>
-        <updated>2024-09-08T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[贾樟柯导演通过近 30 年的社会观察，感受社会人文更迭，一直以来因其电影作品不带立场、不加评判、饱含温度的记叙视角讲述着社会阶层中毛细血管中的人物故事，而广受影迷和反思流青睐。本文通过回顾 1996-2024 年贾樟柯重要电影和文字作品，穿行于时代，重温影像和文字中的人文之光。查看全文]]></summary>
-        <author>
-            <name>feverlife</name>
         </author>
     </entry>
     <entry>

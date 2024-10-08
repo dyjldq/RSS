@@ -6,6 +6,16 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/92446",
+          "author": "小胡小胡0009",
+          "description": "利用 Logseq 分类汇总每周的 DailyLog 笔记，使用「记忆卡片」功能复习知识点。查看全文",
+          "link": "https://sspai.com/post/92446",
+          "publishedOn": "2024-10-07T06:41:24.000Z",
+          "wordCount": 785,
+          "title": "善用 Logseq 复盘每周 DailyLog 笔记",
+          "imageUrl": "https://cdnfile.sspai.com/2024/09/21/a6efc0268010a90159ad83c09c0f8e7b.JPG"
+        },
+        {
           "id": "https://sspai.com/post/90445",
           "author": "程天冲",
           "description": "不知道你有没有发现，步入成年，或者进入到工作岗位以后，自己的兴趣爱好就开始光速变得匮乏起来。曾经喜欢做的事情突然干不动了，找到让自己有动力研究的新兴趣难上加难，好不容易想要学习一个感兴趣的东西却总是三 ...查看全文",
@@ -844,16 +854,6 @@
           "wordCount": 472,
           "title": "你可能错过的新鲜事：阿里旗下平台将支持微信支付",
           "imageUrl": "https://cdnfile.sspai.com/9/9/2024/article/9fd354c3-e161-280a-f0e4-1bcd56a18285.png"
-        },
-        {
-          "id": "https://sspai.com/post/92085",
-          "author": "feverlife",
-          "description": "贾樟柯导演通过近 30 年的社会观察，感受社会人文更迭，一直以来因其电影作品不带立场、不加评判、饱含温度的记叙视角讲述着社会阶层中毛细血管中的人物故事，而广受影迷和反思流青睐。本文通过回顾 1996-2024 年贾樟柯重要电影和文字作品，穿行于时代，重温影像和文字中的人文之光。查看全文",
-          "link": "https://sspai.com/post/92085",
-          "publishedOn": "2024-09-08T03:00:00.000Z",
-          "wordCount": 299,
-          "title": "贾想请继续：不带立场，感知风流",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/6/article/d680d9a4-653d-976f-0f39-30faf928d213.jpeg"
         }
       ]
     },
