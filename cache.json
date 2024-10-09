@@ -6,6 +6,56 @@
       "siteUrl": "https://sspai.com",
       "articles": [
         {
+          "id": "https://sspai.com/post/92760",
+          "author": "少数派编辑部",
+          "description": "Apple 将于 2025 年 2 月举办 Swift 学生挑战赛，高通发布 Networking Pro A7 Elite 无线网络平台等。查看全文",
+          "link": "https://sspai.com/post/92760",
+          "publishedOn": "2024-10-08T23:30:00.000Z",
+          "wordCount": 762,
+          "title": "派早报：原生鸿蒙系统公测开启、Google 在反垄断诉讼中败诉等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/8/article/785546cd-3aff-66cc-dd99-76d7b5bacebc.png"
+        },
+        {
+          "id": "https://sspai.com/post/92452",
+          "author": "别为馒头",
+          "description": "2019 年 6 月 6 日，工信部发布 4 张 5G 牌照，标志 5G 商用的开始，中国进入 5G 时代。5G 真的有在改变我们的生活吗？查看全文",
+          "link": "https://sspai.com/post/92452",
+          "publishedOn": "2024-10-08T08:58:13.000Z",
+          "wordCount": 939,
+          "title": "5G 套餐如何做到「便宜大碗」？CPE、MiFi 和物联卡初探",
+          "imageUrl": "https://cdnfile.sspai.com/2024/09/21/731dd2f3be40140881091cbfa81d618e.png"
+        },
+        {
+          "id": "https://sspai.com/post/92657",
+          "author": "Kiririn",
+          "description": "你觉得时常不好用的自动纠错，其实已是进化很多代的产物。查看全文",
+          "link": "https://sspai.com/post/92657",
+          "publishedOn": "2024-10-08T07:00:00.000Z",
+          "wordCount": 906,
+          "title": "感谢捉虫：聊聊自动更正的前世今生",
+          "imageUrl": "https://cdnfile.sspai.com/2024/9/30/article/04ffaa56-d2a5-7343-f594-0726636b06ff.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/91848",
+          "author": "CG艺术实验室",
+          "description": "因此我使用 Mac 更多用来做一些轻度或中等的项目，期间总结了一些思路、实用技巧和工具，分享给你。查看全文",
+          "link": "https://sspai.com/post/91848",
+          "publishedOn": "2024-10-08T03:30:00.000Z",
+          "wordCount": 874,
+          "title": "从三维设计师入坑三年，我是这样使用 Mac 的",
+          "imageUrl": "https://cdnfile.sspai.com/2024/08/28/8bf7aad48a2edf374bbd44f192bf94fa.jpeg"
+        },
+        {
+          "id": "https://sspai.com/post/92738",
+          "author": "少数派编辑部",
+          "description": "微软将从 Microsoft 365 套件中移除 Microsoft Feed 服务，微软将停产 HoloLens 2 且无后续新品研发计划等查看全文",
+          "link": "https://sspai.com/post/92738",
+          "publishedOn": "2024-10-08T00:00:00.000Z",
+          "wordCount": 942,
+          "title": "派早报：育碧回应收购传闻、浏览器厂商要求欧盟限制 Edge 等",
+          "imageUrl": "https://cdnfile.sspai.com/2024/10/7/article/80031411-fb18-863a-5c81-0a76d22e1484.png"
+        },
+        {
           "id": "https://sspai.com/post/92446",
           "author": "小胡小胡0009",
           "description": "利用 Logseq 分类汇总每周的 DailyLog 笔记，使用「记忆卡片」功能复习知识点。查看全文",
@@ -814,46 +864,6 @@
           "wordCount": 728,
           "title": "新按钮、新配色，还有这些意外惊喜……Apple 发布会看点回顾",
           "imageUrl": "https://cdnfile.sspai.com/9/10/2024/article/9af4280c-06de-a435-0987-e1c7e51454ca.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/92152",
-          "author": "少数派编辑部",
-          "description": "欢迎收看本期《派评》。你可以通过文章目录快速跳转到你感兴趣的内容。如果发现了其它感兴趣的 App 或者关注的话题，也欢迎在评论区和我们进行讨论。查看全文",
-          "link": "https://sspai.com/post/92152",
-          "publishedOn": "2024-09-09T10:27:49.000Z",
-          "wordCount": 583,
-          "title": "派评 | 近期值得关注的 App",
-          "imageUrl": "https://cdnfile.sspai.com/2024/9/9/article/8dc3f4bf-7ec0-0337-4519-65c04c540199.jpeg"
-        },
-        {
-          "id": "https://sspai.com/post/92045",
-          "author": "少数派编辑部",
-          "description": "又是一年开学季，又是一年读书时。在本期的读书季文章汇总中，我们搜集和整理了过去约一年内少数派站内人气较高、较有代表性的读书主题文章，其中既包含经典的书单推荐，也囊括了读书工具、方法论以及作者们的个人思考。查看全文",
-          "link": "https://sspai.com/post/92045",
-          "publishedOn": "2024-09-09T07:00:00.000Z",
-          "wordCount": 318,
-          "title": "又逢开学季，又到读书时：这些文章帮你找好书、好读书",
-          "imageUrl": "https://cdnfile.sspai.com/06/09/2024/article/4f1dffe0-c86c-2387-324d-35113a10fba5.jpg"
-        },
-        {
-          "id": "https://sspai.com/post/91932",
-          "author": "so1ar",
-          "description": "用 Ansible 更系统地管理 Linux 各类配置文件。查看全文",
-          "link": "https://sspai.com/post/91932",
-          "publishedOn": "2024-09-09T03:31:49.000Z",
-          "wordCount": 1787,
-          "title": "使用 Ansible 管理 Linux 系统的配置文件",
-          "imageUrl": "https://cdnfile.sspai.com/2024/09/07/c10e9edde053d57d6bebe44e32a24171.png"
-        },
-        {
-          "id": "https://sspai.com/post/92137",
-          "author": "少数派编辑部",
-          "description": "你可能错过的新鲜事阿里旗下平台将支持微信支付据第一财经报道，9月5日，继在前一天宣布计划新增微信支付能力后，淘宝公告将在9月12日后逐步向所有淘宝天猫商家开通微信支付。对此，腾讯表示愿意合作，为消费者 ...查看全文",
-          "link": "https://sspai.com/post/92137",
-          "publishedOn": "2024-09-09T00:59:39.000Z",
-          "wordCount": 472,
-          "title": "你可能错过的新鲜事：阿里旗下平台将支持微信支付",
-          "imageUrl": "https://cdnfile.sspai.com/9/9/2024/article/9fd354c3-e161-280a-f0e4-1bcd56a18285.png"
         }
       ]
     },
